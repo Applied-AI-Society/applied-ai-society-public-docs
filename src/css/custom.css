@@ -1,0 +1,265 @@
+/**
+ * Applied AI Society Custom Theme
+ * Color palette derived from appliedaisociety.org
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Space+Grotesk:wght@300..700&display=swap');
+
+:root {
+  /* Primary Colors - Warm Orange/Amber */
+  --aais-orange: #E67B35;
+  --aais-orange-light: #F09550;
+  --aais-orange-dark: #C95F1C;
+  --aais-amber: #D4A017;
+  --aais-gold: #E8B923;
+  
+  /* Background Colors - Warm Cream */
+  --aais-cream: #FAF7F1;
+  --aais-cream-dark: #F5F0E6;
+  --aais-cream-darker: #EDE7DA;
+  
+  /* Accent - Olive Green (from hills) */
+  --aais-olive: #5B6E4D;
+  --aais-olive-light: #7A8F6A;
+  --aais-olive-dark: #3F4D36;
+  
+  /* Text Colors */
+  --aais-text-dark: #1A1A1A;
+  --aais-text-medium: #4A4A4A;
+  --aais-text-light: #6B6B6B;
+  
+  /* Docusaurus overrides */
+  --ifm-color-primary: #E67B35;
+  --ifm-color-primary-dark: #D86A24;
+  --ifm-color-primary-darker: #CC6220;
+  --ifm-color-primary-darkest: #A8511A;
+  --ifm-color-primary-light: #EA8C4B;
+  --ifm-color-primary-lighter: #ED9658;
+  --ifm-color-primary-lightest: #F3B07E;
+  
+  --ifm-background-color: var(--aais-cream);
+  --ifm-background-surface-color: var(--aais-cream-dark);
+  
+  --ifm-font-family-base: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --ifm-heading-font-family: 'Space Grotesk', var(--ifm-font-family-base);
+  
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(230, 123, 53, 0.1);
+  
+  --ifm-navbar-background-color: var(--aais-cream);
+  --ifm-navbar-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  
+  --ifm-footer-background-color: var(--aais-text-dark);
+  --ifm-footer-link-color: var(--aais-cream);
+  
+  --ifm-link-color: var(--aais-orange);
+  --ifm-link-hover-color: var(--aais-orange-dark);
+  
+  --ifm-heading-color: var(--aais-text-dark);
+  --ifm-font-color-base: var(--aais-text-medium);
+}
+
+/* Dark mode */
+[data-theme='dark'] {
+  --ifm-color-primary: #F09550;
+  --ifm-color-primary-dark: #EE8439;
+  --ifm-color-primary-darker: #EC7A2B;
+  --ifm-color-primary-darkest: #D05E0E;
+  --ifm-color-primary-light: #F2A667;
+  --ifm-color-primary-lighter: #F4B075;
+  --ifm-color-primary-lightest: #F8C9A2;
+  
+  --ifm-background-color: #1A1A1A;
+  --ifm-background-surface-color: #242424;
+  
+  --ifm-navbar-background-color: #1A1A1A;
+  
+  --ifm-heading-color: #FFFFFF;
+  --ifm-font-color-base: rgba(255, 255, 255, 0.85);
+  
+  --docusaurus-highlighted-code-line-bg: rgba(240, 149, 80, 0.15);
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 2.75rem;
+  line-height: 1.15;
+}
+
+h2 {
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: 1.5rem;
+  line-height: 1.3;
+}
+
+/* Navbar styling */
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.navbar__title {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.navbar__link {
+  font-weight: 500;
+}
+
+/* Button styling */
+.button--primary {
+  background: linear-gradient(135deg, var(--aais-orange) 0%, var(--aais-amber) 100%);
+  border: none;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(230, 123, 53, 0.2);
+}
+
+.button--primary:hover {
+  background: linear-gradient(135deg, var(--aais-orange-dark) 0%, var(--aais-orange) 100%);
+  box-shadow: 0 4px 12px rgba(230, 123, 53, 0.3);
+  transform: translateY(-1px);
+}
+
+.button--secondary {
+  background: transparent;
+  border: 2px solid var(--aais-orange);
+  color: var(--aais-orange);
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.button--secondary:hover {
+  background: var(--aais-orange);
+  color: white;
+}
+
+/* Card styling for doc pages */
+.card {
+  background: var(--aais-cream);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 12px;
+  transition: all 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+
+/* Footer */
+.footer {
+  background: var(--aais-text-dark);
+}
+
+.footer__title {
+  font-family: var(--ifm-heading-font-family);
+  color: var(--aais-cream);
+}
+
+.footer__link-item {
+  color: rgba(250, 247, 241, 0.8);
+  transition: color 0.2s ease;
+}
+
+.footer__link-item:hover {
+  color: var(--aais-orange-light);
+}
+
+.footer__copyright {
+  color: rgba(250, 247, 241, 0.6);
+}
+
+/* Code blocks */
+pre {
+  border-radius: 8px;
+}
+
+code {
+  border-radius: 4px;
+}
+
+/* Sidebar */
+.menu__link {
+  border-radius: 6px;
+  transition: all 0.15s ease;
+}
+
+.menu__link--active {
+  background: rgba(230, 123, 53, 0.1);
+  color: var(--aais-orange);
+  font-weight: 600;
+}
+
+/* Table of Contents */
+.table-of-contents__link--active {
+  color: var(--aais-orange);
+  font-weight: 600;
+}
+
+/* Selection */
+::selection {
+  background: rgba(230, 123, 53, 0.2);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--aais-cream-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--aais-text-light);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--aais-text-medium);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Homepage specific styles */
+.hero--primary {
+  background: linear-gradient(135deg, var(--aais-cream) 0%, var(--aais-cream-dark) 100%);
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--aais-orange);
+  background: var(--aais-cream-dark);
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  font-style: normal;
+}
+
+/* Admonitions */
+.alert--info {
+  --ifm-alert-background-color: rgba(230, 123, 53, 0.08);
+  --ifm-alert-border-color: var(--aais-orange);
+}
+
+
