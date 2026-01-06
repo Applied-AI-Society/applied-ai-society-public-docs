@@ -14,7 +14,10 @@ const config: Config = {
   projectName: 'applied-ai-society',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    onBrokenMarkdownLinks: 'warn',
+  },
 
   i18n: {
     defaultLocale: 'en',
