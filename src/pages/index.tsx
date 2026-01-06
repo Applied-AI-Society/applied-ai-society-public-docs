@@ -4,7 +4,22 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
 
-const docSections = [
+interface DocSection {
+  title: string;
+  description: string;
+  link: string;
+  icon: string;
+  color: string;
+}
+
+interface QuickLinkItem {
+  label: string;
+  link: string;
+  icon: string;
+  external?: boolean;
+}
+
+const docSections: DocSection[] = [
   {
     title: 'Case Studies',
     description: 'Real projects, real results. Learn from documented implementations across industries.',
@@ -28,14 +43,14 @@ const docSections = [
   },
 ];
 
-const quickLinks = [
+const quickLinks: QuickLinkItem[] = [
   { label: 'Submit a Case Study', link: '/docs/case-studies/submit', icon: '📝' },
   { label: 'Start a Chapter', link: '/docs/playbooks/starting-a-chapter', icon: '🌍' },
   { label: 'View Color Scheme', link: '/colors', icon: '🎨' },
   { label: 'Contribute on GitHub', link: 'https://github.com/applied-ai-society', icon: '💻', external: true },
 ];
 
-function HeroSection() {
+function HeroSection(): React.ReactElement {
   return (
     <header className={styles.hero}>
       <div className={styles.heroContent}>
@@ -59,7 +74,7 @@ function HeroSection() {
   );
 }
 
-function DocCard({ section }) {
+function DocCard({ section }: { section: DocSection }): React.ReactElement {
   return (
     <Link to={section.link} className={clsx(styles.docCard, styles[`docCard${section.color}`])}>
       <div className={styles.docCardIcon}>{section.icon}</div>
@@ -72,7 +87,7 @@ function DocCard({ section }) {
   );
 }
 
-function DocsGrid() {
+function DocsGrid(): React.ReactElement {
   return (
     <section className={styles.docsSection}>
       <div className={styles.container}>
@@ -87,7 +102,7 @@ function DocsGrid() {
   );
 }
 
-function QuickLinks() {
+function QuickLinks(): React.ReactElement {
   return (
     <section className={styles.quickLinksSection}>
       <div className={styles.container}>
@@ -111,7 +126,7 @@ function QuickLinks() {
   );
 }
 
-function AboutSection() {
+function AboutSection(): React.ReactElement {
   return (
     <section className={styles.aboutSection}>
       <div className={styles.container}>
@@ -136,7 +151,7 @@ function AboutSection() {
   );
 }
 
-function Footer() {
+function Footer(): React.ReactElement {
   return (
     <section className={styles.docsFooter}>
       <div className={styles.container}>
@@ -151,7 +166,7 @@ function Footer() {
   );
 }
 
-export default function Home() {
+export default function Home(): React.ReactElement {
   return (
     <Layout
       title="Docs"
@@ -167,3 +182,4 @@ export default function Home() {
     </Layout>
   );
 }
+

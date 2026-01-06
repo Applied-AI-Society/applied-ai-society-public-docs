@@ -2,7 +2,19 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import styles from './colors.module.css';
 
-const colorGroups = [
+interface Color {
+  name: string;
+  hex: string;
+  cssVar: string;
+}
+
+interface ColorGroup {
+  name: string;
+  description: string;
+  colors: Color[];
+}
+
+const colorGroups: ColorGroup[] = [
   {
     name: 'Primary Orange',
     description: 'The heart of our brand. Used for CTAs, links, and key highlights.',
@@ -49,10 +61,10 @@ const colorGroups = [
   },
 ];
 
-function ColorSwatch({ color }) {
+function ColorSwatch({ color }: { color: Color }): React.ReactElement {
   const isLight = ['#FAF7F1', '#F5F0E6', '#EDE7DA', '#E8B923', '#F09550'].includes(color.hex);
   
-  const copyToClipboard = (text) => {
+  const copyToClipboard = (text: string): void => {
     navigator.clipboard.writeText(text);
   };
 
@@ -76,7 +88,7 @@ function ColorSwatch({ color }) {
   );
 }
 
-function ColorGroup({ group }) {
+function ColorGroupComponent({ group }: { group: ColorGroup }): React.ReactElement {
   return (
     <div className={styles.colorGroup}>
       <h2 className={styles.groupTitle}>{group.name}</h2>
@@ -90,7 +102,13 @@ function ColorGroup({ group }) {
   );
 }
 
-function GradientExample({ name, gradient, description }) {
+interface GradientExampleProps {
+  name: string;
+  gradient: string;
+  description: string;
+}
+
+function GradientExample({ name, gradient, description }: GradientExampleProps): React.ReactElement {
   return (
     <div className={styles.gradientCard}>
       <div className={styles.gradientPreview} style={{ background: gradient }} />
@@ -103,7 +121,7 @@ function GradientExample({ name, gradient, description }) {
   );
 }
 
-export default function Colors() {
+export default function Colors(): React.ReactElement {
   return (
     <Layout
       title="Color Scheme"
@@ -137,7 +155,7 @@ export default function Colors() {
 
           <section className={styles.colors}>
             {colorGroups.map((group, idx) => (
-              <ColorGroup key={idx} group={group} />
+              <ColorGroupComponent key={idx} group={group} />
             ))}
           </section>
 
