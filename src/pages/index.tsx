@@ -44,8 +44,6 @@ const docSections: DocSection[] = [
 ];
 
 const quickLinks: QuickLinkItem[] = [
-  { label: 'Submit a Case Study', link: '/docs/case-studies/submit', icon: '📝' },
-  { label: 'Start a Chapter', link: '/docs/playbooks/starting-a-chapter', icon: '🌍' },
   { label: 'View Color Scheme', link: '/colors', icon: '🎨' },
   { label: 'Contribute on GitHub', link: 'https://github.com/applied-ai-society', icon: '💻', external: true },
 ];
