@@ -44,7 +44,7 @@ const docSections: DocSection[] = [
 ];
 
 const quickLinks: QuickLinkItem[] = [
-  { label: 'View Color Scheme', link: '/colors', icon: '🎨' },
+  { label: 'View Color Scheme', link: '/docs/colors', icon: '🎨' },
   { label: 'Contribute on GitHub', link: 'https://github.com/applied-ai-society', icon: '💻', external: true },
 ];
 

@@ -64,7 +64,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: '/colors',
+          to: '/docs/colors',
           label: 'Colors',
           position: 'left',
         },
