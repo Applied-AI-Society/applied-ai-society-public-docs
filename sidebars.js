@@ -21,15 +21,6 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Tools & Stack',
-      link: {
-        type: 'doc',
-        id: 'tools/index',
-      },
-      items: [],
-    },
-    {
-      type: 'category',
       label: 'Principles',
       link: {
         type: 'doc',
