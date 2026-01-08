@@ -15,6 +15,7 @@ Guides for running Applied AI Society chapters and events.
 |----------|-------------|
 | [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) | Running a workshop for practitioners helping businesses integrate AI |
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
+| [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) | Capturing video on a budget for people who couldn't attend |
 
 ---
 
