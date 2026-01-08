@@ -18,6 +18,14 @@ Practical guides for applied AI practitioners and community builders.
 
 ---
 
+## Content Playbooks
+
+| Playbook | Description |
+|----------|-------------|
+| [Case Study Interviews](/docs/playbooks/case-study-interviews) | Interviewing practitioners to create case study profiles |
+
+---
+
 ## Coming Soon
 
 We're developing additional guides covering:
