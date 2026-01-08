@@ -192,4 +192,4 @@ After the event:
 
 ## See Also
 
-- [Applied AI Live Event Guide](/docs/playbooks/applied-ai-live) — Full playbook for running an Applied AI Live workshop
+- [Applied AI Live Event Guide](/docs/playbooks/chapter-leader/applied-ai-live) — Full playbook for running an Applied AI Live workshop

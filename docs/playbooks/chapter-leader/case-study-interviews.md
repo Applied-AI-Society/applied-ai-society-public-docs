@@ -263,5 +263,5 @@ After:
 
 ## See Also
 
-- [Finding a Photographer](/docs/playbooks/finding-a-photographer) — If you want professional photo support
+- [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) — If you want professional photo support
 - [Case Studies](/docs/case-studies) — Published practitioner profiles
