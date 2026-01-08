@@ -56,8 +56,8 @@ Conduct the interview at their workspace. Home office, studio, coworking space �
 ### Time needed
 
 Block **1 hour**:
-- 30-40 minutes for the interview
-- 15-20 minutes for photos and video
+- 45 minutes for the interview
+- 15 minutes for photos and video
 
 Let them know the format ahead of time so they're not surprised when you pull out a camera.
 
@@ -73,17 +73,35 @@ Use these as a starting point. Follow the conversation where it goes. The best s
 
 Get the origin story. What led them here? Was it intentional or accidental?
 
+### Training & Programs
+
+> "What training or programs helped you most? How did you build your skills?"
+
+Bootcamps like Gauntlet? Online courses? Self-taught through projects? This is actionable for people trying to break in.
+
 ### Finding Clients
 
 > "How do you find new projects? What's worked best for you?"
 
-Referrals? Cold outreach? Content? Events? Get specific.
+Referrals? Cold outreach? Content? Events? Reddit? Get specific. Ask about the first client too.
+
+### Pre-Call Prep
+
+> "What do you do before the first call with a potential client?"
+
+Some practitioners research the company and come with 3-4 AI implementation ideas ready. Others wing it. This is tactical gold for readers.
 
 ### Client Communication
 
 > "Once a project starts, how do you manage the relationship? How often do you communicate?"
 
 Understand their process. Weekly check-ins? Async updates? How do they handle scope creep or misalignment?
+
+### Pricing
+
+> "How do you price your work? How do you explain your pricing to clients?"
+
+Hourly? Project-based? Do they tie pricing to business value (ROI, saved hours, reduced churn)? This is one of the hardest things to figure out.
 
 ### Leveraging Success
 
@@ -109,11 +127,35 @@ Languages, libraries, platforms, AI providers. What do they reach for first?
 
 This is the core question. What's the thing they deliver that people value? Speed? Expertise? Trust? Results?
 
+### Soft Skills
+
+> "What makes you easy to work with? How do you make clients feel comfortable?"
+
+Technical skills get you in the door. Soft skills keep you there. Ask about: explaining complex things simply, managing expectations, handling disagreements, making clients feel safe. Zero ego came up repeatedly in interviews as a differentiator.
+
 ### Upskilling
 
 > "How do you stay sharp? How do you learn new things in this field?"
 
-Courses? Building side projects? Community? Reading papers? What's their learning system?
+Courses? Building side projects? Community? Reading papers? GitHub trending? arXiv? Multiple LLMs for different perspectives? What's their learning system?
+
+### Hackathons
+
+> "Do you participate in hackathons? Why or why not?"
+
+Some practitioners use hackathons for networking, exposure, and sharpening skills. Winning can lead to LinkedIn engagement, VC outreach, and job opportunities. Others skip them. Worth asking.
+
+### Location & Community
+
+> "Where should someone be if they want to do this work? What communities have been valuable?"
+
+Cities matter. Meetups matter. Ask which ones specifically. (Example: AITX, Deep Learning AI, Fiesta in Austin.) This is actionable advice for readers.
+
+### Content & Building in Public
+
+> "Are you posting about your work? What's your content strategy?"
+
+LinkedIn? Twitter? Newsletter? Some practitioners hire marketing help. Others don't bother. Ask what's working and what's not.
 
 ---
 
@@ -142,19 +184,23 @@ This is the hook that gets people to read the full profile. Keep it short and pu
 ```
 Hey, I'm [Name]. I'm an applied AI engineer based in [City].
 
-I help [type of clients] [do what / achieve what].
+I do [consulting/freelance/in-house] for [type of clients].
 
-[One interesting thing about their work or approach — something that makes people want to learn more.]
+The reason I love what I do is [motivation — problem solving, growth, learning, etc.].
+
+[Optional: call to action about community, content, or why others should get into the field.]
 ```
 
 **Example:**
 
 ```
-Hey, I'm Rostam. I'm an applied AI engineer based in Austin.
+Hey, my name is Rostam Mahabadi. I'm based out of Austin, Texas.
 
-I help enterprise companies build agentic workflows that actually ship to production.
+I'm an applied AI engineer and I do consulting for companies of various sizes.
 
-Last year I built a system that cut a Fortune 500's document processing time from 3 days to 20 minutes. That's the kind of problem I love solving.
+The reason I love what I do is I get to continually grow my skill set by working with different clients with different needs. I also get to work on complex problems that aren't solved in today's world.
+
+I'm hoping to build a bigger community out in Austin so we can information share and all rise together.
 ```
 
 Tips:
