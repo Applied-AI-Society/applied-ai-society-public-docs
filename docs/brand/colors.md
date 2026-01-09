@@ -1,15 +1,11 @@
 ---
-sidebar_position: 4
-title: Color Scheme
+sidebar_position: 1
+title: Colors
 ---
 
-# Color Scheme
+# Color Palette
 
-The Applied AI Society visual identity. Warm, approachable, and professional.
-
-## Our Palette
-
-Inspired by sunrise over rolling hills. Warm oranges and ambers convey energy and optimism. Cream backgrounds feel welcoming. Olive greens ground us in nature and growth.
+The Applied AI Society color system. Warm, inviting, and consistent.
 
 ---
 
@@ -149,4 +145,3 @@ All colors are available as CSS custom properties for easy theming.
   --aais-text-light: #6B6B6B;
 }
 ```
-
