@@ -24,6 +24,15 @@ Guides for running Applied AI Society chapters and events.
 | Playbook | Description |
 |----------|-------------|
 | [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create case study profiles |
+| [Content Distribution](/docs/playbooks/chapter-leader/content-distribution) | Where to publish content and why |
+
+---
+
+## Chapter Building Playbooks
+
+| Playbook | Description |
+|----------|-------------|
+| [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) | Win-win partnerships for chapter growth |
 
 ---
 
