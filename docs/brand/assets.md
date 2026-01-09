@@ -39,19 +39,23 @@ Decorative assets for presentations, social graphics, and event materials.
 
 Stylized green hills representing growth, community, and grounded optimism.
 
-- Color: Olive Green (`#5B6E4D`)
-- Use for: Backgrounds, section dividers, presentation slides
+![Rolling Hills](/img/rolling-hills.png)
 
-*Coming soon — download link will be added*
+- Color: Olive Green with gold gradients
+- Use for: Backgrounds, section dividers, presentation slides, footers
+
+**Download:** [rolling-hills.png](/img/rolling-hills.png)
 
 ### Sun Icon
 
 A simple, warm sun representing energy, optimism, and new beginnings.
 
-- Color: Gold (`#E8B923`) or Orange (`#E67B35`)
+![Sun Icon](/img/sun.png)
+
+- Color: Gold (`#E8B923`) with cream halo
 - Use for: Icons, decorative elements, loading states
 
-*Coming soon — download link will be added*
+**Download:** [sun.png](/img/sun.png)
 
 ---
 
@@ -61,10 +65,20 @@ A simple, warm sun representing energy, optimism, and new beginnings.
 
 The "Applied AI Live" wordmark for event materials.
 
-- "APPLIED AI" in Helvetica Neue Bold (black or white depending on background)
+- "APPLIED AI" in Helvetica Neue Bold
 - "Live" in brush script (orange)
 
-*Coming soon — download link will be added*
+#### Light Background Version
+
+![Applied AI Live - Black Text](/img/applied-ai-logo_black-text.png)
+
+**Download:** [applied-ai-logo_black-text.png](/img/applied-ai-logo_black-text.png)
+
+#### Dark Background Version
+
+![Applied AI Live - White Text](/img/applied-ai-logo_white-text.png)
+
+**Download:** [applied-ai-logo_white-text.png](/img/applied-ai-logo_white-text.png)
 
 ---
 
