@@ -25,9 +25,20 @@ You don't need fancy, magazine-quality photography. You need clear, well-lit doc
 
 ## How to Find a Photographer
 
+### The Ideal Fit
+
+The best photographer for an Applied AI Society event is someone who:
+- Has a good eye and decent equipment (even just an iPhone in portrait mode)
+- Wants to be in the room anyway
+- Is excited to meet the people attending
+
+Think: an aspiring applied AI engineer who happens to take good photos. Or a creative who's curious about the space. Someone who sees the event as valuable beyond the paycheck.
+
+This is a real win-win. They get paid, they get to network, and they walk away with connections that might matter more than the $150. You get someone genuinely engaged, not just clocking hours.
+
 ### Start with your network
 
-Ask around. Who do you know that takes decent photos? Maybe a friend with a good eye, a local freelancer, or someone in your community who's building their portfolio.
+Ask around. Who do you know that fits this profile? Maybe someone in your community who's building their portfolio. A friend with a good eye. A local freelancer who's curious about AI.
 
 Trust matters more than credentials here. You want someone reliable who shows up on time and delivers what they promise.
 
