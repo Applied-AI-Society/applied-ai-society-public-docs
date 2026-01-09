@@ -30,6 +30,4 @@ Guides for running Applied AI Society chapters and events.
 
 Guides for applied AI engineers doing consulting and implementation work.
 
-*Coming soon.* We're developing guides on finding clients, scoping projects, pricing, and more.
-
-[View Practitioner playbooks →](/docs/playbooks/practitioner)
+*Coming soon.* We're developing guides on finding clients, scoping projects, pricing, and more.[View Practitioner playbooks →](/docs/playbooks/practitioner)
