@@ -9,31 +9,22 @@ Practical guides for applied AI practitioners and community builders.
 
 ---
 
-## Event Playbooks
+## For Chapter Leaders
+
+Guides for running Applied AI Society chapters and events.
 
 | Playbook | Description |
 |----------|-------------|
-| [Applied AI Live](/docs/playbooks/applied-ai-live) | Running a workshop for practitioners helping businesses integrate AI |
-| [Finding a Photographer](/docs/playbooks/finding-a-photographer) | Sourcing affordable, reliable event photography |
+| [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) | Running a workshop for practitioners |
+| [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
+| [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create profiles |
+
+[View all Chapter Leader playbooks →](/docs/playbooks/chapter-leader)
 
 ---
 
-## Content Playbooks
+## For Practitioners
 
-| Playbook | Description |
-|----------|-------------|
-| [Case Study Interviews](/docs/playbooks/case-study-interviews) | Interviewing practitioners to create case study profiles |
+Guides for applied AI engineers doing consulting and implementation work.
 
----
-
-## Coming Soon
-
-We're developing additional guides covering:
-
-- **Starting a Chapter** — How to launch an Applied AI Society chapter in your city
-- **Finding Clients** — How to identify and land applied AI projects
-- **Scoping Projects** — Frameworks for estimating and defining AI implementations
-- **Discovery Sessions** — How to assess a business's AI readiness
-- **Proof of Concept** — Building quick wins that demonstrate value
-
-Check back for updates.
+*Coming soon.* We're developing guides on finding clients, scoping projects, pricing, and more.[View Practitioner playbooks →](/docs/playbooks/practitioner)
