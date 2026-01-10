@@ -215,14 +215,53 @@ Tips:
 
 ### Write it up
 
-Turn your notes into a case study profile. Structure:
-1. **Intro** — Who they are, what they do, one-line hook
-2. **Background** — How they got into applied AI
-3. **How they work** — Finding clients, tech stack, process
-4. **Key insight** — The most valuable thing they shared
-5. **What's next** — Where they're headed
+The goal is a **narrative article**, not a structured interview summary. You want something people actually want to read and share.
 
-Keep it conversational. Use their words where possible.
+**Bad profile:** Headers → bullets → quote → next section. Scannable but boring. Loses momentum. Reads like a form you filled out.
+
+**Good profile:** Opens with a hook, tells a story, weaves quotes in naturally, builds to a point. Reads like a short magazine piece.
+
+#### Key principles
+
+1. **Open with tension or curiosity.** Find the most surprising or counterintuitive thing they said. Lead with that.
+2. **Let the story unfold.** Origin → first client → how they work now → what they've learned. Chronology is your friend.
+3. **Weave quotes in naturally.** Don't just list quotes under headers. Let them emerge from the narrative.
+4. **Use section breaks sparingly.** Just enough to let the reader breathe. Not every topic needs its own header.
+5. **Build to a theme.** What's the takeaway? What do you want the reader to feel at the end?
+6. **Keep it conversational.** Write like you're telling a friend about this interesting person you met.
+
+#### AI prompt for drafting
+
+If you have a transcript, use this prompt:
+
+```
+I have a transcript of an interview with an applied AI practitioner. Turn this into a narrative profile article (800-1200 words) for our community blog.
+
+Guidelines:
+- Open with a hook: the most surprising, counterintuitive, or compelling thing they said
+- Tell their story chronologically: background → how they got into AI → first clients → how they work now
+- Weave quotes into the narrative naturally (don't just list them under headers)
+- Use minimal section breaks (just horizontal rules to let the reader breathe)
+- Build to a theme or closing insight
+- Keep the tone conversational, not formal
+- End with a simple bio line and any upcoming events
+
+Do NOT write a listicle or structured interview summary. This should read like a magazine profile.
+
+Here's the transcript:
+[paste transcript]
+```
+
+#### Structure (loose guide)
+
+1. **Hook** — The most interesting thing they said or do. Create curiosity.
+2. **Background** — How they got here. Origin story.
+3. **The work** — How they find clients, run projects, deliver value.
+4. **What makes them different** — Their edge. The thing that sets them apart.
+5. **Staying sharp** — How they keep learning in a fast-moving field.
+6. **Why this work** — Motivation. What drives them.
+7. **Close** — Theme, takeaway, or call to action. End strong.
+8. **Bio line** — One sentence: who they are, where they're based, upcoming events.
 
 ### Submit materials
 
