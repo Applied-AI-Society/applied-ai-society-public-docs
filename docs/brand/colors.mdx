@@ -1,0 +1,151 @@
+---
+sidebar_position: 1
+title: Colors
+---
+
+import { ColorSwatch, ColorSwatchRow, GradientSwatch, GradientSwatchRow } from '@site/src/components/ColorSwatch';
+
+# Color Palette
+
+The Applied AI Society color system. Warm, natural, and intentionally not techy.
+
+Our palette draws from nature: sunrise oranges, cream skies, olive hills. No neon. No gradients that scream "futuristic." Just colors that make you feel good.
+
+---
+
+## Primary Orange
+
+Our signature color. Warm, energetic, and trendy. Orange stands out without being aggressive. It's having a moment in fashion and design. Used for CTAs, links, and key highlights.
+
+<ColorSwatchRow>
+  <ColorSwatch color="#E67B35" name="Orange" />
+  <ColorSwatch color="#F09550" name="Orange Light" />
+  <ColorSwatch color="#C95F1C" name="Orange Dark" />
+</ColorSwatchRow>
+
+---
+
+## Amber & Gold
+
+Warm accent tones for gradients and secondary highlights.
+
+<ColorSwatchRow>
+  <ColorSwatch color="#D4A017" name="Amber" />
+  <ColorSwatch color="#E8B923" name="Gold" />
+</ColorSwatchRow>
+
+---
+
+## Cream Backgrounds
+
+Warm and human. Pure white feels clinical. Dark backgrounds feel dystopian. Cream splits the difference: soft, approachable, and easy on the eyes.
+
+<ColorSwatchRow>
+  <ColorSwatch color="#FAF7F1" name="Cream" border />
+  <ColorSwatch color="#F5F0E6" name="Cream Dark" border />
+  <ColorSwatch color="#EDE7DA" name="Cream Darker" border />
+</ColorSwatchRow>
+
+---
+
+## Olive Green
+
+The rolling hills. Think Windows XP. Green pastures make us feel calm and grounded. This is intentional. AI doesn't have to feel cold and mechanical. Our olive greens remind people that technology can be part of a natural, positive progression.
+
+<ColorSwatchRow>
+  <ColorSwatch color="#5B6E4D" name="Olive" />
+  <ColorSwatch color="#7A8F6A" name="Olive Light" />
+  <ColorSwatch color="#3F4D36" name="Olive Dark" />
+</ColorSwatchRow>
+
+---
+
+## Text Colors
+
+Readable, accessible text hierarchy.
+
+<ColorSwatchRow>
+  <ColorSwatch color="#1A1A1A" name="Text Dark" />
+  <ColorSwatch color="#4A4A4A" name="Text Medium" />
+  <ColorSwatch color="#6B6B6B" name="Text Light" />
+</ColorSwatchRow>
+
+---
+
+## Gradients
+
+Key gradient combinations used throughout the brand.
+
+<GradientSwatchRow>
+  <GradientSwatch 
+    gradient="linear-gradient(135deg, #E67B35 0%, #D4A017 100%)" 
+    name="Primary Button" 
+    description="CTAs and actions" 
+  />
+  <GradientSwatch 
+    gradient="linear-gradient(135deg, #E67B35 0%, #C95F1C 100%)" 
+    name="Orange Section" 
+    description="Highlighted sections" 
+  />
+  <GradientSwatch 
+    gradient="linear-gradient(180deg, #FAF7F1 0%, #F5F0E6 100%)" 
+    name="Cream Background" 
+    description="Page backgrounds" 
+    border 
+  />
+  <GradientSwatch 
+    gradient="radial-gradient(circle, #E8B923 40%, #D4A017 100%)" 
+    name="Sun Glow" 
+    description="Decorative elements" 
+  />
+</GradientSwatchRow>
+
+---
+
+## Usage Guidelines
+
+### Primary Actions
+Use **Orange (#E67B35)** for buttons, links, and interactive elements that need attention.
+
+### Backgrounds
+Use **Cream (#FAF7F1)** as the primary background. Use darker creams for cards and sections.
+
+### Text
+Use **Text Dark (#1A1A1A)** for headings, **Text Medium (#4A4A4A)** for body copy.
+
+### Accents
+Use **Olive (#5B6E4D)** sparingly for variety. Great for icons and decorative elements.
+
+---
+
+## CSS Variables
+
+All colors are available as CSS custom properties for easy theming.
+
+```css
+:root {
+  /* Primary Orange */
+  --aais-orange: #E67B35;
+  --aais-orange-light: #F09550;
+  --aais-orange-dark: #C95F1C;
+  
+  /* Amber & Gold */
+  --aais-amber: #D4A017;
+  --aais-gold: #E8B923;
+  
+  /* Cream Backgrounds */
+  --aais-cream: #FAF7F1;
+  --aais-cream-dark: #F5F0E6;
+  --aais-cream-darker: #EDE7DA;
+  
+  /* Olive Green */
+  --aais-olive: #5B6E4D;
+  --aais-olive-light: #7A8F6A;
+  --aais-olive-dark: #3F4D36;
+  
+  /* Text Colors */
+  --aais-text-dark: #1A1A1A;
+  --aais-text-medium: #4A4A4A;
+  --aais-text-light: #6B6B6B;
+}
+```
