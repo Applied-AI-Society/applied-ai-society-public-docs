@@ -5,11 +5,23 @@ title: Brand
 
 # Brand Guidelines
 
-The Applied AI Society visual identity. Warm, approachable, and professional.
+The Applied AI Society visual identity. Warm, natural, and human.
 
-## Overview
+## Philosophy
 
-Our brand is inspired by sunrise over rolling hills. Warm oranges and ambers convey energy and optimism. Cream backgrounds feel welcoming. Olive greens ground us in nature and growth.
+Our brand is intentionally **not techy**. No circuits, no glowing grids, no dystopian sci-fi aesthetics. When people imagine the future of AI, they often picture something cold and mechanical. We want the opposite.
+
+Think Windows XP's rolling hills. There's a reason that became iconic. Humans are naturally primed to feel good about green pastures and blue skies. It's calming. It feels like home.
+
+The Applied AI Society represents a **natural, positive progression** for humanity. AI isn't something to fear. It's a tool that helps people do meaningful work. Our brand should feel like that: grounded, optimistic, and welcoming.
+
+## Visual Direction
+
+**Sunrise over rolling hills.** Warm oranges and ambers convey energy and new beginnings. Cream backgrounds feel inviting. Olive greens ground us in nature and growth.
+
+The specifics will evolve, but the vibe persists: **this is good, this is natural, this is part of something hopeful.**
+
+**Why orange?** It stands out. It's warm without being aggressive. And it's having a moment. Fashion, design, tech. Orange is trendy. It catches the eye without screaming at you.
 
 ---
 

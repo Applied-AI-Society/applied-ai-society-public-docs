@@ -5,13 +5,15 @@ title: Colors
 
 # Color Palette
 
-The Applied AI Society color system. Warm, inviting, and consistent.
+The Applied AI Society color system. Warm, natural, and intentionally not techy.
+
+Our palette draws from nature: sunrise oranges, cream skies, olive hills. No neon. No gradients that scream "futuristic." Just colors that make you feel good.
 
 ---
 
 ## Primary Orange
 
-The heart of our brand. Used for CTAs, links, and key highlights.
+Our signature color. Warm, energetic, and trendy. Orange stands out without being aggressive. It's having a moment in fashion and design. Used for CTAs, links, and key highlights.
 
 | Color | Hex | CSS Variable |
 |-------|-----|--------------|
@@ -34,7 +36,7 @@ Warm accent tones for gradients and secondary highlights.
 
 ## Cream Backgrounds
 
-Warm, inviting backgrounds that feel approachable and professional.
+Warm and human. Pure white feels clinical. Dark backgrounds feel dystopian. Cream splits the difference: soft, approachable, and easy on the eyes.
 
 | Color | Hex | CSS Variable |
 |-------|-----|--------------|
@@ -46,7 +48,7 @@ Warm, inviting backgrounds that feel approachable and professional.
 
 ## Olive Green
 
-Natural accent inspired by the rolling hills. Used sparingly for variety.
+The rolling hills. Think Windows XP. Green pastures make us feel calm and grounded. This is intentional. AI doesn't have to feel cold and mechanical. Our olive greens remind people that technology can be part of a natural, positive progression.
 
 | Color | Hex | CSS Variable |
 |-------|-----|--------------|
