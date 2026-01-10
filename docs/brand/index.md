@@ -39,11 +39,33 @@ The specifics will evolve, but the vibe persists: **this is good, this is natura
 
 ### Primary Colors
 
-| Color | Hex | Use |
-|-------|-----|-----|
-| Orange | `#E67B35` | CTAs, links, highlights |
-| Cream | `#FAF7F1` | Backgrounds |
-| Olive | `#5B6E4D` | Accents, icons |
+<div style={{display: 'flex', gap: '1.5rem', flexWrap: 'wrap', marginBottom: '1.5rem'}}>
+  <div style={{textAlign: 'center'}}>
+    <div style={{width: '80px', height: '80px', backgroundColor: '#E67B35', borderRadius: '8px', marginBottom: '0.5rem'}}></div>
+    <div><strong>Orange</strong></div>
+    <code>#E67B35</code>
+  </div>
+  <div style={{textAlign: 'center'}}>
+    <div style={{width: '80px', height: '80px', backgroundColor: '#FAF7F1', borderRadius: '8px', border: '1px solid #ccc', marginBottom: '0.5rem'}}></div>
+    <div><strong>Cream</strong></div>
+    <code>#FAF7F1</code>
+  </div>
+  <div style={{textAlign: 'center'}}>
+    <div style={{width: '80px', height: '80px', backgroundColor: '#5B6E4D', borderRadius: '8px', marginBottom: '0.5rem'}}></div>
+    <div><strong>Olive</strong></div>
+    <code>#5B6E4D</code>
+  </div>
+  <div style={{textAlign: 'center'}}>
+    <div style={{width: '80px', height: '80px', backgroundColor: '#E8B923', borderRadius: '8px', marginBottom: '0.5rem'}}></div>
+    <div><strong>Gold</strong></div>
+    <code>#E8B923</code>
+  </div>
+  <div style={{textAlign: 'center'}}>
+    <div style={{width: '80px', height: '80px', backgroundColor: '#1A1A1A', borderRadius: '8px', marginBottom: '0.5rem'}}></div>
+    <div><strong>Text Dark</strong></div>
+    <code>#1A1A1A</code>
+  </div>
+</div>
 
 ### Fonts
 
