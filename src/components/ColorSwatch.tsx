@@ -1,4 +1,5 @@
 import React from 'react';
+import { useColorMode } from '@docusaurus/theme-common';
 
 interface ColorSwatchProps {
   color: string;
@@ -7,6 +8,9 @@ interface ColorSwatchProps {
 }
 
 export function ColorSwatch({ color, name, border = false }: ColorSwatchProps) {
+  const { colorMode } = useColorMode();
+  const borderColor = colorMode === 'dark' ? 'rgba(255,255,255,0.2)' : 'rgba(0,0,0,0.15)';
+
   return (
     <div style={{ textAlign: 'center' }}>
       <div
@@ -15,7 +19,7 @@ export function ColorSwatch({ color, name, border = false }: ColorSwatchProps) {
           height: '60px',
           backgroundColor: color,
           borderRadius: '6px',
-          border: border ? '1px solid #ccc' : 'none',
+          border: border ? `1px solid ${borderColor}` : 'none',
           marginBottom: '0.5rem',
         }}
       />
@@ -54,6 +58,9 @@ interface GradientSwatchProps {
 }
 
 export function GradientSwatch({ gradient, name, description, border = false }: GradientSwatchProps) {
+  const { colorMode } = useColorMode();
+  const borderColor = colorMode === 'dark' ? 'rgba(255,255,255,0.2)' : 'rgba(0,0,0,0.15)';
+
   return (
     <div>
       <div
@@ -62,14 +69,14 @@ export function GradientSwatch({ gradient, name, description, border = false }: 
           height: '60px',
           background: gradient,
           borderRadius: '6px',
-          border: border ? '1px solid #ccc' : 'none',
+          border: border ? `1px solid ${borderColor}` : 'none',
           marginBottom: '0.5rem',
         }}
       />
       <div>
         <strong>{name}</strong>
       </div>
-      <div style={{ fontSize: '0.85rem', color: '#6B6B6B' }}>{description}</div>
+      <div style={{ fontSize: '0.85rem', opacity: 0.7 }}>{description}</div>
     </div>
   );
 }
