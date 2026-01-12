@@ -95,3 +95,22 @@ export function GradientSwatchRow({ children }: ColorSwatchRowProps) {
     </div>
   );
 }
+
+export function InlineColor({ color, children }: { color: string; children?: React.ReactNode }) {
+  // Simple check for dark background to flip text color
+  const isDark = color.toLowerCase() === '#1a1a1a' || color.toLowerCase() === '#3f4d36' || color.toLowerCase() === '#5b6e4d';
+  return (
+    <code
+      style={{
+        backgroundColor: color,
+        color: isDark ? '#FFFFFF' : '#1A1A1A',
+        padding: '0.1rem 0.3rem',
+        borderRadius: '4px',
+        border: '1px solid rgba(0,0,0,0.1)',
+        fontWeight: 'bold',
+      }}
+    >
+      {children || color}
+    </code>
+  );
+}

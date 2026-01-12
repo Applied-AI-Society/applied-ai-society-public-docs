@@ -1,14 +1,14 @@
-<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="120" height="36" viewBox="0 0 120 36" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="societyGradientStacked" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFE566"/>
+      <stop offset="0%" stop-color="#FFC14D"/>
       <stop offset="100%" stop-color="#E67B35"/>
     </linearGradient>
   </defs>
-  <text x="60" y="14" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14" font-weight="800" text-anchor="middle" letter-spacing="0.5" fill="#1A1A1A">
+  <text x="60" y="14" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14" font-weight="800" text-anchor="middle" fill="#1A1A1A">
     APPLIED AI
   </text>
-  <text x="60" y="32" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14" font-weight="800" text-anchor="middle" textLength="88" lengthAdjust="spacing" fill="url(#societyGradientStacked)">
+  <text x="59" y="30" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" font-weight="800" text-anchor="middle" fill="url(#societyGradientStacked)">
     SOCIETY
   </text>
 </svg>

@@ -46,11 +46,11 @@ const config: Config = {
     image: 'img/social-card.jpg',
     navbar: {
       title: '',
-      logo: {
-        alt: 'Applied AI Society',
-        src: 'img/logo.svg',
-        srcDark: 'img/logo-dark.svg',
-      },
+    logo: {
+      alt: 'Applied AI Society',
+      src: 'img/logo.svg',
+      srcDark: 'img/logo-dark.svg',
+    },
       items: [
         {
           type: 'docSidebar',
