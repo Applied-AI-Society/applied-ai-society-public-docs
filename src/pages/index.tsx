@@ -45,7 +45,7 @@ const docSections: DocSection[] = [
 
 const quickLinks: QuickLinkItem[] = [
   { label: 'View Brand Assets', link: '/docs/brand', icon: '🎨' },
-  { label: 'Join / Partner', link: 'https://appliedaisociety.org/partner', icon: '🤝', external: true },
+  { label: 'Join / Contribute', link: 'https://appliedaisociety.org/contribute', icon: '🤝', external: true },
   { label: 'Contribute on GitHub', link: 'https://github.com/applied-ai-society', icon: '💻', external: true },
 ];
 
@@ -67,7 +67,7 @@ function HeroSection(): React.ReactElement {
           <Link className={styles.secondaryButton} to="/docs/playbooks">
             View Playbooks
           </Link>
-          <a className={styles.tertiaryButton} href="https://appliedaisociety.org/partner" target="_blank" rel="noopener noreferrer">
+          <a className={styles.tertiaryButton} href="https://appliedaisociety.org/contribute" target="_blank" rel="noopener noreferrer">
             Get Involved
           </a>
         </div>

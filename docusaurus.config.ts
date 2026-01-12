@@ -69,8 +69,8 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://appliedaisociety.org/partner',
-          label: 'Join',
+          href: 'https://appliedaisociety.org/contribute',
+          label: 'Contribute',
           position: 'left',
         },
         {
