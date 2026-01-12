@@ -69,6 +69,11 @@ const config: Config = {
           position: 'left',
         },
         {
+          href: 'https://appliedaisociety.org/partner',
+          label: 'Join',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/applied-ai-society',
           label: 'GitHub',
           position: 'right',
