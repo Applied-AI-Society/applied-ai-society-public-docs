@@ -29,6 +29,20 @@ For use on dark or black backgrounds.
 
 **Download:** [logo-dark.svg](/img/logo-dark.svg)
 
+### Stacked Wordmark
+
+For use in square or vertical layouts.
+
+#### Light Background
+![Stacked Logo](/img/logo-stacked.svg)
+
+**Download:** [logo-stacked.svg](/img/logo-stacked.svg)
+
+#### Dark Background
+![Stacked Logo Dark](/img/logo-stacked-dark.svg)
+
+**Download:** [logo-stacked-dark.svg](/img/logo-stacked-dark.svg)
+
 ---
 
 ## Graphic Elements
