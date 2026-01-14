@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Brand
+title: Brand Guidelines
 ---
 
 import { ColorSwatch, ColorSwatchRow, InlineColor } from '@site/src/components/ColorSwatch';
@@ -8,6 +8,8 @@ import { ColorSwatch, ColorSwatchRow, InlineColor } from '@site/src/components/C
 # Brand Guidelines
 
 The Applied AI Society visual identity. Warm, natural, and human.
+
+---
 
 ## Philosophy
 
@@ -17,53 +19,141 @@ Think Windows XP's rolling hills. There's a reason that became iconic. Humans ar
 
 The Applied AI Society represents a **natural, positive progression** for humanity. AI isn't something to fear. It's a tool that helps people do meaningful work. Our brand should feel like that: grounded, optimistic, and welcoming.
 
-## Visual Direction
-
-**Sunrise over rolling hills.** Warm oranges and ambers convey energy and new beginnings. Cream backgrounds feel inviting. Olive greens ground us in nature and growth.
-
-The specifics will evolve, but the vibe persists: **this is good, this is natural, this is part of something hopeful.**
-
-**Why orange?** It stands out. It's warm without being aggressive. And it's having a moment. Fashion, design, tech. Orange is trendy. It catches the eye without screaming at you.
+**Why orange?** It stands out. It's warm without being aggressive. And it's having a moment in fashion and design. It catches the eye without screaming.
 
 ---
 
-## Brand Resources
-
-| Resource | Description |
-|----------|-------------|
-| [Colors](/docs/brand/colors) | Our color palette with hex codes and CSS variables |
-| [Typography](/docs/brand/typography) | Fonts used across the brand |
-| [Assets](/docs/brand/assets) | Downloadable logos, icons, and graphics |
-
----
-
-## Quick Reference
-
-### Primary Colors
+## Colors
 
 <ColorSwatchRow>
   <ColorSwatch color="#E67B35" name="Orange" />
+  <ColorSwatch color="#FFC14D" name="Yellow" />
   <ColorSwatch color="#FAF7F1" name="Cream" border />
   <ColorSwatch color="#5B6E4D" name="Olive" />
-  <ColorSwatch color="#E8B923" name="Gold" />
   <ColorSwatch color="#1A1A1A" name="Text Dark" border />
 </ColorSwatchRow>
 
-### Fonts
+| Color | Hex | Use |
+|-------|-----|-----|
+| Orange | <InlineColor color="#E67B35" /> | Primary brand color, CTAs, links |
+| Yellow | <InlineColor color="#FFC14D" /> | Gradients, accents |
+| Cream | <InlineColor color="#FAF7F1" /> | Backgrounds (warmer than white) |
+| Olive | <InlineColor color="#5B6E4D" /> | Nature elements, secondary accents |
+| Text Dark | <InlineColor color="#1A1A1A" /> | Headings, body text |
 
-| Element | Font |
-|---------|------|
-| "APPLIED AI" wordmark | Helvetica Neue Bold (or Arial Bold) |
-| "Live" script | Brush script (custom) |
-| Body text | DM Sans |
-| Headings | Space Grotesk |
+### Background Style
+
+Our backgrounds are **warm cream with subtle paper texture**. Not pure white, not flat. Think watercolor paper or soft linen grain with natural diffused lighting. This gives graphics an organic, inviting feel rather than a cold digital look.
+
+<div style={{ backgroundColor: '#f0f0f0', padding: '1rem', borderRadius: '8px', marginTop: '1rem' }}>
+  <img src="/img/paper-background.png" alt="Paper Background Texture" style={{ display: 'block', margin: '0 auto', maxWidth: '400px', borderRadius: '4px' }} />
+</div>
+
+**Download:** [paper-background.png](/img/paper-background.png)
+
+**Logo Gradient:** <InlineColor color="#FFC14D" /> → <InlineColor color="#E67B35" /> (used on "SOCIETY" wordmark)
 
 ---
 
-## Usage
+## Typography
 
-When creating materials for the Applied AI Society:
+| Element | Font | Notes |
+|---------|------|-------|
+| "APPLIED AI" wordmark | Helvetica Neue Bold | Or Arial Bold |
+| "Live" script | Brush script | Custom, hand-drawn feel |
+| Headings | Space Grotesk | Technical but friendly |
+| Body text | DM Sans | Clean, readable |
 
-1. **Use the orange (<InlineColor color="#E67B35" />)** — It's our signature color. Don't dilute it with too many other bright colors.
-2. **Keep backgrounds warm (<InlineColor color="#FAF7F1">Cream</InlineColor>)** — Cream backgrounds feel more human than pure white.
-3. **Download official assets** — Don't recreate logos from scratch. Use the provided files.
+```css
+/* Google Fonts import */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap');
+```
+
+---
+
+## Logos
+
+### Main Wordmark
+
+<div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginBottom: '1rem' }}>
+  <div style={{ backgroundColor: '#FAF7F1', padding: '1.5rem 2rem', borderRadius: '8px', border: '1px solid rgba(0,0,0,0.05)' }}>
+    <img src="/img/logo.svg" alt="Logo Light" style={{ height: '32px' }} />
+  </div>
+  <div style={{ backgroundColor: '#1A1A1A', padding: '1.5rem 2rem', borderRadius: '8px' }}>
+    <img src="/img/logo-dark.svg" alt="Logo Dark" style={{ height: '32px' }} />
+  </div>
+</div>
+
+**Download:** [Light Background](/img/logo.svg) | [Dark Background](/img/logo-dark.svg)
+
+### Stacked Wordmark
+
+<div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginBottom: '1rem' }}>
+  <div style={{ backgroundColor: '#FAF7F1', padding: '1.5rem', borderRadius: '8px', border: '1px solid rgba(0,0,0,0.05)' }}>
+    <img src="/img/logo-stacked.svg" alt="Stacked Light" style={{ height: '80px' }} />
+  </div>
+  <div style={{ backgroundColor: '#1A1A1A', padding: '1.5rem', borderRadius: '8px' }}>
+    <img src="/img/logo-stacked-dark.svg" alt="Stacked Dark" style={{ height: '80px' }} />
+  </div>
+</div>
+
+**Download:** [Light SVG](/img/logo-stacked.svg) | [Light PNG](/img/logo-stacked.png) | [Dark SVG](/img/logo-stacked-dark.svg) | [Dark PNG](/img/logo-stacked-dark.png)
+
+### Applied AI Live (Events)
+
+<div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginBottom: '1rem' }}>
+  <div style={{ backgroundColor: '#FAF7F1', padding: '1.5rem 2rem', borderRadius: '8px', border: '1px solid rgba(0,0,0,0.05)' }}>
+    <img src="/img/applied-ai-live.svg" alt="Live Light" style={{ height: '32px' }} />
+  </div>
+  <div style={{ backgroundColor: '#1A1A1A', padding: '1.5rem 2rem', borderRadius: '8px' }}>
+    <img src="/img/applied-ai-live-dark.svg" alt="Live Dark" style={{ height: '32px' }} />
+  </div>
+</div>
+
+**Download:** [Light SVG](/img/applied-ai-live.svg) | [Dark SVG](/img/applied-ai-live-dark.svg)
+
+---
+
+## Graphic Elements
+
+### Rolling Hills
+
+Stylized green hills representing growth and grounded optimism.
+
+<div style={{ backgroundColor: '#FAF7F1', padding: '1rem', borderRadius: '8px', marginBottom: '0.5rem', border: '1px solid rgba(0,0,0,0.05)' }}>
+  <img src="/img/rolling-hills.png" alt="Rolling Hills" style={{ display: 'block', margin: '0 auto', maxWidth: '300px' }} />
+</div>
+
+**Download:** [rolling-hills.png](/img/rolling-hills.png)
+
+### Sun Icon
+
+Warm sun representing energy and new beginnings.
+
+<div style={{ backgroundColor: '#FAF7F1', padding: '1rem', borderRadius: '8px', marginBottom: '0.5rem', border: '1px solid rgba(0,0,0,0.05)' }}>
+  <img src="/img/sun.png" alt="Sun" style={{ display: 'block', margin: '0 auto', maxWidth: '100px' }} />
+</div>
+
+**Download:** [sun.png](/img/sun.png)
+
+---
+
+## Usage Rules
+
+### Do
+- ✅ Use official assets from this page
+- ✅ Maintain clear space around logos
+- ✅ Use appropriate color version for background
+- ✅ Keep backgrounds warm (cream > pure white)
+
+### Don't
+- ❌ Recreate logos from scratch
+- ❌ Change logo colors
+- ❌ Stretch or distort
+- ❌ Add shadows, outlines, or effects
+
+---
+
+## Generate Your Own Assets
+
+Need custom graphics? See [Generating Brand Assets with AI](/docs/brand/ai-generation) for prompts and style references to create on-brand images with Gemini, Midjourney, or other tools.
