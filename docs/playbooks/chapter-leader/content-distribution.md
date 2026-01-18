@@ -11,15 +11,16 @@ Where to publish Applied AI Society content and why.
 
 ## Core Platforms
 
-Three platforms matter most:
+Four platforms matter most:
 
 | Platform | Purpose |
 |----------|---------|
 | **Substack** | Source of truth for articles. Email subscriptions. |
+| **X (Twitter)** | Reach. Cross-post articles. X Articles for long-form. |
 | **LinkedIn** | Reach. Cross-post articles with link to Substack. |
 | **YouTube** | Full event recordings. Bingeable archive. |
 
-X (Twitter) is similar to LinkedIn: cross-post articles there too. Both platforms are trying to compete with Substack by promoting long-form content.
+X and LinkedIn are both trying to compete with Substack by promoting long-form content. Use this to your advantage. Publish the same articles on both.
 
 ---
 
@@ -38,6 +39,23 @@ Substack is home base for written content. Why:
 3. Add a line at the bottom: *"Subscribe on Substack for more: [link]"*
 
 This meets readers where they are (LinkedIn feed, X timeline) while funneling interested people to Substack where they can subscribe.
+
+---
+
+## X (Twitter)
+
+X is a core distribution channel. Use it for:
+
+- **Regular posts** — Event announcements, quotes, highlights, threads
+- **X Articles** — Full long-form articles published natively on X
+
+X Articles let you publish the same content you'd put on Substack, but natively on the platform. X promotes long-form content because they want to compete with newsletters. Take advantage of this.
+
+### Cross-posting to X
+
+Publish articles on both Substack and X Articles. Same content, different platforms. This maximizes reach without extra writing.
+
+For regular posts, share highlights, quotes from case studies, and event updates. Tag practitioners when you feature them.
 
 ---
 

@@ -13,9 +13,11 @@ Guides for running Applied AI Society chapters and events.
 
 | Playbook | Description |
 |----------|-------------|
-| [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) | Running a workshop for practitioners helping businesses integrate AI |
+| [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) | The flagship workshop format with master checklist |
+| [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session) | Finding the right business owner and prepping the engineer |
+| [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) | Securing a recurring partner space |
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
-| [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) | Capturing video on a budget for people who couldn't attend |
+| [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) | Capturing video on a budget |
 
 ---
 
@@ -23,7 +25,7 @@ Guides for running Applied AI Society chapters and events.
 
 | Playbook | Description |
 |----------|-------------|
-| [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create case study profiles |
+| [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create profiles |
 | [Content Distribution](/docs/playbooks/chapter-leader/content-distribution) | Where to publish content and why |
 
 ---
@@ -33,12 +35,12 @@ Guides for running Applied AI Society chapters and events.
 | Playbook | Description |
 |----------|-------------|
 | [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) | Win-win partnerships for chapter growth |
+| [Tools](/docs/playbooks/chapter-leader/tools) | Meetup, Luma, and other tools that help run chapters |
 
 ---
 
 ## Coming Soon
 
 - **Starting a Chapter** — How to launch an Applied AI Society chapter in your city
-- **Finding a Venue** — Securing the right space for your event
 - **Speaker Outreach** — Recruiting practitioners to share case studies
 - **Event Promotion** — Getting the word out effectively
