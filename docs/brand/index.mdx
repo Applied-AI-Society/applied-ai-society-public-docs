@@ -136,6 +136,46 @@ Warm sun representing energy and new beginnings.
 
 **Download:** [sun.png](/img/sun.png)
 
+#### Animated Sun (React + Framer Motion)
+
+Drop this into your React app for a slowly rotating sun. Requires `framer-motion`.
+
+```tsx
+import { motion } from "framer-motion";
+
+{/* Animated Sun */}
+<div className="absolute top-[-60px] right-[-40px] md:top-[-80px] md:right-[-60px] -z-10 pointer-events-none mix-blend-multiply">
+  <motion.div
+    animate={{ rotate: 360 }}
+    transition={{ duration: 120, repeat: Infinity, ease: "linear" }}
+  >
+    <svg className="w-[160px] h-[160px] md:w-[180px] md:h-[180px] lg:w-[220px] lg:h-[220px]" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <g className="text-amber-400/60">
+        {[...Array(16)].map((_, i) => (
+          <rect
+            key={i}
+            x="195"
+            y="0"
+            width="10"
+            height="80"
+            transform={`rotate(${i * 22.5} 200 200)`}
+            fill="currentColor"
+          />
+        ))}
+      </g>
+      <circle cx="200" cy="200" r="100" fill="currentColor" className="text-amber-300/30" />
+      <circle cx="200" cy="200" r="70" fill="currentColor" className="text-amber-400" />
+    </svg>
+  </motion.div>
+</div>
+```
+
+**Notes:**
+- Uses Tailwind CSS classes for sizing and positioning
+- `mix-blend-multiply` blends nicely with cream backgrounds
+- 120-second rotation for subtle, non-distracting movement
+- Adjust `top`/`right` values to position in your layout
+
 ---
 
 ## Usage Rules
