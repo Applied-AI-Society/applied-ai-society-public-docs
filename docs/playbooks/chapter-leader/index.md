@@ -18,6 +18,7 @@ Guides for running Applied AI Society chapters and events.
 | [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) | Securing a recurring partner space |
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
 | [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) | Capturing video on a budget |
+| [Hosting an Event](/docs/playbooks/chapter-leader/hosting-an-event) | The soft skills and scripts for being the host |
 
 ---
 
