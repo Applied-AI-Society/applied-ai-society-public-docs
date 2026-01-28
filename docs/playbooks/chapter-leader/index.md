@@ -41,6 +41,16 @@ Guides for running Applied AI Society chapters and events.
 
 ---
 
+## CRM & Outreach Automation Playbooks
+
+| Playbook | Description |
+|----------|-------------|
+| [CRM Setup](/docs/playbooks/chapter-leader/crm-setup) | Setting up Airtable as your outreach CRM |
+| [LinkedIn Automation](/docs/playbooks/chapter-leader/linkedin-automation) | Automated LinkedIn DM campaigns with PhantomBuster |
+| [Twitter Automation](/docs/playbooks/chapter-leader/twitter-automation) | Automated Twitter DM campaigns with PhantomBuster |
+
+---
+
 ## Coming Soon
 
 - **Starting a Chapter** — How to launch an Applied AI Society chapter in your city
