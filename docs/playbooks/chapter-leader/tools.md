@@ -119,6 +119,61 @@ Cursor's AI can help you write, edit, and refactor. Ask it to draft a section, f
 
 ---
 
+## Airtable
+
+**What it is:** Flexible database and CRM platform.
+
+**Website:** [airtable.com](https://airtable.com)
+
+**What we use it for:**
+- Tracking outreach across LinkedIn, Twitter, and email
+- Managing contact lists by member type (engineers, business owners, tool developers)
+- Storing message status and history for automated campaigns
+- Collaboration across chapter organizers
+
+**Why it's useful:**
+Airtable combines the simplicity of a spreadsheet with the power of a database. You can create filtered views, track status with single-select fields, and integrate with automation tools via API. The free tier works for getting started (1,000 records), and the Team plan ($24/user/month) unlocks automations and extensions.
+
+**Tips:**
+- Use camelCase for field names (e.g., `firstName` not `First Name`) — it makes integration with automation tools easier
+- Create filtered views for each outreach channel (e.g., "To Message (LinkedIn)")
+- Only users with editor-level access count toward seat costs. Viewers are free.
+- See the [CRM Setup](/docs/playbooks/chapter-leader/crm-setup) playbook for a complete setup guide
+
+---
+
+## PhantomBuster
+
+**What it is:** Cloud-based automation tool for social media outreach.
+
+**Website:** [phantombuster.com](https://phantombuster.com)
+
+**What we use it for:**
+- Automated LinkedIn DM campaigns
+- Automated Twitter/X DM campaigns
+- Scraping profile data from social platforms
+- Scheduled outreach at safe volumes
+
+**Why it's useful:**
+PhantomBuster handles the repetitive work of sending personalized messages at scale. It reads from a Google Sheet (synced from Airtable), sends messages on a schedule, and outputs results that sync back to your CRM. You set it up once and it runs on autopilot.
+
+**Pricing:**
+- Free trial available (limited execution time)
+- Starter plan: $69/month (20 hours execution time)
+- Pro plan: $159/month (80 hours execution time)
+
+**Safety Warning:**
+Both LinkedIn and Twitter have limits on how many messages you can send. PhantomBuster shows recommended limits based on your account age and activity. Start slow, personalize your messages, and stay under the platform warnings. See the automation guides for safe settings.
+
+**Tips:**
+- Install the browser extension to connect your social accounts
+- Use variables like `#firstName#` or `#twitterUsername#` for personalization
+- Set up "Repeatedly" schedules during working hours (skip weekends)
+- Monitor your accounts for warnings and reduce volume if needed
+- See [LinkedIn Automation](/docs/playbooks/chapter-leader/linkedin-automation) and [Twitter Automation](/docs/playbooks/chapter-leader/twitter-automation) for complete setup guides
+
+---
+
 ## What's Next
 
 We'll add more tools as we find them useful. If you're a chapter leader and you've found something that helps, let us know.
