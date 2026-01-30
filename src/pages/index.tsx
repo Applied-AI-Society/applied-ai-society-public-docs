@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
+import RecentlyUpdated from '../components/RecentlyUpdated';
 
 interface DocSection {
   title: string;
@@ -141,6 +142,15 @@ function AboutSection(): React.ReactElement {
               from real projects, playbooks for common workflows, and curated tool recommendations.
             </p>
             <p>
+              The Applied AI Society is grateful to <strong>OpenTeams</strong> and{' '}
+              <strong>Open Technology Incubator (OT Incubator)</strong> as founding sponsors.
+              OpenTeams is building the infrastructure layer for applied AI — including Nebari, an
+              open-source operating system for AI workflows that gives organizations sovereignty
+              over their data. OT Incubator's mission is to provide entrepreneurs with services and
+              capital to create the transformative organizations and businesses that will bring about
+              the Applied AI Economy built around open technology.
+            </p>
+            <p>
               Looking for the main site? Visit{' '}
               <a href="https://appliedaisociety.org" target="_blank" rel="noopener noreferrer">
                 appliedaisociety.org
@@ -177,6 +187,7 @@ export default function Home(): React.ReactElement {
       <HeroSection />
       <main>
         <DocsGrid />
+        <RecentlyUpdated />
         <QuickLinks />
         <AboutSection />
         <Footer />

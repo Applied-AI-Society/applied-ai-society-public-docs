@@ -47,7 +47,7 @@ Here's how we approached venues for Applied AI Live in Austin.
 
 ### January 2026: Antler VC HQ
 
-For our first event, we partnered with the AITX Community, who had an existing relationship with Antler VC. Antler graciously hosted us at their headquarters in downtown Austin.
+For our first event, we partnered with the AITX Community, who had an existing relationship with Antler VC. Antler graciously hosted us at their headquarters in downtown Austin. The event drew ~100 check-ins with a 40% show rate — above the typical ~35% for similar meetups in Austin.
 
 **Why it worked:**
 - Antler runs an incubator. Engineer-founder types are exactly who they want in their space.
@@ -142,6 +142,7 @@ Once you're talking to a venue:
 4. **Recurring availability** — Can we book a regular slot (e.g., 4th Tuesday of each month)?
 5. **Promotion** — Will they share the event with their community?
 6. **Food policy** — Can we bring outside food? Any restrictions?
+7. **AV connectivity** — What's the setup for connecting a laptop to the screen/TV? Can you do a test run before event day? (At our first event, the TV required on/off cycling to connect.)
 
 ---
 

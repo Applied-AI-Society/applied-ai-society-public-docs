@@ -112,6 +112,10 @@ The partnership works because:
 
 No formal contract. If the first event works, we keep doing it. If not, we adjust.
 
+One key lesson: AITX waited to see the first event before confirming a deeper partnership. Some partners need proof before they commit. Run a quality first event and let the results speak.
+
+After Live #1, Brian Vallelunga (founder of an AI fintech startup) expressed sponsorship interest — a signal that running quality events attracts sponsors organically. You don't always need to chase sponsorship. Sometimes you just need to put on a great event and let the right people find you.
+
 ### Capital Factory (Venue Partner)
 
 Capital Factory is a flagship tech hub and co-working space in Austin. They want:
@@ -127,6 +131,21 @@ The partnership works because:
 - They get quality content without doing the work
 - We get a great venue without paying for it
 - Both sides are invested in making it successful
+
+---
+
+## The Local Partner Model
+
+Every new chapter should have a local partner — an established local community in the same broad category with an overlapping but not identical demographic. AITX is the template for Austin.
+
+The pattern:
+- **They bring:** Reach, logistics, venue relationships, email lists, local credibility
+- **You bring:** Opinionated programming, content curation, event production
+- **Both get:** A better event than either could run alone, and community growth
+
+When scouting for a local partner, look for groups that serve a similar audience (tech-minded, entrepreneurial) but aren't doing the exact same thing you are. You want overlap, not duplication. The partner should feel like your event makes their community more valuable, not that you're competing for the same people.
+
+Replicate this pattern in each new city. Find the local AITX equivalent and build the relationship before you announce your first event.
 
 ---
 

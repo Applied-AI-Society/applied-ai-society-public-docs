@@ -1,0 +1,169 @@
+/* Recently Updated Section */
+.recentlyUpdatedSection {
+  padding: 3rem 0;
+  background: var(--aais-cream-dark);
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.sectionTitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+  color: var(--aais-text-dark);
+}
+
+.liveBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--aais-olive);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.liveDot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--aais-olive);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.updatesGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.updateCard {
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+}
+
+.updateCard:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+
+.updateCardHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.updateTag {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  background: rgba(230, 123, 53, 0.1);
+  color: var(--aais-orange);
+}
+
+.updateDate {
+  font-size: 0.75rem;
+  color: var(--aais-text-light);
+}
+
+.updateTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.35rem 0;
+  color: var(--aais-text-dark);
+}
+
+.updateSummary {
+  font-size: 0.85rem;
+  color: var(--aais-text-medium);
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Dark Mode */
+[data-theme='dark'] .recentlyUpdatedSection {
+  background: #242424;
+}
+
+[data-theme='dark'] .sectionTitle {
+  color: #FFFFFF;
+}
+
+[data-theme='dark'] .liveBadge {
+  color: #8CA67A;
+}
+
+[data-theme='dark'] .liveDot {
+  background: #8CA67A;
+}
+
+[data-theme='dark'] .updateCard {
+  background: #2A2A2A;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme='dark'] .updateTag {
+  background: rgba(230, 123, 53, 0.15);
+}
+
+[data-theme='dark'] .updateTitle {
+  color: #FFFFFF;
+}
+
+[data-theme='dark'] .updateSummary {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+[data-theme='dark'] .updateDate {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .recentlyUpdatedSection {
+    padding: 2rem 0;
+  }
+
+  .container {
+    padding: 0 1.5rem;
+  }
+
+  .updatesGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .sectionHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+}
