@@ -96,9 +96,9 @@ One paragraph per hosting organization. Include mission, credibility signals, an
 
 > **[Applied AI Society](https://appliedaisociety.org/)** — [One-sentence mission]. [What makes the community distinctive].
 >
-> **[Co-host Name](link)** — [Mission]. [Concrete credibility: numbers, history, reach]. [Brief invitation to join].
+> **\[Co-host Name\](url)** — [Mission]. [Concrete credibility: numbers, history, reach]. [Brief invitation to join].
 >
-> **[Venue Partner](link)** — [What they do]. [Why they're relevant to the audience].
+> **\[Venue Partner\](url)** — [What they do]. [Why they're relevant to the audience].
 
 ### Known Org Links
 
