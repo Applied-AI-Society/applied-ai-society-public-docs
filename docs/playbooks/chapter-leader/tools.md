@@ -174,6 +174,35 @@ Both LinkedIn and Twitter have limits on how many messages you can send. Phantom
 
 ---
 
+## Remotion
+
+**What it is:** React-based framework for creating videos and static graphics programmatically.
+
+**Website:** [remotion.dev](https://remotion.dev)
+
+**What we use it for:**
+- Event flyers (square 1080x1080 PNGs)
+- Event promo videos
+- Brand intro bumpers
+
+**Why it's useful:**
+Remotion lets you build graphics and videos as React components. Instead of designing each flyer in Canva or Figma, you define a template once in code, then swap out props (speaker names, dates, venues, logos) to generate new flyers instantly. Brand colors, fonts, and layout rules are enforced by the code, so every output is consistent.
+
+This matters for scale. When you're running recurring events, you don't want to re-design a flyer from scratch each time. Change the props, render, done.
+
+**How it works:**
+- `npm start` opens Remotion Studio where you preview compositions live
+- `npm run still:flyer` renders a flyer to PNG
+- Pass custom props via CLI to generate variants without touching code
+
+**Tips:**
+- See the [Generating Flyers](/docs/playbooks/chapter-leader/generating-flyers) playbook for a step-by-step guide
+- The `EventFlyer` composition accepts props for co-host logos, agenda items, speaker attribution, date, and venue
+- Drop co-host logos as PNGs in the `public/` directory and reference them by filename
+- If you know React, you already know how to make new compositions
+
+---
+
 ## What's Next
 
 We'll add more tools as we find them useful. If you're a chapter leader and you've found something that helps, let us know.
