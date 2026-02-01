@@ -92,13 +92,25 @@ Then call out the signature format:
 
 ### Hosted By
 
-One paragraph per hosting organization. Include mission, credibility signals, and (optionally) a link.
+One paragraph per hosting organization. Include mission, credibility signals, and a link. **Every org mentioned must include a link.**
 
-> **Applied AI Society** — [One-sentence mission]. [What makes the community distinctive].
+> **[Applied AI Society](https://appliedaisociety.org/)** — [One-sentence mission]. [What makes the community distinctive].
 >
-> **[Co-host Name]** — [Mission]. [Concrete credibility: numbers, history, reach]. [Brief invitation to join].
+> **[Co-host Name](link)** — [Mission]. [Concrete credibility: numbers, history, reach]. [Brief invitation to join].
 >
-> **[Venue Partner]** — [What they do]. [Why they're relevant to the audience]. [Optional link].
+> **[Venue Partner](link)** — [What they do]. [Why they're relevant to the audience].
+
+### Known Org Links
+
+Always use these URLs when referencing these organizations:
+
+| Organization | URL |
+|-------------|-----|
+| Applied AI Society | https://appliedaisociety.org/ |
+| AITX Community | https://www.aitxcommunity.com/ |
+| OpenTeams | https://openteams.com/ |
+| Open Technology Incubator | https://otincubator.com/ |
+| Station Austin | https://stationtexas.org/ |
 
 ### Sponsor Acknowledgment
 
@@ -106,13 +118,13 @@ One paragraph per hosting organization. Include mission, credibility signals, an
 
 **1. Founding sponsors (always include):**
 
-> The Applied AI Society is grateful to OpenTeams and Open Technology Incubator as founding sponsors. OpenTeams is building the infrastructure layer for applied AI, and their commitment to democratizing AI access is core to why the Applied AI Society exists. OT Incubator's mission is to provide entrepreneurs with services and capital to create the transformative organizations and businesses that will bring about the Applied AI Economy.
+> The Applied AI Society is grateful to [OpenTeams](https://openteams.com/) and [Open Technology Incubator](https://otincubator.com/) as founding sponsors. OpenTeams is building the infrastructure layer for applied AI, and their commitment to democratizing AI access is core to why the Applied AI Society exists. OT Incubator's mission is to provide entrepreneurs with services and capital to create the transformative organizations and businesses that will bring about the Applied AI Economy.
 
 **2. Venue/event sponsors (when applicable):**
 
 For any event at Capital Factory / Station Austin, always include:
 
-> Thank you to Station Austin for sponsoring [Event Name]. Station Austin is the center of gravity for entrepreneurs in Texas. They bring together the best entrepreneurs in the state and connect them with their first investors, employees, mentors, and customers. To sign up for a Station Austin membership, click here.
+> Thank you to [Station Austin](https://stationtexas.org/) for sponsoring [Event Name]. Station Austin is the center of gravity for entrepreneurs in Texas. They bring together the best entrepreneurs in the state and connect them with their first investors, employees, mentors, and customers. To sign up for a [Station Austin membership](https://stationtexas.org/), click here.
 
 For other venue sponsors, follow the same pattern: grateful, brief, connected to mission.
 
