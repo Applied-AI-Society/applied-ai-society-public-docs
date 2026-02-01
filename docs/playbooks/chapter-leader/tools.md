@@ -184,6 +184,7 @@ Both LinkedIn and Twitter have limits on how many messages you can send. Phantom
 - Event flyers (square 1080x1080 PNGs)
 - Event promo videos
 - Brand intro bumpers
+- Ambient event videos (looping visuals for the projector while people network or file in)
 
 **Why it's useful:**
 Remotion lets you build graphics and videos as React components. Instead of designing each flyer in Canva or Figma, you define a template once in code, then swap out props (speaker names, dates, venues, logos) to generate new flyers instantly. Brand colors, fonts, and layout rules are enforced by the code, so every output is consistent.
