@@ -32,8 +32,8 @@ npx remotion still EventFlyer out/flyer.png --props='{
     { "text": "Talk by **AI Pioneer**", "speaker": "Travis Oliphant" },
     { "text": "**Live architecting** of an agentic solution\nfor a real business by", "speaker": "Jack Moffatt" }
   ],
-  "dateLine": "Tuesday, Feb 24th at 5:30 PM",
-  "venueLine": "Capital Factory — Voltron Room, Ground Floor"
+  "dateLine": "Thursday, Feb 26th at 5:30 PM",
+  "venueLine": "Antler VC HQ — Austin, TX"
 }'
 ```
 
@@ -79,8 +79,8 @@ The logo appears next to the Applied AI Society stacked logo at the top of the f
 | `coHostCircleCrop` | `boolean` | `true` | Whether to circle-crop the co-host logo |
 | `eventTitle` | `string` | _(none)_ | Custom title text. If omitted, the "Applied AI Live" SVG logo is used. |
 | `agendaItems` | `AgendaItem[]` | _(see below)_ | Array of agenda items to display |
-| `dateLine` | `string` | `"Tuesday, Feb 24th at 5:30 PM"` | Date/time shown in the orange pill |
-| `venueLine` | `string` | `"Capital Factory — Voltron Room, Ground Floor"` | Venue shown in the orange pill |
+| `dateLine` | `string` | `"Thursday, Feb 26th at 5:30 PM"` | Date/time shown in the orange pill |
+| `venueLine` | `string` | `"Antler VC HQ — Austin, TX"` | Venue shown in the orange pill |
 
 ### AgendaItem
 
