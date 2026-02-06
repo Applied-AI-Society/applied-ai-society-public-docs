@@ -190,6 +190,25 @@ import { motion } from "framer-motion";
 
 ---
 
+## Favicon
+
+All Applied AI Society web properties use the **sun icon** as their favicon. The sun is one of our core brand motifs representing energy, optimism, and new beginnings. It works well at small sizes and is immediately recognizable.
+
+<div style={{ backgroundColor: '#FAF7F1', padding: '1rem', borderRadius: '8px', marginBottom: '0.5rem', border: '1px solid rgba(0,0,0,0.05)', display: 'inline-block' }}>
+  <img src="/img/favicon.svg" alt="Favicon" style={{ width: '64px', height: '64px' }} />
+</div>
+
+The favicon uses the brand gradient (<InlineColor color="#FFC14D" /> → <InlineColor color="#E67B35" />) in SVG format for crisp rendering at any size. SVG favicons are supported by all modern browsers.
+
+**Download:** [favicon.svg](/img/favicon.svg)
+
+**Implementation:**
+- **Docusaurus sites**: Set `favicon: 'img/favicon.svg'` in `docusaurus.config.ts`
+- **Next.js sites**: Place `icon.svg` (or `favicon.svg`) in `app/` or `public/` and reference via metadata
+- **Static HTML**: `<link rel="icon" type="image/svg+xml" href="/favicon.svg" />`
+
+---
+
 ## Usage Rules
 
 ### Do

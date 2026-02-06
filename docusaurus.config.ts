@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Applied AI Society Docs',
   tagline: 'Case studies, playbooks, and resources for applied AI practitioners.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   url: 'https://docs.appliedaisociety.org',
   baseUrl: '/',
