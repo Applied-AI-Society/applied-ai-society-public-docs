@@ -22,6 +22,13 @@ interface QuickLinkItem {
 
 const docSections: DocSection[] = [
   {
+    title: 'Philosophy',
+    description: 'The Applied AI Canon and our operating principles.',
+    link: '/docs/philosophy',
+    icon: '🧭',
+    color: 'dark',
+  },
+  {
     title: 'Case Studies',
     description: 'Real projects, real results. Learn from documented implementations across industries.',
     link: '/docs/case-studies',
@@ -34,13 +41,6 @@ const docSections: DocSection[] = [
     link: '/docs/playbooks',
     icon: '📚',
     color: 'amber',
-  },
-  {
-    title: 'Principles',
-    description: 'The beliefs and operating philosophy that guide the Applied AI Society.',
-    link: '/docs/principles',
-    icon: '🧭',
-    color: 'dark',
   },
 ];
 
