@@ -5,7 +5,7 @@ title: Principles
 
 # Principles
 
-The [Canon](/docs/philosophy/canon) declares why we exist. These four principles define how we operate as a community.
+The [Canon](/docs/philosophy/canon) declares why we exist. These five principles define how we operate as a community.
 
 ---
 
@@ -38,6 +38,14 @@ We're not here to promote one company over another. Our loyalty is to open tools
 Every case study, every workflow pattern, every success and failure, shared freely.
 
 The whole community benefits when we learn in public. That's why we document everything and share it openly.
+
+---
+
+## 05. Bridge builders and practitioners
+
+The implementation gap closes when technical and non-technical people learn from each other.
+
+We build environments where builders, open source contributors, advocates, and practitioners unlock value the other groups hold. Tacit knowledge (the kind you can only gain through experience) flows when these worlds overlap.
 
 ---
 
