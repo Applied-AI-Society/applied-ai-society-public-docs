@@ -26,8 +26,22 @@ Guides for running Applied AI Society chapters and events.
 
 ---
 
+## For Presenters
+
+Guides for guest presenters at Applied AI Society events.
+
+| Playbook | Description |
+|----------|-------------|
+| [Presenting at Applied AI Live](/docs/playbooks/presenter/presenting-at-applied-ai-live) | How to prepare your case study talk and topic discussion |
+
+[View all Presenter playbooks →](/docs/playbooks/presenter)
+
+---
+
 ## For Practitioners
 
 Guides for applied AI engineers doing consulting and implementation work.
 
-*Coming soon.* We're developing guides on finding clients, scoping projects, pricing, and more.[View Practitioner playbooks →](/docs/playbooks/practitioner)
+*Coming soon.* We're developing guides on finding clients, scoping projects, pricing, and more.
+
+[View Practitioner playbooks →](/docs/playbooks/practitioner)
