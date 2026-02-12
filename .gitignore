@@ -24,3 +24,6 @@ yarn-error.log*
 .env.*.local
 
 .vercel
+
+# Generated at build time
+src/data/recentUpdates.json

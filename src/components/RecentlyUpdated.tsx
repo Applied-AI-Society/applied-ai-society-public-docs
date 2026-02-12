@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
 import styles from './RecentlyUpdated.module.css';
+import recentUpdates from '../data/recentUpdates.json';
 
 interface RecentUpdate {
   title: string;
@@ -9,37 +10,6 @@ interface RecentUpdate {
   summary: string;
   tag: string;
 }
-
-const recentUpdates: RecentUpdate[] = [
-  {
-    title: 'Presenting at Applied AI Live',
-    link: '/docs/playbooks/presenter/presenting-at-applied-ai-live',
-    date: '2026-02-11',
-    summary: 'New guest presenter playbook with talk format, prep tips, and what to expect.',
-    tag: 'New',
-  },
-  {
-    title: 'Applied AI Canon & Principles',
-    link: '/docs/philosophy/canon',
-    date: '2026-02-07',
-    summary: 'New canon of essential readings plus Principle 05: bridge builders and practitioners.',
-    tag: 'New',
-  },
-  {
-    title: 'Legacy Framework',
-    link: '/docs/legacy',
-    date: '2026-02-05',
-    summary: 'Full framework for managing organizational truth: principles, processes, and tools.',
-    tag: 'New',
-  },
-  {
-    title: 'Writing & Sharing Event Recaps',
-    link: '/docs/playbooks/chapter-leader/writing-and-sharing-event-recaps',
-    date: '2026-02-01',
-    summary: 'Playbook for turning event recordings into multi-platform recaps.',
-    tag: 'New',
-  },
-];
 
 function formatDate(dateStr: string): string {
   const date = new Date(dateStr + 'T00:00:00');
@@ -62,7 +32,7 @@ export default function RecentlyUpdated(): React.ReactElement {
           </span>
         </div>
         <div className={styles.updatesGrid}>
-          {recentUpdates.map((update, idx) => (
+          {(recentUpdates as RecentUpdate[]).map((update, idx) => (
             <Link key={idx} to={update.link} className={styles.updateCard}>
               <div className={styles.updateCardHeader}>
                 <span className={styles.updateTag}>{update.tag}</span>
