@@ -12,32 +12,32 @@ interface RecentUpdate {
 
 const recentUpdates: RecentUpdate[] = [
   {
-    title: 'Applied AI Live',
-    link: '/docs/playbooks/chapter-leader/applied-ai-live',
-    date: '2026-01-30',
-    summary: 'Updated with real budget, attendance, and first-event lessons from Live #1.',
-    tag: 'Updated',
-  },
-  {
-    title: 'Applied AI Live #1 — Austin',
-    link: '/docs/playbooks/chapter-leader/event-recaps/applied-ai-live-1',
-    date: '2026-01-30',
-    summary: 'New: first event recap with format, costs, and learnings.',
+    title: 'Presenting at Applied AI Live',
+    link: '/docs/playbooks/presenter/presenting-at-applied-ai-live',
+    date: '2026-02-11',
+    summary: 'New guest presenter playbook with talk format, prep tips, and what to expect.',
     tag: 'New',
   },
   {
-    title: 'Building Partnerships',
-    link: '/docs/playbooks/chapter-leader/building-partnerships',
-    date: '2026-01-30',
-    summary: 'Added local partner model and AITX partnership learnings.',
-    tag: 'Updated',
+    title: 'Applied AI Canon & Principles',
+    link: '/docs/philosophy/canon',
+    date: '2026-02-07',
+    summary: 'New canon of essential readings plus Principle 05: bridge builders and practitioners.',
+    tag: 'New',
   },
   {
-    title: 'Getting Things Done',
-    link: '/docs/playbooks/chapter-leader/getting-things-done',
-    date: '2026-01-30',
-    summary: 'Added real-world proof of the AI workspace advantage from Live #1.',
-    tag: 'Updated',
+    title: 'Legacy Framework',
+    link: '/docs/legacy',
+    date: '2026-02-05',
+    summary: 'Full framework for managing organizational truth: principles, processes, and tools.',
+    tag: 'New',
+  },
+  {
+    title: 'Writing & Sharing Event Recaps',
+    link: '/docs/playbooks/chapter-leader/writing-and-sharing-event-recaps',
+    date: '2026-02-01',
+    summary: 'Playbook for turning event recordings into multi-platform recaps.',
+    tag: 'New',
   },
 ];
 
@@ -55,7 +55,7 @@ export default function RecentlyUpdated(): React.ReactElement {
     <section className={styles.recentlyUpdatedSection}>
       <div className={styles.container}>
         <div className={styles.sectionHeader}>
-          <h2 className={styles.sectionTitle}>Recently Updated</h2>
+          <h2 className={styles.sectionTitle}>Recently Created or Updated</h2>
           <span className={styles.liveBadge}>
             <span className={styles.liveDot} />
             Actively maintained
