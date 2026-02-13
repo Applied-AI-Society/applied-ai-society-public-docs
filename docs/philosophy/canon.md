@@ -57,4 +57,4 @@ doing the work only humans can do.
 
 ---
 
-*These beliefs are the foundation. For how they translate into daily practice, see our [Principles](/docs/philosophy/principles).*
+*These beliefs are the foundation. For how they translate into daily practice, and who we serve first, see our [Principles](/docs/philosophy/principles).*

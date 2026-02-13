@@ -5,7 +5,17 @@ title: Practitioner Playbooks
 
 # Practitioner Playbooks
 
-Guides for applied AI engineers doing consulting and implementation work.
+Guides for anyone applying AI professionally, whether you're just starting out or running engagements for clients.
+
+---
+
+## The Opportunity
+
+There has never been a better time to be young and comfortable with AI. Companies across every industry need people who can bridge the gap between what AI can do and what their business actually needs. That gap is the opportunity.
+
+The K-shaped economy is real: companies that embrace AI will compound their advantage, while companies that don't will fall behind. Young practitioners who learn to help organizations cross that divide will be the most valuable hires of the next decade.
+
+Culture transformation (helping companies develop an AI-first mindset) is the highest-leverage work in this space. But it starts with practitioners who understand both the technology and the humans using it.
 
 ---
 
@@ -13,17 +23,21 @@ Guides for applied AI engineers doing consulting and implementation work.
 
 We're developing practical guides covering:
 
-- **Finding Clients** — How to identify and land applied AI projects
-- **Scoping Projects** — Frameworks for estimating and defining AI implementations
-- **Discovery Sessions** — How to assess a business's AI readiness
-- **Pricing Your Work** — How to charge and communicate value
-- **Proof of Concept** — Building quick wins that demonstrate value
-- **Client Communication** — Managing relationships and expectations
+- **Getting Started as a Practitioner** — How to go from "I use AI every day" to "I apply AI professionally"
+- **Building Your Portfolio** — Documenting your first projects to land clients or jobs
+- **Culture Transformation Engagements** — Helping organizations develop an AI-first mindset
+- **Forward Deployed Hackathons** — Running internal hackathon weekends inside companies to shift culture
+- **Finding Clients** — Identifying companies that know they need to change but can't do it alone
+- **Scoping Engagements** — Framing culture transformation work (not hourly consulting)
+- **Discovery Sessions** — Assessing an organization's AI readiness and culture
+- **Executive Coaching** — Helping leaders understand the K-shaped economy and what it means for their business
 
-These playbooks are informed by interviews with practitioners in the field. Check back for updates.
+These playbooks are informed by real engagements and interviews with practitioners in the field. Check back for updates.
 
 ---
 
 ## Learn from Practitioners
 
-In the meantime, read our [Case Studies](/docs/case-studies) to learn directly from people doing the work.
+New to applied AI? Start by attending an [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) event in your city.
+
+Already doing the work? Read our [Case Studies](/docs/case-studies) to learn directly from people in the field.

@@ -37,7 +37,7 @@ const docSections: DocSection[] = [
   },
   {
     title: 'Playbooks',
-    description: 'Step-by-step guides for running events, starting chapters, and finding clients.',
+    description: 'Step-by-step guides for running events, starting chapters, and building your applied AI career.',
     link: '/docs/playbooks',
     icon: '📚',
     color: 'amber',
@@ -59,7 +59,7 @@ function HeroSection(): React.ReactElement {
           Applied AI Society Docs
         </h1>
         <p className={styles.heroSubtitle}>
-          Everything you need to help businesses implement AI. Case studies, playbooks, tools, and community resources.
+          Resources for the next generation of applied AI practitioners. Case studies, playbooks, and community knowledge.
         </p>
         <div className={styles.heroActions}>
           <Link className={styles.primaryButton} to="/docs/case-studies">
@@ -137,16 +137,24 @@ function AboutSection(): React.ReactElement {
           <div className={styles.aboutContent}>
             <h2>What is the Applied AI Society?</h2>
             <p>
-              We're a community of <strong>Applied AI Engineers</strong>—people who help real businesses 
-              implement AI systems. This documentation site contains our collective knowledge: case studies 
-              from real projects, playbooks for common workflows, and curated tool recommendations.
+              We invest in young people who are comfortable with AI and help them apply
+              that fluency professionally. Through <strong>hyperlocal chapters</strong> led
+              by AI-native young leaders, we create communities where the next generation of
+              applied AI practitioners learns by doing. The businesses that support our chapters
+              gain access to the best hires of the next decade. That is the win-win at the
+              heart of everything we do.
+            </p>
+            <p>
+              This documentation site contains our collective knowledge: case studies
+              from real projects, playbooks for running chapters and events, and guides for
+              anyone building an applied AI career.
             </p>
             <p>
               The Applied AI Society is grateful to <strong>OpenTeams</strong> and{' '}
               <strong>Open Technology Incubator (OT Incubator)</strong> as founding sponsors.
-              OpenTeams is building the infrastructure layer for applied AI — including Nebari, an
+              OpenTeams is building the infrastructure layer for applied AI, including Nebari, an
               open-source operating system for AI workflows that gives organizations sovereignty
-              over their data. OT Incubator's mission is to provide entrepreneurs with services and
+              over their data. OT Incubator provides entrepreneurs with services and
               capital to create the transformative organizations and businesses that will bring about
               the Applied AI Economy built around open technology.
             </p>
