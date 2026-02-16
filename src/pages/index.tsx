@@ -59,7 +59,7 @@ function HeroSection(): React.ReactElement {
           Applied AI Society Docs
         </h1>
         <p className={styles.heroSubtitle}>
-          Resources for the next generation of applied AI practitioners. Case studies, playbooks, and community knowledge.
+          The Applied AI Society is a community of people learning to apply AI professionally. This is where we share everything we figure out: playbooks, case studies, and open documentation.
         </p>
         <div className={styles.heroActions}>
           <Link className={styles.primaryButton} to="/docs/case-studies">
@@ -190,7 +190,7 @@ export default function Home(): React.ReactElement {
   return (
     <Layout
       title="Docs"
-      description="Documentation for the Applied AI Society. Case studies, playbooks, tools, and resources for applied AI practitioners."
+      description="The Applied AI Society is a community of people learning to apply AI professionally. Playbooks, case studies, and open documentation."
     >
       <HeroSection />
       <main>
