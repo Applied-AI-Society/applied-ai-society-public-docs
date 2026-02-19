@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-title: "Think Like an Applied AI Scientist"
+title: "Be an Applied AI Scientist"
 ---
 
-# Think Like an Applied AI Scientist
+# Be an Applied AI Scientist
 
 The most common mistake in applied AI work is treating it like a plumbing job: something is broken, you fix it, you leave.
 
