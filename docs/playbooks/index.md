@@ -45,3 +45,15 @@ Guides for applied AI engineers doing consulting and implementation work.
 *Coming soon.* We're developing guides on finding clients, scoping projects, pricing, and more.
 
 [View Practitioner playbooks →](/docs/playbooks/practitioner)
+
+---
+
+## For Business Owners
+
+Resources for operators who have real problems, want to leverage AI, and need help getting started.
+
+| Playbook | Description |
+|----------|-------------|
+| [Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief) | A scoping template to complete before engaging an applied AI engineer |
+
+[View Business Owner playbooks →](/docs/playbooks/business-owner)
