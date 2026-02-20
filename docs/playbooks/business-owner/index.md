@@ -11,23 +11,29 @@ This section is for you.
 
 ---
 
-## The Two-Stage Path
+## The Three-Stage Path
 
 Most AI projects fail because someone started building before the foundation was ready. We've seen it repeatedly: a practitioner writes code for a system that doesn't have clean data, defined processes, or someone who owns the outcome. Everyone gets frustrated. The project stalls.
 
-The fix is a two-stage intake that protects both you and the practitioner.
+The fix is a three-stage process that protects both you and the practitioner.
 
-### Stage 1: Know Where You Stand
+### Stage 1: Quick Check (2 minutes)
 
-Before you scope any project, get honest about your current situation. What are your systems? Where's your data? Who would own this? Are you actually ready for an AI engagement, or do you have groundwork to do first?
+Six questions to find out if you're ready, close, or early. No commitment. Just clarity on where you stand and what to do next.
 
-Start here: **[AI Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment)**
+**[Take the Quick Check](/docs/playbooks/business-owner/quick-check)**
 
-### Stage 2: Scope the Engagement
+### Stage 2: Situation Map (20-30 minutes)
 
-Once you know you're ready (or after you've closed the gaps the assessment surfaced), translate your operational pain into a clear brief that any skilled practitioner can act on immediately.
+Map your current workflows, data, team, and gaps. This is the real work. Most business owners discover they haven't documented how things actually work. That discovery alone is worth the time.
 
-Then fill out: **[Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief)**
+**[Complete the Situation Map](/docs/playbooks/business-owner/situation-map)**
+
+### Stage 3: Opportunity Brief (20-30 minutes)
+
+Translate your operational pain into a clear brief that any skilled practitioner can act on immediately. This is what an engineer reads to decide if they can help you.
+
+**[Fill out the Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief)**
 
 ---
 

@@ -54,8 +54,9 @@ Resources for operators who have real problems, want to leverage AI, and need he
 
 | Playbook | Description |
 |----------|-------------|
-| [AI Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment) | Know where you stand before scoping any AI project |
-| [Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief) | A scoping template to complete after the readiness assessment |
+| [AI Quick Check](/docs/playbooks/business-owner/quick-check) | 2-minute check: are you ready, close, or early? |
+| [Situation Map](/docs/playbooks/business-owner/situation-map) | Map your workflows, data, team, and gaps |
+| [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief) | Scope the engagement for a practitioner |
 | [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation) | Why continuous improvement matters more than one-time automation |
 
 [View Business Owner playbooks →](/docs/playbooks/business-owner)

@@ -6,7 +6,7 @@ title: Applied AI Opportunity Brief
 # Applied AI Opportunity Brief
 
 :::tip Prerequisite
-Before filling this out, complete the [AI Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). It ensures you've mapped your workflows, identified where the pain is, and confirmed you have the foundation to make this brief actionable.
+Before filling this out, complete the [Quick Check](/docs/playbooks/business-owner/quick-check) and [Situation Map](/docs/playbooks/business-owner/situation-map). They ensure you've identified your pain point, mapped your workflows, and confirmed you have the foundation to make this brief actionable.
 :::
 
 ## Why This Brief Exists
@@ -50,7 +50,7 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 ## 2. The Problem
 
-*You identified the area with the most pain and mapped the current workflow in your [Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). Now describe the specific problem an engineer would be solving.*
+*You identified the area with the most pain and mapped the current workflow in your [Situation Map](/docs/playbooks/business-owner/situation-map). Now describe the specific problem an engineer would be solving.*
 
 **Which area of your business is this in?** (Lead gen, sales, operations, distribution, admin)
 
@@ -76,7 +76,7 @@ Are you looking to do the same thing faster and cheaper, or to drive fundamental
 
 ## 4. Technical Environment
 
-*You mapped your tools and data in the [Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). Summarize the key details here for the engineer. Keep it brief. We'll go deeper on the call.*
+*You mapped your tools and data in the [Situation Map](/docs/playbooks/business-owner/situation-map). Summarize the key details here for the engineer. Keep it brief. We'll go deeper on the call.*
 
 **What software systems or tools are central to this problem?** (EHR, CRM, billing platform, custom software, etc.)
 
