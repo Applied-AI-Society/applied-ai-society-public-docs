@@ -88,7 +88,19 @@ If the answer to "who owns this" is unclear, that's the first thing to solve. AI
 
 ---
 
-## Part 5: Are You Ready?
+## Part 5: Your Experience with AI
+
+**Have you or your team used any AI tools?** (ChatGPT, Claude, Copilot, vendor-specific AI features, etc.)
+
+**If yes, what did you use them for and what did you think?**
+
+**Has anyone on your team tried to solve this specific problem with AI already?** What happened?
+
+This isn't a test. There's no wrong answer. But it tells a practitioner a lot about where to start with you. A team that already uses ChatGPT daily is a different engagement than a team that's never touched an AI tool.
+
+---
+
+## Part 6: Are You Ready?
 
 Check the statements that are true for your situation:
 
