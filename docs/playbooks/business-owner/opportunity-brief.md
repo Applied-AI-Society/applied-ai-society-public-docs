@@ -9,15 +9,25 @@ title: Applied AI Opportunity Brief
 Before filling this out, complete the [AI Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). It ensures you have the clarity and foundation to make this brief actionable.
 :::
 
-A scoping document you complete before engaging an applied AI engineer.
+## Why This Brief Exists
 
-**What it does:** Translates your operational pain into a clear, actionable brief that any skilled practitioner can act on immediately — without weeks of back-and-forth discovery calls.
+The purpose of this brief is so we can get full context of where AI can help your business. Please over-communicate so we understand the depth of your problem.
+
+Once complete, this document does three things:
+
+1. **Clarifies your own thinking.** Most business owners discover important gaps and assumptions while working through this. That's part of the value.
+2. **Enables fast matching.** Applied AI engineers can assess fit quickly without a long discovery process.
+3. **Sets shared expectations.** Both sides have a common reference point from day one.
+
+The more thoroughly you fill this out, the faster and better the help you'll get. A brief conversation will follow to go deeper on the details that matter most.
+
+---
 
 **Who fills it out:** The person leading AI adoption inside your company, ideally with input from the operational team closest to the problem.
 
 **Who reads it:** Applied AI engineers you're considering for the engagement. Also useful for getting internal buy-in from leadership.
 
-**Length target:** 1–3 pages. Be specific and concrete. Bullet points are preferred over paragraphs.
+**Length target:** 1-3 pages. Keep answers concise. Brief bullet points are preferred over paragraphs.
 
 ---
 
@@ -29,7 +39,7 @@ A scoping document you complete before engaging an applied AI engineer.
 
 **Size (employees / revenue range):**
 
-**What the company does (2–3 sentences):**
+**What your company does or what its main offering is (2-3 sentences):**
 
 **The person filling this out:**
 - Name and title:
@@ -38,45 +48,57 @@ A scoping document you complete before engaging an applied AI engineer.
 
 ---
 
-## 2. The Problem
+## 2. Where Is the Problem?
 
-*Be as specific as possible. Dollar figures and time estimates make this section much more useful.*
+*We're trying to figure out how AI can best offload the biggest problems in your company, especially operational problems that don't require the human touch. To help us narrow in, start by identifying which area of your business has the biggest pain.*
 
-**What operational problem are you trying to solve?**
+**Which area has the biggest problem?**
+- Lead generation and marketing
+- Sales and outreach
+- Operations and fulfillment
+- Distribution and delivery
+- Administration and back office
+- Other: ___
 
-**How is it handled today?** (Walk through the manual steps, tools involved, who does it.)
+**Briefly describe the problem in that area.** What's not working, what's too slow, or what's costing you the most?
 
-**How often does this problem occur?** (Daily, weekly, per patient, per transaction, etc.)
+---
 
-**What does this problem cost you?** (Time per week, dollars lost, errors made, delays caused)
+## 3. How It Works Today
 
-**How long has this been a problem?**
+*Keep this section brief. We'll go deeper on the call. Just give us enough to understand the basics.*
+
+**What are the basic steps involved?** (Brief bullet points: the steps, the tools used, and who does it.)
+
+**How often does this happen?** (Daily, weekly, per patient, per transaction, etc.)
+
+**What does this problem cost you?** (Time per week, dollars lost, errors made, delays caused. Even rough estimates help.)
 
 **What have you already tried? What happened?**
 
 ---
 
-## 3. The Opportunity
+## 4. The Outcome You Want
 
 **What would a good outcome look like in 90 days?**
 
 **What would a great outcome look like in 12 months?**
 
-**How would you measure success?** (Be specific: time saved, error rate reduced, cost eliminated, etc.)
+**Is there a specific metric you want to use as your measure of success?** (Time saved, error rate reduced, revenue increased, cost eliminated, etc.)
 
-**Who would benefit most from solving this?** (Specific roles, teams, or customers)
+**Who would benefit most from solving this, and why?** (Specific roles, teams, or customers)
 
 ---
 
-## 4. Technical Environment
+## 5. Technical Environment
 
-*This helps the engineer understand what they're working with and what's possible.*
+*This helps the engineer understand what they're working with. Keep answers brief.*
 
-**What software systems are central to this problem?** (EHR, CRM, billing platform, custom software, etc.)
+**What software systems or tools are you currently using for this?** (EHR, CRM, billing platform, custom software, etc.)
 
 **Are any of these systems vendor-controlled or proprietary?** (Can data be exported? Is there an API?)
 
-**What data exists that's relevant to this problem?** (Patient records, transaction logs, emails, call transcripts, documents, etc.)
+**What data exists that's relevant to this problem?** (Brief bullet points. Patient records, transaction logs, emails, call transcripts, documents, etc.)
 
 **How is that data currently stored?** (Spreadsheets, databases, cloud storage, PDFs, etc.)
 
@@ -84,21 +106,25 @@ A scoping document you complete before engaging an applied AI engineer.
 
 ---
 
-## 5. People and Stakeholders
+## 6. People and Stakeholders
 
-**Who would be involved in this project on your side?** (Day-to-day contact, subject matter expert, decision maker for budget)
+*Introducing AI workflows can significantly shift your company's culture. These questions help us understand the human side of this project.*
 
-**Who needs to approve the engagement?**
+**Who has been involved in thinking about this problem so far?**
 
-**Who would be most affected by the change?** Are there culture or change management considerations?
+**Who would be involved in the project going forward?** (Day-to-day contact, subject matter expert, decision maker)
+
+**Who needs to approve working with an AI engineer on this?**
+
+**Who would be most affected if the workflow changed?** Any concerns about adoption or resistance?
 
 **Has anyone on your team expressed skepticism about AI?** Any concerns to be aware of upfront?
 
 ---
 
-## 6. Constraints
+## 7. Constraints
 
-**Budget range:** (Even a rough range helps: under $5K, $5–25K, $25–100K, $100K+)
+**What is your budget range for this project?** (Even a rough range helps: under $5K, $5-25K, $25-100K, $100K+)
 
 **Timeline:** Is there a date by which something needs to be working? Is there urgency?
 
@@ -108,9 +134,9 @@ A scoping document you complete before engaging an applied AI engineer.
 
 ---
 
-## 7. Preliminary Ideas (Optional)
+## 8. Preliminary Ideas (Optional)
 
-*You don't need an answer here. This is just to share any instincts you already have.*
+*You don't need answers here. This is just to share any instincts you already have.*
 
 **Do you have a sense of what the solution might look like?**
 
@@ -120,27 +146,23 @@ A scoping document you complete before engaging an applied AI engineer.
 
 ---
 
-## 8. Engagement Preferences
+## 9. Visibility
 
 **Are you open to this project being referenced publicly?** (As a case study, at a community event, in a practitioner's portfolio, etc.)
 
-**Would you be interested in being featured at an Applied AI Live event**, where a practitioner architects a live solution to your problem in front of a community of applied AI engineers? (Optional — but it's one of the fastest ways to get quality help.)
-
-**Preferred engagement type:**
-- One-time scoping consultation (to get oriented on what to do next)
-- Project-based engagement (defined scope, fixed deliverable)
-- Ongoing retainer (continued support as problems evolve)
-- Not sure yet
+**Would you be interested in being featured at an Applied AI Live event**, where a practitioner architects a live solution to your problem in front of a community of applied AI engineers? (Optional, but it's one of the fastest ways to get quality help.)
 
 ---
 
-## What Happens After You Fill This Out
+## What Happens Next
 
-Once complete, this document does three things:
+After you submit this brief:
 
-1. **Clarifies your own thinking.** Most business owners discover important gaps and assumptions while working through this. That's part of the value.
-2. **Enables fast matching.** Applied AI engineers can assess fit quickly without a long discovery process.
-3. **Sets shared expectations.** Both sides have a common reference point from day one.
+1. **We review it** and identify which parts need more depth.
+2. **We schedule a call** to go deeper on the areas that matter most. This is where we'll map the full workflow, discuss technical constraints, and align on priorities.
+3. **We match you** with a practitioner whose experience fits your problem.
+
+The brief gets you 80% of the way there. The call gets the last 20%.
 
 If you want help filling this out, the Applied AI Society offers scoping consultations: a focused session that turns your operational situation into a clear, actionable brief. Reach out at [appliedaisociety.org](https://appliedaisociety.org) to get connected.
 
