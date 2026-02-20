@@ -6,7 +6,7 @@ title: Applied AI Opportunity Brief
 # Applied AI Opportunity Brief
 
 :::tip Prerequisite
-Before filling this out, complete the [AI Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). It ensures you have the clarity and foundation to make this brief actionable.
+Before filling this out, complete the [AI Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). It ensures you've mapped your workflows, identified where the pain is, and confirmed you have the foundation to make this brief actionable.
 :::
 
 ## Why This Brief Exists
@@ -48,29 +48,13 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 ---
 
-## 2. Where Is the Problem?
+## 2. The Problem
 
-*We're trying to figure out how AI can best offload the biggest problems in your company, especially operational problems that don't require the human touch. To help us narrow in, start by identifying which area of your business has the biggest pain.*
+*You identified the area with the most pain in your [Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). Now describe the specific problem an engineer would be solving.*
 
-**Which area has the biggest problem?**
-- Lead generation and marketing
-- Sales and outreach
-- Operations and fulfillment
-- Distribution and delivery
-- Administration and back office
-- Other: ___
+**Which area of your business is this in?** (Lead gen, sales, operations, distribution, admin)
 
-**Briefly describe the problem in that area.** What's not working, what's too slow, or what's costing you the most?
-
----
-
-## 3. How It Works Today
-
-*Keep this section brief. We'll go deeper on the call. Just give us enough to understand the basics.*
-
-**What are the basic steps involved?** (Brief bullet points: the steps, the tools used, and who does it.)
-
-**How often does this happen?** (Daily, weekly, per patient, per transaction, etc.)
+**What is the specific problem?** What's not working, what's too slow, or what's costing you the most?
 
 **What does this problem cost you?** (Time per week, dollars lost, errors made, delays caused. Even rough estimates help.)
 
@@ -78,7 +62,7 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 ---
 
-## 4. The Outcome You Want
+## 3. The Outcome You Want
 
 **What would a good outcome look like in 90 days?**
 
@@ -90,15 +74,15 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 ---
 
-## 5. Technical Environment
+## 4. Technical Environment
 
-*This helps the engineer understand what they're working with. Keep answers brief.*
+*This helps the engineer understand what they're working with. Keep answers brief. We'll go deeper on the call.*
 
 **What software systems or tools are you currently using for this?** (EHR, CRM, billing platform, custom software, etc.)
 
 **Are any of these systems vendor-controlled or proprietary?** (Can data be exported? Is there an API?)
 
-**What data exists that's relevant to this problem?** (Brief bullet points. Patient records, transaction logs, emails, call transcripts, documents, etc.)
+**What data exists that's relevant to this problem?** (Brief bullet points only.)
 
 **How is that data currently stored?** (Spreadsheets, databases, cloud storage, PDFs, etc.)
 
@@ -106,7 +90,7 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 ---
 
-## 6. People and Stakeholders
+## 5. People and Stakeholders
 
 *Introducing AI workflows can significantly shift your company's culture. These questions help us understand the human side of this project.*
 
@@ -122,7 +106,7 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 ---
 
-## 7. Constraints
+## 6. Constraints
 
 **What is your budget range for this project?** (Even a rough range helps: under $5K, $5-25K, $25-100K, $100K+)
 
@@ -134,7 +118,7 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 ---
 
-## 8. Preliminary Ideas (Optional)
+## 7. Preliminary Ideas (Optional)
 
 *You don't need answers here. This is just to share any instincts you already have.*
 
@@ -146,7 +130,7 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 ---
 
-## 9. Visibility
+## 8. Visibility
 
 **Are you open to this project being referenced publicly?** (As a case study, at a community event, in a practitioner's portfolio, etc.)
 
@@ -159,7 +143,7 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 After you submit this brief:
 
 1. **We review it** and identify which parts need more depth.
-2. **We schedule a call** to go deeper on the areas that matter most. This is where we'll map the full workflow, discuss technical constraints, and align on priorities.
+2. **We schedule a call** to go deeper on the areas that matter most. This is where we'll walk through the full workflow, discuss technical constraints, and align on priorities.
 3. **We match you** with a practitioner whose experience fits your problem.
 
 The brief gets you 80% of the way there. The call gets the last 20%.

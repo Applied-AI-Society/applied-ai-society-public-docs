@@ -17,27 +17,51 @@ This assessment is the prerequisite. Complete it before filling out an [Applied 
 
 There is an extensive amount of situation and system assessing that needs to happen before you even know what to build. Skipping this step is the single most common reason applied AI projects disappoint.
 
-Think of it this way: the Opportunity Brief asks "what do you want to build?" This assessment asks "are you in a position to build anything yet, and if so, what kind of thing?"
+Think of it this way: the Opportunity Brief asks "what specific project should we scope?" This assessment asks "are you in a position to scope anything yet, and if so, where should we focus?"
 
 The honest answer might be: not yet. That's valuable information. It saves you months and tens of thousands of dollars.
 
 ---
 
-## Part 1: Where Are You Now?
+## Part 1: Where Is the Pain?
 
-### Your Operations
+Before diving into details, identify which area of your business has the biggest problem. In any business, there's a flow from top of funnel to delivery:
 
-**Map the workflow you're thinking about improving.**
+- **Lead generation and marketing**: Getting attention, finding prospects, creating content
+- **Sales and outreach**: Converting interest into revenue, proposals, follow-ups
+- **Operations and fulfillment**: Delivering the product or service, processing, execution
+- **Distribution and delivery**: Getting the output to the customer
+- **Administration and back office**: Invoicing, compliance, scheduling, internal coordination
 
-Walk through it step by step. Who does what, in what order, using what tools? Be specific. "We process invoices" is not useful. "Sarah opens the email, downloads the PDF, types the line items into QuickBooks, then emails the vendor a confirmation" is useful.
+Which of these areas has the most pain? You might have problems in multiple areas, but start with the one that costs you the most time, money, or frustration.
 
-- What are the steps?
-- Who performs each step?
-- What tools or systems are involved at each step?
-- Where do things slow down, break, or require judgment calls?
-- How long does the full workflow take end to end?
+**Your answer:** ___
 
-### Your Data
+---
+
+## Part 2: Map the Current Workflow
+
+Now map how that area actually works today. Walk through it step by step. Be specific.
+
+"We process invoices" is not useful. "Sarah opens the email, downloads the PDF, types the line items into QuickBooks, then emails the vendor a confirmation" is useful.
+
+**What are the steps?** (Brief bullet points for each step in the workflow.)
+
+**Who performs each step?**
+
+**What tools or systems are involved at each step?**
+
+**Where do things slow down, break, or require judgment calls?**
+
+**How long does the full workflow take end to end?**
+
+**How often does this workflow run?** (Daily, weekly, per patient, per transaction, etc.)
+
+If you can't map your workflow, that's a finding. Many business owners discover they haven't documented their SOPs yet and can't prioritize what to automate because they haven't done an inventory of how things actually work. That mapping needs to happen before anything else.
+
+---
+
+## Part 3: Your Data
 
 **What information exists that's relevant to this workflow?**
 
@@ -49,7 +73,9 @@ Walk through it step by step. Who does what, in what order, using what tools? Be
 
 If you can't answer these questions, that's a finding. It means data infrastructure work needs to happen before any AI work can begin.
 
-### Your Team
+---
+
+## Part 4: Your Team
 
 **Who would own this if it worked?**
 
@@ -62,7 +88,7 @@ If the answer to "who owns this" is unclear, that's the first thing to solve. AI
 
 ---
 
-## Part 2: Where Do You Want to Go?
+## Part 5: What Does Success Look Like?
 
 ### Define the Outcome (Not the Solution)
 
@@ -83,11 +109,13 @@ Most people think they want #1. The real value is usually in #2. If you're only 
 
 (For more on this distinction, see [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation).)
 
-### Be Honest About Readiness
+---
+
+## Part 6: Readiness Check
 
 Check the statements that are true for your situation:
 
-- [ ] We have a clearly defined workflow with documented steps
+- [ ] We can map the workflow step by step (Part 2 above wasn't a struggle)
 - [ ] The relevant data exists in a format that can be accessed digitally
 - [ ] We have someone who would own and manage the AI-assisted workflow
 - [ ] Leadership has allocated budget for this (even a rough range)
@@ -103,14 +131,14 @@ Check the statements that are true for your situation:
 
 ---
 
-## Part 3: The Gaps
+## Part 7: The Gaps
 
 Based on your answers above, identify what needs to happen before a practitioner can write useful code.
 
 Common gaps (check any that apply):
 
-- [ ] **Data gap**: The information we need exists but isn't accessible, clean, or organized
 - [ ] **Process gap**: The workflow itself isn't clearly defined or documented
+- [ ] **Data gap**: The information we need exists but isn't accessible, clean, or organized
 - [ ] **Ownership gap**: Nobody has been designated to own the AI-assisted process
 - [ ] **Measurement gap**: We don't have a baseline for current performance
 - [ ] **Buy-in gap**: Key stakeholders haven't agreed this is worth pursuing
@@ -122,7 +150,7 @@ Each gap is a to-do item, not a blocker. But they need to be resolved before the
 
 ## What Comes Next
 
-If the assessment reveals you're ready: move to the [Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief). You now have the context to fill it out well.
+If the assessment reveals you're ready: move to the [Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief). You now have the context to fill it out well. The brief will reference the workflow, data, and team details you mapped here.
 
 If the assessment reveals gaps: work on closing them. Some of this work is internal (documenting processes, getting buy-in, designating an owner). Some of it might benefit from outside help (data cleanup, system integration, defining metrics).
 
