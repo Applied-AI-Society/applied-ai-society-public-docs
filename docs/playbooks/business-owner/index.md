@@ -11,19 +11,29 @@ This section is for you.
 
 ---
 
-## What You Actually Need
+## The Two-Stage Path
 
-You don't need to understand how large language models work. You don't need to take an AI course (though it helps). What you need is a clear way to translate your operational pain into something a skilled practitioner can act on.
+Most AI projects fail because someone started building before the foundation was ready. We've seen it repeatedly: a practitioner writes code for a system that doesn't have clean data, defined processes, or someone who owns the outcome. Everyone gets frustrated. The project stalls.
 
-That's what the resources here are designed to do.
+The fix is a two-stage intake that protects both you and the practitioner.
+
+### Stage 1: Know Where You Stand
+
+Before you scope any project, get honest about your current situation. What are your systems? Where's your data? Who would own this? Are you actually ready for an AI engagement, or do you have groundwork to do first?
+
+Start here: **[AI Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment)**
+
+### Stage 2: Scope the Engagement
+
+Once you know you're ready (or after you've closed the gaps the assessment surfaced), translate your operational pain into a clear brief that any skilled practitioner can act on immediately.
+
+Then fill out: **[Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief)**
 
 ---
 
-## The First Step
+## The Mindset That Matters
 
-Before you hire anyone or buy any tool, get clear on your problem. Most AI projects fail not because the technology didn't work, but because the problem wasn't scoped clearly from the start.
-
-Start with the [Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief) — a structured template that helps you articulate your situation in a way any applied AI engineer can immediately understand.
+The best applied AI engagements don't end at delivery. They get better over time. Before you hire anyone, understand the difference between automation (doing the same thing faster) and continuous improvement (driving better outcomes). Read [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation).
 
 ---
 

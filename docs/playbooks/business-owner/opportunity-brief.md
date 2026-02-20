@@ -5,6 +5,10 @@ title: Applied AI Opportunity Brief
 
 # Applied AI Opportunity Brief
 
+:::tip Prerequisite
+Before filling this out, complete the [AI Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). It ensures you have the clarity and foundation to make this brief actionable.
+:::
+
 A scoping document you complete before engaging an applied AI engineer.
 
 **What it does:** Translates your operational pain into a clear, actionable brief that any skilled practitioner can act on immediately — without weeks of back-and-forth discovery calls.
