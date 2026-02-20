@@ -50,15 +50,13 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 ## 2. The Problem
 
-*You identified the area with the most pain in your [Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). Now describe the specific problem an engineer would be solving.*
+*You identified the area with the most pain and mapped the current workflow in your [Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). Now describe the specific problem an engineer would be solving.*
 
 **Which area of your business is this in?** (Lead gen, sales, operations, distribution, admin)
 
 **What is the specific problem?** What's not working, what's too slow, or what's costing you the most?
 
 **What does this problem cost you?** (Time per week, dollars lost, errors made, delays caused. Even rough estimates help.)
-
-**What have you already tried? What happened?**
 
 ---
 
@@ -72,19 +70,17 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 **Who would benefit most from solving this, and why?** (Specific roles, teams, or customers)
 
+Are you looking to do the same thing faster and cheaper, or to drive fundamentally better outcomes over time? (For more on why this matters, see [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation).)
+
 ---
 
 ## 4. Technical Environment
 
-*This helps the engineer understand what they're working with. Keep answers brief. We'll go deeper on the call.*
+*You mapped your tools and data in the [Readiness Assessment](/docs/playbooks/business-owner/readiness-assessment). Summarize the key details here for the engineer. Keep it brief. We'll go deeper on the call.*
 
-**What software systems or tools are you currently using for this?** (EHR, CRM, billing platform, custom software, etc.)
+**What software systems or tools are central to this problem?** (EHR, CRM, billing platform, custom software, etc.)
 
 **Are any of these systems vendor-controlled or proprietary?** (Can data be exported? Is there an API?)
-
-**What data exists that's relevant to this problem?** (Brief bullet points only.)
-
-**How is that data currently stored?** (Spreadsheets, databases, cloud storage, PDFs, etc.)
 
 **Are there compliance constraints?** (HIPAA, SOC 2, GDPR, financial regulations, etc.)
 
@@ -101,8 +97,6 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 **Who needs to approve working with an AI engineer on this?**
 
 **Who would be most affected if the workflow changed?** Any concerns about adoption or resistance?
-
-**Has anyone on your team expressed skepticism about AI?** Any concerns to be aware of upfront?
 
 ---
 

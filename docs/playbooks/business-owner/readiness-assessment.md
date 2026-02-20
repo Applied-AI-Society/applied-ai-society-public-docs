@@ -88,30 +88,7 @@ If the answer to "who owns this" is unclear, that's the first thing to solve. AI
 
 ---
 
-## Part 5: What Does Success Look Like?
-
-### Define the Outcome (Not the Solution)
-
-Don't say "I want an AI chatbot." Say what you actually want to happen differently.
-
-- What would be true in 90 days if this worked perfectly?
-- What metric would move? (Revenue, time saved, error rate, customer satisfaction, employee retention)
-- How would you know it's working? What would you look at?
-
-### Separate "Faster" from "Better"
-
-This is a critical distinction. There are two kinds of improvement:
-
-1. **Streamlining**: doing the same thing, faster or cheaper. The output quality stays the same.
-2. **Enhancement**: doing a fundamentally better thing. The output quality improves over time.
-
-Most people think they want #1. The real value is usually in #2. If you're only automating to equivalent quality, you're leaving the biggest opportunity on the table.
-
-(For more on this distinction, see [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation).)
-
----
-
-## Part 6: Readiness Check
+## Part 5: Are You Ready?
 
 Check the statements that are true for your situation:
 
@@ -119,30 +96,24 @@ Check the statements that are true for your situation:
 - [ ] The relevant data exists in a format that can be accessed digitally
 - [ ] We have someone who would own and manage the AI-assisted workflow
 - [ ] Leadership has allocated budget for this (even a rough range)
-- [ ] We can articulate what success looks like in measurable terms
-- [ ] We've tried at least one thing already (even if it didn't work)
+- [ ] We can describe what "better" would look like in measurable terms
 - [ ] The team affected by this change is open to trying new tools
 
-**If you checked 5 or more:** You're likely ready to move to the [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief).
+**If you checked 5 or more:** You're ready. Move to the [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief). You now have the context to fill it out well.
 
 **If you checked 3-4:** You're close. A scoping consultation could help you close the gaps. The main risk is starting a project before the foundation is solid.
 
 **If you checked fewer than 3:** You have important groundwork to do first. That's not a failure. It's the most valuable thing you can learn before spending money on an AI engagement.
 
----
+### Common Gaps
 
-## Part 7: The Gaps
+If you're not ready yet, here are the most common things that need to happen first:
 
-Based on your answers above, identify what needs to happen before a practitioner can write useful code.
-
-Common gaps (check any that apply):
-
-- [ ] **Process gap**: The workflow itself isn't clearly defined or documented
-- [ ] **Data gap**: The information we need exists but isn't accessible, clean, or organized
-- [ ] **Ownership gap**: Nobody has been designated to own the AI-assisted process
-- [ ] **Measurement gap**: We don't have a baseline for current performance
-- [ ] **Buy-in gap**: Key stakeholders haven't agreed this is worth pursuing
-- [ ] **Technical gap**: Our systems don't support integration or data export
+- **Process gap**: The workflow itself isn't clearly defined or documented
+- **Data gap**: The information exists but isn't accessible, clean, or organized
+- **Ownership gap**: Nobody has been designated to own the AI-assisted process
+- **Buy-in gap**: Key stakeholders haven't agreed this is worth pursuing
+- **Technical gap**: Systems don't support integration or data export
 
 Each gap is a to-do item, not a blocker. But they need to be resolved before the AI work begins, not discovered mid-project.
 
@@ -150,9 +121,9 @@ Each gap is a to-do item, not a blocker. But they need to be resolved before the
 
 ## What Comes Next
 
-If the assessment reveals you're ready: move to the [Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief). You now have the context to fill it out well. The brief will reference the workflow, data, and team details you mapped here.
+If the assessment reveals you're ready: move to the [Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief). The brief will ask you to define outcomes, scope the technical environment, and describe the engagement you're looking for. The workflow, data, and team details you mapped here are the foundation for that.
 
-If the assessment reveals gaps: work on closing them. Some of this work is internal (documenting processes, getting buy-in, designating an owner). Some of it might benefit from outside help (data cleanup, system integration, defining metrics).
+If the assessment reveals gaps: work on closing them. Some of this work is internal (documenting processes, getting buy-in, designating an owner). Some of it might benefit from outside help (data cleanup, system integration).
 
 Either way, you now know where you stand. That clarity is worth more than any premature engagement.
 
