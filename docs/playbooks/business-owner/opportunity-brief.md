@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: Applied AI Opportunity Brief
 ---
 
@@ -19,7 +19,7 @@ Once complete, this document does three things:
 2. **Enables fast matching.** Applied AI engineers can assess fit quickly without a long discovery process.
 3. **Sets shared expectations.** Both sides have a common reference point from day one.
 
-The more thoroughly you fill this out, the faster and better the help you'll get. A brief conversation will follow to go deeper on the details that matter most.
+The more thoroughly you fill this out, the faster and better the help you'll get.
 
 ---
 
@@ -51,8 +51,6 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 ## 2. The Problem
 
 *You identified the area with the most pain and mapped the current workflow in your [Situation Map](/docs/playbooks/business-owner/situation-map). Now describe the specific problem an engineer would be solving.*
-
-**Which area of your business is this in?** (Lead gen, sales, operations, distribution, admin)
 
 **What is the specific problem?** What's not working, what's too slow, or what's costing you the most?
 

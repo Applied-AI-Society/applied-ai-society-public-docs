@@ -15,23 +15,7 @@ To schedule a guided situation mapping session, reach out at [appliedaisociety.o
 
 ---
 
-## 1. Where Is the Pain?
-
-Identify which area of your business has the biggest problem. In any business, there's a flow from top of funnel to delivery:
-
-- **Lead generation and marketing**: Getting attention, finding prospects, creating content
-- **Sales and outreach**: Converting interest into revenue, proposals, follow-ups
-- **Operations and fulfillment**: Delivering the product or service, processing, execution
-- **Distribution and delivery**: Getting the output to the customer
-- **Administration and back office**: Invoicing, compliance, scheduling, internal coordination
-
-Start with the one area that costs you the most time, money, or frustration.
-
-**Your answer:** ___
-
----
-
-## 2. The Current Workflow
+## 1. The Current Workflow
 
 Map how that area actually works today. Walk through it step by step.
 
@@ -53,7 +37,7 @@ If you can't map your workflow, that's a finding. Many business owners discover 
 
 ---
 
-## 3. The Data
+## 2. The Data
 
 **What information exists that's relevant to this workflow?**
 
@@ -66,7 +50,7 @@ If you can't answer these questions, it means data infrastructure work needs to 
 
 ---
 
-## 4. The Team
+## 3. The Team
 
 **Who would own this if it worked?**
 
@@ -78,7 +62,7 @@ If the answer to "who owns this" is unclear, that's the first thing to solve. AI
 
 ---
 
-## 5. Gaps
+## 4. Gaps
 
 Based on your answers, check any that apply:
 

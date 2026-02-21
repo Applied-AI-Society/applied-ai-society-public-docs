@@ -79,8 +79,8 @@ This is a fundamentally different engagement structure from "here's your deliver
 
 ## Before You Engage Anyone
 
-The [Applied AI Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief) asks you to define success metrics and desired outcomes before you hire anyone.
+The [three-stage path](/docs/playbooks/business-owner) exists to protect you. The [Quick Check](/docs/playbooks/business-owner/quick-check) confirms you're ready. The [Situation Map](/docs/playbooks/business-owner/situation-map) ensures your workflows, data, and team are mapped honestly. The [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief) asks you to define success metrics and desired outcomes before you hire anyone.
 
-That's not administrative overhead. It's the prerequisite to knowing whether anything actually improved. Without a clear metric defined at the start, you have no way to evaluate whether the engagement delivered real value — and neither does the practitioner.
+That's not administrative overhead. It's the prerequisite to knowing whether anything actually improved. Without a clear metric defined at the start, you have no way to evaluate whether the engagement delivered real value, and neither does the practitioner.
 
-Fill it out first. It will also tell you a lot about which practitioners take it seriously and which ones just want to start building.
+Work through all three stages first. It will also tell you a lot about which practitioners take it seriously and which ones just want to start building.

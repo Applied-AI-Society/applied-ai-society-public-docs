@@ -53,13 +53,13 @@ title: AI Quick Check
 
 You have a real problem, decision-making power, budget, and someone to own it. You don't need to be convinced that AI can help. You need to scope what to build.
 
-**Your next step:** Schedule a [Situation Map](/docs/playbooks/business-owner/situation-map) session. This is a guided conversation (usually 30 minutes) where you walk through your workflows, data, and team with a practitioner or AAS advisor. You can also review the questions on your own in advance. After that, you'll be ready for the [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief).
+**Your next step:** Review the [Situation Map](/docs/playbooks/business-owner/situation-map) questions on your own, then schedule a 30-minute session with a practitioner or AAS advisor to walk through them together. After that, you'll be ready for the [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief).
 
 ### Mostly B's: You're close.
 
 You have the instincts but not the foundation yet. The risk is starting a project before the groundwork is done. A little preparation now saves a lot of frustration later.
 
-**Your next step:** Schedule a [Situation Map](/docs/playbooks/business-owner/situation-map) session. Walking through the questions with someone who's done this before makes it much easier than trying to fill it out alone. Reach out at [appliedaisociety.org](https://appliedaisociety.org) to get connected.
+**Your next step:** Schedule a [Situation Map](/docs/playbooks/business-owner/situation-map) session. Don't try to fill it out alone. Walking through the questions with someone who's done this before will surface gaps you didn't know you had. Reach out at [appliedaisociety.org](https://appliedaisociety.org) to get connected.
 
 ### Mostly C's: You're early.
 
