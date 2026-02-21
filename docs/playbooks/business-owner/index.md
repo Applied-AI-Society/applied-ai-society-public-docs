@@ -23,11 +23,11 @@ Six questions to find out if you're ready, close, or early. No commitment. Just 
 
 **[Take the Quick Check](/docs/playbooks/business-owner/quick-check)**
 
-### Stage 2: Situation Map (20-30 minutes)
+### Stage 2: Situation Map (30-minute guided session)
 
-Map your current workflows, data, team, and gaps. This is the real work. Most business owners discover they haven't documented how things actually work. That discovery alone is worth the time.
+Map your current workflows, data, team, and gaps. This is best done as a conversation with a practitioner or AAS advisor, not as a form you fill out alone. Most business owners discover they haven't documented how things actually work. That discovery alone is worth the time.
 
-**[Complete the Situation Map](/docs/playbooks/business-owner/situation-map)**
+**[View the Situation Map](/docs/playbooks/business-owner/situation-map)**
 
 ### Stage 3: Opportunity Brief (20-30 minutes)
 

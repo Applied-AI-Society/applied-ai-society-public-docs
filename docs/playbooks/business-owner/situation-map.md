@@ -9,7 +9,9 @@ You've taken the [Quick Check](/docs/playbooks/business-owner/quick-check) and y
 
 There is an extensive amount of situation and system assessing that needs to happen before you even know what to build. Most business owners skip this step. It's the single most common reason applied AI projects disappoint.
 
-This takes 20-30 minutes if you know your business well. If you get stuck, that's a finding. It means there's groundwork to do before an AI engagement makes sense.
+**This is best done as a conversation, not a form.** Most business owners find it much easier to walk through these questions with a practitioner or AAS advisor in a 30-minute call than to fill them out alone. The questions below are the agenda for that conversation. You can review them in advance so you know what to expect, or use them on your own if you prefer.
+
+To schedule a guided situation mapping session, reach out at [appliedaisociety.org](https://appliedaisociety.org).
 
 ---
 
