@@ -13,11 +13,11 @@ A great venue makes everything easier. A bad one creates friction. Here's how to
 
 The ideal venue has:
 
-- **Built-in AV** — Mic, projector or screen, whiteboard. Less to haul, less to set up.
-- **Convenient location** — Easy for your target audience to get to. Near public transit or with parking.
-- **Free or low-cost** — You shouldn't be paying a lot. Partner venues are the goal.
-- **Recurring availability** — Monthly is a good cadence. Lock in a consistent slot if you can.
-- **Promotion support** — Venues that promote your event to their network are a bonus.
+- **Built-in AV:** Mic, projector or screen, whiteboard. Less to haul, less to set up.
+- **Convenient location:** Easy for your target audience to get to. Near public transit or with parking.
+- **Free or low-cost:** You shouldn't be paying a lot. Partner venues are the goal.
+- **Recurring availability:** Monthly is a good cadence. Lock in a consistent slot if you can.
+- **Promotion support:** Venues that promote your event to their network are a bonus.
 
 ---
 
@@ -47,7 +47,7 @@ Here's how we approached venues for Applied AI Live in Austin.
 
 ### January 2026: Antler VC HQ
 
-For our first event, we partnered with the AITX Community, who had an existing relationship with Antler VC. Antler graciously hosted us at their headquarters in downtown Austin. The event drew ~100 check-ins with a 40% show rate — above the typical ~35% for similar meetups in Austin.
+For our first event, we partnered with the AITX Community, who had an existing relationship with Antler VC. Antler graciously hosted us at their headquarters in downtown Austin. The event drew ~100 check-ins with a 40% show rate, above the typical ~35% for similar meetups in Austin.
 
 **Why it worked:**
 - Antler runs an incubator. Engineer-founder types are exactly who they want in their space.
@@ -136,13 +136,13 @@ Short, clear, asks for permission first. Your friend doesn't have to write anyth
 
 Once you're talking to a venue:
 
-1. **Capacity** — How many people can the space hold? (Aim for 50-75 for a starter event)
-2. **AV setup** — Do they have a mic, screen, whiteboard?
-3. **Cost** — Is it free? If not, what's the rate?
-4. **Recurring availability** — Can we book a regular slot (e.g., 4th Tuesday of each month)?
-5. **Promotion** — Will they share the event with their community?
-6. **Food policy** — Can we bring outside food? Any restrictions?
-7. **AV connectivity** — What's the setup for connecting a laptop to the screen/TV? Can you do a test run before event day? (At our first event, the TV required on/off cycling to connect.)
+1. **Capacity:** How many people can the space hold? (Aim for 50-75 for a starter event)
+2. **AV setup:** Do they have a mic, screen, whiteboard?
+3. **Cost:** Is it free? If not, what's the rate?
+4. **Recurring availability:** Can we book a regular slot (e.g., 4th Tuesday of each month)?
+5. **Promotion:** Will they share the event with their community?
+6. **Food policy:** Can we bring outside food? Any restrictions?
+7. **AV connectivity:** What's the setup for connecting a laptop to the screen/TV? Can you do a test run before event day? (At our first event, the TV required on/off cycling to connect.)
 
 ---
 
@@ -154,7 +154,7 @@ Warm intros are better, but sometimes you don't have a connection. Here's a temp
 >
 > I'm organizing Applied AI Live, a monthly meetup for engineers and business owners focused on practical AI implementation. We feature case studies from practitioners and live problem-solving sessions.
 >
-> I'm looking for a venue partner in [City] and thought [Venue Name] could be a great fit. Our audience is technical, entrepreneurial, and exactly the kind of people who might be interested in [what they offer — incubator, coworking, etc.].
+> I'm looking for a venue partner in [City] and thought [Venue Name] could be a great fit. Our audience is technical, entrepreneurial, and exactly the kind of people who might be interested in [what they offer: incubator, coworking, etc.].
 >
 > We typically draw 50-75 people. We run clean, professional events and would be happy to promote your space to our community.
 >

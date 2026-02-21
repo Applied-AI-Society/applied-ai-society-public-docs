@@ -33,7 +33,7 @@ npx remotion still EventFlyer out/flyer.png --props='{
     { "text": "**Live architecting** of an agentic solution\nfor a real business by", "speaker": "Jack Moffatt" }
   ],
   "dateLine": "Thursday, Feb 26th at 5:30 PM",
-  "venueLine": "Antler VC HQ — Austin, TX"
+  "venueLine": "Antler VC HQ, Austin, TX"
 }'
 ```
 
@@ -80,7 +80,7 @@ The logo appears next to the Applied AI Society stacked logo at the top of the f
 | `eventTitle` | `string` | _(none)_ | Custom title text. If omitted, the "Applied AI Live" SVG logo is used. |
 | `agendaItems` | `AgendaItem[]` | _(see below)_ | Array of agenda items to display |
 | `dateLine` | `string` | `"Thursday, Feb 26th at 5:30 PM"` | Date/time shown in the orange pill |
-| `venueLine` | `string` | `"Antler VC HQ — Austin, TX"` | Venue shown in the orange pill |
+| `venueLine` | `string` | `"Antler VC HQ, Austin, TX"` | Venue shown in the orange pill |
 
 ### AgendaItem
 

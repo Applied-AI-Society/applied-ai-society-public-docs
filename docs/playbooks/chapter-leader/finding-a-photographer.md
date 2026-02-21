@@ -13,11 +13,11 @@ A practical guide to sourcing affordable, reliable photography for Applied AI So
 
 Before you start hunting for a photographer, understand why you're doing it:
 
-1. **Social proof** — Photos show the event is lively and popular. Future attendees see real people having a good time. That matters.
+1. **Social proof:** Photos show the event is lively and popular. Future attendees see real people having a good time. That matters.
 
-2. **Presenter value** — Give your speakers and presenters material they can use to promote themselves. It makes the event worth their time.
+2. **Presenter value:** Give your speakers and presenters material they can use to promote themselves. It makes the event worth their time.
 
-3. **Records of authority** — Build a visual archive that establishes the society's credibility over time.
+3. **Records of authority:** Build a visual archive that establishes the society's credibility over time.
 
 You don't need fancy, magazine-quality photography. You need clear, well-lit documentation of what happened.
 
@@ -158,7 +158,7 @@ Quick reminder about tomorrow:
 **Time:** [START TIME] (arrive 15 min early if you can)
 **Location:** [ADDRESS]
 
-I'll be there in a [DESCRIPTION - e.g., "blue jacket"]. Text me when you arrive: [YOUR PHONE]
+I'll be there in a [DESCRIPTION, e.g., "blue jacket"]. Text me when you arrive: [YOUR PHONE]
 
 Looking forward to it!
 ```
@@ -203,4 +203,4 @@ After the event:
 
 ## See Also
 
-- [Applied AI Live Event Guide](/docs/playbooks/chapter-leader/applied-ai-live) — Full playbook for running an Applied AI Live workshop
+- [Applied AI Live Event Guide](/docs/playbooks/chapter-leader/applied-ai-live): Full playbook for running an Applied AI Live workshop

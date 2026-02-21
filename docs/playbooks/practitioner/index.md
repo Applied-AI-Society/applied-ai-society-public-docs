@@ -23,14 +23,14 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 
 We're developing practical guides covering:
 
-- **Getting Started as a Practitioner** — How to go from "I use AI every day" to "I apply AI professionally"
-- **Building Your Portfolio** — Documenting your first projects to land clients or jobs
-- **Culture Transformation Engagements** — Helping organizations develop an AI-first mindset
-- **Forward Deployed Hackathons** — Running internal hackathon weekends inside companies to shift culture
-- **Finding Clients** — Identifying companies that know they need to change but can't do it alone
-- **Scoping Engagements** — Framing culture transformation work (not hourly consulting)
-- **Discovery Sessions** — Assessing an organization's AI readiness and culture
-- **Executive Coaching** — Helping leaders understand the K-shaped economy and what it means for their business
+- **Getting Started as a Practitioner:** How to go from "I use AI every day" to "I apply AI professionally"
+- **Building Your Portfolio:** Documenting your first projects to land clients or jobs
+- **Culture Transformation Engagements:** Helping organizations develop an AI-first mindset
+- **Forward Deployed Hackathons:** Running internal hackathon weekends inside companies to shift culture
+- **Finding Clients:** Identifying companies that know they need to change but can't do it alone
+- **Scoping Engagements:** Framing culture transformation work (not hourly consulting)
+- **Discovery Sessions:** Assessing an organization's AI readiness and culture
+- **Executive Coaching:** Helping leaders understand the K-shaped economy and what it means for their business
 
 These playbooks are informed by real engagements and interviews with practitioners in the field. Check back for updates.
 

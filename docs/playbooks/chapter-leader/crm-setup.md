@@ -28,11 +28,11 @@ Last Updated: January 26, 2026
 
 Airtable is the go-to CRM for this system because:
 
-- **Flexible** — Manage different outreach channels (LinkedIn, Twitter, Email) across various member types (Applied AI engineers, business owners, tool developers)
-- **Affordable** — Free tier works for getting started; paid plans are reasonable
-- **Extensions** — Easy deduping, data cleaning, and more built-in
-- **Collaboration** — Multiple team members can work on the same base
-- **API Access** — Integrates with automations and external tools
+- **Flexible:** Manage different outreach channels (LinkedIn, Twitter, Email) across various member types (Applied AI engineers, business owners, tool developers)
+- **Affordable:** Free tier works for getting started; paid plans are reasonable
+- **Extensions:** Easy deduping, data cleaning, and more built-in
+- **Collaboration:** Multiple team members can work on the same base
+- **API Access:** Integrates with automations and external tools
 
 ---
 
@@ -66,7 +66,7 @@ Airtable is the go-to CRM for this system because:
 1. Click the **three stripes** (☰) at the top left to expand the sidebar
 2. Click the **Create** button at the bottom left corner
 3. You'll see two options:
-   - **Build an app with Omni** — Airtable's AI assistant
+   - **Build an app with Omni:** Airtable's AI assistant
    - **Build an app on your own**
 
 **Recommendation:** Click **"Build an app on your own"**. Omni usually creates some unnecessary tables/interfaces you'll likely need to customize or delete later.
@@ -83,7 +83,7 @@ Set up these core fields first.
 
 | Field | Type | Notes |
 |-------|------|-------|
-| `firstName` | Single line text | Primary field — rename from default "Name" so you can use it as variable in outreach automations |
+| `firstName` | Single line text | Primary field. Rename from default "Name" so you can use it as variable in outreach automations. |
 
 **Create these additional fields:**
 
@@ -105,12 +105,12 @@ Set up these core fields first.
 ### Import Data
 
 1. Click the **Add** button (with magic wand icon) at the bottom left of the database
-2. A pop-up opens — choose **Data** section
+2. A pop-up opens. Choose the **Data** section.
 3. Select your import method:
-   - **CSV** — Upload a .csv file
-   - **Google Sheets** — Connect directly
-   - **Excel** — Upload .xlsx file
-   - **Paste table data** — Copy/paste from any spreadsheet
+   - **CSV:** Upload a .csv file
+   - **Google Sheets:** Connect directly
+   - **Excel:** Upload .xlsx file
+   - **Paste table data:** Copy/paste from any spreadsheet
 4. Map columns to your fields
 5. Click **Import**
 
@@ -133,6 +133,6 @@ Set up automations to reach out to contacts from Airtable via PhantomBuster. Eac
 
 ## See Also
 
-- [LinkedIn Automation](/docs/playbooks/chapter-leader/linkedin-automation) — LinkedIn DM automation setup
-- [Twitter Automation](/docs/playbooks/chapter-leader/twitter-automation) — Twitter DM automation setup
-- [Tools](/docs/playbooks/chapter-leader/tools) — Other chapter leader tools
+- [LinkedIn Automation](/docs/playbooks/chapter-leader/linkedin-automation): LinkedIn DM automation setup
+- [Twitter Automation](/docs/playbooks/chapter-leader/twitter-automation): Twitter DM automation setup
+- [Tools](/docs/playbooks/chapter-leader/tools): Other chapter leader tools

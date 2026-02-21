@@ -71,7 +71,7 @@ Use this structure when writing a new event description. Adapt the details, but 
 
 > This is [the Nth installment of / a new installment of] a workshop series for people who want to make money by practically applying AI to real-world business problems.
 >
-> The goal is to create a Schelling point for practitioners who are actually making a living helping businesses integrate AI — sharing exactly how they do it.
+> The goal is to create a Schelling point for practitioners who are actually making a living helping businesses integrate AI, sharing exactly how they do it.
 
 Then introduce each speaker in their own paragraph:
 
@@ -94,11 +94,11 @@ Then call out the signature format:
 
 One paragraph per hosting organization. Include mission, credibility signals, and a link. **Every org mentioned must include a link.**
 
-> **[Applied AI Society](https://appliedaisociety.org/)** — [One-sentence mission]. [What makes the community distinctive].
+> **[Applied AI Society](https://appliedaisociety.org/):** [One-sentence mission]. [What makes the community distinctive].
 >
-> **\[Co-host Name\](url)** — [Mission]. [Concrete credibility: numbers, history, reach]. [Brief invitation to join].
+> **\[Co-host Name\](url):** [Mission]. [Concrete credibility: numbers, history, reach]. [Brief invitation to join].
 >
-> **\[Venue Partner\](url)** — [What they do]. [Why they're relevant to the audience].
+> **\[Venue Partner\](url):** [What they do]. [Why they're relevant to the audience].
 
 ### Known Org Links
 
@@ -146,7 +146,7 @@ The Live #1 description is roughly 350 words. That's a good target. Long enough 
 
 ### Platform-specific notes
 
-- **Luma:** Supports rich text formatting. Use bold for speaker names and section headers. Luma truncates long descriptions behind a "Read more" link, so front-load the most important information.
+- **Luma:** Supports rich text formatting. Use bold for speaker names and section headers. Luma truncates long descriptions behind a "Read more" link, so front-load the most important information. A well-written description also helps when [submitting to Luma Featured Calendars](/docs/playbooks/chapter-leader/applied-ai-live#luma-calendar-submissions), since calendar admins curate for quality.
 - **Meetup:** Similar formatting support. Meetup audiences tend to skim, so keep paragraphs short.
 - **Eventbrite:** Supports HTML. You can use headers and bullet lists, but don't over-design. Clean text outperforms styled layouts.
 - **LinkedIn Events:** Very limited formatting. Write tighter; use line breaks instead of headers.

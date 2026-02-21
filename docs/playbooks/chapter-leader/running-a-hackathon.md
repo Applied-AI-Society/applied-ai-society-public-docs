@@ -162,8 +162,8 @@ See [Writing & Sharing Event Recaps](/docs/playbooks/chapter-leader/writing-and-
 
 ## See Also
 
-- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) -- The talk-format event series
-- [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) -- Structuring co-host relationships
-- [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) -- General venue guidance
-- [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions) -- Registration copy
-- [Writing & Sharing Event Recaps](/docs/playbooks/chapter-leader/writing-and-sharing-event-recaps) -- Public recaps
+- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): The talk-format event series
+- [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships): Structuring co-host relationships
+- [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue): General venue guidance
+- [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions): Registration copy
+- [Writing & Sharing Event Recaps](/docs/playbooks/chapter-leader/writing-and-sharing-event-recaps): Public recaps

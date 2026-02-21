@@ -28,9 +28,9 @@ X and LinkedIn are both trying to compete with Substack by promoting long-form c
 
 Substack is home base for written content. Why:
 
-- **Email subscriptions** — Readers can subscribe and get notified
-- **Permanence** — Content lives in one canonical place
-- **Ownership** — You control the list, not the platform algorithm
+- **Email subscriptions:** Readers can subscribe and get notified
+- **Permanence:** Content lives in one canonical place
+- **Ownership:** You control the list, not the platform algorithm
 
 ### Cross-posting strategy
 
@@ -46,8 +46,8 @@ This meets readers where they are (LinkedIn feed, X timeline) while funneling in
 
 X is a core distribution channel. Use it for:
 
-- **Regular posts** — Event announcements, quotes, highlights, threads
-- **X Articles** — Full long-form articles published natively on X
+- **Regular posts:** Event announcements, quotes, highlights, threads
+- **X Articles:** Full long-form articles published natively on X
 
 X Articles let you publish the same content you'd put on Substack, but natively on the platform. X promotes long-form content because they want to compete with newsletters. Take advantage of this.
 
@@ -63,9 +63,9 @@ For regular posts, share highlights, quotes from case studies, and event updates
 
 YouTube is the default for video. Use it for:
 
-- **Full event recordings** — People can binge past events
-- **Conference talks** — As the society grows and hosts larger summits
-- **Short clips** — Highlights and reels (also post these natively on LinkedIn/Instagram/TikTok)
+- **Full event recordings:** People can binge past events
+- **Conference talks:** As the society grows and hosts larger summits
+- **Short clips:** Highlights and reels (also post these natively on LinkedIn/Instagram/TikTok)
 
 Think of YouTube like AI.Engineer's channel: a library of valuable talks that compounds over time.
 
@@ -91,15 +91,23 @@ Write-ups from events: what was discussed, key takeaways, interesting moments. T
 
 The goal isn't content for content's sake. It's:
 
-1. **Subjects share their profiles** — When you publish a case study, the practitioner will share it with their network. This brings new people to the society.
+1. **Subjects share their profiles.** When you publish a case study, the practitioner will share it with their network. This brings new people to the society.
 
-2. **Events become evergreen** — A 2-hour event reaches 50 people in the room. The YouTube recording and written recap reach hundreds more over time.
+2. **Events become evergreen.** A 2-hour event reaches 50 people in the room. The YouTube recording and written recap reach hundreds more over time.
 
-3. **Authority compounds** — Each piece of content adds to the society's credibility. Over months and years, this becomes a moat.
+3. **Authority compounds.** Each piece of content adds to the society's credibility. Over months and years, this becomes a moat.
+
+---
+
+## Event Discovery
+
+Beyond content distribution, make sure your events are discoverable. Luma has a [Discover page](https://lu.ma/discover) with Featured Calendars and city-based Local Events. Submitting your events to these calendars is free and can drive significant attendance.
+
+See: [Luma Calendar Submissions](/docs/playbooks/chapter-leader/applied-ai-live#luma-calendar-submissions)
 
 ---
 
 ## See Also
 
-- [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) — How to create practitioner profiles
-- [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) — Capturing video for YouTube
+- [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews): How to create practitioner profiles
+- [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event): Capturing video for YouTube

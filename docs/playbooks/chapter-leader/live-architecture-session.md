@@ -38,9 +38,9 @@ Every business has this tension. The best candidates feel it acutely. They're no
 
 This is the pitch. Adjust the language for your audience, but the structure works:
 
-**Soul Work** — The stuff that requires you. Your taste, your judgment, your relationships, your creative vision. This should never be automated.
+**Soul Work:** The stuff that requires you. Your taste, your judgment, your relationships, your creative vision. This should never be automated.
 
-**Soulless Work** — The infrastructure that keeps things running. Accounting, scheduling, contract generation, logistics, lead qualification. This can and should be delegated or automated.
+**Soulless Work:** The infrastructure that keeps things running. Accounting, scheduling, contract generation, logistics, lead qualification. This can and should be delegated or automated.
 
 When you talk to potential candidates, help them articulate what falls into each bucket. If they light up when describing the soul work and sigh when listing the soulless work, they're a good fit.
 
@@ -88,17 +88,17 @@ Any AI notetaker works. The key is capturing everything so you can focus on the 
 
 ### What to Cover
 
-1. **Business overview** — What do they do? Who are their clients? What's their revenue model?
+1. **Business overview:** What do they do? Who are their clients? What's their revenue model?
 
-2. **Soul work vs. soulless work** — What energizes them? What drains them? Where do they spend most of their time vs. where they *want* to spend it?
+2. **Soul work vs. soulless work:** What energizes them? What drains them? Where do they spend most of their time vs. where they *want* to spend it?
 
-3. **Current pain points** — What's not working? What takes too long? What falls through the cracks?
+3. **Current pain points:** What's not working? What takes too long? What falls through the cracks?
 
-4. **What they've tried** — Have they used AI tools already? What worked? What didn't?
+4. **What they've tried:** Have they used AI tools already? What worked? What didn't?
 
-5. **Constraints** — Solo operator or team? Budget? Non-negotiables (e.g., "relationships must stay human")?
+5. **Constraints:** Solo operator or team? Budget? Non-negotiables (e.g., "relationships must stay human")?
 
-6. **Success criteria** — What does "better" look like? How would they know if AI was helping?
+6. **Success criteria:** What does "better" look like? How would they know if AI was helping?
 
 Take notes. Ask follow-up questions. Get specific examples. The more concrete the brief, the better the live session.
 
@@ -110,25 +110,25 @@ The problem brief is a document you give to the Applied AI Engineer at least **o
 
 ### Brief Structure
 
-1. **Business Overview** — Who is the client? What do they do? Who are their customers?
+1. **Business Overview:** Who is the client? What do they do? Who are their customers?
 
-2. **Core Offerings** — What products/services do they provide?
+2. **Core Offerings:** What products/services do they provide?
 
-3. **The Business Problem** — What's broken? What's the tension between soul work and soulless work?
+3. **The Business Problem:** What's broken? What's the tension between soul work and soulless work?
 
-4. **Current Pain Points** — Specific issues, listed clearly.
+4. **Current Pain Points:** Specific issues, listed clearly.
 
-5. **Constraints** — Budget, team size, non-negotiables.
+5. **Constraints:** Budget, team size, non-negotiables.
 
-6. **What They've Already Tried** — AI tools, systems, workarounds.
+6. **What They've Already Tried:** AI tools, systems, workarounds.
 
-7. **Architecture Challenge** — The core question for the engineer to solve.
+7. **Architecture Challenge:** The core question for the engineer to solve.
 
-8. **Specific Use Cases** — Concrete workflows that could be automated or augmented.
+8. **Specific Use Cases:** Concrete workflows that could be automated or augmented.
 
-9. **Success Criteria** — How the business owner defines success.
+9. **Success Criteria:** How the business owner defines success.
 
-10. **Questions for the Live Session** — Prompts to guide the on-stage discussion.
+10. **Questions for the Live Session:** Prompts to guide the on-stage discussion.
 
 ### Tone
 
@@ -140,13 +140,13 @@ Write it like a case study. Clear, specific, actionable. Avoid jargon. Include d
 
 The engineer going on stage needs:
 
-1. **The problem brief** — At least one week in advance.
+1. **The problem brief:** At least one week in advance.
 
-2. **Context on the format** — They'll have ~30 minutes to architect a solution live. Whiteboard or large sticky notes. Audience will be watching.
+2. **Context on the format:** They'll have ~30 minutes to architect a solution live. Whiteboard or large sticky notes. Audience will be watching.
 
-3. **Permission to ask questions** — The session isn't a lecture. The engineer should dialogue with the business owner on stage.
+3. **Permission to ask questions:** The session isn't a lecture. The engineer should dialogue with the business owner on stage.
 
-4. **A heads-up on constraints** — What's in scope? What's off limits? Any sensitive topics?
+4. **A heads-up on constraints:** What's in scope? What's off limits? Any sensitive topics?
 
 Give them space to prepare however they want. Some engineers will sketch solutions ahead of time. Others will prefer to think on their feet. Both work.
 
@@ -195,6 +195,6 @@ When done well, it:
 
 The prep work makes the magic possible. Don't skip it.
 
-At Applied AI Live #1, the live architecture session was the standout segment. The business owner's problem — and the "Sovereign AI Command Center" concept the engineer proposed — resonated with multiple attendees in post-event conversations. One lesson: brief the architect more thoroughly in advance. The more context they have, the tighter the session.
+At Applied AI Live #1, the live architecture session was the standout segment. The business owner's problem (and the "Sovereign AI Command Center" concept the engineer proposed) resonated with multiple attendees in post-event conversations. One lesson: brief the architect more thoroughly in advance. The more context they have, the tighter the session.
 
 ![Live architecture diagram from Applied AI Live #1](/img/events/live-1/shot-04-architecture-diagram.jpg)

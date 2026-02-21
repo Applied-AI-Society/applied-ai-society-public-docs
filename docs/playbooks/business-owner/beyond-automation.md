@@ -17,7 +17,7 @@ The bar shouldn't be "it works as well as before, just faster." The bar should b
 
 Automation is a process change. You replace a manual step with a system. The system does it faster or more consistently. That has value.
 
-But what you actually want is a system that gets smarter. One that actively drives better results than what you were achieving before — including better than your best human judgment on a good day — and keeps improving from there.
+But what you actually want is a system that gets smarter. One that actively drives better results than what you were achieving before (including better than your best human judgment on a good day) and keeps improving from there.
 
 The first type of engagement ends when the system is delivered. The second type has no end. It compounds.
 
@@ -29,7 +29,7 @@ Say you hire someone to build an AI system that recommends titles and thumbnails
 
 **Done poorly:** the AI suggests titles, you post them, nobody tracks whether they actually perform better than what you were doing before. Six months later, you can't tell if the engagement went up because of the AI or in spite of it.
 
-**Done well:** every recommendation is logged. A/B tests are run when possible — same content, different title formats, different thumbnail styles — and the results are recorded. Not summaries. The actual raw data: views, click-through rate, watch time, tied to the specific variant that was used. When the practitioner refines the system, they pull from real outcomes, not secondhand analysis.
+**Done well:** every recommendation is logged. A/B tests are run when possible (same content, different title formats, different thumbnail styles) and the results are recorded. Not summaries. The actual raw data: views, click-through rate, watch time, tied to the specific variant that was used. When the practitioner refines the system, they pull from real outcomes, not secondhand analysis.
 
 Six months in, you have a clear chart. Here's where you started. Here's where you are now. Here's what drove the change.
 

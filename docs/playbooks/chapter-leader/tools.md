@@ -48,7 +48,7 @@ We run an **Applied AI Society network** on Meetup, which allows multiple chapte
 Luma looks great. The event pages are modern and easy to share. If you're promoting on Twitter/X or LinkedIn, a Luma link feels more premium than a basic Meetup page.
 
 **Trade-off:**
-Luma doesn't have Meetup's built-in discovery. It's a destination, not a recommendation engine. If you use Luma, you need to drive all your own traffic.
+Luma doesn't have Meetup's built-in discovery algorithm. However, Luma does have **Featured Calendars** and **Local Events** on its [Discover page](https://lu.ma/discover). Submitting your event to relevant calendars (AI, Tech, your city) puts it in front of subscribers browsing those collections. See the [Luma Calendar Submissions](/docs/playbooks/chapter-leader/applied-ai-live#luma-calendar-submissions) guide for how to do this.
 
 **Our approach:**
 We use both. Meetup for discovery, Luma for a polished landing page when sharing directly. Chapter leaders can decide what works for them. If you only want one platform, Meetup is the priority because of organic reach.
@@ -135,7 +135,7 @@ Cursor's AI can help you write, edit, and refactor. Ask it to draft a section, f
 Airtable combines the simplicity of a spreadsheet with the power of a database. You can create filtered views, track status with single-select fields, and integrate with automation tools via API. The free tier works for getting started (1,000 records), and the Team plan ($24/user/month) unlocks automations and extensions.
 
 **Tips:**
-- Use camelCase for field names (e.g., `firstName` not `First Name`) — it makes integration with automation tools easier
+- Use camelCase for field names (e.g., `firstName` not `First Name`). This makes integration with automation tools easier
 - Create filtered views for each outreach channel (e.g., "To Message (LinkedIn)")
 - Only users with editor-level access count toward seat costs. Viewers are free.
 - See the [CRM Setup](/docs/playbooks/chapter-leader/crm-setup) playbook for a complete setup guide

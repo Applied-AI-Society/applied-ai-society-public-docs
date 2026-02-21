@@ -38,7 +38,7 @@ Keep it simple and direct:
 ```
 Hey [Name],
 
-I'm [Your Name], a chapter leader for the Applied AI Society in [City]. We're building a library of practitioner profiles — real people doing applied AI work, how they got there, and what they've learned.
+I'm [Your Name], a chapter leader for the Applied AI Society in [City]. We're building a library of practitioner profiles: real people doing applied AI work, how they got there, and what they've learned.
 
 Your work caught my attention. Would you be open to a short interview? Takes about an hour, we'd do it at your workspace, and you'd get some nice photos and a short intro video out of it.
 
@@ -51,7 +51,7 @@ Let me know if you're interested.
 
 ### Where
 
-Conduct the interview at their workspace. Home office, studio, coworking space — wherever they actually do the work. This adds authenticity and gives you a natural backdrop for photos.
+Conduct the interview at their workspace. Home office, studio, coworking space. Wherever they actually do the work. This adds authenticity and gives you a natural backdrop for photos.
 
 ### Time needed
 
@@ -167,7 +167,7 @@ Don't leave without these. This is your exit criteria.
 
 | Type | Description |
 |------|-------------|
-| **In action** | At their desk, looking at code, whiteboarding — whatever "working" looks like for them |
+| **In action** | At their desk, looking at code, whiteboarding. Whatever "working" looks like for them. |
 | **Portrait** | Facing camera, good lighting, natural smile. This becomes the profile photo. |
 
 Tips:
@@ -186,7 +186,7 @@ Hey, I'm [Name]. I'm an applied AI engineer based in [City].
 
 I do [consulting/freelance/in-house] for [type of clients].
 
-The reason I love what I do is [motivation — problem solving, growth, learning, etc.].
+The reason I love what I do is [motivation: problem solving, growth, learning, etc.].
 
 [Optional: call to action about community, content, or why others should get into the field.]
 ```
@@ -254,14 +254,14 @@ Here's the transcript:
 
 #### Structure (loose guide)
 
-1. **Hook** — The most interesting thing they said or do. Create curiosity.
-2. **Background** — How they got here. Origin story.
-3. **The work** — How they find clients, run projects, deliver value.
-4. **What makes them different** — Their edge. The thing that sets them apart.
-5. **Staying sharp** — How they keep learning in a fast-moving field.
-6. **Why this work** — Motivation. What drives them.
-7. **Close** — Theme, takeaway, or call to action. End strong.
-8. **Bio line** — One sentence: who they are, where they're based, upcoming events.
+1. **Hook:** The most interesting thing they said or do. Create curiosity.
+2. **Background:** How they got here. Origin story.
+3. **The work:** How they find clients, run projects, deliver value.
+4. **What makes them different:** Their edge. The thing that sets them apart.
+5. **Staying sharp:** How they keep learning in a fast-moving field.
+6. **Why this work:** Motivation. What drives them.
+7. **Close:** Theme, takeaway, or call to action. End strong.
+8. **Bio line:** One sentence: who they are, where they're based, upcoming events.
 
 ### Submit materials
 
@@ -302,5 +302,5 @@ After:
 
 ## See Also
 
-- [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) — If you want professional photo support
-- [Case Studies](/docs/case-studies) — Published practitioner profiles
+- [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer): If you want professional photo support
+- [Case Studies](/docs/case-studies): Published practitioner profiles

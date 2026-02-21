@@ -81,7 +81,7 @@ Twitter restricts how many DMs you can send. PhantomBuster shows a warning with 
 
 **Avoid Account Restrictions:**
 
-- Don't send identical messages to everyone — personalize with variables
+- Don't send identical messages to everyone. Personalize with variables
 - Space out your messages throughout the day
 - Keep messages conversational, not salesy
 - Start slow with a new account, increase volume gradually
@@ -105,7 +105,7 @@ Your table needs these fields:
 | `Last Attempt` | Date/Time | Timestamp of last message attempt |
 | `Message Sent` | Long text | Message content or error details |
 
-> **Tip:** Since contacts are scraped from Twitter, use `twitterUsername` (their @handle) for personalization instead of first name — it's more reliable and avoids awkward mismatched nicknames. Name the field without spaces so PhantomBuster can use it as a variable.
+> **Tip:** Since contacts are scraped from Twitter, use `twitterUsername` (their @handle) for personalization instead of first name. It's more reliable and avoids awkward mismatched nicknames. Name the field without spaces so PhantomBuster can use it as a variable.
 
 **Outreach Status options:**
 
@@ -126,8 +126,8 @@ This view feeds contacts to PhantomBuster. Only contacts in this view will be me
 
 1. Create a new Google Sheet
 2. Create two tabs:
-   - **"Airtable Sync (For Twitter Messages Automation)"** — receives contacts from Airtable
-   - **"Phantom Output"** — receives results from PhantomBuster
+   - **"Airtable Sync (For Twitter Messages Automation)":** receives contacts from Airtable
+   - **"Phantom Output":** receives results from PhantomBuster
 
 **Make the sheet accessible to PhantomBuster:**
 
@@ -150,7 +150,7 @@ This view feeds contacts to PhantomBuster. Only contacts in this view will be me
 1. Under "Choose your profile URLs", select **"A URL"**
 2. Paste your Google Sheet link
 3. Open **Spreadsheet Settings** dropdown
-4. For "Column containing profile URLs" — leave empty for now (configure in Step 5)
+4. For "Column containing profile URLs": leave empty for now (configure in Step 5)
 
 **Connect Twitter:**
 
@@ -657,21 +657,21 @@ runPipelineHourly()
 
 ### Step 5: Finalize and Test
 
-**5.1 — Test Airtable → Sheet Export:**
+**5.1: Test Airtable → Sheet Export:**
 
 1. In Apps Script, select `syncAirtableToSheet` from the dropdown
 2. Click **Run**
 3. Open your Google Sheet and check the **"Airtable Sync (For Twitter Messages Automation)"** tab
 4. Verify your contacts and all fields are exported correctly
 
-**5.2 — Finalize PhantomBuster Configuration:**
+**5.2: Finalize PhantomBuster Configuration:**
 
 1. Return to your PhantomBuster Phantom settings
 2. Go to **Spreadsheet Settings** dropdown
 3. Click **"Name of column containing profile URLs"**
 4. Select the column with your Twitter URLs (now visible after export)
 
-**5.3 — Update Your Message Template (Optional):**
+**5.3: Update Your Message Template (Optional):**
 
 Now that your Airtable fields are on the sheet, you can personalize your message using column names as variables.
 
@@ -682,21 +682,21 @@ Hey @#twitterUsername#, saw your tweets about AI and wanted to reach out...
 
 **Important:** Column names with spaces won't work as variables. If you followed Step 1, your fields are already named correctly (e.g., `twitterUsername`).
 
-**5.4 — Test PhantomBuster Manually:**
+**5.4: Test PhantomBuster Manually:**
 
 1. Go to your PhantomBuster dashboard
 2. Click on your Twitter DM Sender Phantom
 3. Click the **Launch** button (right side)
-4. Watch the progress bar — the Phantom will start messaging
+4. Watch the progress bar. The Phantom will start messaging
 
-**5.5 — Test PhantomBuster Results Import:**
+**5.5: Test PhantomBuster Results Import:**
 
 1. After the Phantom finishes, return to Apps Script
 2. Run `fetchPhantomOutputToSheet`
 3. Check the **"Phantom Output"** tab in Google Sheets
 4. Verify message results are imported (profileUrl, message, timestamp, etc.)
 
-**5.6 — Test Airtable Sync Back:**
+**5.6: Test Airtable Sync Back:**
 
 1. In Apps Script, run `syncPhantomSheetToAirtable`
 2. Open your Airtable table
@@ -705,13 +705,13 @@ Hey @#twitterUsername#, saw your tweets about AI and wanted to reach out...
    - `Last Attempt` → timestamp
    - `Message Sent` → the message content or error
 
-**5.7 — Enable Hourly Automation:**
+**5.7: Enable Hourly Automation:**
 
-Option A — Run the function:
+Option A: Run the function:
 1. In Apps Script, run `setupHourlyTrigger`
 2. Check **View → Logs** for "Hourly trigger created"
 
-Option B — Manual setup:
+Option B: Manual setup:
 1. In Apps Script, click **Triggers** (clock icon, left sidebar)
 2. Click **+ Add Trigger**
 3. Configure:
@@ -721,10 +721,10 @@ Option B — Manual setup:
    - Interval: Every hour
 4. Click **Save**
 
-**5.8 — Verify the Loop Works:**
+**5.8: Verify the Loop Works:**
 
 1. Run `syncAirtableToSheet` again
-2. Check the export — contacts you already messaged should be **gone** from the sheet
+2. Check the export. Contacts you already messaged should be **gone** from the sheet
 3. This confirms the filter is working: only `Outreach Status = To Message` contacts appear
 
 **You're all set!**
@@ -782,6 +782,6 @@ Your Airtable stays up-to-date with who was messaged, when, and what was sent.
 
 ## See Also
 
-- [CRM Setup](/docs/playbooks/chapter-leader/crm-setup) — Setting up Airtable for outreach tracking
-- [LinkedIn Automation](/docs/playbooks/chapter-leader/linkedin-automation) — LinkedIn DM automation setup
-- [Tools](/docs/playbooks/chapter-leader/tools) — Other chapter leader tools
+- [CRM Setup](/docs/playbooks/chapter-leader/crm-setup): Setting up Airtable for outreach tracking
+- [LinkedIn Automation](/docs/playbooks/chapter-leader/linkedin-automation): LinkedIn DM automation setup
+- [Tools](/docs/playbooks/chapter-leader/tools): Other chapter leader tools

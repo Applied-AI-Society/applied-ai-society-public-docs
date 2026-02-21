@@ -53,6 +53,6 @@ Guides for running Applied AI Society chapters and events.
 
 ## Coming Soon
 
-- **Starting a Chapter** — How to launch an Applied AI Society chapter in your city
-- **Speaker Outreach** — Recruiting practitioners to share case studies
-- **Event Promotion** — Getting the word out effectively
+- **Starting a Chapter:** How to launch an Applied AI Society chapter in your city
+- **Speaker Outreach:** Recruiting practitioners to share case studies
+- **Event Promotion:** Getting the word out effectively
