@@ -19,6 +19,8 @@ Guides for running Applied AI Society chapters and events.
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
 | [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) | Capturing video on a budget |
 | [Hosting an Event](/docs/playbooks/chapter-leader/hosting-an-event) | The soft skills and scripts for being the host |
+| [Speaker Outreach](/docs/playbooks/chapter-leader/speaker-outreach) | Finding and recruiting practitioners to present |
+| [Event Promotion](/docs/playbooks/chapter-leader/event-promotion) | Getting the word out and filling the room |
 
 ---
 
@@ -35,6 +37,7 @@ Guides for running Applied AI Society chapters and events.
 
 | Playbook | Description |
 |----------|-------------|
+| [Starting a Chapter](/docs/playbooks/chapter-leader/starting-a-chapter) | How to launch an Applied AI Society chapter in your city or on your campus |
 | [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) | Win-win partnerships for chapter growth |
 | [Tools](/docs/playbooks/chapter-leader/tools) | Meetup, Luma, and other tools that help run chapters |
 | [Getting Things Done](/docs/playbooks/chapter-leader/getting-things-done) | Using Cursor as a command center (stub) |
@@ -49,10 +52,3 @@ Guides for running Applied AI Society chapters and events.
 | [LinkedIn Automation](/docs/playbooks/chapter-leader/linkedin-automation) | Automated LinkedIn DM campaigns with PhantomBuster |
 | [Twitter Automation](/docs/playbooks/chapter-leader/twitter-automation) | Automated Twitter DM campaigns with PhantomBuster |
 
----
-
-## Coming Soon
-
-- **Starting a Chapter:** How to launch an Applied AI Society chapter in your city
-- **Speaker Outreach:** Recruiting practitioners to share case studies
-- **Event Promotion:** Getting the word out effectively

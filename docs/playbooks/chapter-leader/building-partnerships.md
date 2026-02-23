@@ -162,4 +162,5 @@ Replicate this pattern in each new city. Find the local AITX equivalent and buil
 ## See Also
 
 - [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): The flagship event format
+- [Starting a Chapter](/docs/playbooks/chapter-leader/starting-a-chapter): The full guide for launching a new chapter
 - [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer): Another example of thrifty partnership thinking
