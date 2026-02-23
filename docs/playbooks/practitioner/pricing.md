@@ -334,17 +334,6 @@ Once you start retainers, send monthly impact reports. Show the numbers. You are
 
 ---
 
-## Updating This Document
-
-This is a living document. Update it when:
-- You close a new engagement (add the pricing structure as a data point)
-- You discover a new pricing conversation pattern that works
-- You learn something from a lost deal
-- Market rates shift meaningfully
-- Your own opportunity cost changes
-
----
-
 ## Further Reading
 
 **For practitioners:**
