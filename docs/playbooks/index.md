@@ -42,9 +42,14 @@ Guides for guest presenters at Applied AI Society events.
 
 Guides for applied AI engineers doing consulting and implementation work.
 
-*Coming soon.* We're developing guides on finding clients, scoping projects, pricing, and more.
+| Playbook | Description |
+|----------|-------------|
+| [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy) | Understanding the market landscape |
+| [ICP Clarity](/docs/playbooks/practitioner/icp-clarity) | Getting clear on who you serve |
+| [Experimental Improvement](/docs/playbooks/practitioner/experimental-improvement) | The mindset behind continuous delivery |
+| [Pricing Your AI Engagements](/docs/playbooks/practitioner/pricing) | Framework for value-based pricing |
 
-[View Practitioner playbooks →](/docs/playbooks/practitioner)
+[View all Practitioner playbooks →](/docs/playbooks/practitioner)
 
 ---
 

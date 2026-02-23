@@ -19,16 +19,24 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 
 ---
 
+## Available Playbooks
+
+| Playbook | Description |
+|----------|-------------|
+| [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy) | Understanding the market landscape and the K-shaped divide |
+| [ICP Clarity](/docs/playbooks/practitioner/icp-clarity) | Getting clear on who you serve before you build anything |
+| [Experimental Improvement](/docs/playbooks/practitioner/experimental-improvement) | The mindset behind continuous delivery and iteration |
+| [Pricing Your AI Engagements](/docs/playbooks/practitioner/pricing) | Framework for value-based pricing, retainers, and equity deals |
+
 ## Coming Soon
 
-We're developing practical guides covering:
+We're developing additional guides covering:
 
 - **Getting Started as a Practitioner:** How to go from "I use AI every day" to "I apply AI professionally"
 - **Building Your Portfolio:** Documenting your first projects to land clients or jobs
 - **Culture Transformation Engagements:** Helping organizations develop an AI-first mindset
 - **Forward Deployed Hackathons:** Running internal hackathon weekends inside companies to shift culture
 - **Finding Clients:** Identifying companies that know they need to change but can't do it alone
-- **Scoping Engagements:** Framing culture transformation work (not hourly consulting)
 - **Discovery Sessions:** Assessing an organization's AI readiness and culture
 - **Executive Coaching:** Helping leaders understand the K-shaped economy and what it means for their business
 
