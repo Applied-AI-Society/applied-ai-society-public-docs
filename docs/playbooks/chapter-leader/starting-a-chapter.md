@@ -65,7 +65,7 @@ The model is subsidiarity: national provides the playbooks, brand, and network. 
 
 ## What's Expected of You
 
-**Run events.** The core of any chapter is regular events. Start with monthly. Formats can vary: live demos, panels, workshops, hackathons, coworking sessions. The one rule is that every event features at least one person explaining how they make money in the applied AI economy. People need to leave knowing more about how to get their first (or next) opportunity.
+**Run events.** The core of any chapter is regular events. Start with monthly. Every event is an initiation into the applied AI economy. The concept: you're giving your audience a landscape map. Invite three or four practitioners who are actually making money in applied AI to share their path (consulting, startups, automation, products, freelance). The audience leaves knowing what the paths are, what's real, and what's hype. The call to action is simple: join this community to compare notes, co-work, and share opportunities. Formats can vary (live demos, panels, workshops, hackathons, coworking sessions) but the through-line is always the same.
 
 **Find your local patron.** Every chapter needs a local champion: a business owner, executive, or organization that believes in what you're building and wants to support it. This isn't a cold sponsorship pitch. It's finding someone who sees the value of a local applied AI talent network and wants to say "I planted this chapter." This usually happens naturally after your first couple of events prove the model.
 
@@ -101,6 +101,6 @@ The people who figure out applied AI now, while the gap is wide open, will be th
 
 ## See Also
 
-- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) -- a proven event format for practitioner-driven demos
+- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) -- one proven event format for practitioner-driven demos
 - [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) -- finding sponsors and venue partners
 - [Hosting an Event](/docs/playbooks/chapter-leader/hosting-an-event) -- the soft skills of being the host

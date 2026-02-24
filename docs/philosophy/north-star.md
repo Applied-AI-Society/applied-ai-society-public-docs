@@ -13,7 +13,7 @@ title: North Star
 
 Applied AI Society exists to shorten the time for young people to get their first applied AI money-making opportunity. So the metric is simple: **are we actually doing that?**
 
-Events build community. Content builds awareness. Playbooks build capability. But the moment that matters is when someone gets connected to their first (or next) applied AI engagement because of this society.
+Events initiate people into the applied AI economy. Content builds awareness. Playbooks build capability. But the moment that matters is when someone gets connected to their first (or next) applied AI engagement because of this society.
 
 That's the metric we track. Not attendance, not follower counts, not content impressions. Those are leading indicators. The north star is **opportunity matches**: introductions we make between practitioners and the people who need their help. Every consulting gig, freelance contract, startup collaboration, or full-time role that flows through the network counts.
 

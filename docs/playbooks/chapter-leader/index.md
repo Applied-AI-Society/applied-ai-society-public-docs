@@ -7,13 +7,15 @@ title: Chapter Leader Playbooks
 
 Guides for running Applied AI Society chapters and events.
 
+Every AAS event is an **initiation into the applied AI economy**: a landscape map where real practitioners share how they actually make money. The audience leaves knowing what paths exist, what's real, and what's hype. The formats below are all ways to deliver on that promise.
+
 ---
 
 ## Event Playbooks
 
 | Playbook | Description |
 |----------|-------------|
-| [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) | The flagship workshop format with master checklist |
+| [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) | A proven workshop format with master checklist |
 | [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session) | Finding the right business owner and prepping the engineer |
 | [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) | Securing a recurring partner space |
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
