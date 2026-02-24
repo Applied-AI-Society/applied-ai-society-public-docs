@@ -7,13 +7,19 @@ title: Starting a Chapter
 
 How to launch an Applied AI Society chapter in your city or on your campus.
 
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', marginTop: '1.5rem', marginBottom: '1.5rem'}}>
+  <iframe src="https://share.descript.com/embed/cqqxIqK2Zum" width="100%" height="100%" style={{position: 'absolute', top: 0, left: 0}} frameBorder="0" allowFullScreen></iframe>
+</div>
+
 ---
 
 ## Why Chapters Exist
 
-There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is an opportunity for a generation of practitioners who figure out how to close it.
+Applied AI Society exists to shorten the time for young people to get their first applied AI money-making opportunity. Chapters are where that actually happens.
 
-Applied AI Society chapters are hyperlocal communities where that happens. Practitioners share what they're building, business owners get real help, and everyone builds a network that creates real career and business opportunities. Chapters are led locally, funded locally, and rooted in the specific needs of their city or campus.
+There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is full of opportunity: consulting gigs, startup ideas, automation contracts, freelance engineering work, full-time roles. But most young people can't see those opportunities from where they sit. They need to be in a room with people who are already making money in this space.
+
+Chapters create that room. Practitioners share how they earn a living in applied AI. Business owners describe the problems they'll pay to have solved. Members build networks that generate real deal flow, career flow, and knowledge flow. Every chapter is a local center of gravity for the applied AI economy in its city or campus.
 
 The model is subsidiarity: national provides the playbooks, brand, and network. You provide the energy, the people, and the local context.
 
@@ -34,12 +40,14 @@ The model is subsidiarity: national provides the playbooks, brand, and network. 
 
 - You're looking for a paid position from day one. Chapter leaders earn through the network they build, not a salary from national.
 - You want a detailed instruction manual for every decision. We provide playbooks and support, but you're running your chapter. Ownership is the point.
-- You're mainly interested in hosting speaker series or lecture-style events. Applied AI Society events are practitioner-driven and hands-on. If nobody's building anything, it's not an Applied AI event.
+- You want to consume, not contribute. Applied AI Society is for people who build, share, and connect. If you're looking to passively attend events without putting anything back into the community, this isn't the right fit.
 - You don't actually want to be in the applied AI space yourself. Chapter leaders are practitioners first, organizers second.
 
 ---
 
 ## What National Provides
+
+**Cofounders who open doors.** Applied AI Society was cofounded by Gary Sheng and Travis Oliphant (creator of NumPy, SciPy, cofounder of Anaconda). That credibility helps when you're reaching out to sponsors, speakers, and university partners. You're not building a random club. You're building a chapter of something real, backed by people with track records.
 
 **Playbooks.** Everything we've learned from the Austin genesis chapter is documented publicly. Event formats, checklists, partnership guides, content distribution workflows, CRM setup, outreach automation. You don't start from scratch.
 
@@ -51,13 +59,13 @@ The model is subsidiarity: national provides the playbooks, brand, and network. 
 
 **Mentorship.** You can text Gary whenever. Early on, you can do a weekly call if you want. The communication cadence will evolve as we figure out what works, but you won't be left on your own.
 
-**The slides platform.** Access to the Applied AI Society presentation platform for running Applied AI Live events with animated slides, live workshops, audience Q&A, and presenter remotes.
+**The slides platform.** Access to the Applied AI Society presentation platform for running events with animated slides, live workshops, audience Q&A, and presenter remotes.
 
 ---
 
 ## What's Expected of You
 
-**Run events.** The core of any chapter is regular events. Start with monthly. The flagship format is [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live), but hackathons, build-a-thons, and coworking sessions all count. People need to be in a room together, doing things.
+**Run events.** The core of any chapter is regular events. Start with monthly. Formats can vary: live demos, panels, workshops, hackathons, coworking sessions. The one rule is that every event features at least one person explaining how they make money in the applied AI economy. People need to leave knowing more about how to get their first (or next) opportunity.
 
 **Find your local patron.** Every chapter needs a local champion: a business owner, executive, or organization that believes in what you're building and wants to support it. This isn't a cold sponsorship pitch. It's finding someone who sees the value of a local applied AI talent network and wants to say "I planted this chapter." This usually happens naturally after your first couple of events prove the model.
 
@@ -71,9 +79,11 @@ The model is subsidiarity: national provides the playbooks, brand, and network. 
 
 ## The Opportunity
 
-This is worth saying plainly: the applied AI economy is real and growing fast. Organizations are desperate for people who can actually implement AI, not just talk about it. Chapter leaders sit at the center of their local version of that economy. You meet every practitioner, every business owner, every sponsor in your city who cares about this space.
+This is worth saying plainly: building a chapter puts you at the center of your city's applied AI economy. Every practitioner, every business owner, every sponsor who cares about applied AI in your area will flow through your events.
 
-The network you build as a chapter leader is yours. The relationships, the reputation, the deal flow. We call it enlightened self interest: you're building something that serves your community and your career at the same time.
+The network you build is yours. The relationships, the reputation, the deal flow, the career flow, the knowledge flow. We call it enlightened self interest: you're building something that serves your community and your career at the same time.
+
+Chapter leaders don't just organize events. They become the person everyone calls when they need applied AI talent, when they have a project to staff, when they want to understand what's possible. That's a powerful position to hold, and it compounds over time.
 
 The people who figure out applied AI now, while the gap is wide open, will be the ones everyone else calls in two years.
 
@@ -82,8 +92,8 @@ The people who figure out applied AI now, while the gap is wide open, will be th
 ## How to Get Started
 
 1. **Read the docs.** Start with [What is the Applied AI Society?](/docs/about) and the [Applied AI Canon](/docs/philosophy/canon). If the philosophy resonates, keep going.
-2. **Read the playbooks.** Browse the [chapter leader playbooks](/docs/playbooks/chapter-leader) to see what running a chapter actually looks like. Pay special attention to [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) and [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships).
-3. **Reach out.** [Get in touch](https://appliedaisociety.org/contribute), or have the person who connected you with Applied AI Society introduce you to Gary Sheng directly. Text, WhatsApp, or email all work.
+2. **Read the playbooks.** Browse the [chapter leader playbooks](/docs/playbooks/chapter-leader) to see what running a chapter actually looks like.
+3. **Reach out.** Hit up Gary Sheng directly on Telegram (@garysheng) or X DMs (@garysheng). You can also [get in touch here](https://appliedaisociety.org/contribute).
 4. **Have a conversation.** We'll talk about your city, your network, what format makes sense, and what support you need.
 5. **Run your first event.** We'll help you get the first one off the ground. From there, you're building.
 
@@ -91,6 +101,6 @@ The people who figure out applied AI now, while the gap is wide open, will be th
 
 ## See Also
 
-- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) -- the flagship event format
+- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) -- a proven event format for practitioner-driven demos
 - [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) -- finding sponsors and venue partners
 - [Hosting an Event](/docs/playbooks/chapter-leader/hosting-an-event) -- the soft skills of being the host
