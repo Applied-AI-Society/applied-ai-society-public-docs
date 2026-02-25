@@ -62,15 +62,12 @@ function HeroSection(): React.ReactElement {
           The Applied AI Society is a community of people learning to apply AI professionally. This is where we share everything we figure out: playbooks, case studies, and open documentation.
         </p>
         <div className={styles.heroActions}>
-          <Link className={styles.primaryButton} to="/docs/case-studies">
-            Browse Case Studies
+          <Link className={styles.primaryButton} to="/docs/about">
+            About
           </Link>
-          <Link className={styles.secondaryButton} to="/docs/playbooks">
-            View Playbooks
+          <Link className={styles.secondaryButton} to="/docs/playbooks/chapter-leader/starting-a-chapter">
+            Start a Chapter
           </Link>
-          <a className={styles.tertiaryButton} href="https://appliedaisociety.org/contribute" target="_blank" rel="noopener noreferrer">
-            Get Involved
-          </a>
         </div>
       </div>
     </header>
