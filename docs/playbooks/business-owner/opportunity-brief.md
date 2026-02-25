@@ -16,7 +16,7 @@ The purpose of this brief is so we can get full context of where AI can help you
 Once complete, this document does three things:
 
 1. **Clarifies your own thinking.** Most business owners discover important gaps and assumptions while working through this. That's part of the value.
-2. **Enables fast matching.** Applied AI engineers can assess fit quickly without a long discovery process.
+2. **Enables fast matching.** Applied AI practitioners can assess fit quickly without a long discovery process.
 3. **Sets shared expectations.** Both sides have a common reference point from day one.
 
 The more thoroughly you fill this out, the faster and better the help you'll get.
@@ -25,7 +25,7 @@ The more thoroughly you fill this out, the faster and better the help you'll get
 
 **Who fills it out:** The person leading AI adoption inside your company, ideally with input from the operational team closest to the problem.
 
-**Who reads it:** Applied AI engineers you're considering for the engagement. Also useful for getting internal buy-in from leadership.
+**Who reads it:** Applied AI practitioners you're considering for the engagement. Also useful for getting internal buy-in from leadership.
 
 **Length target:** 1-3 pages. Keep answers concise. Brief bullet points are preferred over paragraphs.
 
@@ -126,7 +126,7 @@ Are you looking to do the same thing faster and cheaper, or to drive fundamental
 
 **Are you open to this project being referenced publicly?** (As a case study, at a community event, in a practitioner's portfolio, etc.)
 
-**Would you be interested in being featured at an Applied AI Live event**, where a practitioner architects a live solution to your problem in front of a community of applied AI engineers? (Optional, but it's one of the fastest ways to get quality help.)
+**Would you be interested in being featured at an Applied AI Live event**, where a practitioner architects a live solution to your problem in front of a community of applied AI practitioners? (Optional, but it's one of the fastest ways to get quality help.)
 
 ---
 

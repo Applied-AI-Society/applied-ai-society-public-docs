@@ -182,7 +182,7 @@ This is the hook that gets people to read the full profile. Keep it short and pu
 **Script template:**
 
 ```
-Hey, I'm [Name]. I'm an applied AI engineer based in [City].
+Hey, I'm [Name]. I'm an applied AI practitioner based in [City].
 
 I do [consulting/freelance/in-house] for [type of clients].
 
@@ -196,7 +196,7 @@ The reason I love what I do is [motivation: problem solving, growth, learning, e
 ```
 Hey, my name is Rostam Mahabadi. I'm based out of Austin, Texas.
 
-I'm an applied AI engineer and I do consulting for companies of various sizes.
+I'm an applied AI practitioner and I do consulting for companies of various sizes.
 
 The reason I love what I do is I get to continually grow my skill set by working with different clients with different needs. I also get to work on complex problems that aren't solved in today's world.
 

@@ -28,7 +28,7 @@ Last Updated: January 26, 2026
 
 Airtable is the go-to CRM for this system because:
 
-- **Flexible:** Manage different outreach channels (LinkedIn, Twitter, Email) across various member types (Applied AI engineers, business owners, tool developers)
+- **Flexible:** Manage different outreach channels (LinkedIn, Twitter, Email) across various member types (applied AI practitioners, business owners, tool developers)
 - **Affordable:** Free tier works for getting started; paid plans are reasonable
 - **Extensions:** Easy deduping, data cleaning, and more built-in
 - **Collaboration:** Multiple team members can work on the same base
@@ -94,7 +94,7 @@ Set up these core fields first.
 | `city` | Single line text | |
 | `state` | Single line text | |
 | `country` | Single line text | |
-| `memberType` | Single select | Options: `Tool Developer`, `Applied AI Engineer`, `Business Owner`, `Other` |
+| `memberType` | Single select | Options: `Tool Developer`, `Applied AI Practitioner`, `Business Owner`, `Other` |
 
 **For manual outreach tracking:**
 

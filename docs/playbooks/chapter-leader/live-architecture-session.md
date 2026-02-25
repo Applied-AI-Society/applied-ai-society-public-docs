@@ -5,7 +5,7 @@ title: Live Architecture Session
 
 # Live Architecture Session
 
-The signature segment of Applied AI Live. A real business owner presents a real problem. An Applied AI Engineer architects a solution on the spot. The audience learns by watching.
+The signature segment of Applied AI Live. A real business owner presents a real problem. A practitioner architects a solution on the spot. The audience learns by watching.
 
 This guide covers how to find the right business owner and prepare the engineer for success.
 
@@ -64,7 +64,7 @@ Here's a message you can adapt when reaching out to potential candidates:
 >
 > I'm organizing an event called Applied AI Live where practitioners help business owners solve real problems using AI.
 >
-> There's a segment where one business owner gets to workshop a problem live with an experienced Applied AI engineer. The engineer architects a solution on the spot while the audience watches and learns.
+> There's a segment where one business owner gets to workshop a problem live with an experienced applied AI practitioner. The practitioner architects a solution on the spot while the audience watches and learns.
 >
 > I immediately thought of you. You have a real business, you're thoughtful about how you work, and I think there's a lot we could dig into.
 >
@@ -106,7 +106,7 @@ Take notes. Ask follow-up questions. Get specific examples. The more concrete th
 
 ## Writing the Problem Brief
 
-The problem brief is a document you give to the Applied AI Engineer at least **one week before the event**. It's like a hackathon challenge prompt. The engineer needs time to think through the problem before going on stage.
+The problem brief is a document you give to the practitioner at least **one week before the event**. It's like a hackathon challenge prompt. They need time to think through the problem before going on stage.
 
 ### Brief Structure
 

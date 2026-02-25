@@ -43,7 +43,7 @@ This is the core of your presentation. Pick one or two real projects and walk th
 
 ### Making it actionable
 
-The audience is full of aspiring applied AI engineers. They want to follow in your footsteps. Ask yourself: if someone in the audience wanted to replicate what I did, what would they need to know?
+The audience is full of aspiring applied AI practitioners. They want to follow in your footsteps. Ask yourself: if someone in the audience wanted to replicate what I did, what would they need to know?
 
 Real numbers help. Real tool names help. Specific client types help. Generalities ("I built an AI solution for a company") don't give people enough to work with.
 
@@ -116,7 +116,7 @@ Three types of people will be in the room:
 
 | Type | What they want from you |
 |------|------------------------|
-| **Applied AI Engineers** | How to land clients, what tools to use, how to scope and deliver projects |
+| **Applied AI Practitioners** | How to land clients, what tools to use, how to scope and deliver projects |
 | **Business Owners** | What's actually possible, what good AI implementation looks like |
 | **Tool Builders** | Practitioner feedback on tools and frameworks |
 

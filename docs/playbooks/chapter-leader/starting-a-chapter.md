@@ -57,9 +57,11 @@ The model is subsidiarity: national provides the playbooks, brand, and network. 
 
 **The network.** You're not building alone. You plug into a national (and soon global) community of chapter leaders, practitioners, and sponsors. What works in Austin, Bordeaux, or LA gets shared with you immediately.
 
-**Mentorship.** You can text Gary whenever. Early on, you can do a weekly call if you want. The communication cadence will evolve as we figure out what works, but you won't be left on your own.
+**Mentorship.** Message Gary on Telegram (@garysheng) or X DMs (@garysheng) whenever. Early on, you can do a weekly call if you want. The communication cadence will evolve as we figure out what works, but you won't be left on your own.
 
 **The slides platform.** Access to the Applied AI Society presentation platform for running events with animated slides, live workshops, audience Q&A, and presenter remotes.
+
+**Discord (coming soon).** A community Discord for all chapter leaders, practitioners, and members to compare notes, share opportunities, and co-work across cities.
 
 ---
 

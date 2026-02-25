@@ -27,7 +27,7 @@ Don't just list titles. Show why this person is credible *right now*:
 
 - **Credential:** "creator of NumPy and SciPy"
 - **Current work:** "founder of OpenTeams"
-- **What they'll share:** "will speak on the importance of applied AI engineers and what his team is building"
+- **What they'll share:** "will speak on the importance of applied AI practitioners and what his team is building"
 
 Each speaker should earn their paragraph.
 
@@ -165,7 +165,7 @@ This is the first installment of a workshop series for people who want to make m
 
 The goal is to create a Schelling point for practitioners who are actually making a living helping businesses integrate AI — sharing exactly how they do it.
 
-Travis Oliphant (creator of NumPy and SciPy, founder of OpenTeams) will speak on the importance of applied AI engineers and what his team is building to help valuable institutions integrate AI.
+Travis Oliphant (creator of NumPy and SciPy, founder of OpenTeams) will speak on the importance of applied AI practitioners and what his team is building to help valuable institutions integrate AI.
 
 Rostam Mahabadi has made a living building agentic workflows for major corporations in 2025 and is doubling down in 2026. He and his team just won the grand prize at the AITX x NVIDIA Hackathon. He'll share real case studies, then a real business owner will present an actual problem they're facing — and Rostam will architect a solution live.
 

@@ -32,7 +32,7 @@ The best photographer for an Applied AI Society event is someone who:
 - Wants to be in the room anyway
 - Is excited to meet the people attending
 
-Think: an aspiring applied AI engineer who happens to take good photos. Or a creative who's curious about the space. Someone who sees the event as valuable beyond the paycheck.
+Think: an aspiring applied AI practitioner who happens to take good photos. Or a creative who's curious about the space. Someone who sees the event as valuable beyond the paycheck.
 
 This is a real win-win. They get paid, they get to network, and they walk away with connections that might matter more than the $150. You get someone genuinely engaged, not just clocking hours.
 

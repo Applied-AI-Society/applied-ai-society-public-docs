@@ -40,7 +40,7 @@ Guides for guest presenters at Applied AI Society events.
 
 ## For Practitioners
 
-Guides for applied AI engineers doing consulting and implementation work.
+Guides for applied AI practitioners doing consulting and implementation work.
 
 | Playbook | Description |
 |----------|-------------|
