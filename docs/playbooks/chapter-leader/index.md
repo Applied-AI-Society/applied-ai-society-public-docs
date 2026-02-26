@@ -11,11 +11,18 @@ Every AAS event is an **initiation into the applied AI economy**: a landscape ma
 
 ---
 
+## Event Formats
+
+Start here: **[Event Formats](/docs/playbooks/chapter-leader/event-formats)** is a catalog of every event type we run or are developing, with guidance on when to use each one.
+
+---
+
 ## Event Playbooks
 
 | Playbook | Description |
 |----------|-------------|
 | [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) | A proven workshop format with master checklist |
+| [Running a Hackathon](/docs/playbooks/chapter-leader/running-a-hackathon) | Co-hosted building events to surface builders |
 | [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session) | Finding the right business owner and prepping the engineer |
 | [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) | Securing a recurring partner space |
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |

@@ -45,6 +45,7 @@ const docSections: DocSection[] = [
 ];
 
 const quickLinks: QuickLinkItem[] = [
+  { label: 'Join Discord', link: 'https://discord.gg/7KeNHKck', icon: '💬', external: true },
   { label: 'View Brand Assets', link: '/docs/brand', icon: '🎨' },
   { label: 'Join / Contribute', link: 'https://appliedaisociety.org/contribute', icon: '🤝', external: true },
   { label: 'Contribute on GitHub', link: 'https://github.com/applied-ai-society', icon: '💻', external: true },

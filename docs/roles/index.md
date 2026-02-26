@@ -22,5 +22,6 @@ AI is doing the same thing, faster. The roles forming now sit at the intersectio
 ## The Roles
 
 - [AI Workflow Architect](./ai-workflow-architect) — The person who connects AI capability to organizational purpose
+- [Fractional AI Executive](./fractional-ai-executive) — Experienced builders who embed with teams as part-time AI and product leaders
 
 *More roles being added. If you're doing applied AI work that doesn't fit a known category, you may be early to something. [Tell us about it.](https://appliedaisociety.org/contribute)*
