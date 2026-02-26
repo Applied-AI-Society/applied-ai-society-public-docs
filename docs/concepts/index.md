@@ -11,4 +11,5 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 
 ## Glossary
 
-- [Intent Engineering](./intent-engineering) — The discipline of encoding organizational purpose into AI systems so agents optimize for what actually matters, not just what they can measure
+- [Context Engineering](./context-engineering): Curating the right information state for AI systems so agents have the knowledge they need, when they need it
+- [Intent Engineering](./intent-engineering): Encoding organizational purpose into AI systems so agents optimize for what actually matters, not just what they can measure

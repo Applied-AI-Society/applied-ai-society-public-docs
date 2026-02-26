@@ -7,6 +7,8 @@ title: "Fractional AI Executive"
 
 *A new class of operator is emerging: experienced builders who embed directly with teams as part-time AI and product leaders. They bring 10+ years of shipping discipline and deep AI fluency, packaged as a service.*
 
+> **This is a senior role.** If you're earlier in your career, this is a picture of where the path can lead. For entry points into applied AI work right now, see [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy).
+
 ---
 
 ## What They Do
@@ -74,5 +76,5 @@ Most operate without long-term contracts. The value should be obvious enough tha
 
 ## Related Concepts
 
-- [AI Workflow Architect](./ai-workflow-architect) — A complementary role focused on organizational intent and workflow mapping
-- [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy) — The broader landscape of emerging roles
+- [AI Workflow Architect](./ai-workflow-architect): A complementary role focused on organizational intent and workflow mapping
+- [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The broader landscape of emerging roles

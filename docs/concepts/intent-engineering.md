@@ -15,7 +15,7 @@ To understand intent engineering, you have to see where it sits in a progression
 
 **Prompt engineering** was the first discipline. It was individual, synchronous, and session-based. You sat in front of a chat window, crafted an instruction, and iterated the output. The value was personal. The skill lived in the person, not the organization. This is the era that produced a thousand "how to write the perfect prompt" blog posts.
 
-**Context engineering** is the discipline the industry is currently grappling with. Anthropic described it in late 2025 as the shift from crafting isolated instructions to crafting the entire information state that an AI system operates within. Building RAG pipelines, wiring up MCP servers, structuring organizational knowledge so agents can access it. Context engineering tells agents what to know.
+**[Context engineering](./context-engineering)** is the discipline the industry is currently grappling with. Anthropic described it in late 2025 as the shift from crafting isolated instructions to crafting the entire information state that an AI system operates within. Building RAG pipelines, wiring up MCP servers, structuring organizational knowledge so agents can access it. Context engineering tells agents what to know.
 
 **Intent engineering** is the third discipline, and it's the one that's mostly unbuilt. If context engineering tells agents what to know, intent engineering tells agents what to want. It is the practice of encoding organizational purpose into infrastructure: not as prose in a system prompt, but as structured, actionable parameters that shape how agents make decisions autonomously.
 
@@ -79,5 +79,6 @@ A mediocre model with extraordinary organizational intent infrastructure will ou
 
 ## Further Reading
 
-- [AI Workflow Architect](../roles/ai-workflow-architect) — The role emerging to own intent engineering inside organizations
+- [AI Workflow Architect](../roles/ai-workflow-architect): The role emerging to own intent engineering inside organizations
+- [Context Engineering](./context-engineering): The companion discipline that tells agents what to know
 - Hat tip to [this video](https://www.youtube.com/watch?v=QWzLPn164w0), which named and articulated the intent engineering concept as clearly as anything we've encountered

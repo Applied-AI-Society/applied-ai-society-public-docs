@@ -5,17 +5,23 @@ title: North Star
 
 # North Star
 
-*The one metric that tells us whether we're succeeding.*
+*How we hold ourselves accountable to you.*
 
 ---
 
-## First Applied AI Opportunities
+## The Promise
 
-Applied AI Society exists to shorten the time for young people to get their first applied AI money-making opportunity. So the metric is simple: **are we actually doing that?**
+Applied AI Society exists to shorten the time for young people to get their first applied AI money-making opportunity. Every event, every playbook, every connection in the network should serve that goal. So the question we keep asking ourselves is simple: **are we actually doing that?**
 
-Events initiate people into the applied AI economy. Content builds awareness. Playbooks build capability. But the moment that matters is when someone gets connected to their first (or next) applied AI engagement because of this society.
+---
 
-That's the metric we track. Not attendance, not follower counts, not content impressions. Those are leading indicators. The north star is **opportunity matches**: introductions we make between practitioners and the people who need their help. Every consulting gig, freelance contract, startup collaboration, or full-time role that flows through the network counts.
+## What We Measure
+
+Not attendance. Not follower counts. Not content impressions. Those matter as leading indicators, but they're not the point.
+
+The metric that matters is **opportunity matches**: introductions we make between practitioners and the people who need their help. Every consulting gig, freelance contract, startup collaboration, or full-time role that flows through the network counts. The moment someone gets connected to their first (or next) applied AI engagement because of this society, that's a win.
+
+Events pull people into the applied AI economy. Content builds awareness. Playbooks build capability. But the thing we actually track is whether those inputs lead to real opportunities for real people.
 
 ---
 
@@ -23,17 +29,15 @@ That's the metric we track. Not attendance, not follower counts, not content imp
 
 The [Canon](/docs/philosophy/canon) says efficiency is a tool, not the goal. The goal is more soul-requiring work in the world. Our [Principles](/docs/philosophy/principles) say business outcomes over technology fascination.
 
-Opportunity matches sit at the intersection of both. When we connect a practitioner with someone who needs applied AI work done, we're not just growing a network. We're putting a real person in a position to do real work that matters. We're shortening the path from "I want to do this" to "I'm getting paid to do this."
+Opportunity matches sit at the intersection of both. When we connect a practitioner with someone who needs applied AI work done, we're putting a real person in a position to do real work that matters. That's the path we're building: from "I want to do this" to "I'm getting paid to do this."
 
 ---
 
 ## What Counts
 
-- Connecting a practitioner with a company or individual who needs AI implementation help
-- Introducing someone to a freelance, contract, or full-time applied AI role
-- Matching a young person with an apprenticeship or first AI project
-- Any society-facilitated introduction that leads to paid applied AI work
+- A practitioner gets connected with a company or individual who needs AI implementation help
+- Someone lands a freelance, contract, or full-time applied AI role through the network
+- A young person gets matched with an apprenticeship or first AI project
+- Any introduction facilitated through the society that leads to paid applied AI work
 
----
-
-*We measure what matters. Everything else is a means to this end.*
+If you've gotten an opportunity through the Applied AI Society, [we'd love to hear about it](https://appliedaisociety.org/contribute). Your story helps us understand what's working and helps the next person see what's possible.

@@ -60,7 +60,7 @@ function HeroSection(): React.ReactElement {
           Applied AI Society Docs
         </h1>
         <p className={styles.heroSubtitle}>
-          The Applied AI Society is a community of people learning to apply AI professionally. This is where we share everything we figure out: playbooks, case studies, and open documentation.
+          A shared field notes hub for making sense of and seizing the opportunities in the applied AI economy. Roles, concepts, case studies, and playbooks, all evolving in the open.
         </p>
         <div className={styles.heroActions}>
           <Link className={styles.primaryButton} to="/docs/about">

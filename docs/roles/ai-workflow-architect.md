@@ -7,6 +7,8 @@ title: "AI Workflow Architect"
 
 *One of the most important roles forming in enterprise AI right now. Most companies don't know they need one until something goes wrong.*
 
+> **This is a senior role.** If you're earlier in your career, this is a picture of where the path can lead. For entry points into applied AI work right now, see [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy).
+
 ---
 
 ## What They Do
@@ -66,5 +68,5 @@ What both groups share: they can translate. They can sit in a room with a CTO an
 
 ## Related Concepts
 
-- [Intent Engineering](/docs/concepts/intent-engineering) — The discipline this role is built around
-- [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy) — Other roles and paths in the emerging economy
+- [Intent Engineering](/docs/concepts/intent-engineering): The discipline this role is built around
+- [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): Other roles and paths in the emerging economy

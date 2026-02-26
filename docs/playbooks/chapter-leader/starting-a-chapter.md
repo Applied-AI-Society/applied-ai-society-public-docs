@@ -59,7 +59,7 @@ The model is subsidiarity: national provides the playbooks, brand, and network. 
 
 **Mentorship.** Message Gary on Telegram (@garysheng) or X DMs (@garysheng) whenever. Early on, you can do a weekly call if you want. The communication cadence will evolve as we figure out what works, but you won't be left on your own.
 
-**The slides platform.** Access to the Applied AI Society presentation platform for running events with animated slides, live workshops, audience Q&A, and presenter remotes.
+**Brand infrastructure.** A Remotion repo with ready-to-use compositions for event flyers, promo videos, and visual assets. Clone it, swap your chapter's details (speaker names, dates, venue, co-host logos), and render. The compositions handle brand consistency for you. If you're not technical, you can also use the [brand guidelines](/docs/brand) to create assets with Canva, Gamma, or whatever you prefer.
 
 **[Discord](https://discord.gg/7KeNHKck).** The community Discord for all chapter leaders, practitioners, and members to compare notes, share opportunities, and co-work across cities.
 
@@ -67,7 +67,11 @@ The model is subsidiarity: national provides the playbooks, brand, and network. 
 
 ## What's Expected of You
 
-**Run events.** The core of any chapter is regular events. Start with monthly. Every event is an initiation into the applied AI economy. The concept: you're giving your audience a landscape map. Invite three or four practitioners who are actually making money in applied AI to share their path (consulting, startups, automation, products, freelance). The audience leaves knowing what the paths are, what's real, and what's hype. The call to action is simple: join this community to compare notes, co-work, and share opportunities. Formats can vary (live demos, panels, workshops, hackathons, coworking sessions) but the through-line is always the same.
+**Run events.** The core of any chapter is regular events. Start with monthly. Every event is an initiation into the applied AI economy. The concept: you're giving your audience a landscape map. Practitioners who are actually making money in applied AI share their field notes. The audience leaves knowing what the paths are, what's real, and what's hype. The call to action is simple: join this community to compare notes, co-work, and share opportunities. Formats can vary ([see the full catalog](/docs/playbooks/chapter-leader/event-formats)) but the through-line is always the same.
+
+**Add AAS national as a manager on every event.** Whether you use Luma, Meetup, or both, add the national AAS account as a co-host or manager on every event page. This gives national access to the attendee list and lets us build a shared email list across all chapters. A strong national list benefits every chapter: it lets us promote your events to members in nearby cities, send national updates, and build the overall community.
+
+**Collect LinkedIn and GitHub on registration.** When setting up your event registration, include fields for LinkedIn profile URL and GitHub username (optional but encouraged). This data flows into the national CRM and helps us understand who's in the community: what they build, where they work, what skills they have. That enrichment makes the whole network more valuable. When a business owner in Austin needs a practitioner with a specific background, or a chapter leader in LA wants to find local speakers, the CRM is how we connect the dots.
 
 **Find your local patron.** Every chapter needs a local champion: a business owner, executive, or organization that believes in what you're building and wants to support it. This isn't a cold sponsorship pitch. It's finding someone who sees the value of a local applied AI talent network and wants to say "I planted this chapter." This usually happens naturally after your first couple of events prove the model.
 
