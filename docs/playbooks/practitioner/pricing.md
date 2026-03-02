@@ -115,9 +115,9 @@ The [Business Owner playbooks](/docs/playbooks/business-owner) walk your prospec
 |---|---|---|
 | [AI Quick Check](/docs/playbooks/business-owner/quick-check) | Assessed their own readiness with six yes/no questions | If they scored "early," they need coaching before building. Price for discovery and education, not implementation. |
 | [Situation Map](/docs/playbooks/business-owner/situation-map) | Mapped their workflows, data, team, and gaps | You can skip weeks of discovery. Their gaps are documented. Price the build, not the diagnosis. |
-| [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief) | Written a structured brief with problem, cost, desired outcomes, constraints, and budget | This is a client who has done the work. They know what they want, what it costs them, and what they can spend. You can price with confidence because the scope is clear. |
+| [Pilot Scope](/docs/playbooks/business-owner/pilot-scope) | Scoped a concrete pilot with problem, success metric, constraints, and budget | This is a client who has done the work. They know what they want, what it costs them, and what they can spend. You can price with confidence because the scope is clear. |
 
-**The ideal scenario:** A client comes to you having completed all three stages. They hand you an Opportunity Brief that includes the problem, the cost of the problem, their budget range, and their success metrics. Your pricing conversation is now about aligning your model to their documented needs, not convincing them the problem exists.
+**The ideal scenario:** A client comes to you having completed all three stages. They hand you a Pilot Scope that includes the problem, the cost of the problem, their budget range, and their success metrics. Your pricing conversation is now about aligning your model to their documented needs, not convincing them the problem exists.
 
 **The common scenario:** A client comes to you at the Quick Check stage or earlier. They know something is wrong but haven't mapped it. In this case, your first engagement should be a paid discovery (the Situation Map process), not a build. Price the discovery at $2,000-5,000 depending on complexity. The discovery itself becomes the foundation for the larger engagement.
 
@@ -264,7 +264,7 @@ client readiness playbooks at these URLs:
 - Pricing framework: https://docs.appliedaisociety.org/docs/playbooks/practitioner/pricing
 - Quick Check: https://docs.appliedaisociety.org/docs/playbooks/business-owner/quick-check
 - Situation Map: https://docs.appliedaisociety.org/docs/playbooks/business-owner/situation-map
-- Opportunity Brief: https://docs.appliedaisociety.org/docs/playbooks/business-owner/opportunity-brief
+- Pilot Scope: https://docs.appliedaisociety.org/docs/playbooks/business-owner/pilot-scope
 - Beyond Automation: https://docs.appliedaisociety.org/docs/playbooks/business-owner/beyond-automation
 - Hiring Practitioners: https://docs.appliedaisociety.org/docs/playbooks/business-owner/hiring-practitioners
 
@@ -284,7 +284,7 @@ Your goal is to understand:
 - Their business, industry, and approximate scale
 - Who I'm talking to and whether they can authorize real spend
 - Where they are in the readiness journey (Quick Check, Situation Map,
-  or Opportunity Brief stage)
+  or Pilot Scope stage)
 - Their urgency and AI maturity
 
 **About the engagement:**
@@ -344,6 +344,6 @@ Once you start retainers, send monthly impact reports. Show the numbers. You are
 **Understand what your clients see:**
 - [AI Quick Check](/docs/playbooks/business-owner/quick-check) for the readiness self-assessment your clients take before contacting you
 - [Situation Map](/docs/playbooks/business-owner/situation-map) for how clients document their workflows, data, team, and gaps
-- [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief) for the structured brief format clients use to scope engagements
+- [Pilot Scope](/docs/playbooks/business-owner/pilot-scope) for the structured pilot scoping format clients use before engaging a practitioner
 - [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation) for the continuous improvement philosophy that justifies retainers
 - [Hiring Practitioners](/docs/playbooks/business-owner/hiring-practitioners) for the five engagement types clients are choosing between

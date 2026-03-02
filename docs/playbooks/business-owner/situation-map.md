@@ -74,7 +74,7 @@ Based on your answers, check any that apply:
 
 Each gap is a to-do item, not a blocker. But they need to be resolved before the AI work begins, not discovered mid-project.
 
-**If you have no gaps:** Move to the [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief). You're ready to scope.
+**If you have no gaps:** Move to the [Pilot Scope](/docs/playbooks/business-owner/pilot-scope). You're ready to scope.
 
 **If you have 1-2 gaps:** You can likely close these quickly. Consider a [guided consultation](https://appliedaisociety.org) to help.
 

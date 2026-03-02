@@ -53,7 +53,7 @@ The Applied AI Society exists to connect business owners with practitioners who 
 
 **Post an opportunity.** If you have a specific need, [reach out to us](https://appliedaisociety.org/contribute). Our [north star](/docs/philosophy/north-star) is connecting practitioners with real applied AI opportunities. Your project could be someone's next great engagement.
 
-**Start with the three-stage path.** Before you hire anyone, walk through our [Quick Check](/docs/playbooks/business-owner/quick-check), [Situation Map](/docs/playbooks/business-owner/situation-map), and [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief). These tools help you articulate what you actually need so the right practitioner can find you.
+**Start with the three-stage path.** Before you hire anyone, walk through our [Quick Check](/docs/playbooks/business-owner/quick-check), [Situation Map](/docs/playbooks/business-owner/situation-map), and [Pilot Scope](/docs/playbooks/business-owner/pilot-scope). These tools help you articulate what you actually need so the right practitioner can find you.
 
 ---
 

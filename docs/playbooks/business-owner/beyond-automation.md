@@ -79,7 +79,7 @@ This is a fundamentally different engagement structure from "here's your deliver
 
 ## Before You Engage Anyone
 
-The [three-stage path](/docs/playbooks/business-owner) exists to protect you. The [Quick Check](/docs/playbooks/business-owner/quick-check) confirms you're ready. The [Situation Map](/docs/playbooks/business-owner/situation-map) ensures your workflows, data, and team are mapped honestly. The [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief) asks you to define success metrics and desired outcomes before you hire anyone.
+The [three-stage path](/docs/playbooks/business-owner) exists to protect you. The [Quick Check](/docs/playbooks/business-owner/quick-check) confirms you're ready. The [Situation Map](/docs/playbooks/business-owner/situation-map) ensures your workflows, data, and team are mapped honestly. The [Pilot Scope](/docs/playbooks/business-owner/pilot-scope) asks you to define a concrete first experiment with clear success metrics before you hire anyone.
 
 That's not administrative overhead. It's the prerequisite to knowing whether anything actually improved. Without a clear metric defined at the start, you have no way to evaluate whether the engagement delivered real value, and neither does the practitioner.
 

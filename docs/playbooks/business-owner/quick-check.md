@@ -53,7 +53,7 @@ title: AI Quick Check
 
 You have a real problem, decision-making power, budget, and someone to own it. You don't need to be convinced that AI can help. You need to scope what to build.
 
-**Your next step:** Review the [Situation Map](/docs/playbooks/business-owner/situation-map) questions on your own, then schedule a 30-minute session with a practitioner or AAS advisor to walk through them together. After that, you'll be ready for the [Opportunity Brief](/docs/playbooks/business-owner/opportunity-brief).
+**Your next step:** Review the [Situation Map](/docs/playbooks/business-owner/situation-map) questions on your own, then schedule a 30-minute session with a practitioner or AAS advisor to walk through them together. After that, you'll be ready for the [Pilot Scope](/docs/playbooks/business-owner/pilot-scope).
 
 ### Mostly B's: You're close.
 
