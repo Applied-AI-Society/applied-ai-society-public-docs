@@ -45,6 +45,26 @@ The model is subsidiarity: national provides the playbooks, brand, and network. 
 
 ---
 
+## Know Your City's Scene
+
+Before you start a chapter, take a hard look at what already exists in your city. Every city has a different AI landscape, and your chapter needs to fit that landscape, not copy-paste what works somewhere else.
+
+We think about this as an **ideal scene profile**: treating cities themselves as distinct profiles with their own strengths, gaps, and cultures.
+
+**Questions to ask:**
+
+- **How many AI communities already exist here?** If your city is already saturated with AI meetups, clubs, and events, your chapter needs a sharper angle. If there's almost nothing, you have wide open space but less existing momentum to tap into.
+- **What's the talent mix?** Is your city heavy on research and academia (universities, labs) or on applied, commercial work (agencies, startups, enterprises)? The gap between "people who know AI" and "people who get paid to apply AI" varies by city. Your programming should address your city's specific gap.
+- **How does community work here?** In some cities, one group text gets 50 people to show up. In others, it takes weeks of outreach to fill a room. Understanding your city's community culture tells you how much effort to budget for mobilization.
+- **Are there customers nearby?** Chapters thrive when there are local businesses who will pay for applied AI work. If most of your city's talent has to look elsewhere for clients, the practitioner pipeline is harder to build.
+- **Who's already doing this work?** Find the other community leaders, meetup organizers, and ecosystem builders in your city. If you can't name them, you need to spend more time learning the landscape before launching. A chapter leader who doesn't know the other players in their city is a red flag.
+
+**The principle:** We're most impactful in cities where the floor needs raising. Cities already on the bleeding edge of AI (dense talent, tons of events, strong networks) may not need another community. Cities with real talent but no connective tissue for applied AI work: that's where chapters change lives.
+
+Your chapter doesn't have to look like Austin's. It should look like your city, run by someone who understands what your city needs.
+
+---
+
 ## What National Provides
 
 **Cofounders who open doors.** Applied AI Society was cofounded by Gary Sheng and Travis Oliphant (creator of NumPy, SciPy, cofounder of Anaconda). That credibility helps when you're reaching out to sponsors, speakers, and university partners. You're not building a random club. You're building a chapter of something real, backed by people with track records.
