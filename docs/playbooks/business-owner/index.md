@@ -5,9 +5,11 @@ title: For Business Owners
 
 # For Business Owners
 
-You know AI matters. You've seen the headlines, heard the pitches, maybe even tried ChatGPT yourself. But when it comes to actually applying AI to your business, the path is unclear. Where do you start? What's real? Who do you trust?
+Your board saw a demo. Your CEO read an article. Now there's urgency around "AI transformation." Every CTO and business leader is getting pressure to "do something with AI."
 
-This section is for you.
+Don't build an AI strategy around FOMO. Build it around problems.
+
+You know AI matters. But when it comes to actually applying it to your business, the path is unclear. Where do you start? What's real? Who do you trust? This section is for you.
 
 ---
 
@@ -15,7 +17,7 @@ This section is for you.
 
 Most AI projects fail because someone started building before the foundation was ready. A practitioner writes code for a system that doesn't have clean data, defined processes, or someone who owns the outcome. Everyone gets frustrated. The project stalls.
 
-The fix is simple: before you build anything, scope a pilot. A well-scoped pilot is the single most important thing a business owner needs to get started on their applied AI journey. It's the difference between "we tried AI and it didn't work" and "we ran a focused experiment that proved the value."
+The fix is simple: before you build anything, scope a pilot. Not five pilots. Not a "platform." One pilot. A well-scoped pilot is the single most important thing a business owner needs to get started on their applied AI journey. It's the difference between "we tried AI and it didn't work" and "we ran a focused experiment that proved the value."
 
 **A scoped pilot answers:** What specific problem are we solving? What does success look like? What data and systems are involved? Who owns it? What's the timeline and budget? With these answers, any skilled practitioner can execute. Without them, even the best practitioner is guessing.
 

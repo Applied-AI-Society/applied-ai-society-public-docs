@@ -29,6 +29,10 @@ Not all applied AI work looks the same. Understanding the different types of hel
 
 **Custom tool building.** A practitioner builds something that doesn't exist yet. A custom AI agent, a specialized dashboard, an internal system that connects your data sources in new ways. This is deeper work that requires the practitioner to truly understand your business.
 
+:::tip Build vs Buy: For Your First Project, Lean Toward Buying
+For your first AI project, use existing tools. Keep the scope tight. Your goal isn't to build AI capabilities from scratch. It's to prove that AI can deliver value in your specific context. Once you've validated that, you'll have the knowledge and confidence to invest in custom solutions.
+:::
+
 **Internal champion development.** You might already have someone on your team who could become your AI person. Investing in an internal champion (through training, time, and support) can be cheaper and faster than hiring externally. They already know your business, your culture, and your people. For more on this path, see the intrapreneurship section of [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy).
 
 For more on what all these categories look like from the practitioner's side, see [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy).

@@ -15,6 +15,18 @@ To schedule a guided situation mapping session, reach out at [appliedaisociety.o
 
 ---
 
+## 0. Start with Your Bottlenecks
+
+Before diving into the detailed mapping below, take five minutes and list your top operational bottlenecks. Don't think about AI yet. Just think about problems.
+
+- Where are humans doing repetitive work?
+- Where are errors expensive?
+- Where is scale limited by headcount?
+
+This list is your starting point. Pick the one that hurts the most and map it below.
+
+---
+
 ## 1. The Current Workflow
 
 Map how that area actually works today. Walk through it step by step.

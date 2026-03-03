@@ -77,6 +77,16 @@ This is a fundamentally different engagement structure from "here's your deliver
 
 ---
 
+## Build Institutional Knowledge
+
+The companies that win with AI aren't the ones who deploy the most models. They're the ones who learn the fastest.
+
+After every pilot, every experiment, every failed attempt: document what worked, what didn't, and what you'd do differently. Make that knowledge accessible to the rest of your organization. This is how one successful pilot becomes a company-wide capability instead of a one-off project.
+
+The practitioner engagement ends. The institutional knowledge compounds.
+
+---
+
 ## Before You Engage Anyone
 
 The [three-stage path](/docs/playbooks/business-owner) exists to protect you. The [Quick Check](/docs/playbooks/business-owner/quick-check) confirms you're ready. The [Situation Map](/docs/playbooks/business-owner/situation-map) ensures your workflows, data, and team are mapped honestly. The [Pilot Scope](/docs/playbooks/business-owner/pilot-scope) asks you to define a concrete first experiment with clear success metrics before you hire anyone.

@@ -15,6 +15,17 @@ A well-scoped pilot is the most important thing a business owner needs to start 
 
 Without a scoped pilot, you're either paralyzed ("where do we even start?") or reckless ("let's just try AI on everything"). Both waste time and money. A pilot gives you a focused first step with clear success criteria so you know whether to keep going.
 
+### The Honesty Filter
+
+Before you scope a pilot around a specific problem, pressure-test it:
+
+- **Is the data clean enough?** If the information you need is scattered across inboxes and someone's memory, you have a data problem to solve first.
+- **Is the process stable?** If the workflow changes every month, automating it will create a maintenance burden, not savings.
+- **What's the cost of AI errors vs human errors?** Some domains (medical, financial, legal) have asymmetric downside. Factor that in.
+- **Do you have the infrastructure to deploy this?** Can your team actually run and maintain the result?
+
+Most problems will fail this filter. That's fine. You want the ones that pass.
+
 This document is the output of that scoping work. Once complete, it does three things:
 
 1. **Gives you clarity.** You'll know exactly what you're testing, what success looks like, and what resources it requires.
@@ -64,9 +75,9 @@ This document is the output of that scoping work. Once complete, it does three t
 
 **What would a successful pilot look like in 30 days?**
 
-**What metric will you use to measure success?** (Time saved, error rate reduced, revenue increased, cost eliminated, throughput improved, etc. Pick one primary metric.)
+**What metric will you use to measure success?** (Time saved, error rate reduced, revenue increased, cost eliminated, throughput improved, etc. Pick one primary metric. If you can't measure it, you can't prove it worked. And you need proof to get budget for project two.)
 
-**What's your baseline today?** (How does the current process perform on that metric? If you don't know, that's worth noting.)
+**What's your baseline today?** (How does the current process perform on that metric? If you don't know, that's worth noting. You need a starting point to prove improvement.)
 
 **Who benefits most from solving this?** (Specific roles, teams, or customers)
 
@@ -100,7 +111,7 @@ This document is the output of that scoping work. Once complete, it does three t
 
 **Budget range for this pilot:** (Under $5K, $5-15K, $15-50K, $50K+)
 
-**Timeline:** When do you want the pilot running? Is there a hard deadline?
+**Timeline:** When do you want the pilot running? A good pilot ships in 8 to 12 weeks. If it can't be executed in that window, the scope is too broad. Narrow it.
 
 **Deal-breakers:** Any constraints the practitioner must know up front? (No cloud storage, must be self-hosted, can't change the core workflow, etc.)
 
