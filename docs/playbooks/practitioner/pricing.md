@@ -15,6 +15,18 @@ This guide is a framework for thinking through pricing on any AI consulting proj
 
 When you say "20 hours at $100/hour," the client focuses on the 20 hours. When you say "this system will save your team $240,000/year and the investment is $8,000," the client focuses on the ROI. The second conversation closes. The first one invites haggling.
 
+## Growth Center, Not Cost Center
+
+**Position your work as a growth engine, not an expense.**
+
+Trying to sell AI as a way to cut costs puts you in a losing position. You are a new line item competing against existing ones. It is a losing battle to try to be paid for cutting costs, because you are a new cost.
+
+But if you can grow someone's company, that is an easy sell. Frame your work around revenue unlocked, customers gained, capabilities built, and markets entered. Organizations that see applied AI engineering as a growth function scope bigger engagements, invest with conviction, and build lasting partnerships with the practitioners who deliver results.
+
+This reframe changes everything: your pricing conversations, your proposals, your case studies, and the clients you attract.
+
+*Credit to [Reid McCrabb](https://www.linkedin.com/in/reidmccrabb/) and [Jack Moffatt](https://www.linkedin.com/in/jackmoffatt/) of [Linkt](https://www.linkt.ai/) for crystallizing this insight at [Applied AI Live #2](https://lu.ma/AppliedAILive002).*
+
 ## The Pricing Calculator
 
 For any new engagement, work through these factors in order.
