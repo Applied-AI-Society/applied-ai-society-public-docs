@@ -95,7 +95,7 @@ See [The Question Bank](./question-bank) for a starter set of questions worth pr
 
 A command center becomes dramatically more powerful when it can act, not just think.
 
-Computer-use agents (OpenClaw, Pico, Nano, and others emerging in this space) give AI the ability to control computers, write code, execute workflows, and interact with software on your behalf. When these agents operate inside a sovereign command center, the combination is potent: an AI that knows your full context *and* can take action on it.
+Computer-use agents (OpenClaw, PicoClaw, NanoClaw, and others emerging in this space) give AI the ability to control computers, write code, execute workflows, and interact with software on your behalf. When these agents operate inside a sovereign command center, the combination is potent: an AI that knows your full context *and* can take action on it.
 
 This is the frontier. A command center that can read your email, check your calendar, draft a response, update your task list, and do research on a prospect, all within your own infrastructure, without any of that context leaving your control.
 
