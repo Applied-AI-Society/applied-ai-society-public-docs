@@ -32,7 +32,7 @@ Organizations are starting to build real AI infrastructure. Not chatbots on a la
 
 These systems need someone watching them. The agents need orchestration. The context needs curation. The access controls need governance. Without a dedicated person (or team, at scale), the command center drifts: context goes stale, agents accumulate permissions they shouldn't have, and the system slowly stops reflecting reality.
 
-The traditional admin roles (sysadmin, IT admin, network admin) are increasingly being handled by AI agents themselves. What's emerging in their place is this higher-order function: overseeing the AI agents that do the operational work, rather than doing the operational work directly. It's agent orchestration, monitoring, and governance.
+What's replacing those traditional admin functions is this higher-order role: overseeing the AI agents that do the operational work, rather than doing the operational work directly. It's agent orchestration, monitoring, and governance.
 
 Every organization that deploys a sovereign command center will need someone in this seat. The question is whether that person has the title and the mandate, or whether the function gets scattered across people who are already overloaded.
 
@@ -44,7 +44,7 @@ This role is **Chief of Staff adjacent**. The Command Center Administrator works
 
 In a large organization, this is a dedicated full-time role (or a team). The person needs both technical depth (understanding agent configs, monitoring systems, IAM patterns) and strategic awareness (knowing what the organization cares about well enough to curate context that matters).
 
-In a smaller company, this is the CEO's role. If the founder is not AI-native, if they're not personally maintaining the command center and overseeing the agents, the organization will drift. The command center will go stale. The agents will operate on outdated context. And the competitive advantage of having a sovereign AI layer disappears.
+In a smaller company, this is the CEO's role. If the founder is not AI-native, if they're not personally maintaining the command center and overseeing the agents, the organization drifts and the competitive advantage of a sovereign AI layer disappears.
 
 The pattern: at every scale, someone senior needs to own this function. The command center is too strategically important to delegate to someone who doesn't understand the business.
 
@@ -101,7 +101,7 @@ One of the most important dynamics around this role is the handoff from consulta
 
 An [AI Agent Consultant](/docs/roles/ai-agent-consultant) or practitioner may set up the sovereign command center for a client. But the consultant leaves. The command center needs to keep running, evolving, and staying current.
 
-The person who inherits the system needs to understand what it does, how it works, what the agents have access to, and how to monitor all of it. If the handoff is poor, the command center degrades quickly. Context goes stale. Agent permissions accumulate without review. The system becomes a liability instead of an asset.
+The person who inherits the system needs to understand what it does, how it works, what the agents have access to, and how to monitor all of it. If the handoff is poor, the command center degrades quickly: context drifts from reality, agent permissions accumulate without review, and the system becomes a liability instead of an asset.
 
 Good consultants build the handoff into the engagement: documentation, training, and a transition period where the Command Center Administrator is shadowing before they take full ownership.
 

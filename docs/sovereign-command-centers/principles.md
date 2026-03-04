@@ -113,14 +113,14 @@ If you're evaluating whether your current setup qualifies as sovereign, ask:
 
 1. **Where does your context live?** If the answer is "on someone else's servers, in a format I can't export," that's not sovereign.
 2. **Who can see your data?** If the answer includes any entity whose business model benefits from aggregating user data, factor that into your risk assessment.
-3. **Can you switch providers without losing context?** Sovereignty means your knowledge base, your decision logs, your relationship data, and your operational state are portable. If switching AI providers means starting over, you're locked in, not sovereign. **True sovereignty requires semantically portable context, not just raw export.** If schemas, embeddings, ontologies, or agent memory formats are proprietary, migration is still painful even when files are "yours." Plain text and markdown remain king for maximum future-proofing.
+3. **Can you switch providers without losing context?** If switching AI providers means starting over, you're locked in, not sovereign. **True sovereignty requires semantically portable context, not just raw export.** If schemas, embeddings, ontologies, or agent memory formats are proprietary, migration is still painful even when files are "yours." Plain text and markdown remain king for future-proofing.
 4. **What happens if the service goes down?** Your command center should not be a single point of failure. If one vendor disappears, your context and workflows should survive.
 5. **Who controls the agent's access?** If an AI agent can access your email, calendar, and files, you need to know exactly what permissions it has, and you need to be able to revoke them instantly.
 6. **Is your context structured for *you*, or for the platform?** Some tools encourage you to organize your data in ways that optimize for their features, not for your thinking. A sovereign setup structures context around how you work, not how the platform monetizes.
 
 ### Organizational Scale
 
-7. **Do you have role-based access control for AI context?** Just as traditional IAM systems scope what each user can access, your command center needs to scope what each person (and each agent) can see. The intern doesn't need access to board-level strategy documents. The sales agent doesn't need HR records. A practical warning: the coordination tax of fine-grained scoping can be brutal. If every agent query runs through heavy permission checks, latency and developer ergonomics suffer, and people route around the system with shadow tools. Finding the right balance between security model and usability is a multi-year design challenge. Start coarse and tighten as you learn where the real risks are.
+7. **Do you have role-based access control for AI context?** Your command center needs to scope what each person (and each agent) can see. The intern doesn't need board-level strategy documents. The sales agent doesn't need HR records. Start coarse and tighten as you learn where the real risks are. (Warning: fine-grained scoping has a coordination tax. If permission checks slow everything down, people route around the system with shadow tools.)
 8. **Can you audit what agents did and why?** When an AI agent takes action on behalf of your organization (sends an email, updates a record, makes a recommendation), you need a trail. Who authorized it? What context did it use? What decision did it make? This is the AI equivalent of access logs.
 9. **How do you handle offboarding?** When someone leaves the organization, their personal context, agent permissions, and access to shared context all need to be revoked cleanly. If your command center doesn't have a clear offboarding path, you have a security gap.
 10. **Is sensitive context compartmentalized?** Financial data, personnel decisions, client confidentials, and strategic plans should not all live in one undifferentiated pool. Compartmentalization limits blast radius when something goes wrong.
@@ -133,7 +133,7 @@ We are in the early days of sovereign command centers. Nobody has this fully fig
 
 **The sovereignty/convenience tradeoff is real.** Many people will happily trade some sovereignty for speed of iteration and lower operational burden. That's a rational choice in many contexts. The sovereign path wins long-term for high-stakes operators: founders, executives, consultants, and small tight teams where the context is genuinely sensitive and the cost of a breach (or a platform shift) is high. The mass market may settle on "mostly sovereign" hybrids (local-first with selective cloud sync for heavy compute). This document is written for people who want to be at the sovereign end of that spectrum, or who want to help clients get there.
 
-But the principles are undeniable. The more context AI has about you, the more useful it becomes. And whoever controls that context holds enormous power over your effectiveness, your privacy, and your autonomy.
+But the principles are clear. The more context AI has about you, the more useful it becomes. And whoever controls that context holds enormous power over your effectiveness, your privacy, and your autonomy.
 
 The question is not whether you need a sovereign command center. It's whether you're going to build one yourself or let someone else build one around you, on their terms.
 
@@ -143,5 +143,6 @@ If you're ready to start, see [The Question Bank](./question-bank) for a starter
 
 ## Further Reading
 
+- [Command Center Administrator](/docs/roles/command-center-administrator): The emerging role responsible for maintaining and evolving a sovereign command center day-to-day
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information state for AI systems. A sovereign command center is context engineering applied to your entire life and work.
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding your purpose so agents optimize for what matters to you, not what they can measure.
