@@ -77,11 +77,11 @@ This is not about chatbot personality. It is about having enough context to know
 
 Two examples that illustrate the principle:
 
-> **"What is the biggest restraint you're facing right now, and how do you remove it?"**
+**"What is the biggest restraint you're facing right now, and how do you remove it?"**
 
 This is a question a great executive coach asks. It forces you to name the bottleneck instead of working around it. A command center that knows your projects, your goals, and your recent decisions can ask this question with specificity: not just "what's your biggest restraint" but "you've been stuck on X for two weeks and it's blocking Y and Z. What would it take to resolve it today?"
 
-> **"What's the scariest thing you aren't saying right now, or won't admit to yourself?"**
+**"What's the scariest thing you aren't saying right now, or won't admit to yourself?"**
 
 This is the kind of question that creates breakthroughs. Most people avoid it. A command center can be programmed to ask it regularly, without social awkwardness, without judgment, and with enough context about your situation to make the question land.
 
