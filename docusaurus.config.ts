@@ -9,6 +9,7 @@ const config: Config = {
 
   url: 'https://docs.appliedaisociety.org',
   baseUrl: '/',
+  trailingSlash: false,
 
   organizationName: 'applied-ai-society',
   projectName: 'applied-ai-society',
