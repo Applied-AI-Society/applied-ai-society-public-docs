@@ -7,6 +7,8 @@ title: "Sovereign Command Centers"
 
 Your AI should work for you, on your infrastructure, with your data, under your control. That's what a sovereign command center is.
 
+The meme emerging in the practitioner community right now is "command centers." Any individual AI tool is just the tool of the moment. What you're really building (for yourself or for a client) is a sovereign command center: their AI, their data, their infrastructure, under their control. Tools will come and go. Command centers won't.
+
 This section is for practitioners building their own command centers and for consultants helping clients do the same. It covers the principles behind building one, what it should be able to do for you, and why sovereignty is the non-negotiable starting point.
 
 ---

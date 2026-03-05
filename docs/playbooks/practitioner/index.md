@@ -27,6 +27,8 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [ICP Clarity](/docs/playbooks/practitioner/icp-clarity) | Getting clear on who you serve before you build anything |
 | [Experimental Improvement](/docs/playbooks/practitioner/experimental-improvement) | The mindset behind continuous delivery and iteration |
 | [Pricing Your AI Engagements](/docs/playbooks/practitioner/pricing) | Framework for value-based pricing, retainers, and equity deals |
+| [Finding Clients Through Trust](/docs/playbooks/practitioner/finding-clients) | Why cold outreach fails and how to build a practice through your warm network |
+| [The Pilot Pitch](/docs/playbooks/practitioner/pilot-pitch) | How to propose a 2-4 week pilot that's almost impossible to say no to |
 
 ## Coming Soon
 
@@ -36,7 +38,6 @@ We're developing additional guides covering:
 - **Building Your Portfolio:** Documenting your first projects to land clients or jobs
 - **Culture Transformation Engagements:** Helping organizations develop an AI-first mindset
 - **Forward Deployed Hackathons:** Running internal hackathon weekends inside companies to shift culture
-- **Finding Clients:** Identifying companies that know they need to change but can't do it alone
 - **Discovery Sessions:** Assessing an organization's AI readiness and culture
 - **Executive Coaching:** Helping leaders understand the K-shaped economy and what it means for their business
 
