@@ -21,10 +21,10 @@ AI is doing the same thing, faster. The roles forming now sit at the intersectio
 
 ## The Roles
 
-- [AI Workflow Architect](./ai-workflow-architect): The person who connects AI capability to organizational purpose
-- [AI Agent Consultant](./ai-agent-consultant): Solo practitioners who build custom AI agents and integrations for businesses
-- [Fractional AI Executive](./fractional-ai-executive): Experienced builders who embed with teams as part-time AI and product leaders
-- [AI Enablement Coach](./ai-enablement-coach): The person who embeds with a team for a few days to map workflows, coach on AI tools, and identify where AI creates real value
-- [Command Center Administrator](./command-center-administrator): The person who maintains and evolves an organization's sovereign AI command center: agent orchestration, context architecture, and access governance
+- [AI Workflow Architect](/docs/roles/ai-workflow-architect): The person who connects AI capability to organizational purpose
+- [AI Agent Consultant](/docs/roles/ai-agent-consultant): Solo practitioners who build custom AI agents and integrations for businesses
+- [Fractional AI Executive](/docs/roles/fractional-ai-executive): Experienced builders who embed with teams as part-time AI and product leaders
+- [AI Enablement Coach](/docs/roles/ai-enablement-coach): The person who embeds with a team for a few days to map workflows, coach on AI tools, and identify where AI creates real value
+- [Command Center Administrator](/docs/roles/command-center-administrator): The person who maintains and evolves an organization's sovereign AI command center: agent orchestration, context architecture, and access governance
 
 *More roles being added. If you're doing applied AI work that doesn't fit a known category, you may be early to something. [Tell us about it.](https://appliedaisociety.org/contribute)*

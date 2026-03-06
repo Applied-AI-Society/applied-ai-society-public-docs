@@ -225,4 +225,4 @@ Then create an `INTEGRATE.md` at the repo root following the spec you just read.
 
 ## Version Note
 
-This is v0.1. It's intentionally minimal. We're documenting what works in practice (see the [CESP example](./example)) rather than designing a comprehensive format upfront. As more libraries publish INTEGRATE.md files, the spec will evolve based on real usage patterns.
+This is v0.1. It's intentionally minimal. We're documenting what works in practice (see the [CESP example](/docs/standards/integrate-md/example)) rather than designing a comprehensive format upfront. As more libraries publish INTEGRATE.md files, the spec will evolve based on real usage patterns.
