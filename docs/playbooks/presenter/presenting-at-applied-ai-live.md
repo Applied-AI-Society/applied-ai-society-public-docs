@@ -49,7 +49,9 @@ Real numbers help. Real tool names help. Specific client types help. Generalitie
 
 ### Format
 
-Slides are encouraged. Architecture diagrams, before/after metrics, and code snippets all help the audience follow along. Send your slides to the event organizer **at least a day before the event** so they can integrate them with the Q&A slides platform (audience members can submit questions in real time through the platform while you present).
+Slides are encouraged. Architecture diagrams, before/after metrics, and code snippets all help the audience follow along.
+
+**Please send your slides as a PDF about a week before the event.** The organizer embeds your slides into a custom presentation system with a built-in question QR code. When you're presenting, audience members scan the QR to submit questions in real time, so there's no need for hand-raising or awkward Q&A pauses.
 
 You don't need a polished deck. A handful of slides with diagrams and key points is plenty. The talk itself should still feel conversational.
 
@@ -104,8 +106,7 @@ Here's what to expect in the weeks before the event:
 | When | What happens |
 |------|-------------|
 | ~2 weeks before | You receive a briefing with the event topic and any context you need |
-| ~1 week before | Quick check-in with the organizer to confirm logistics |
-| 1+ days before | Send your slides to the organizer for Q&A platform integration |
+| ~1 week before | Send your slides (PDF) to the organizer; quick check-in to confirm logistics |
 | Day of | Arrive early, meet the team, get comfortable with the space |
 
 ---
