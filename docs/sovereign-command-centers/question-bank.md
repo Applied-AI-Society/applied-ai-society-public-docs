@@ -108,7 +108,7 @@ The implementation depends on your setup, but the principle is tool-agnostic:
 
 If you have a question that has consistently produced breakthroughs in your own practice, we'd love to hear about it. The goal is to grow this bank with field-tested questions from practitioners who are actually building and using sovereign command centers.
 
-Reach out on [Discord](https://discord.gg/7KeNHKck) or [X](https://x.com/appliedaisoc).
+Reach out on [Discord](https://discord.gg/K7uWJBMFaN) or [X](https://x.com/appliedaisoc).
 
 ---
 

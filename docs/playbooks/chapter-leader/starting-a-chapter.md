@@ -81,7 +81,7 @@ Your chapter doesn't have to look like Austin's. It should look like your city, 
 
 **Brand infrastructure.** A Remotion repo with ready-to-use compositions for event flyers, promo videos, and visual assets. Clone it, swap your chapter's details (speaker names, dates, venue, co-host logos), and render. The compositions handle brand consistency for you. If you're not technical, you can also use the [brand guidelines](/docs/brand) to create assets with Canva, Gamma, or whatever you prefer.
 
-**[Discord](https://discord.gg/7KeNHKck).** The community Discord for all chapter leaders, practitioners, and members to compare notes, share opportunities, and co-work across cities.
+**[Discord](https://discord.gg/K7uWJBMFaN).** The community Discord for all chapter leaders, practitioners, and members to compare notes, share opportunities, and co-work across cities.
 
 ---
 
