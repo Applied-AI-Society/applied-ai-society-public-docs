@@ -24,7 +24,7 @@ The Mayor of Austin captured the problem perfectly: "You say AI to people and th
 
 That's the literacy gap. Most people, most businesses, and most governments have no mental model for what AI can actually do for them. They hear "AI" and think of robots, job loss, or science fiction. They don't think: "This could cut my invoice processing from three days to ten minutes" or "This could help my students get personalized feedback on their writing" or "This could help my city respond to constituent requests twice as fast."
 
-Without applied AI literacy, people can't see the opportunities forming around them. They can't protect themselves from the risks, either. They're navigating a new landscape with an old map.
+Not understanding applied AI is the new "I don't know how to read." It's that fundamental. Without applied AI literacy, people can't see the opportunities forming around them. They can't protect themselves from the risks, either. They're navigating a new landscape with an old map.
 
 ## Who It's For
 
