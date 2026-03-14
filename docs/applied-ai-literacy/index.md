@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Applied AI Literacy
+description: "Applied AI Society champions applied AI literacy: the ability to understand what AI can do and put it to work on real problems. Courses, frameworks, and resources coming soon."
 ---
 
 # Applied AI Literacy
