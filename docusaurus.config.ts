@@ -54,7 +54,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/social-card.png',
+    image: 'img/social-card.jpg',
     navbar: {
       title: '',
     logo: {
