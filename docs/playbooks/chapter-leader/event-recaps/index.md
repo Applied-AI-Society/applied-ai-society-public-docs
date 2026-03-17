@@ -1,4 +1,5 @@
 ---
+sidebar_position: 20
 title: Event Recaps
 ---
 

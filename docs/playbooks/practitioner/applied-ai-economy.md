@@ -51,7 +51,7 @@ This means helping someone get real value out of ChatGPT, Claude, Google Workspa
 
 **Who it's for:** People with strong communication skills who can meet executives where they are. You need patience, emotional intelligence, and the ability to translate technical capability into practical business value.
 
-**What to watch for:** Some clients will ask you to build an "OpenAI wrapper" for them when what they actually need is to learn how to use the tools directly. You'll have to decide whether to push them toward the higher-leverage path or just build what they think they want. There's no universally right answer. Just be honest with yourself about the trade-offs.
+**What to watch for:** Some clients will ask you to build an "OpenAI wrapper" for them when what they actually need is to learn how to use the tools directly. You'll have to decide whether to push them toward the higher-impact path or just build what they think they want. There's no universally right answer. Just be honest with yourself about the trade-offs.
 
 ---
 
@@ -63,7 +63,7 @@ The work looks like: running internal hackathons, leading company-wide AI traini
 
 **Who it's for:** People who understand both technology and organizational behavior. You need to be comfortable facilitating groups, navigating internal politics, and measuring outcomes that are often qualitative (like "people actually started using AI in their daily work").
 
-**Why it matters:** This is some of the highest-leverage work in applied AI right now. A single culture shift inside a company can unlock far more value than any individual automation. The [Canon](/docs/philosophy/canon) says efficiency is a tool, not the goal. Culture transformation is how you make the goal stick.
+**Why it matters:** This is some of the highest-impact work in applied AI right now. A single culture shift inside a company can unlock far more value than any individual automation. The [Canon](/docs/philosophy/canon) says efficiency is a tool, not the goal. Culture transformation is how you make the goal stick.
 
 ---
 

@@ -111,7 +111,7 @@ If you are doing applied AI work with businesses, liberation architecture should
 
 **Build reusable patterns.** Every vendor onboarding workflow you automate teaches you something that transfers to the next client's vendor onboarding. Over time, your library of proven patterns becomes your competitive advantage.
 
-**Credit the system of record.** Never position your work as replacing the client's existing systems. Position it as amplifying them. This reduces political resistance, simplifies stakeholder buy-in, and is also just true.
+**Credit the system of record.** Never position your work as replacing the client's existing systems. Position it as amplifying them. This reduces political resistance, makes it easier to get everyone on board, and is also just true.
 
 ---
 

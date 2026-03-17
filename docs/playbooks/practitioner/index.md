@@ -15,7 +15,7 @@ There has never been a better time to be young and comfortable with AI. Companie
 
 The K-shaped economy is real: companies that embrace AI will compound their advantage, while companies that don't will fall behind. Young practitioners who learn to help organizations cross that divide will be the most valuable hires of the next decade.
 
-Culture transformation (helping companies develop an AI-first mindset) is the highest-leverage work in this space. But it starts with practitioners who understand both the technology and the humans using it.
+Culture transformation (helping companies develop an AI-first mindset) is the highest-impact work in this space. But it starts with practitioners who understand both the technology and the humans using it.
 
 ---
 

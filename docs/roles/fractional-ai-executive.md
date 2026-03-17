@@ -17,7 +17,7 @@ The Fractional AI Executive embeds with a company's existing team on a part-time
 
 In practice, this means:
 
-- Auditing existing workflows and identifying the highest-leverage AI opportunities (not the most impressive ones, the ones that actually move the business)
+- Auditing existing workflows and identifying the highest-impact AI opportunities (not the most impressive ones, the ones that actually move the business)
 - Scoping and shipping AI integrations into the product, internal tools, and team processes
 - Making product decisions with the speed and authority of a co-founder, without requiring a full-time hire or equity grant
 - Training the team to build and evaluate AI systems themselves, so the dependency decreases over time

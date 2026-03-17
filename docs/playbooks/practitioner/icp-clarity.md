@@ -15,7 +15,7 @@ Most companies struggling with AI adoption think they have a tooling problem. Th
 
 They haven't stress-tested their assumptions about who they serve. They're operating on vibes, pattern matches from a few early customers, and untested beliefs about what their market wants.
 
-This is the single highest-leverage thing a practitioner can help a client with: getting rigorous about their ICP before building anything.
+This is the single most important thing a practitioner can help a client with: getting rigorous about their ICP before building anything.
 
 ## The ICP Audit
 

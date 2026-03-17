@@ -163,11 +163,11 @@ The full event description from the [Applied AI Live #1 Luma page](https://luma.
 
 This is the first installment of a workshop series for people who want to make money by practically applying AI to real-world business problems in valuable industries.
 
-The goal is to create a Schelling point for practitioners who are actually making a living helping businesses integrate AI — sharing exactly how they do it.
+The goal is to create a Schelling point for practitioners who are actually making a living helping businesses integrate AI, sharing exactly how they do it.
 
 Travis Oliphant (creator of NumPy and SciPy, founder of OpenTeams) will speak on the importance of applied AI practitioners and what his team is building to help valuable institutions integrate AI.
 
-Rostam Mahabadi has made a living building agentic workflows for major corporations in 2025 and is doubling down in 2026. He and his team just won the grand prize at the AITX x NVIDIA Hackathon. He'll share real case studies, then a real business owner will present an actual problem they're facing — and Rostam will architect a solution live.
+Rostam Mahabadi has made a living building agentic workflows for major corporations in 2025 and is doubling down in 2026. He and his team just won the grand prize at the AITX x NVIDIA Hackathon. He'll share real case studies, then a real business owner will present an actual problem they're facing, and Rostam will architect a solution live.
 
 This live problem-solving format is a core part of the series: real problems from real people in industry, solved in real time.
 
@@ -180,10 +180,10 @@ This live problem-solving format is a core part of the series: real problems fro
 
 **Hosted By**
 
-**Applied AI Society** — A new community raising up a generation of engineers who help businesses and other organizations implement AI systems so they can better serve their customers and constituents.
+**Applied AI Society**: A new community raising up a generation of engineers who help businesses and other organizations implement AI systems so they can better serve their customers and constituents.
 
 **AITX Community** — AITX is a community for AI Engineers, Entrepreneurs, and Explorers across Texas. Our mission is to make Texas a better place to build engineering-focused companies and hire engineering talent. We bring together the technical community across Texas through our monthly meetups, Hackathons, private dinners, and other events. Since launching in 2022, AITX has hosted demos from 50+ local startups, big tech companies like NVIDIA, Google, Meta, and Cloudflare, and grown with chapters in Austin, San Antonio, and Houston.
 
-**Antler** — Antler is an early-stage venture capital firm with a focus on inception stage founders and a community of resident tech entrepreneurs and operators. Residents are immersed in a community with everything needed to build and scale at lightning speed.
+**Antler**: Antler is an early-stage venture capital firm with a focus on inception stage founders and a community of resident tech entrepreneurs and operators. Residents are immersed in a community with everything needed to build and scale at lightning speed.
 
-The Applied AI Society is grateful to OpenTeams and Open Technology Incubator as founding sponsors. OpenTeams is building the infrastructure layer for applied AI — including Nebari, an open-source operating system for AI workflows that gives organizations sovereignty over their data. Their commitment to democratizing AI access is core to why the Applied AI Society exists. OpenTeams was incubated at OT Incubator whose mission is to provide entrepreneurs with services and capital to create the transformative organizations and businesses that will bring about the Applied AI Economy.
+The Applied AI Society is grateful to OpenTeams and Open Technology Incubator as founding sponsors. OpenTeams is building the infrastructure layer for applied AI, including Nebari, an open-source operating system for AI workflows that gives organizations sovereignty over their data. Their commitment to democratizing AI access is core to why the Applied AI Society exists. OpenTeams was incubated at OT Incubator whose mission is to provide entrepreneurs with services and capital to create the transformative organizations and businesses that will bring about the Applied AI Economy.

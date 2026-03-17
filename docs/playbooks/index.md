@@ -55,7 +55,7 @@ Guides for applied AI practitioners doing consulting and implementation work.
 
 ## For Business Owners
 
-Resources for operators who have real problems, want to leverage AI, and need help getting started.
+Resources for operators who have real problems, want to use AI, and need help getting started.
 
 | Playbook | Description |
 |----------|-------------|

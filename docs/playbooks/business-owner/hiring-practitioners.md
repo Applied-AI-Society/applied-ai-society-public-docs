@@ -25,7 +25,7 @@ Not all applied AI work looks the same. Understanding the different types of hel
 
 **Executive coaching.** A practitioner teaches you and your leadership team how to use AI tools directly. Not building custom software. Teaching you to use ChatGPT, Claude, or industry tools as a strategist, sense-maker, and decision-support system. Many executives underestimate how powerful this is.
 
-**Culture transformation.** A practitioner helps your entire organization adopt AI. This looks like internal hackathons, training programs, and adoption frameworks. It's the hardest type of engagement to scope, but it's also the highest leverage. One cultural shift can unlock more value than a hundred individual automations.
+**Culture transformation.** A practitioner helps your entire organization adopt AI. This looks like internal hackathons, training programs, and adoption frameworks. It's the hardest type of engagement to scope, but it's also the most impactful. One cultural shift can unlock more value than a hundred individual automations.
 
 **Custom tool building.** A practitioner builds something that doesn't exist yet. A custom AI agent, a specialized dashboard, an internal system that connects your data sources in new ways. This is deeper work that requires the practitioner to truly understand your business.
 

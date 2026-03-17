@@ -81,7 +81,7 @@ Based on your answers, check any that apply:
 - [ ] **Process gap**: The workflow isn't clearly defined or documented
 - [ ] **Data gap**: The information exists but isn't accessible, clean, or organized
 - [ ] **Ownership gap**: Nobody has been designated to own the AI-assisted process
-- [ ] **Buy-in gap**: Key stakeholders haven't agreed this is worth pursuing
+- [ ] **Buy-in gap**: Key decision-makers haven't agreed this is worth pursuing
 - [ ] **Technical gap**: Systems don't support integration or data export
 
 Each gap is a to-do item, not a blocker. But they need to be resolved before the AI work begins, not discovered mid-project.

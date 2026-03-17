@@ -7,9 +7,10 @@ title: Philosophy
 
 Why we exist and how we operate.
 
-The [Canon](/docs/philosophy/canon) declares the foundational beliefs that animate everything we do. The [Principles](/docs/philosophy/principles) translate those beliefs into operational commitments.
+The [Canon](/docs/philosophy/canon) declares the foundational beliefs that animate everything we do. The [Principles](/docs/philosophy/principles) translate those beliefs into operational commitments. The [North Star](/docs/philosophy/north-star) defines how we hold ourselves accountable.
 
 | Document | Purpose |
 |----------|---------|
 | [The Applied AI Canon](/docs/philosophy/canon) | Why we exist |
 | [Principles](/docs/philosophy/principles) | How we operate |
+| [North Star](/docs/philosophy/north-star) | How we measure success |
