@@ -99,7 +99,7 @@ The work looks like: auditing an existing SaaS product for agentic opportunities
 
 **Why it's growing fast:** The infrastructure for agentic systems (open-source agent frameworks, enterprise security layers, command center architectures) has matured rapidly. What was experimental a year ago is now production-ready. At NVIDIA's GTC 2026, Jensen Huang stated that ["every single SaaS company will become a GaaS company, an agentic as a service company"](https://blogs.nvidia.com/blog/gtc-2026-news/) and that every company needs an agentic system strategy. Companies that don't have one are falling behind. They need practitioners who can lead the transition.
 
-**The model:** This often starts as a strategic engagement (assessing where agents fit) and evolves into implementation work. The best practitioners in this space combine the strategic framing of a [Fractional AI Executive](/docs/roles/fractional-ai-executive) with the technical execution of an [AI Workflow Architect](/docs/roles/ai-workflow-architect).
+**The model:** This often starts as a strategic engagement (assessing where agents fit) and evolves into implementation work. The best practitioners in this space combine the strategic framing of a [Fractional AI Executive](/docs/roles/fractional-ai-executive) with the technical execution of an [AI Workflow Architect](/docs/roles/ai-workflow-architect). Understanding [token economics](/docs/concepts/the-token-economy) is essential for scoping these engagements.
 
 ---
 
@@ -111,7 +111,7 @@ A new category of work is emerging around setting up AI [sovereign command cente
 
 **Who it's for:** People who enjoy technical setup, configuration, and making complex systems accessible to people who didn't build them.
 
-**The model:** You set up and configure the command center, then train the user or team on how to operate it. Recurring revenue comes from ongoing support, customization, and expansion as needs grow.
+**The model:** You set up and configure the command center, then train the user or team on how to operate it. Recurring revenue comes from ongoing support, customization, and expansion as needs grow. For cost planning, see [The Token Economy](/docs/concepts/the-token-economy).
 
 ---
 
