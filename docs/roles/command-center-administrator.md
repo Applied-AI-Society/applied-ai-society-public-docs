@@ -113,3 +113,4 @@ Good consultants build the handoff into the engagement: documentation, training,
 - [The Question Bank](/docs/sovereign-command-centers/question-bank): One of the key assets this role curates
 - [AI Agent Consultant](/docs/roles/ai-agent-consultant): Often the person who builds the command center before handing it off
 - [Context Engineering](/docs/concepts/context-engineering): The underlying discipline powering the command center's information architecture
+- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): The entry-point playbook for setting up a command center from scratch
