@@ -20,6 +20,8 @@ We are in the middle of a flood.
 
 Jobs are shifting faster than institutions can adapt. Information overload makes it harder to separate signal from noise. Deepfakes erode trust. The economy is splitting into a K-shape: those who can harness AI are accelerating, and those who can't are falling behind.
 
+The numbers tell the story. AI computing demand has increased roughly one million times in the last two years ([NVIDIA GTC 2026 Keynote](https://blogs.nvidia.com/blog/gtc-2026-news/)). Over $150 billion in venture capital flowed into AI startups in 2025, the largest year of startup investment in human history. At least $1 trillion in AI infrastructure is being built out through 2027. This is not hype. This is capital being deployed at a scale that reshapes entire economies.
+
 The Mayor of Austin captured the problem perfectly: "You say AI to people and their knee-jerk is 'we're gonna have more data centers.' They don't know what the application is."
 
 That's the literacy gap. Most people, most businesses, and most governments have no mental model for what AI can actually do for them. They hear "AI" and think of robots, job loss, or science fiction. They don't think: "This could cut my invoice processing from three days to ten minutes" or "This could help my students get personalized feedback on their writing" or "This could help my city respond to constituent requests twice as fast."

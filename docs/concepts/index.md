@@ -14,3 +14,5 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Context Engineering](/docs/concepts/context-engineering): Curating the right information state for AI systems so agents have the knowledge they need, when they need it
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose into AI systems so agents optimize for what actually matters, not just what they can measure
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building AI-powered layers on top of existing systems to free trapped value, rather than replacing what already works
+- [The Encounter](/docs/concepts/the-encounter): The moment AI stops being theoretical and becomes personal, and why adoption spreads through experience, not education
+- [The Token Economy](/docs/concepts/the-token-economy): Tokens as the atomic unit of AI economics, and why understanding token costs, tiers, and budgets is becoming a core applied AI skill
