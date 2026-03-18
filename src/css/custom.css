@@ -271,6 +271,12 @@ blockquote {
   padding: 1rem 1.5rem;
   border-radius: 0 8px 8px 0;
   font-style: normal;
+  color: var(--aais-text-dark);
+}
+
+[data-theme='dark'] blockquote {
+  background: rgba(255, 255, 255, 0.07);
+  color: rgba(255, 255, 255, 0.85);
 }
 
 /* Admonitions */
