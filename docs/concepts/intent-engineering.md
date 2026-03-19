@@ -79,6 +79,7 @@ A mediocre model with extraordinary organizational intent infrastructure will ou
 
 ## Further Reading
 
+- [Game Design](./game-design): The umbrella discipline that composes intent and context engineering into a coherent system
 - [AI Workflow Architect](../roles/ai-workflow-architect): The role emerging to own intent engineering inside organizations
 - [Context Engineering](./context-engineering): The companion discipline that tells agents what to know
 - Hat tip to [this video](https://www.youtube.com/watch?v=QWzLPn164w0), which named and articulated the intent engineering concept as clearly as anything we've encountered
