@@ -190,6 +190,65 @@ If you don't have case studies yet, start with a lower price to get one. Then do
 
 ---
 
+## Close Rate as Pricing Diagnostic
+
+Your close rate tells you exactly how mispriced you are. If almost everyone says yes, you are leaving money on the table. The right price produces some "no"s.
+
+| Your Close Rate | What It Means | Action |
+|---|---|---|
+| **35%** | You are priced correctly | Hold steady |
+| **40-50%** | You have a 25-50% price increase sitting there | Raise prices on the next proposal |
+| **50-60%** | You are underpriced by 1.5-1.75x | Significant raise needed |
+| **60-70%** | You have at least a double available | Double your price on the next engagement |
+| **70-80%** | You have a 2-3x increase available | You are dramatically undercharging |
+| **80%+** | You are so cheap that some prospects may not take you seriously | Raise immediately |
+
+This is not theory. At the higher close rates, you are not just leaving revenue on the table. You are actively signaling that you might not be good enough for serious buyers. Mid-market and enterprise clients have been trained to associate low prices with low quality. A prospect who does not flinch at your price probably expected to pay more.
+
+Test it: raise your price by 50% on the next three proposals and track what happens. Most practitioners discover their close rate barely changes.
+
+## Selling Out of Your Own Wallet
+
+The most common pricing mistake practitioners make: pricing based on what *you* would pay, not what the *client* values.
+
+This is called "selling out of your own wallet." It happens because you know how to do the work, so the work feels easy to you. A mechanic would never pay someone to change their oil because they know how to change oil. But if your car is broken and you do not know how to change oil, you would pay a lot.
+
+The same dynamic applies to applied AI work. You know how to build the system, so it feels like "just a few days of work." But the client is not buying your days. They are buying the outcome: leads responded to, hours recovered, revenue unlocked. The value of that outcome has nothing to do with how easy it was for you.
+
+**Signs you are selling out of your own wallet:**
+- You feel embarrassed quoting your price
+- You preemptively offer discounts before the client pushes back
+- You think "that is a lot of money" when calculating your fee
+- You have friends in the room making 10x your revenue and you are surprised
+
+**The fix:** Price based on the client's world, not yours. If you save a company $300,000/year, charging $30,000 is not expensive. It is 10% of the value. The client's CFO will approve that without a second meeting.
+
+## Tiered Pricing for Scaled Services
+
+If your work scales with a measurable client input (ad spend, transaction volume, API calls, seats), consider a tiered model with decreasing percentages at each tier.
+
+**How it works:**
+
+Set a base fee that covers your cost to serve, no matter what. Then add incremental percentages that decrease as the client scales:
+
+| Tier | Example |
+|---|---|
+| **Base fee** | $6,000/month (covers setup, management, reporting) |
+| **$20K-$100K ad spend** | +5% of spend in this tier |
+| **$100K-$200K ad spend** | +2.5% of spend in this tier |
+| **$200K+ ad spend** | +1% of spend in this tier |
+
+**Two critical rules:**
+
+1. **Not retroactive.** Each percentage only applies to spend within that tier. The client's total fee is the base + the sum of each tier's contribution. This means the effective percentage decreases as they scale, which incentivizes them to spend more.
+2. **Survivorship bias works in your favor.** Clients look at the top tier and see that scaling is almost free. They aspire to get there. Meanwhile, the base fee and middle tiers are where your margin lives.
+
+**Why this beats flat fees:** A flat fee punishes you as the client grows. If a client's ad spend doubles, your workload increases, but your revenue stays flat. Tiered pricing aligns your incentives: when the client wins, you win. The decreasing percentages mean the client never feels gouged at scale.
+
+**When to use this:** Any engagement where the client's investment or usage scales over time. Performance marketing, managed AI services, API-based products, seat-based deployments.
+
+---
+
 ## Price Floors
 
 These exist because anything below them signals "cheap labor" and attracts the wrong clients.
