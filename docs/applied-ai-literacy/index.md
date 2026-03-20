@@ -28,6 +28,16 @@ That's the literacy gap. Most people, most businesses, and most governments have
 
 Not understanding applied AI is the new "I don't know how to read." It's that fundamental. Without applied AI literacy, people can't see the opportunities forming around them. They can't protect themselves from the risks, either. They're navigating a new landscape with an old map.
 
+## Applied AI Is the New Coding
+
+Learning how to apply AI to grow businesses is like learning how to code 10 years ago. Back then the message was "everyone should learn to code." Now the message is: everyone should learn to apply AI.
+
+The foundational model companies (OpenAI, Anthropic, xAI) are all building consulting arms to deploy AI inside companies. They are sending engineers directly into corporate offices. The most powerful AI companies on earth looked at the market and said: "Businesses can't figure out how to use this. We need to go in and do it for them."
+
+But here is what they cannot scale: trust. Relationships are the bottleneck to applying AI, not compute, not models, not tokens. A trusted person who can sit down with a business owner, understand their situation, and actually help them. That is the job of the future. And no corporation can monopolize it, because trust is local, relational, and earned one conversation at a time.
+
+Inference is becoming commoditized. LLMs are becoming interchangeable. But trusted applied AI practitioners are the scarcest resource in the market. You can do this work as a solo practitioner or with a very small team. The tools are accessible. The demand is effectively infinite. And the window is wide open.
+
 ## Who It's For
 
 Applied AI literacy isn't just for engineers or tech workers. It's for everyone whose work and life are being reshaped by AI (which is everyone).
