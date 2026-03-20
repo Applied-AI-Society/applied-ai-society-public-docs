@@ -13,6 +13,16 @@ The bar shouldn't be "it works as well as before, just faster." The bar should b
 
 ---
 
+## The Paradigm Shift: Roles to Workflows
+
+Before you can improve continuously, you need the right mental model. Most businesses think about growth in terms of **roles**: hire more people, add headcount, scale the team. The applied AI mindset reframes this entirely around **workflows**.
+
+Every role in your business is really a bundle of workflows. A content editor doesn't "edit." They segment transcripts, identify high-tension moments, remove filler words, sequence clips, export files, schedule posts. Each of those is a workflow that can be mapped, measured, and improved independently.
+
+This shift is what makes continuous improvement possible. You can't experiment on a "role," but you can experiment on a workflow step. You can A/B test a prompt. You can measure whether the AI-selected clip hook outperforms the human-selected one. Workflows make your business *scientifically improvable.*
+
+---
+
 ## Automation vs. Improvement
 
 Automation is a process change. You replace a manual step with a system. The system does it faster or more consistently. That has value.

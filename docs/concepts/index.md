@@ -15,5 +15,8 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Game Design](/docs/concepts/game-design): The meta-skill of composing context engineering and intent engineering into coherent systems where AI agents operate with organizational awareness and aligned goals
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose into AI systems so agents optimize for what actually matters, not just what they can measure
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building AI-powered layers on top of existing systems to free trapped value, rather than replacing what already works
+- [Ignorance Debt](/docs/concepts/ignorance-debt): The gap between what you know and what you need to know to operate in a domain, and why starting where your debt is lowest is the smartest move
+- [Observable Behavior Engineering](/docs/concepts/observable-behavior-engineering): Translating vague human intent into specific, measurable actions that both humans and machines can execute consistently
 - [The Encounter](/docs/concepts/the-encounter): The moment AI stops being theoretical and becomes personal, and why adoption spreads through experience, not education
+- [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): The mental model shift from thinking in roles to thinking in workflows, and why it unlocks automation at every level
 - [The Token Economy](/docs/concepts/the-token-economy): Tokens as the atomic unit of AI economics, and why understanding token costs, tiers, and budgets is becoming a core applied AI skill

@@ -69,6 +69,20 @@ If the answer is yes, move to the [pilot approach](./pilot-pitch).
 
 ---
 
+## Start With What You Already Know
+
+You don't need a revolutionary offering to find clients. The most reliable path:
+
+1. **Identify a service people already pay for**: content editing, lead nurture, bookkeeping, scheduling, whatever
+2. **Find what sucks about how it's currently done**: slow turnaround, poor communication, inconsistent quality, missed details
+3. **Solve that specific pain point with AI-augmented delivery**
+
+This works because the demand for core business services is infinite. People always want more customers, faster operations, better quality. The hard part was always the ops. AI makes the ops dramatically easier if you've decomposed the workflow.
+
+Service businesses are the lowest-risk starting point. It's just your time. No inventory, no manufacturing, no venture capital. Exchange your time for money, learn the game, and let each step illuminate the next.
+
+---
+
 ## What This Is Not
 
 This is not a strategy for scaling to 100 clients. It's a strategy for getting your first five. Those first five will teach you everything you need to know about what kind of work you're good at, what kind of clients you enjoy, and what your practice should look like.

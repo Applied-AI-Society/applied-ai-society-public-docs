@@ -66,6 +66,16 @@ What both groups share: they can translate. They can sit in a room with a CTO an
 
 ---
 
+## Why This Role Matters Now
+
+The market is already validating this role. Business operators at the highest levels describe the AI Workflow Architect as one of the highest-leverage hires a company can make: someone who "sits next to teams, watches what they're doing, and says 'I can automate that, I can automate that, I can automate that.'"
+
+At current market rates, this role commands $150K+ annually, and practitioners report having an essentially unlimited backlog of work. The demand for workflow decomposition and automation far outstrips supply.
+
+This isn't a temporary gap. As AI capabilities expand, the bottleneck increasingly becomes the *human ability to specify observable behaviors precisely enough for machines to execute.* The Workflow Architect bridges that gap.
+
+---
+
 ## Related Concepts
 
 - [Intent Engineering](/docs/concepts/intent-engineering): The discipline this role is built around

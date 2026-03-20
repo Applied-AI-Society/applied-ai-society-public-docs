@@ -19,6 +19,32 @@ Our advice: don't be too picky early in your applied AI career. Try different ty
 
 ---
 
+## Finding Your Lane: The Three Buckets
+
+If you're not sure what kind of applied AI work to pursue, start with three buckets:
+
+1. **Your parents' industries.** If your dad was a mechanic, you know more about automotive workflows than you think, just from 18 years of osmosis. That domain knowledge is *ignorance debt already paid.*
+2. **Your past jobs.** Every job you've held taught you the pain points, bottlenecks, and broken processes of that industry. You know what sucks. That's your edge.
+3. **Your current interests.** Side interests give you fluency in communities where people have unmet needs: music production, fitness, cooking, gaming, whatever.
+
+The question isn't "what should I build?" It's: **across these three buckets, which problem can I solve that someone would pay the most to fix?**
+
+In B2B: charge a percentage of the money you help them make. In B2C: price based on how badly people perceive the problem.
+
+You don't need a novel idea. Look at what everyone else is doing and try to do it better. Find what sucks about existing solutions and fix *that specific thing.*
+
+### The Ignorance Debt Model
+
+Think of your first engagement as paying down **ignorance debt**: the gap between what you know and what you need to know to run a real practice. Your first clients are a learning vehicle, not a life sentence. The income is real, but the education is more valuable.
+
+> "The vast majority of your income is coming in the form of education rather than earning."
+
+Don't expect your first engagement to be perfect. Every successful practitioner has a graveyard of experiments behind them. The point is to start taking steps, because each one illuminates the next. Trying to plan 100 steps ahead with no context is irrelevant because chaos will break your plan anyway.
+
+See also: [Ignorance Debt](/docs/concepts/ignorance-debt)
+
+---
+
 ## Workflow Automation Consulting
 
 This is the entry point most people know about. It's the one everyone's heard of, so we'll start here. Tools like Clay, n8n, Make, and Zapier have made it possible for non-developers to build powerful automations. Think: automating a receptionist's intake process, syncing CRM data across platforms, generating reports from raw inputs.

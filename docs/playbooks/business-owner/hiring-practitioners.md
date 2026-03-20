@@ -49,6 +49,22 @@ Vertical AI startups (AI products built for a specific industry) are one of the 
 
 ---
 
+## The Shadow-and-Decompose Pattern
+
+The most effective way to onboard a practitioner isn't to hand them a project brief. It's to have them **shadow your team.**
+
+A great practitioner's first job is observation, not building. They sit next to your team members, watching the actual clicks, the actual steps, the actual decisions, and decompose what they see into automatable workflows. The insight comes from witnessing the gap between how people *describe* their work and what they *actually do.*
+
+This pattern works because:
+- People can't accurately describe their own workflows (they skip steps they've internalized)
+- The practitioner spots automation opportunities the team doesn't even recognize as repetitive
+- It builds trust before any changes are made
+- It produces a workflow map grounded in reality, not assumptions
+
+Budget 1-2 weeks of pure observation before any building begins.
+
+---
+
 ## How to Find Practitioners
 
 The Applied AI Society exists to connect business owners with practitioners who are actually doing this work.

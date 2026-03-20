@@ -27,6 +27,27 @@ This list is your starting point. Pick the one that hurts the most and map it be
 
 ---
 
+## From Roles to Workflows
+
+The most common mistake business owners make when thinking about AI is thinking in terms of roles: "I need to hire an editor," "I need a social media manager." The shift you need to make is from **role-based thinking to workflow-based thinking.**
+
+That editor you want to hire? They actually do 16 discrete activities. Each of those activities exists within a workflow. And each workflow can be decomposed, optimized, and (increasingly) automated.
+
+> "Instead of saying 'I need to hire an editor,' you say: I need an agent that just does *this*, and an agent that just does *this*, and an agent that just does *this*."
+
+**How to decompose a role into workflows:**
+
+1. **Start big.** List the 4-6 major things this role does (e.g., idea research, scripting, shooting, editing, posting)
+2. **Go one level deeper.** Under each, list the 6-7 actual actions (e.g., "check what performed well last week," "cross-reference with topics I'm good at," "draft a 7-step outline")
+3. **Keep reducing.** Each action becomes 2-3 sub-actions until you can't break it down further
+4. **That's what you automate.** The irreducible actions are your automation targets
+
+The goal is to draw your entire business as one linear workflow, from first customer touchpoint to final delivery. If you can't draw it, you don't fully understand your business yet. And if you don't understand it, neither will an AI.
+
+See also: [Roles to Workflows](/docs/concepts/roles-to-workflows) | [Workflow Decomposition Guide](/docs/playbooks/business-owner/workflow-decomposition)
+
+---
+
 ## 1. The Current Workflow
 
 Map how that area actually works today. Walk through it step by step.
