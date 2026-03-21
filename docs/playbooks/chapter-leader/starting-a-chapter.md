@@ -1,11 +1,11 @@
 ---
 sidebar_position: 0
-title: Starting a Chapter
+title: Starting a Chapter or Community
 ---
 
-# Starting a Chapter
+# Starting a Chapter or Community
 
-How to launch an Applied AI Society chapter in your city or on your campus.
+How to launch an Applied AI Society community in your city or on your campus. This could be a formal chapter, a student group within an existing AI club, or something in between.
 
 <div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', marginTop: '1.5rem', marginBottom: '1.5rem'}}>
   <iframe src="https://share.descript.com/embed/cqqxIqK2Zum" width="100%" height="100%" style={{position: 'absolute', top: 0, left: 0}} frameBorder="0" allowFullScreen></iframe>
@@ -13,13 +13,15 @@ How to launch an Applied AI Society chapter in your city or on your campus.
 
 ---
 
-## Why Chapters Exist
+## Why Local Communities Exist
 
-Applied AI Society exists to shorten the time for young people to get their first applied AI money-making opportunity. Chapters are where that actually happens.
+Applied AI Society exists to shorten the time for young people to get their first applied AI money-making opportunity. Local communities are where that actually happens.
 
-There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is full of opportunity: consulting gigs, startup ideas, automation contracts, freelance engineering work, full-time roles. But most young people can't see those opportunities from where they sit. They need to be in a room with people who are already making money in this space.
+There is a massive gap between what AI can do and what organizations are actually doing with it. That gap is full of opportunity: consulting gigs, startup ideas, automation contracts, freelance engineering work, full-time roles. But most young people cannot see those opportunities from where they sit. They need to be in a room with people who are already making money in this space.
 
-Chapters create that room. Practitioners share how they earn a living in applied AI. Business owners describe the problems they'll pay to have solved. Members build networks that generate real deal flow, career flow, and knowledge flow. Every chapter is a local center of gravity for the applied AI economy in its city or campus.
+That room can take many forms. It could be a formal Applied AI Society chapter. It could be a student group within your university's existing AI club. It could be three friends who host their first workshop and see who shows up. The format matters less than the outcome: people learning applied AI by doing it together.
+
+If your campus already has an AI club, you do not need to start a new one. Hook in. Wear the shirt. Use the playbooks. Host an Applied AI event within the club you already have. We will support you with resources, small budgets, and a connection to the national network.
 
 The model is subsidiarity: national provides the playbooks, brand, and network. You provide the energy, the people, and the local context.
 
@@ -59,9 +61,9 @@ We think about this as an **ideal scene profile**: treating cities themselves as
 - **Are there customers nearby?** Chapters thrive when there are local businesses who will pay for applied AI work. If most of your city's talent has to look elsewhere for clients, the practitioner pipeline is harder to build.
 - **Who's already doing this work?** Find the other community leaders, meetup organizers, and ecosystem builders in your city. If you can't name them, you need to spend more time learning the landscape before launching. A chapter leader who doesn't know the other players in their city is a red flag.
 
-**The principle:** We're most impactful in cities where the floor needs raising. Cities already on the bleeding edge of AI (dense talent, tons of events, strong networks) may not need another community. Cities with real talent but no connective tissue for applied AI work: that's where chapters change lives.
+**The principle:** We are most impactful when we connect to where people already gather. If your city has an AI club, a startup accelerator, or existing tech communities, build on those. If there is a gap and no connective tissue for applied AI work, build something new. Either way, the goal is literacy at scale, not new infrastructure for its own sake.
 
-Your chapter doesn't have to look like Austin's. It should look like your city, run by someone who understands what your city needs.
+Your community does not have to look like Austin's. It should look like your city, run by someone who understands what your city needs.
 
 ---
 
@@ -87,7 +89,7 @@ Your chapter doesn't have to look like Austin's. It should look like your city, 
 
 ## What's Expected of You
 
-**Run events.** The core of any chapter is regular events. Start with monthly. Every event is an initiation into the applied AI economy. The concept: you're giving your audience a landscape map. Practitioners who are actually making money in applied AI share their field notes. The audience leaves knowing what the paths are, what's real, and what's hype. The call to action is simple: join this community to compare notes, co-work, and share opportunities. Formats can vary ([see the full catalog](/docs/playbooks/chapter-leader/event-formats)) but the through-line is always the same.
+**Run events.** The core of any community is regular events. Start with monthly. Every event is an initiation into the applied AI economy. The concept: you are giving your audience a landscape map. Practitioners who are actually making money in applied AI share their field notes. The audience leaves knowing what the paths are, what is real, and what is hype. These events can happen through your own chapter, through an existing AI club, through a coworking space, or through a university department. The venue and structure are flexible. The through-line is always the same. Formats can vary ([see the full catalog](/docs/playbooks/chapter-leader/event-formats)).
 
 **Add AAS national as a manager on every event.** Whether you use Luma, Meetup, or both, add the national AAS account as a co-host or manager on every event page. This gives national access to the attendee list and lets us build a shared email list across all chapters. A strong national list benefits every chapter: it lets us promote your events to members in nearby cities, send national updates, and build the overall community.
 

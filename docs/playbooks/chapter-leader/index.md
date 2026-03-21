@@ -46,7 +46,7 @@ Start here: **[Event Formats](/docs/playbooks/chapter-leader/event-formats)** is
 
 | Playbook | Description |
 |----------|-------------|
-| [Starting a Chapter](/docs/playbooks/chapter-leader/starting-a-chapter) | How to launch an Applied AI Society chapter in your city or on your campus |
+| [Starting a Chapter or Community](/docs/playbooks/chapter-leader/starting-a-chapter) | How to launch an Applied AI Society community in your city or on your campus (formal chapter, student group, or embedded in an existing AI club) |
 | [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) | Win-win partnerships for chapter growth |
 | [Tools](/docs/playbooks/chapter-leader/tools) | Meetup, Luma, and other tools that help run chapters |
 | [Getting Things Done](/docs/playbooks/chapter-leader/getting-things-done) | Using Cursor as a command center (stub) |
