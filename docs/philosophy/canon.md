@@ -5,55 +5,57 @@ title: The Applied AI Canon
 
 # The Applied AI Canon
 
-*Eight tenets that define what Applied AI means.*
+*AI will reshape every profession, every organization, and every community. These ten tenets define the principles we believe should guide that transformation.*
 
 ---
 
-**I. There is soul-requiring work.**
-Some work requires presence, judgment, taste, care, and responsibility.
-This work cannot be automated without being diminished.
+**I. Protect soul-requiring work.**
+Some work requires presence, judgment, taste, care, and responsibility. It is diminished by automation.
 
 ---
 
-**II. There is non-soul work.**
-Some work is necessary but does not require meaning or presence.
-This work should be delegated whenever possible.
+**II. Delegate everything else.**
+Work that does not require meaning or presence belongs to machines. Give it to them.
 
 ---
 
-**III. Thinking Machines exist to carry the non-soul work.**
-They reason, remember, and execute.
-They do not feel, discern meaning, or bear responsibility.
+**III. Use machines for what machines do well.**
+They reason, remember, and execute. They do not feel, discern meaning, or bear responsibility.
 
 ---
 
-**IV. Service flows one way.**
-Thinking Machines serve humans.
-Humans do not serve Thinking Machines.
+**IV. Machines serve humans. Not the other way around.**
+Service flows one direction. Humans direct, machines execute.
 
 ---
 
-**V. Ownership over dependency.**
-People and organizations should own their AI capabilities, not rent them.
-Any system that creates dependency where autonomy is possible is misapplied AI.
+**V. Own your AI.**
+Own your capabilities. Reject dependency where autonomy is possible.
 
 ---
 
-**VI. Efficiency is not the goal.**
-Efficiency is a tool.
-The goal is more soul-requiring work in the world.
+**VI. Refuse to worship efficiency.**
+Efficiency is a tool, not a goal. The goal is more soul-requiring work in the world.
 
 ---
 
-**VII. Automation must increase humanity.**
-If an application of AI reduces presence, judgment, or care, it fails.
-If it frees humans to do soul-requiring work, it succeeds.
+**VII. Demand that automation increases humanity.**
+If it reduces presence, judgment, or care, reject it. If it frees humans for soul-requiring work, pursue it.
 
 ---
 
-**VIII. Applied AI exists to free, not to replace.**
-The end state is humans
-doing the work only humans can do.
+**VIII. Show people what they're capable of.**
+Removing drudgery is the floor, not the goal. Help people imagine and embody the highest value they can create.
+
+---
+
+**IX. Free people, not replace them.**
+The end state is humans doing the work only humans can do.
+
+---
+
+**X. Remember: the tool mirrors the wielder.**
+AI amplifies intent. In wise hands it multiplies good. In careless hands it multiplies harm.
 
 ---
 

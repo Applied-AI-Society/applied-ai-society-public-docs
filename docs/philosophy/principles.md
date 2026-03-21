@@ -5,7 +5,7 @@ title: Principles
 
 # Principles
 
-The [Canon](/docs/philosophy/canon) declares why we exist. These six principles define how we operate as a community.
+The [Canon](/docs/philosophy/canon) defines what we believe. These six principles define how we operate as a community.
 
 ---
 
@@ -23,6 +23,8 @@ Young people who are comfortable with AI are the most important group we serve.
 
 They see the world without barriers. They are not intimidated by new tools. They learn fast, build fast, and bring energy that revitalizes the organizations around them. We exist to help them channel their AI fluency into professional capability. When we invest in AI-native young people, everything else follows: experienced practitioners have apprentices, businesses have the best hires of the next decade, and communities gain leaders who understand both technology and humanity. The talent pipeline is not the goal. It is the natural outcome of putting young people first.
 
+The Canon says to [show people what they're capable of](/docs/philosophy/canon). We start with young people because that investment compounds the longest. But the commitment to helping people imagine and reach their highest contribution applies to everyone we serve.
+
 ---
 
 ## 03. Business outcomes over technology fascination
@@ -37,7 +39,7 @@ We don't care about the latest model benchmarks. We care about measurable result
 
 We're loyal to open tools, not vendors.
 
-We're not here to promote one company over another. Our loyalty is to open tools and solutions that conform to emerging and existing standards, making implementation easier and avoiding lock-in.
+We're not here to promote one company over another. Our loyalty is to open tools and solutions that conform to the best emerging and existing standards, making implementation easier and avoiding lock-in.
 
 ---
 
@@ -57,4 +59,4 @@ We build environments where builders, open source contributors, advocates, and p
 
 ---
 
-*These principles guide everything we do, starting with the young people at the center of our mission.*
+*These principles guide everything we do, starting with the young people at the center of our mission. For what we believe, see the [Canon](/docs/philosophy/canon). For how these ideas are validated by leaders at the frontier, see [Voices from the Applied AI Frontier](/docs/philosophy/voices-from-the-frontier).*

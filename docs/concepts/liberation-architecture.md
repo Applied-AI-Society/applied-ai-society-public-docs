@@ -31,9 +31,9 @@ This is the gap applied AI practitioners exist to close. Not by selling a new pl
 
 Liberation architecture connects directly to the [Applied AI Canon](/docs/philosophy/canon):
 
-- **Canon V (Ownership over dependency):** Liberation architecture preserves organizational ownership of data and processes. It adds capability without creating new vendor dependency.
-- **Canon VII (Automation must increase humanity):** Wrapping painful interfaces with intelligent ones frees people to do judgment work instead of data entry and screen navigation.
-- **Canon VIII (Applied AI exists to free, not to replace):** This is the principle in action. The system of record stays. The humans get freed.
+- **Canon V (Own your AI):** Liberation architecture preserves organizational ownership of data and processes. It adds capability without creating new vendor dependency.
+- **Canon VII (Demand that automation increases humanity):** Wrapping painful interfaces with intelligent ones frees people to do judgment work instead of data entry and screen navigation.
+- **Canon IX (Free people, not replace them):** This is the principle in action. The system of record stays. The humans get freed.
 
 ---
 
