@@ -69,7 +69,7 @@ Your community does not have to look like Austin's. It should look like your cit
 
 ## What National Provides
 
-**Cofounders who open doors.** Applied AI Society was cofounded by Gary Sheng and Travis Oliphant (creator of NumPy, SciPy, cofounder of Anaconda). That credibility helps when you're reaching out to sponsors, speakers, and university partners. You're not building a random club. You're building a chapter of something real, backed by people with track records.
+**Founders who open doors.** Applied AI Society was founded by Gary Sheng with Travis Oliphant (creator of NumPy, SciPy, cofounder of Anaconda) as founding advisor. That credibility helps when you're reaching out to sponsors, speakers, and university partners. You're not building a random club. You're building a chapter of something real, backed by people with track records.
 
 **Playbooks.** Everything we've learned from the Austin genesis chapter is documented publicly. Event formats, checklists, partnership guides, content distribution workflows, CRM setup, outreach automation. You don't start from scratch.
 
