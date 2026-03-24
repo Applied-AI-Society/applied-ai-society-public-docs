@@ -107,6 +107,55 @@ See: [Luma Calendar Submissions](/docs/playbooks/chapter-leader/applied-ai-live#
 
 ---
 
+## Platform-Specific Strategies
+
+Each platform has its own voice, format constraints, and audience expectations. Don't copy-paste the same post everywhere. Adapt.
+
+### X Strategy
+
+- **Lowercase voice for personal accounts.** Casual, conversational tone. No corporate speak.
+- **Bold all-caps headlines.** Use them to stop the scroll. Example: **HOW A SOLO FOUNDER AUTOMATED 80% OF THEIR OPS WITH AI**
+- **Bold key quotes.** Pull the most compelling line from the talk and bold it.
+- **Upload video directly.** Never post a YouTube link on X. The algorithm buries external links. Upload the clip natively.
+- **Timestamps in post body.** If referencing a longer video, include timestamps so people can jump to the moment.
+- **Event plug in Reply section.** Don't clutter the main post. Drop the "Next event: [link]" as the first reply.
+
+### LinkedIn Strategy
+
+- **Normal capitalization.** Professional tone, not shouty.
+- **3,000 character max for regular posts.** Write tight. If you need more, publish as a LinkedIn article.
+- **No timestamps.** LinkedIn audiences scroll differently. Keep it narrative.
+- **Link to YouTube for video.** Unlike X, LinkedIn doesn't penalize external video links as harshly. Link to the full recording.
+- **Event plug inline at end.** Close the post with a line about the next event. Example: "Join us at Applied AI Live #3 on [date]: [link]"
+- **#AppliedAILive on first mention only.** One hashtag, once. Don't spam tags.
+
+### YouTube Strategy
+
+- **Title format:** `[Talk Title] | [Event Name]`. Example: `How I Built an AI Consulting Practice | Applied AI Live #1`
+- **Description:** Include panelist links (LinkedIn, X, website), full timestamps for every segment, and a subscribe CTA.
+- **Thumbnails:** Create them via Remotion using real event photos. Avoid generic stock imagery. A real photo from the actual event with bold text overlay performs best.
+
+### Newsletter Strategy
+
+- **Interview-driven process.** Newsletters should feel like stories, not press releases. Lead with what someone said or did.
+- **Quick Links at top.** Give readers a table of contents or jump links so they can scan and click into what interests them.
+- **Sponsor section with CTAs (not just logos).** Tell readers what the sponsor does and why it matters. Include a clear call to action, not a passive logo placement.
+- **Images embedded.** Use real event photos inline. They break up text and make the newsletter feel alive.
+- **Google Doc for review workflow.** Draft in Google Docs so collaborators can comment and suggest before publishing.
+
+---
+
+## Every Post Promotes the Next Event
+
+This is a non-negotiable habit. Every social post about a past event should include a plug for the next upcoming event.
+
+- **On X:** Put it in the Reply to your main post. Keep the main post focused on the content. The reply says something like: "Next Applied AI Live is [date]. RSVP: [link]"
+- **On LinkedIn:** Put it inline at the end of the post. One sentence, with the link.
+
+The goal is simple: anyone who engages with your content should know exactly when and where the next event is. No extra clicks required.
+
+---
+
 ## See Also
 
 - [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews): How to create practitioner profiles
