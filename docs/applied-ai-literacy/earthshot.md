@@ -12,7 +12,7 @@ Applied AI Society is building the best open-source applied AI literacy source m
 
 This is the foundation. Courses derive from it. Workshops derive from it. Tools derive from it. Translations derive from it. But the source material is the thing. It is the documented, version-controlled, co-created truth about what applied AI is, how to do it, and how to teach it. Everything else is downstream.
 
-This is not a product. It is a mission. We are a nonprofit organization, and this is what we exist to do.
+This is not a product. It is a mission. We are incorporating as a nonprofit organization, and this is what we exist to do.
 
 ## Why Source Material, Not Just Courses
 
