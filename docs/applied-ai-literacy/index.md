@@ -26,11 +26,13 @@ The Mayor of Austin captured the problem perfectly: "You say AI to people and th
 
 That's the literacy gap. Most people, most businesses, and most governments have no mental model for what AI can actually do for them. They hear "AI" and think of robots, job loss, or science fiction. They don't think: "This could cut my invoice processing from three days to ten minutes" or "This could help my students get personalized feedback on their writing" or "This could help my city respond to constituent requests twice as fast."
 
-Not understanding applied AI is the new "I don't know how to read." It's that fundamental. Without applied AI literacy, people can't see the opportunities forming around them. They can't protect themselves from the risks, either. They're navigating a new landscape with an old map.
+Without applied AI literacy, people can't see the opportunities forming around them. They can't protect themselves from the risks, either. They're navigating a new landscape with an old map.
 
-## Applied AI Is the New Coding
+We are committed to building the best open-source applied AI literacy [source material](/docs/applied-ai-literacy/earthshot) in the world, co-created by leading practitioners. Courses, tools, and translations all derive from it.
 
-Learning how to apply AI to grow businesses is like learning how to code 10 years ago. Back then the message was "everyone should learn to code." Now the message is: everyone should learn to apply AI.
+## Learning to Apply AI Is the New Learning How to Read
+
+Learning to apply AI is not "the new learning how to code." It is the new learning how to read. It is that foundational. Not knowing how to apply AI to your business, your career, your community is the new illiteracy.
 
 The foundational model companies (OpenAI, Anthropic, xAI) are all building consulting arms to deploy AI inside companies. They are sending engineers directly into corporate offices. The most powerful AI companies on earth looked at the market and said: "Businesses can't figure out how to use this. We need to go in and do it for them."
 

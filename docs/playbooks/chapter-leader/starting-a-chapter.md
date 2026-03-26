@@ -15,15 +15,27 @@ How to launch an Applied AI Society community in your city or on your campus. Th
 
 ## Why Local Communities Exist
 
-Applied AI Society exists to shorten the time for young people to get their first applied AI money-making opportunity. Local communities are where that actually happens.
+Applied AI Society exists to make the world applied AI literate. Local communities are where that actually happens.
 
-There is a massive gap between what AI can do and what organizations are actually doing with it. That gap is full of opportunity: consulting gigs, startup ideas, automation contracts, freelance engineering work, full-time roles. But most young people cannot see those opportunities from where they sit. They need to be in a room with people who are already making money in this space.
+There is a massive gap between what AI can do and what organizations are actually doing with it. That gap is full of opportunity. But most people cannot see those opportunities from where they sit. They need someone in their community who can show them.
 
-That room can take many forms. It could be a formal Applied AI Society chapter. It could be a student group within your university's existing AI club. It could be three friends who host their first workshop and see who shows up. The format matters less than the outcome: people learning applied AI by doing it together.
+That someone might be you.
+
+A chapter can take many forms. It could be a formal Applied AI Society chapter. It could be a student group within your university's existing AI club. It could be three friends who host their first workshop and see who shows up. The format matters less than the outcome: people in your community learning applied AI by doing it.
 
 If your campus already has an AI club, you do not need to start a new one. Hook in. Wear the shirt. Use the playbooks. Host an Applied AI event within the club you already have. We will support you with resources, small budgets, and a connection to the national network.
 
-The model is subsidiarity: national provides the playbooks, brand, and network. You provide the energy, the people, and the local context.
+The model is subsidiarity: national provides the [source material](/docs/applied-ai-literacy/earthshot), brand, and network. You provide the energy, the people, and the local context.
+
+## Beyond Campus: Libraries, Schools, and Community Organizations
+
+Some of the most impactful applied AI literacy work is happening outside college campuses. College students who already understand applied AI are going into their local communities and teaching others: elementary schoolers, high schoolers, library patrons, boys & girls clubs, workforce development programs.
+
+Libraries are a particularly powerful channel. They adopt programs more rapidly than universities (no bureaucracy, no curriculum committees, no semester timelines), they serve diverse populations, and they are trusted community institutions.
+
+If you are a college student who already gets this, consider: who in your community needs applied AI literacy the most? It might not be your classmates. It might be the people in your hometown, your local library, your old high school, or communities abroad that you have a connection to.
+
+We are building the best open-source applied AI literacy [source material](/docs/applied-ai-literacy/earthshot) in the world. You can use it to teach anyone, anywhere. The playbooks on this site will help you run programs. And we want to profile and amplify the people who are already doing this work, so their example inspires others.
 
 ---
 
