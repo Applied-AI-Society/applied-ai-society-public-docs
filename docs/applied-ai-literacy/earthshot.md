@@ -32,7 +32,7 @@ This is why the curriculum must be open source. This is why it must be co-create
 
 ### Open Source, Co-Created
 
-The curriculum is being built with leading applied AI practitioners from organizations including [OpenTeams](https://openteams.com/), Applied AI Deutschland, and practitioners from the Applied AI Society community around the world.
+The curriculum is being built with leading applied AI practitioners from organizations including [OpenTeams](https://openteams.com/), [Applied AI Deutschland](https://www.appliedai.de/en/), and practitioners from the Applied AI Society community around the world.
 
 It is open to feedback, contributions, and pull requests from anyone. If you are a practitioner doing this work, you have something to contribute. If you are an educator, a translator, a business leader who has applied AI and learned something, we want to hear from you.
 
