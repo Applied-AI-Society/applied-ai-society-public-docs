@@ -32,15 +32,7 @@ The source material will be:
 
 ## Why This Is the Greatest Need
 
-Jensen Huang says AGI is here. Claude can now operate your computer autonomously. 245,953 people lost tech jobs in 2025, and the pace is accelerating.
-
-The disruption is coming. But so is the opportunity.
-
-The difference between crisis and golden age, for any person, business, or community, is whether they understand how to apply AI. Not what AI is. Not how it works technically. But what it can do for them, and how to put it to work.
-
-Applied AI literacy is not "the new learn to code." It is learn to read. It is that foundational. Not understanding what AI can do for your business, your career, your community is the new illiteracy.
-
-There is no institution solving this at the scale and speed required. Universities are behind. Governments are behind. The market is moving faster than any single organization can keep up with.
+[Applied AI literacy](/docs/applied-ai-literacy) is the defining gap of this moment. No institution is solving it at the scale and speed required. Universities are behind. Governments are behind. The market is moving faster than any single organization can keep up with.
 
 This is why the source material must be open source. This is why it must be co-created. No single organization, including ours, has the full picture.
 
@@ -52,7 +44,7 @@ The source material is being built with leading applied AI practitioners from or
 
 It is open to feedback, contributions, and pull requests from anyone. If you are a practitioner doing this work, you have something to contribute. If you are an educator, a translator, a business leader who has applied AI and learned something, we want to hear from you.
 
-The goal is not to create the Applied AI Society's curriculum. The goal is to create the world's foundational source material for applied AI literacy, and have Applied AI Society be the community that stewards it.
+The goal is not to create our curriculum. The goal is to create the world's foundational source material for applied AI literacy, and to steward it as a community.
 
 ### What Derives from the Source Material
 
@@ -90,15 +82,13 @@ We want every company to want to be a part of this.
 
 **Build tools.** Open-source products, educational models, and tools that make the source material more accessible and more effective.
 
-The vision is a gravitational center: the most trusted, most foundational source of truth about applied AI, contributed to by practitioners and companies from every industry and every country. The more people who contribute, the better it gets for everyone.
+The vision is a gravitational center: the most trusted, most foundational source of truth about applied AI. Contributed to by practitioners and companies from every industry and every country. The more people who contribute, the better it gets for everyone.
 
 ## The Standard
 
 Whoever defines what applied AI literacy means owns the conversation. We intend to define it, not by declaring ourselves the authority, but by building source material so good, so open, and so well-supported by real practitioners that it becomes the standard because it works.
 
 This is a living body of work. It will evolve as the field evolves. It will be built on the real experiences of real practitioners, not on speculation about what people might need to know.
-
-We think this is the greatest need humanity has right now.
 
 ## Get Involved
 
@@ -109,4 +99,4 @@ This is too big for any one organization. We need practitioners, educators, tran
 - **Partner with us:** [Contact](https://appliedaisociety.org/contribute)
 - **Start a chapter:** [Chapter leader playbook](/docs/playbooks/chapter-leader)
 
-The moment is now. The tools are here. The community is growing. Let's build this together.
+We think this is the greatest need humanity has right now. Let's build this together.
