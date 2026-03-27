@@ -11,7 +11,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 
 ## Glossary
 
-- [Why Your Business Needs a Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): AI is only as good as the context you give it. The shift from scattered SaaS to a sovereign operating system that runs your business autonomously, respecting human attention and energy.
+- [Why Your Business Needs a Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): AI is only as good as the context you give it. The shift from scattered SaaS to a sovereign operating system that runs your business autonomously, respecting human attention and energy.
 - [Context Engineering](/docs/concepts/context-engineering): Curating the right information state for AI systems so agents have the knowledge they need, when they need it
 - [Game Design](/docs/concepts/game-design): The meta-skill of composing context engineering and intent engineering into coherent systems where AI agents operate with organizational awareness and aligned goals
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose into AI systems so agents optimize for what actually matters, not just what they can measure
