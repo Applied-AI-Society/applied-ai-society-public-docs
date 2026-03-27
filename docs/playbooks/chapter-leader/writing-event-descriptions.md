@@ -182,7 +182,7 @@ This live problem-solving format is a core part of the series: real problems fro
 
 **Applied AI Society**: A new community raising up a generation of engineers who help businesses and other organizations implement AI systems so they can better serve their customers and constituents.
 
-**AITX Community** — AITX is a community for AI Engineers, Entrepreneurs, and Explorers across Texas. Our mission is to make Texas a better place to build engineering-focused companies and hire engineering talent. We bring together the technical community across Texas through our monthly meetups, Hackathons, private dinners, and other events. Since launching in 2022, AITX has hosted demos from 50+ local startups, big tech companies like NVIDIA, Google, Meta, and Cloudflare, and grown with chapters in Austin, San Antonio, and Houston.
+**AITX Community:** AITX is a community for AI Engineers, Entrepreneurs, and Explorers across Texas. Our mission is to make Texas a better place to build engineering-focused companies and hire engineering talent. We bring together the technical community across Texas through our monthly meetups, Hackathons, private dinners, and other events. Since launching in 2022, AITX has hosted demos from 50+ local startups, big tech companies like NVIDIA, Google, Meta, and Cloudflare, and grown with chapters in Austin, San Antonio, and Houston.
 
 **Antler**: Antler is an early-stage venture capital firm with a focus on inception stage founders and a community of resident tech entrepreneurs and operators. Residents are immersed in a community with everything needed to build and scale at lightning speed.
 
