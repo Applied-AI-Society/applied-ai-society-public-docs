@@ -27,6 +27,20 @@ When working with a client (or on your own business), run this diagnostic:
 
 If the answer to any of these is "no" or "I'm not sure," that's where the work starts. Not with AI tooling.
 
+### For Practitioners: Your Own ICP
+
+As a practitioner, you have an ICP too. And the highest-value version of it is: **domain experts with a proven, repeated process and massive volume.**
+
+Think about who makes the best client. It's not someone with a vague idea about AI. It's someone like a dating coach with 2,000 past clients, an accountant who has filed thousands of returns, or a recruiter who has placed hundreds of candidates. These people have refined their methodology through sheer repetition. They know exactly what works because they've done it thousands of times.
+
+That volume is the signal. It means:
+- Their process is real and battle-tested, not theoretical
+- They have deep intuition about what makes a good outcome
+- The automation ROI scales with their client count
+- They already think in repeatable systems
+
+When you're defining your own ICP as a practitioner, prioritize domain experts who have done the work at scale. They're the ones sitting on goldmines. See [Finding Clients Through Trust](./finding-clients) for how to identify them in your network.
+
 ## Connect AI to Your ICP Truth
 
 Once the ICP is clear and validated, the next step is connecting your AI systems to everything they need to serve that ICP effectively. This is where [Legacy](/docs/legacy) becomes practical.

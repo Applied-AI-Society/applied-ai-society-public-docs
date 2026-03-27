@@ -1,7 +1,7 @@
 ---
 sidebar_label: "Minimum Viable Jarvis"
-title: "The Minimum Viable Jarvis: Setting Up Your AI Command Center"
-description: "A step-by-step guide to building your personal AI-operated command center for legacy, strategic clarity, and compounding context."
+title: "The Minimum Viable Jarvis: Setting Up Your AI Business OS"
+description: "A step-by-step guide to building your personal AI-operated business OS for legacy, strategic clarity, and compounding context."
 ---
 
 # The Minimum Viable Jarvis
@@ -18,7 +18,7 @@ The thing nobody tells you about leveling up as a professional or leader is that
 
 Here's the key insight behind everything that follows: **the truth in your head is not the truth.** Not operationally. Not for AI. Not for your team. The truth that matters is the truth that exists in documents that AI can read and act on. If it's only in your head, it might as well not exist. It's ungreppable. It's unsearchable. It's locked in wet storage with a terrible API.
 
-Your [Sovereign Command Center](/docs/sovereign-command-centers) is the persistent memory your AI draws on. The Minimum Viable Jarvis (MVJ) is the simplest possible version of that command center. Not the end state. The starting point.
+Your [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) is the persistent memory your AI draws on. The Minimum Viable Jarvis (MVJ) is the simplest possible version of that business OS. Not the end state. The starting point.
 
 For the full philosophy behind why documented truth matters, see [Legacy](/docs/legacy) and [Why It Matters](/docs/legacy/why-it-matters). This playbook is the practical "how to start" companion to those ideas.
 
@@ -47,27 +47,27 @@ Your terminal-based AI interface. This is the "Jarvis" part. Install it globally
 npm install -g @anthropic-ai/claude-code
 ```
 
-You'll want a Claude Max subscription (~$100/mo) for meaningful daily usage. Claude Code is not a chatbot. It reads your files, writes your files, runs commands, and operates within the context of your entire workspace. It's the brain that draws on everything in your command center.
+You'll want a Claude Max subscription (~$100/mo) for meaningful daily usage. Claude Code is not a chatbot. It reads your files, writes your files, runs commands, and operates within the context of your entire workspace. It's the brain that draws on everything in your business OS.
 
 ### VS Code
 
-Visual Studio Code is your window into the file system. Open your terminal within VS Code so you can see file changes in real time as Claude Code creates and modifies documents. The split view (terminal on the bottom, file explorer on the left, document preview on the right) is the cockpit of your command center.
+Visual Studio Code is your window into the file system. Open your terminal within VS Code so you can see file changes in real time as Claude Code creates and modifies documents. The split view (terminal on the bottom, file explorer on the left, document preview on the right) is the cockpit of your business OS.
 
 ### Git and GitHub
 
-Version control is not optional. Create a private repository for your command center. Git gives you something that no other tool does: a complete history of not just *what* changed but *when* and *why*. Every commit is a timestamped record of how your thinking evolved.
+Version control is not optional. Create a private repository for your business OS. Git gives you something that no other tool does: a complete history of not just *what* changed but *when* and *why*. Every commit is a timestamped record of how your thinking evolved.
 
 For the full case for why source control is the right home for your truth, see [Why Legacy Matters](/docs/legacy/why-it-matters).
 
 ### Optional: Meeting Transcription
 
-Tools like [Granola](https://granola.ai/) run in the background during meetings and give you a transcript afterward. This becomes raw material for your command center. Not every meeting needs to be transcribed, but the important ones should be captured so you can extract insights and commitments later.
+Tools like [Granola](https://granola.ai/) run in the background during meetings and give you a transcript afterward. This becomes raw material for your business OS. Not every meeting needs to be transcribed, but the important ones should be captured so you can extract insights and commitments later.
 
 ---
 
 ## The Hello World Progression
 
-This is what a first session looks like. Four exercises, about an hour total. By the end, you'll have a working command center with real data in it and a visceral sense of what this system can become.
+This is what a first session looks like. Four exercises, about an hour total. By the end, you'll have a working business OS with real data in it and a visceral sense of what this system can become.
 
 ### Hello World 1: "Who Do I Know?" (10 minutes)
 
@@ -81,7 +81,7 @@ Create 3 to 5 relationship files for key people in your professional life. Use v
 
 Tell Claude Code to create a file for each person in a `people/` directory. The format doesn't matter much right now. What matters is that these people now exist in your system.
 
-**The moment:** These people now exist in structured form that AI can reference. You will never forget a detail about them again. The next time you have a meeting with one of them, your command center can brief you on everything you know.
+**The moment:** These people now exist in structured form that AI can reference. You will never forget a detail about them again. The next time you have a meeting with one of them, your business OS can brief you on everything you know.
 
 ### Hello World 2: "What's Actually True About My Operation?" (15 minutes)
 
@@ -115,7 +115,7 @@ Now ask Claude Code to generate a briefing from everything you've created. Somet
 
 Watch what comes back. It won't be perfect. But it will be useful. And it will be drawn from *your* truth, not from generic training data.
 
-**The moment:** Imagine this briefing after 30 days of adding to your command center. After 90 days. After a year. Every conversation, every decision, every relationship, compounding into an increasingly rich and useful context. That's the trajectory you just started.
+**The moment:** Imagine this briefing after 30 days of adding to your business OS. After 90 days. After a year. Every conversation, every decision, every relationship, compounding into an increasingly rich and useful context. That's the trajectory you just started.
 
 ---
 
@@ -125,13 +125,13 @@ Once your MVJ is set up, the default interaction pattern is simple: you speak, t
 
 Here's what the daily workflow looks like:
 
-1. **Open your command center** in VS Code with the terminal running Claude Code.
+1. **Open your business OS** in VS Code with the terminal running Claude Code.
 2. **Start talking.** Voice-to-text into the terminal. Just dump whatever is on your mind. It might be a meeting debrief, a strategic thought, an update on a relationship, a new idea, a decision you need to make.
 3. **Claude Code routes the information.** Based on what you said, it determines which existing documents to update, whether new documents need to be created, and how to maintain coherence across everything.
 4. **You review the changes.** Look at what Claude Code did. Approve, correct, or refine. This is you being the "dictator of truth" for your operation. The AI proposes; you approve.
-5. **The system maintains coherence.** Over time, Claude Code learns the structure of your command center and keeps everything consistent. Cross-references stay accurate. Outdated information gets flagged.
+5. **The system maintains coherence.** Over time, Claude Code learns the structure of your business OS and keeps everything consistent. Cross-references stay accurate. Outdated information gets flagged.
 
-The brain dump is the lowest-friction way to keep your command center current. You don't need to think about where information goes. You just need to say what's true, and the system handles the rest.
+The brain dump is the lowest-friction way to keep your business OS current. You don't need to think about where information goes. You just need to say what's true, and the system handles the rest.
 
 ---
 
@@ -155,7 +155,7 @@ These are real issues that come up when people set up their MVJ for the first ti
 
 ---
 
-## Growing From MVJ to Full Command Center
+## Growing From MVJ to Full Business OS
 
 The MVJ is the seed. Here's what the growth trajectory looks like.
 
@@ -179,21 +179,21 @@ The MVJ is the seed. Here's what the growth trajectory looks like.
 
 ### The Organizational Expansion
 
-When you're ready to bring other people in, the command center scales with access controls:
+When you're ready to bring other people in, the business OS scales with access controls:
 
 - **Each person gets a role-scoped view.** Not everyone needs to see everything. The intern doesn't need board-level strategy docs. The sales lead doesn't need HR records.
-- **AI agents that act on behalf of team members** only have access to documents relevant to their role. This is where the [Sovereign Command Center principles](/docs/sovereign-command-centers/principles) around identity and access management become critical.
+- **AI agents that act on behalf of team members** only have access to documents relevant to their role. This is where the [Sovereign Agentic Business OS principles](/docs/sovereign-agentic-business-os/principles) around identity and access management become critical.
 - **The vision:** a living "company bible" (see [Start Your Company Bible](/docs/legacy/start-your-company-bible)) that everyone, human and AI, operates from. Continuously updated. Version-controlled. The single source of truth for how your organization works.
 
 ---
 
 ## The Meta Work Shift
 
-Here's the part that feels counterintuitive at first: as your command center matures, your day starts to look less and less like "work" in the traditional sense.
+Here's the part that feels counterintuitive at first: as your business OS matures, your day starts to look less and less like "work" in the traditional sense.
 
 Low-level execution is increasingly handled by AI. The human's job becomes meta work: defining reality, setting objectives, curating truth, evaluating whether the system is producing good outcomes. Think of it like game design. You are designing the game (the objectives, the rules, the guardrails) and the AI agents are the players executing within those constraints.
 
-A productive day might involve very little typing and a lot of thinking, conversing, and refining the system. You might spend an hour voice-dumping insights from three conversations, review the updated documents, approve the changes, and then ask your command center to generate a strategic brief. That's not laziness. That is the highest-leverage use of human attention in a world where execution costs are collapsing.
+A productive day might involve very little typing and a lot of thinking, conversing, and refining the system. You might spend an hour voice-dumping insights from three conversations, review the updated documents, approve the changes, and then ask your business OS to generate a strategic brief. That's not laziness. That is the highest-leverage use of human attention in a world where execution costs are collapsing.
 
 The question is no longer "how do I get all this work done?" It's "am I defining reality accurately enough that the system can do good work on my behalf?"
 
@@ -203,13 +203,13 @@ That's the shift. And it starts with the Minimum Viable Jarvis.
 
 ## Further Reading
 
-- [Sovereign Command Centers](/docs/sovereign-command-centers): The full philosophy behind building your own AI operations hub
-- [Legacy](/docs/legacy): The framework for documenting and organizing the truth your command center draws on
+- [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The full philosophy behind building your own AI operations hub
+- [Legacy](/docs/legacy): The framework for documenting and organizing the truth your business OS draws on
 - [Start Your Company Bible](/docs/legacy/start-your-company-bible): Scaling legacy across an organization
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): Making your operation grep-able and editable by AI agents
 - [Voice Transcriber](/docs/legacy/voice-transcriber): Deeper dive on the voice-to-text tools that power the brain dump workflow
-- [The Question Bank](/docs/sovereign-command-centers/question-bank): High-leverage questions to program into your command center
+- [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): High-leverage questions to program into your business OS
 
 ---
 
-*The best time to start your command center was a year ago. The second best time is today. Open a terminal. Start talking. The system will grow from there.*
+*The best time to start your business OS was a year ago. The second best time is today. Open a terminal. Start talking. The system will grow from there.*

@@ -45,7 +45,7 @@ If you're building applied AI systems, whether for yourself or for clients, you 
 - **Design smarter systems.** Routing work to the right model tier, caching repeated computations, minimizing wasted tokens.
 - **Spot opportunities faster.** When the cost of a class of tokens drops, new use cases become viable. The practitioner who notices first wins.
 
-The token economy is not a future abstraction. It's the pricing layer of every AI service, every agentic system, and every command center running today. Understanding it is part of [applied AI literacy](/docs/applied-ai-literacy).
+The token economy is not a future abstraction. It's the pricing layer of every AI service, every agentic system, and every business OS running today. Understanding it is part of [applied AI literacy](/docs/applied-ai-literacy).
 
 ---
 
@@ -53,4 +53,4 @@ The token economy is not a future abstraction. It's the pricing layer of every A
 
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): A sampler of ways to make money applying AI, including how token costs factor into practitioner pricing
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information state for AI systems. Better context means fewer wasted tokens.
-- [Sovereign Command Centers](/docs/sovereign-command-centers): Your AI, your data, your infrastructure. Token costs are a key factor in command center architecture decisions.
+- [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): Your AI, your data, your infrastructure. Token costs are a key factor in business OS architecture decisions.

@@ -43,6 +43,23 @@ This creates a flywheel: trust leads to a pilot, the pilot delivers results, res
 
 ---
 
+## Look for People With Thousands of Reps
+
+The single strongest signal that someone is a great client: **they have done the same thing hundreds or thousands of times.**
+
+A dating coach who has worked with 2,000 clients. An accountant who has filed 5,000 returns. A recruiter who has placed 800 candidates. A real estate agent who has closed 1,500 deals. These people are sitting on goldmines and most of them don't know it.
+
+Why volume matters so much:
+
+- **The process is battle-tested.** Someone who has done something 2,000 times has a real methodology, not a theory. They know what works, what breaks, and what edge cases show up. That means when you automate their workflow, you're automating something proven.
+- **Volume proves the intuition.** Thousands of reps build pattern recognition that can't be faked. These people can articulate what makes a good outcome because they've seen it play out over and over. That intuition is exactly the kind of knowledge that AI can scale.
+- **The ROI is enormous.** If you save someone 30 minutes per client and they serve 1,000 clients a year, that's 500 hours back. The math is obvious and the pitch writes itself.
+- **They already think in systems.** Nobody survives thousands of repetitions without developing repeatable processes. You're not starting from scratch. You're accelerating a system that already works.
+
+When you're scanning your network for potential clients, don't just listen for pain. Listen for scale. The person complaining about a tedious process they do 10 times a month is a decent lead. The person doing that same process 200 times a month is a great one.
+
+---
+
 ## How to Listen for Opportunities
 
 When you're talking to people in your network, listen for these signals:
@@ -52,6 +69,7 @@ When you're talking to people in your network, listen for these signals:
 - "I wish we could just [thing that AI can clearly do]"
 - "We tried [AI tool] but couldn't make it work"
 - "I know we should be doing something with AI but I don't know where to start"
+- "I've done this for hundreds of clients and it's always the same steps"
 
 These are all entry points. Don't pitch a solution immediately. Ask more questions. Understand the workflow. Then come back with a specific, scoped proposal.
 

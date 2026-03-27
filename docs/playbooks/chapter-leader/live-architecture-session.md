@@ -195,6 +195,6 @@ When done well, it:
 
 The prep work makes the magic possible. Don't skip it.
 
-At Applied AI Live #1, the live architecture session was the standout segment. The business owner's problem (and the "Sovereign AI Command Center" concept the engineer proposed) resonated with multiple attendees in post-event conversations. One lesson: brief the architect more thoroughly in advance. The more context they have, the tighter the session.
+At Applied AI Live #1, the live architecture session was the standout segment. The business owner's problem (and the "Sovereign Agentic Business OS" concept the engineer proposed) resonated with multiple attendees in post-event conversations. One lesson: brief the architect more thoroughly in advance. The more context they have, the tighter the session.
 
 ![Live architecture diagram from Applied AI Live #1](/img/events/live-1/shot-04-architecture-diagram.jpg)

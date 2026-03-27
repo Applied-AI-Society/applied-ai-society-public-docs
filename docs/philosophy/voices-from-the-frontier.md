@@ -58,11 +58,11 @@ Karpathy built an autonomous research loop ("auto research") that optimizes mode
 
 This is [legacy](/docs/legacy) described from the frontier. The organization's behavior, priorities, and culture are encoded in markdown documents that AI agents read and act on. The quality of those documents determines the quality of the output. This is why [making your company refactorable](/docs/legacy/make-your-company-refactorable) matters: your organization's truth is now executable code.
 
-### Dobby the house elf: a command center in action
+### Dobby the house elf: a business OS in action
 
 > "I have a claw that takes care of my home. I call him Dobby. It controls all of my lights, my HVAC, my shades, the pool, the spa, and my security system. I used to use six apps. I don't have to use these apps anymore. Dobby controls everything in natural language."
 
-Karpathy built what we call a [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) for his home. Not by buying a product, but by having his agents reverse-engineer the APIs of his smart home devices and build a unified interface. The apps disappeared. The command center replaced them.
+Karpathy built what we call a [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) for his home. Not by buying a product, but by having his agents reverse-engineer the APIs of his smart home devices and build a unified interface. The apps disappeared. The business OS replaced them.
 
 > "Shouldn't it just be APIs, and shouldn't agents be just using them directly? Maybe there's an overproduction of lots of custom bespoke apps that shouldn't exist, because agents kind of crumble them up and everything should be a lot more just exposed API endpoints, and agents are the glue of the intelligence."
 
@@ -102,7 +102,7 @@ Jensen pushes back on the fear narrative directly. The problem is not that AI re
 
 > "The IT department of every company is going to be the HR department of AI agents."
 
-Jensen describes a future where companies do not just use software tools. They manage fleets of AI agents the way they currently manage human teams. IT becomes the department that onboards, configures, and oversees digital workers. This is the [command center](/docs/sovereign-command-centers) thesis at enterprise scale.
+Jensen describes a future where companies do not just use software tools. They manage fleets of AI agents the way they currently manage human teams. IT becomes the department that onboards, configures, and oversees digital workers. This is the [business OS](/docs/sovereign-agentic-business-os) thesis at enterprise scale.
 
 ### Tokens as compensation
 
@@ -124,7 +124,7 @@ The shift from writing code to writing specifications is the shift from executio
 
 > "In 10 years, we will hopefully have 75,000 employees, as small as possible, as big as necessary. Those 75,000 employees will be working with 7.5 million agents. They'll be working around the clock. So hopefully our people don't have to keep up with them."
 
-A 100:1 agent-to-human ratio. Each human becomes the Coach of a team of 100 AI Players. The human's job: define the objectives, set the guardrails, evaluate the output. The agents handle execution. This is the organizational structure the [Sovereign Command Center](/docs/sovereign-command-centers) is built to support.
+A 100:1 agent-to-human ratio. Each human becomes the Coach of a team of 100 AI Players. The human's job: define the objectives, set the guardrails, evaluate the output. The agents handle execution. This is the organizational structure the [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) is built to support.
 
 ### The superhuman feeling
 
@@ -152,7 +152,7 @@ This is [Canon V](/docs/philosophy/canon) (own your AI) stated in the strongest 
 
 > "What is my AI vendor doing with my data? I would ask that question over and over again."
 
-Travis's one-line advice to every business owner considering AI adoption. The convenience of a hosted model is real. The cost (your data flowing into systems you do not control, your operations becoming dependent on decisions made by others) is also real. The [Sovereign Command Center](/docs/sovereign-command-centers) architecture exists to give organizations a third option: the convenience of powerful AI with the sovereignty of ownership.
+Travis's one-line advice to every business owner considering AI adoption. The convenience of a hosted model is real. The cost (your data flowing into systems you do not control, your operations becoming dependent on decisions made by others) is also real. The [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) architecture exists to give organizations a third option: the convenience of powerful AI with the sovereignty of ownership.
 
 ### Your uniqueness is the oil of the future
 

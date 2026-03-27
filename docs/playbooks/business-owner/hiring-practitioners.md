@@ -15,6 +15,16 @@ Most businesses know they should be using AI. Very few have someone internally w
 
 Applied AI practitioners are people who specialize in bridging that gap. They help organizations go from "we know AI matters" to "AI is working for us every day." The work ranges from automating specific workflows to transforming how your entire team thinks about and uses AI tools.
 
+### Are You the Ideal Client?
+
+Here's a quick litmus test: **have you done the same thing hundreds or thousands of times?**
+
+If you're a coach who has worked with 2,000 clients, an accountant who has filed thousands of returns, a recruiter who has placed hundreds of candidates, or any professional with a refined methodology built from massive repetition, you are exactly the kind of person an applied AI practitioner can supercharge.
+
+Your volume is the proof. It means your process works, your intuition is real, and the ROI of automating even a small part of your workflow is enormous. You don't need to be convinced that your methodology is sound. Thousands of past clients already proved that. What you need is someone who can take that proven process and multiply it with AI.
+
+If this sounds like you, skip the hesitation. You're not exploring whether AI could be useful. You're sitting on a goldmine. Find a practitioner and get started.
+
 ---
 
 ## What Practitioners Actually Do

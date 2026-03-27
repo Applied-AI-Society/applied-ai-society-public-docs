@@ -123,21 +123,21 @@ The work looks like: auditing an existing SaaS product for agentic opportunities
 
 **Who it's for:** Practitioners with both product thinking and technical depth. You need to understand what makes a good agent (context, tools, guardrails) and also how software companies ship and iterate.
 
-**Why it's growing fast:** The infrastructure for agentic systems (open-source agent frameworks, enterprise security layers, command center architectures) has matured rapidly. What was experimental a year ago is now production-ready. At NVIDIA's GTC 2026, Jensen Huang stated that ["every single SaaS company will become a GaaS company, an agentic as a service company"](https://blogs.nvidia.com/blog/gtc-2026-news/) and that every company needs an agentic system strategy. Companies that don't have one are falling behind. They need practitioners who can lead the transition.
+**Why it's growing fast:** The infrastructure for agentic systems (open-source agent frameworks, enterprise security layers, business OS architectures) has matured rapidly. What was experimental a year ago is now production-ready. At NVIDIA's GTC 2026, Jensen Huang stated that ["every single SaaS company will become a GaaS company, an agentic as a service company"](https://blogs.nvidia.com/blog/gtc-2026-news/) and that every company needs an agentic system strategy. Companies that don't have one are falling behind. They need practitioners who can lead the transition.
 
 **The model:** This often starts as a strategic engagement (assessing where agents fit) and evolves into implementation work. The best practitioners in this space combine the strategic framing of a [Fractional AI Executive](/docs/roles/fractional-ai-executive) with the technical execution of an [AI Workflow Architect](/docs/roles/ai-workflow-architect). Understanding [token economics](/docs/concepts/the-token-economy) is essential for scoping these engagements.
 
 ---
 
-## Command Center Setup
+## Business OS Setup
 
-A new category of work is emerging around setting up AI [sovereign command centers](/docs/sovereign-command-centers) for individuals and organizations. These are centralized systems where AI agents, data sources, and workflows come together in one place, under the user's control.
+A new category of work is emerging around setting up [sovereign agentic business operating systems](/docs/sovereign-agentic-business-os) for individuals and organizations. These are centralized systems where AI agents, data sources, and workflows come together in one place, under the user's control.
 
-[OpenClaw](https://openclaw.ai/) is one example of command center infrastructure at the personal scale. [OpenTeams' Nebari OS](https://nebari.dev) serves corporate and government environments. The infrastructure for command centers is maturing fast: open-source agentic OS frameworks, enterprise-grade security and policy layers, and interoperable agent standards are making it possible to stand up command centers that are both powerful and sovereign. The specific tools keep changing. The pattern (your AI, your data, your infrastructure) does not.
+[OpenClaw](https://openclaw.ai/) is one example of business OS infrastructure at the personal scale. [OpenTeams' Nebari OS](https://nebari.dev) serves corporate and government environments. The infrastructure for business operating systems is maturing fast: open-source agentic OS frameworks, enterprise-grade security and policy layers, and interoperable agent standards are making it possible to stand up systems that are both powerful and sovereign. The specific tools keep changing. The pattern (your AI, your data, your infrastructure) does not.
 
 **Who it's for:** People who enjoy technical setup, configuration, and making complex systems accessible to people who didn't build them.
 
-**The model:** You set up and configure the command center, then train the user or team on how to operate it. Recurring revenue comes from ongoing support, customization, and expansion as needs grow. For cost planning, see [The Token Economy](/docs/concepts/the-token-economy).
+**The model:** You set up and configure the business OS, then train the user or team on how to operate it. Recurring revenue comes from ongoing support, customization, and expansion as needs grow. For cost planning, see [The Token Economy](/docs/concepts/the-token-economy).
 
 ---
 
