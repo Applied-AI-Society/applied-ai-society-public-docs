@@ -90,6 +90,10 @@ Whoever defines what applied AI literacy means owns the conversation. We intend 
 
 This is a living body of work. It will evolve as the field evolves. It will be built on the real experiences of real practitioners, not on speculation about what people might need to know.
 
+## Further Reading
+
+**[The Writing on the Wall: The Rise of 'Applied AI' and the Life-or-Death Choice Every CEO Must Make Now](https://digitalcommons.humboldt.edu/digitallab/13/)** by  and Gary Sheng. The urgency behind the Earthshot: the numbers, the definition of applied AI, and why this is the greatest need.
+
 ## Get Involved
 
 This is too big for any one organization. We need practitioners, educators, translators, companies, and community builders.

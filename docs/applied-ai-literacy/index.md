@@ -54,6 +54,10 @@ Applied AI literacy isn't just for engineers or tech workers. It's for everyone 
 
 **International communities** where the AI economy is arriving fast but the infrastructure, education, and support systems haven't caught up yet.
 
+## Further Reading
+
+**[The Writing on the Wall: The Rise of 'Applied AI' and the Life-or-Death Choice Every CEO Must Make Now](https://digitalcommons.humboldt.edu/digitallab/13/)** by  and Gary Sheng. Published in the Internet Journal / Humboldt State Digital Commons. A deep dive into the numbers behind the disruption, what applied AI actually is (and is not), how businesses go extinct in the AI economy, and the existential choice every organization is now making.
+
 ## How Applied AI Society Is Leading This
 
 Applied AI Society isn't waiting for someone else to define what applied AI literacy looks like. We're building it.
