@@ -1,9 +1,9 @@
 ---
 sidebar_position: 6
-title: "Command Center Administrator"
+title: "Business OS Administrator"
 ---
 
-# Command Center Administrator
+# Business OS Administrator
 
 *The person who keeps the organizational brain running. Chief of Staff to the AI layer.*
 

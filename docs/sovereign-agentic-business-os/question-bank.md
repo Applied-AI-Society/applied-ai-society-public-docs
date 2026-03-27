@@ -115,4 +115,4 @@ Reach out on [Discord](https://discord.gg/K7uWJBMFaN) or [X](https://x.com/appli
 ## Related
 
 - [Sovereign Agentic Business OS Principles](./principles): The foundational framework that explains why these questions matter and how they compound with context
-- [Command Center Administrator](/docs/roles/command-center-administrator): The role responsible for curating and evolving the question bank at organizational scale
+- [Business OS Administrator](/docs/roles/business-os-administrator): The role responsible for curating and evolving the question bank at organizational scale

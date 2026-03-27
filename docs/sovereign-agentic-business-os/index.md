@@ -105,7 +105,7 @@ The Sovereign Agentic Business OS is not just a technical architecture. It's a s
 ## Further Reading
 
 - [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): How to start with a personal AI operating system today
-- [Business OS Administrator](/docs/roles/command-center-administrator): The emerging role responsible for maintaining organizational AI operating systems
+- [Business OS Administrator](/docs/roles/business-os-administrator): The emerging role responsible for maintaining organizational AI operating systems
 - [Legacy](/docs/legacy): The discipline of documenting the knowledge that powers your business OS
 - [Context Engineering](/docs/concepts/context-engineering): The skill of curating the right information for AI systems
 - [The Writing on the Wall](https://digitalcommons.humboldt.edu/digitallab/13/): Why the urgency is real and the window is closing

@@ -143,6 +143,6 @@ If you're ready to start, see [The Question Bank](./question-bank) for a starter
 
 ## Further Reading
 
-- [Command Center Administrator](/docs/roles/command-center-administrator): The emerging role responsible for maintaining and evolving a sovereign agentic business OS day-to-day
+- [Business OS Administrator](/docs/roles/business-os-administrator): The emerging role responsible for maintaining and evolving a sovereign agentic business OS day-to-day
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information state for AI systems. A sovereign agentic business OS is context engineering applied to your entire life and work.
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding your purpose so agents optimize for what matters to you, not what they can measure.
