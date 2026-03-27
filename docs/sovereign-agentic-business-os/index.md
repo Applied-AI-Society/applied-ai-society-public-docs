@@ -21,7 +21,7 @@ The goal is a [self-improving organization](/docs/sovereign-agentic-business-os/
 
 ## The Shift: From Scattered Tools to a Business That Runs Itself
 
-At [Applied AI Live #3](https://appliedaisociety.org/events) in Austin, [Travis Oliphant](https://en.wikipedia.org/wiki/Travis_Oliphant) (creator of NumPy, CEO of OpenTeams) presented a vision that resonated with every practitioner in the room: the shift from scattered AI tools to a unified intelligence hub.
+At [Applied AI Live #3](https://luma.com/AppliedAILive003) in Austin, [Travis Oliphant](https://en.wikipedia.org/wiki/Travis_Oliphant) (creator of NumPy, CEO of OpenTeams) presented a vision that resonated with every practitioner in the room: the shift from scattered AI tools to a unified intelligence hub.
 
 The progression he laid out:
 
