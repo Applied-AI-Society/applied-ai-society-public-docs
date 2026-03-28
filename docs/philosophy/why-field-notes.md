@@ -72,9 +72,9 @@ This is not a minor nuisance. It is a systemic threat to education. If the sourc
 
 Applied AI is especially vulnerable to this. The field is new enough that most people cannot distinguish genuine insight from confident-sounding nonsense. The stakes are high enough that bad information causes real harm: wasted consulting engagements, failed implementations, businesses that invest in the wrong approach because someone made it sound easy online.
 
-## Safe Homes for the Truth
+## Building the Reality Bank
 
-The Applied AI Society's documentation exists as a safe, reliable home for the truth.
+Social media is almost entirely noise and falsehood. The Applied AI Society's documentation exists as a counterweight: a **reality bank**. A place where what you read is what actually happened, what actually worked, and what actually failed.
 
 That means:
 - **Source-controlled and versioned.** Every change is tracked. You can see what changed, when, and why. No quiet edits. No memory-holing of mistakes. [Legacy](/docs/legacy) is the discipline that makes this rigorous.
