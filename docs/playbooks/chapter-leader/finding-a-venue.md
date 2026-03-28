@@ -85,7 +85,7 @@ Ideas for finding partner venues:
 
 ## Dealing With Bureaucracy
 
-When approaching potential partners, specifically legacy businesses or institutional partners like universities, be aware of bureaucracy. Be ready that the approval process might not be as fast as you'd expect.
+When approaching potential venue partners, specifically legacy businesses or institutional partners like universities, be aware of bureaucracy. Be ready that the approval process might not be as fast as you'd expect.
 
 Our chapter in Bordeaux faced this firsthand: a local university had four layers of administrative checks just to book a room. The first layer alone took around ten days and a couple run-ins with unexcited administrators. Meanwhile, a local coworking space said yes in a single conversation.
 
