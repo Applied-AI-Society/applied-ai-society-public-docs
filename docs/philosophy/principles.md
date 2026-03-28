@@ -43,11 +43,15 @@ We're not here to promote one company over another. Our loyalty is to open tools
 
 ---
 
-## 05. Open documentation
+## 05. Field notes, not textbooks
 
-Every case study, every workflow pattern, every success and failure, shared freely.
+Every case study, every workflow pattern, every success and failure: shared freely, updated continuously, written by practitioners doing the work.
 
-The whole community benefits when we learn in public. That's why we document everything and share it openly.
+Static curricula cannot keep pace with a field that changes weekly. Textbooks are frozen at the point of publication, and in applied AI, that means they are outdated before they reach the reader. Worse, the incentive structures of traditional publishing and social media reward hype over accuracy, producing source material that is confident-sounding but misleading.
+
+We use a different model. The Applied AI Society's documentation is a living body of [field notes](/docs/philosophy/why-field-notes) from practitioners who are actively making money providing real value for real people. The notes are source-controlled, continuously updated, and honest about uncertainty. They become source material from which chapter leaders, university partners, and practitioners worldwide can create derivative courses for their own audiences. This is how education scales without decaying into propaganda.
+
+[Read the full argument for why field notes →](/docs/philosophy/why-field-notes)
 
 ---
 

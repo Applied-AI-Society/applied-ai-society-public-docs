@@ -15,3 +15,4 @@ The [Canon](/docs/philosophy/canon) defines what we believe. The [Principles](/d
 | [Principles](/docs/philosophy/principles) | How we operate |
 | [North Star](/docs/philosophy/north-star) | How we measure success |
 | [Voices from the Frontier](/docs/philosophy/voices-from-the-frontier) | Who validates it |
+| [Why Field Notes](/docs/philosophy/why-field-notes) | Why living field notes, not textbooks |

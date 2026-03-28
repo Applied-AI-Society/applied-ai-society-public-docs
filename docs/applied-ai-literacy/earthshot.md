@@ -26,7 +26,7 @@ The source material will be:
 
 - **Open source.** Anyone can read it, use it, fork it, improve it.
 - **Co-created by leading practitioners.** Not written by one person or one organization. Built with the people who are actually doing the work.
-- **Version-controlled and living.** It evolves as the field evolves. It is built on real experiences, not speculation.
+- **Version-controlled and living.** It evolves as the field evolves. It is built on real experiences, not speculation. [Read why we chose field notes over textbooks →](/docs/philosophy/why-field-notes)
 - **Translated into every language.** The applied AI literacy gap is global. The source material must be too.
 - **Accessible to everyone.** No paywalls on the source material itself. Ever.
 
@@ -99,7 +99,7 @@ This is a living body of work. It will evolve as the field evolves. It will be b
 This is too big for any one organization. We need practitioners, educators, translators, companies, and community builders.
 
 - **Contribute to the source material:** [GitHub](https://github.com/appliedaisociety)
-- **Join the community:** [Discord](https://discord.gg/K7uWJBMFaN)
+- **Join the community:** [GroupMe (Austin)](https://groupme.com/join_group/114045490/uulnIOGW)
 - **Partner with us:** [Contact](https://appliedaisociety.org/contribute)
 - **Start a chapter:** [Chapter leader playbook](/docs/playbooks/chapter-leader)
 
