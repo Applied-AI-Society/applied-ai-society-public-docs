@@ -160,6 +160,7 @@ const sidebars: SidebarsConfig = {
           },
           items: [
             'playbooks/student/five-levels-of-value',
+            'playbooks/student/you-are-what-you-eat',
           ],
         },
         {
