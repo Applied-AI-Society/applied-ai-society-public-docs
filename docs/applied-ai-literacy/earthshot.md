@@ -99,7 +99,7 @@ This is a living body of work. It will evolve as the field evolves. It will be b
 This is too big for any one organization. We need practitioners, educators, translators, companies, and community builders.
 
 - **Contribute to the source material:** [GitHub](https://github.com/appliedaisociety)
-- **Join the community:** [GroupMe (Austin)](https://groupme.com/join_group/114045490/uulnIOGW)
+- **Join the community:** [Discord](https://discord.gg/K7uWJBMFaN)
 - **Partner with us:** [Contact](https://appliedaisociety.org/contribute)
 - **Start a chapter:** [Chapter leader playbook](/docs/playbooks/chapter-leader)
 

@@ -95,7 +95,7 @@ Your community does not have to look like Austin's. It should look like your cit
 
 **Brand infrastructure.** A Remotion repo with ready-to-use compositions for event flyers, promo videos, and visual assets. Clone it, swap your chapter's details (speaker names, dates, venue, co-host logos), and render. The compositions handle brand consistency for you. If you're not technical, you can also use the [brand guidelines](/docs/brand) to create assets with Canva, Gamma, or whatever you prefer.
 
-**[Discord](https://discord.gg/K7uWJBMFaN).** The community Discord for all chapter leaders, practitioners, and members to compare notes, share opportunities, and co-work across cities.
+**[Discord](https://discord.gg/K7uWJBMFaN).** The public community Discord for all chapter leaders, practitioners, and members to compare notes, share opportunities, and co-work across cities. This is the single public community space. Beyond Discord, you're encouraged to create your own invite-only group chat for your local chapter (Signal, iMessage, Telegram, GroupMe, whatever works for your people). For example, student leaders who are starting chapters or hosting Applied AI Society events in their cities and schools coordinate via [GroupMe](https://groupme.com/join_group/114045490/uulnIOGW). These smaller spaces should feel special. People earn their way in by showing up and doing real work.
 
 ---
 
