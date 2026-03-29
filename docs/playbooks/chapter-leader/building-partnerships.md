@@ -39,6 +39,18 @@ Even early on, you're bringing people. As you build, that audience grows. Partne
 
 ## Types of Partners
 
+### Talent pipeline partners (companies and hiring managers)
+
+Companies that are actively hiring applied AI talent. This is the most valuable and underused partnership type for campus chapters.
+
+**What they bring:** Speakers, sponsorship dollars, internship and job opportunities for your members, credibility
+
+**What you bring:** A curated room of AI-native, hungry, entrepreneurial people that they cannot reach through traditional recruiting. Resumes and job fairs do not surface the talent companies actually need. Your events do.
+
+**The pitch:** "Your recruiting team should be in this room. The people organizing this event and the people attending it are exactly the talent profile you're looking for. You can vibe-check candidates in a live setting where their actual abilities are visible." See the [talent pipeline section of Speaker Outreach](/docs/playbooks/chapter-leader/speaker-outreach#why-companies-say-yes-the-talent-pipeline) for the full pitch framework.
+
+**Why this works:** Companies are spending enormous amounts on recruiting for applied AI roles. A single AAS event gives them access to a pre-filtered group of people who are already doing the work, not just talking about it. For the company, it is cheaper and more effective than any job board. For your members, it is direct access to opportunities.
+
 ### Community partners
 
 Other meetup groups, Slack communities, or organizations with overlapping audiences.

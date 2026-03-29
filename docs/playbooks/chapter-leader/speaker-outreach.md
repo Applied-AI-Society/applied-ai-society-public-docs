@@ -23,6 +23,64 @@ You're not asking someone for a favor. You're offering something genuinely valua
 
 ---
 
+## Why Companies Say Yes: The Talent Pipeline
+
+For companies and hiring managers, the pitch is different from the practitioner pitch. It is simpler and more valuable.
+
+**The value prop is talent.**
+
+AAS events concentrate AI-native, hungry, entrepreneurial people in one room. For any company trying to hire applied AI talent, that room is one of the best places to find it.
+
+### Why This Talent Is Hard to Find Elsewhere
+
+Resumes do not mean much anymore. Neither do GitHub profiles. What matters is whether someone can actually apply AI to real business problems, communicate clearly, and lead. You cannot assess any of that from a document.
+
+At an AAS event, a recruiter or hiring manager can:
+
+1. **Meet candidates in context.** Watch how they engage with the material, what questions they ask, how they interact with other attendees. You can feel a room. You can tell if someone onstage is respected. Body language and presence reveal more than any interview loop.
+
+2. **Observe leaders among leaders.** The students and practitioners who organize these events, activate campus clubs, find speakers, and secure sponsors are demonstrating exactly the qualities companies struggle to hire for: initiative, follow-through, the ability to mobilize people, and comfort with ambiguity. These are not abstract resume bullets. They are observable behaviors.
+
+3. **Recruit chapter leaders directly.** A thriving AAS chapter leader is one of the highest-value hires in the market right now. They have proven they can organize communities, build partnerships, create events, and drive outcomes in a fast-moving domain. That skill set maps directly to business development, developer relations, go-to-market, and applied AI consulting roles. Companies looking for people who can bridge the gap between technical capabilities and business outcomes should be paying close attention to who is running these chapters.
+
+### The Pitch to Companies
+
+When approaching a company to speak or sponsor, frame it around their hiring needs:
+
+```
+Your company is hiring for applied AI talent. Resumes and GitHub
+profiles don't tell you much anymore. What you actually need is
+to see people in action: who is AI-native, who can communicate,
+who can lead.
+
+Applied AI Society events put 50-100 of those people in one room.
+Students and practitioners who are actively building, actively
+learning, and actively helping businesses implement AI. Your
+recruiting team can be in the room, meeting candidates in a
+context where their actual abilities are visible.
+
+If you send a speaker, they get to present your company's work
+to a highly engaged audience. Your team gets to network with
+attendees afterward. And you get direct access to the talent
+pipeline that is hardest to reach through traditional recruiting
+channels.
+```
+
+### What Companies Can Do
+
+Offer companies a menu of involvement:
+
+- **Send a speaker.** A practitioner or engineer from the company presents a case study of real AI work they've done. The audience sees the company's work firsthand, and the company gets to meet attendees.
+- **Sponsor the event.** Cover food, venue, or logistics costs. In exchange: co-branding, a few minutes to introduce the company, and access to the attendee list (with consent).
+- **Send recruiters.** Even without speaking or sponsoring, companies can send recruiting team members to attend, network, and identify candidates in a natural setting. This alone is worth more than a job fair booth.
+- **Offer opportunities.** Internships, freelance projects, apprenticeships, or full-time roles shared with the chapter community. This makes the chapter more valuable to its members and strengthens the relationship with the company.
+
+### Career Pathway for Students
+
+This is worth making explicit to students and chapter leaders: helping businesses apply AI is one of the most direct career entry points into business development, developer relations, and go-to-market roles at AI companies. The same skills that make someone a great chapter leader (community building, partnership development, clear communication about technical work) are exactly what companies like Runway, Anthropic, OpenAI, and others are hiring for. The chapter is not just a community service project. It is a career accelerator.
+
+---
+
 ## Who to Look For
 
 The best presenters have three things:
