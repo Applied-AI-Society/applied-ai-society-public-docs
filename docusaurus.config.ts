@@ -33,7 +33,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/applied-ai-society/applied-ai-society/tree/main/',
+          editUrl: 'https://github.com/Applied-AI-Society/applied-ai-society-public-docs/edit/main/',
         },
         blog: false,
         theme: {
@@ -85,7 +85,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/applied-ai-society',
+          href: 'https://github.com/Applied-AI-Society/applied-ai-society-public-docs',
           label: 'GitHub',
           position: 'right',
         },
