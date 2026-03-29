@@ -129,6 +129,12 @@ The people who figure out applied AI now, while the gap is wide open, will be th
 
 ---
 
+## AI Skills for Chapter Leaders (Coming Soon)
+
+We are building open-source AI skills (starting with [Claude Code](https://claude.ai/claude-code)) that automate the repetitive parts of organizing so you can focus on relationships, judgment, and showing up. Event description writers, speaker outreach drafters, flyer generators, recap writers, sponsor pitch drafters, and more. All open source, all improving as chapters use them. See the [campus launch playbook](/docs/playbooks/chapter-leader/launching-on-campus#ai-skills-for-chapter-leaders-coming-soon) for the full list.
+
+---
+
 ## How to Get Started
 
 1. **Read the docs.** Start with [What is the Applied AI Society?](/docs/about) and the [Applied AI Canon](/docs/philosophy/canon). If the philosophy resonates, keep going.
