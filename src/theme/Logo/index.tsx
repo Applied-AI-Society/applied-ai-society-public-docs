@@ -3,27 +3,28 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import { useThemeConfig, type NavbarLogo } from '@docusaurus/theme-common';
-import ThemedImage from '@theme/ThemedImage';
 import type { Props } from '@theme/Logo';
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 
-/**
- * Detects Safari (but not Chrome/Edge which also report AppleWebKit).
- * SVG linearGradient on <text> elements renders incorrectly in Safari,
- * so we serve solid-color fallback SVGs to Safari users.
- */
 function isSafariBrowser(): boolean {
   if (!ExecutionEnvironment.canUseDOM) return false;
   const ua = window.navigator.userAgent;
   return /Safari/.test(ua) && !/Chrome/.test(ua) && !/Chromium/.test(ua);
 }
 
-/** Swap `logo.svg` → `logo-safari.svg` (and dark variant) for Safari. */
 function getSafariSrc(src: string): string {
   return src.replace(/\.svg$/, '-safari.svg');
 }
 
-function LogoThemedImage({
+/**
+ * Renders both light + dark logos and uses CSS to show the correct one.
+ *
+ * Pre-hydration (no data-theme on <html>): uses prefers-color-scheme media query.
+ * Post-hydration: uses [data-theme='dark'] / [data-theme='light'] set by Docusaurus.
+ *
+ * This eliminates the flash-of-wrong-logo on fresh page load.
+ */
+function LogoImages({
   logo,
   alt,
   imageClassName,
@@ -34,32 +35,52 @@ function LogoThemedImage({
 }) {
   const safari = isSafariBrowser();
 
-  const lightSrc = safari ? getSafariSrc(logo.src) : logo.src;
-  const darkSrc = logo.srcDark
-    ? safari ? getSafariSrc(logo.srcDark) : logo.srcDark
-    : lightSrc;
-
-  const sources = {
-    light: useBaseUrl(lightSrc),
-    dark: useBaseUrl(darkSrc),
-  };
-
-  const themedImage = (
-    <ThemedImage
-      className={logo.className}
-      sources={sources}
-      height={logo.height}
-      width={logo.width}
-      alt={alt}
-      style={logo.style}
-    />
+  const lightSrc = useBaseUrl(safari ? getSafariSrc(logo.src) : logo.src);
+  const darkSrc = useBaseUrl(
+    logo.srcDark
+      ? safari ? getSafariSrc(logo.srcDark) : logo.srcDark
+      : logo.src
   );
 
-  return imageClassName ? (
-    <div className={imageClassName}>{themedImage}</div>
-  ) : (
-    themedImage
+  const imgs = (
+    <>
+      <style>{`
+        .aais-logo-light { display: block; }
+        .aais-logo-dark  { display: none;  }
+
+        /* Pre-hydration: respect system preference */
+        @media (prefers-color-scheme: dark) {
+          html:not([data-theme]) .aais-logo-light { display: none;  }
+          html:not([data-theme]) .aais-logo-dark  { display: block; }
+        }
+
+        /* Post-hydration: respect Docusaurus data-theme */
+        [data-theme='dark']  .aais-logo-light { display: none;  }
+        [data-theme='dark']  .aais-logo-dark  { display: block; }
+        [data-theme='light'] .aais-logo-light { display: block; }
+        [data-theme='light'] .aais-logo-dark  { display: none;  }
+      `}</style>
+      <img
+        src={lightSrc}
+        alt={alt}
+        className={`aais-logo-light${logo.className ? ` ${logo.className}` : ''}`}
+        height={logo.height}
+        width={logo.width}
+        style={logo.style}
+      />
+      <img
+        src={darkSrc}
+        alt=""
+        aria-hidden="true"
+        className={`aais-logo-dark${logo.className ? ` ${logo.className}` : ''}`}
+        height={logo.height}
+        width={logo.width}
+        style={logo.style}
+      />
+    </>
   );
+
+  return imageClassName ? <div className={imageClassName}>{imgs}</div> : <>{imgs}</>;
 }
 
 export default function Logo(props: Props): ReactNode {
@@ -82,7 +103,7 @@ export default function Logo(props: Props): ReactNode {
       {...propsRest}
       {...(logo?.target && { target: logo.target })}>
       {logo && (
-        <LogoThemedImage
+        <LogoImages
           logo={logo}
           alt={alt}
           imageClassName={imageClassName}

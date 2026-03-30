@@ -286,17 +286,3 @@ blockquote {
 }
 
 
-
-/* Fix logo flash on fresh page load in dark mode.
-   Docusaurus uses data-theme but only sets it after JS hydration.
-   Until then, use prefers-color-scheme to hide the wrong logo variant. */
-@media (prefers-color-scheme: dark) {
-  html:not([data-theme]) .navbar__logo img {
-    content: url('/img/logo-dark.svg');
-  }
-}
-@media (prefers-color-scheme: light) {
-  html:not([data-theme]) [data-theme='dark'] .navbar__logo img {
-    content: url('/img/logo.svg');
-  }
-}
