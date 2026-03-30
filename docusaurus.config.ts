@@ -60,6 +60,7 @@ const config: Config = {
     logo: {
       alt: 'Applied AI Society',
       src: 'img/logo.svg',
+      srcDark: 'img/logo-dark.svg',
     },
       items: [
         {

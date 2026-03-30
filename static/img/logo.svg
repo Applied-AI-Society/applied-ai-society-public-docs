@@ -4,16 +4,7 @@
       <stop offset="0%" stop-color="#FFC14D"/>
       <stop offset="100%" stop-color="#E67B35"/>
     </linearGradient>
-    <style>
-      .logo-wordmark { fill: #1A1A1A; }
-      @media (prefers-color-scheme: dark) {
-        .logo-wordmark { fill: #FFFFFF; }
-      }
-      /* Docusaurus adds data-theme on <html>; override media query when set */
-      :root[data-theme='dark'] .logo-wordmark { fill: #FFFFFF; }
-      :root[data-theme='light'] .logo-wordmark { fill: #1A1A1A; }
-    </style>
   </defs>
-  <text x="0" y="18" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="800" class="logo-wordmark">APPLIED AI </text>
+  <text x="0" y="18" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="800" fill="#1A1A1A">APPLIED AI </text>
   <text x="99" y="18" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="800" fill="url(#societyGrad)">SOCIETY</text>
 </svg>
