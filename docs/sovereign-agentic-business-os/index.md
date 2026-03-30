@@ -23,6 +23,8 @@ The goal is a [self-improving organization](/docs/sovereign-agentic-business-os/
 
 At [Applied AI Live #3](https://luma.com/AppliedAILive003) in Austin, [Travis Oliphant](https://en.wikipedia.org/wiki/Travis_Oliphant) (creator of NumPy, CEO of OpenTeams, Founding Advisor to Applied AI Society) presented a vision that resonated with every practitioner in the room: the shift from scattered AI tools to a unified intelligence hub.
 
+![The Infrastructure for a Distributed AI Economy: From AI Tools to Intelligence Hub](/img/openteams-distributed-ai-economy.png)
+
 The progression he laid out:
 
 **Layer 1: The OS runs the company.** Every department (HR, engineering, sales, operations, finance, research) connects to a central intelligence hub. Instead of 15 SaaS products with 15 logins and 15 siloed datasets, you have one operating system that holds the full context. Agents inside this OS can coordinate across functions because they see the whole picture.
