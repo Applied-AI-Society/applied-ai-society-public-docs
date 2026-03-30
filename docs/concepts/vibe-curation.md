@@ -86,6 +86,38 @@ Invest in this role. Recognize it. Protect the people who do it. They are buildi
 
 ---
 
+## How to Foster These Environments
+
+Vibe curation is not something you set once and forget. It is an active, ongoing practice. Here is what it looks like in day-to-day operation.
+
+### Set the tone early
+
+The first five minutes of any gathering, call, or project kickoff establish the frequency for everything that follows. Start with genuine check-ins, not performative ones. Ask how people are actually doing. Share something real about your own state. When the leader models openness, everyone else relaxes.
+
+### Name problems immediately
+
+The single fastest way to destroy a good vibe is to let a problem go unnamed. When tension surfaces, address it directly but without blame. "I noticed X, can we talk about it?" is infinitely better than silence followed by weeks of passive subtext. Speed of resolution is everything. Small issues addressed in 24 hours stay small. The same issues left for a week become team-defining narratives.
+
+### Protect the space from energy drains
+
+Not everyone belongs in every room. This is not about exclusion for its own sake. It is about recognizing that one person operating from ego, cynicism, or chronic negativity can undo the work of ten people operating at high frequency. The vibe curator's hardest job is making the call to limit someone's access to a space, not because they lack talent, but because their energy is incompatible with what the team needs to produce.
+
+This connects directly to [readiness](/docs/concepts/agi-whisperer). Someone can be 95% of the way there and still not ready for a high-trust environment. Protecting the space sometimes means saying "not yet."
+
+### Celebrate loudly, correct quietly
+
+Public recognition amplifies good energy. When someone ships something great, say it in front of everyone. When something needs correction, do it privately, with care, and with the explicit framing that you're investing in them. People who feel celebrated take bigger swings. People who feel publicly corrected shrink.
+
+### Create rituals that reinforce frequency
+
+Regular rhythms that bring people together outside of pure task execution: informal calls, shared meals, creative sessions with no deliverable. These are not distractions from the work. They are the substrate that makes the work possible. Teams that only interact through tickets and PRs eventually stop feeling like teams.
+
+### Model the frequency you want
+
+This is the most important one. You cannot curate a vibe you do not embody. If you want calm, be calm. If you want openness, be open. If you want people to operate from love rather than fear, operate from love yourself. People mirror what they see, especially from leaders.
+
+---
+
 ## Further Reading
 
 - [The AGI Whisperer](/docs/concepts/agi-whisperer): The talent that vibe curation exists to attract and retain
