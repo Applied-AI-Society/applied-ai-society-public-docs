@@ -5,7 +5,7 @@ title: "Vibe Curation"
 
 # Vibe Curation
 
-*The most valuable engineers in the world will only work in environments where they feel safe. Someone has to build those environments.*
+*The most valuable engineers in the world will only work in environments where they feel safe. Someone has to foster those environments.*
 
 ---
 
@@ -43,7 +43,7 @@ This is not abstract. It is observable in every team and every community. The sp
 
 ## The Vibe Curator
 
-So who builds these environments? The vibe curator.
+So who fosters these environments? The vibe curator.
 
 This is not a title on a business card. It is a function. Someone on the team (sometimes more than one person) who actively maintains the emotional and relational infrastructure that makes high-performance collaboration possible.
 
@@ -80,41 +80,9 @@ The best vibe curators understand this intuitively. They don't start with team-b
 
 ## For Communities and Teams
 
-If you are building a community or team where AGI whisperers need to thrive, vibe curation is not optional. It is core infrastructure. The person (or people) who serve this function are as important as your best engineer, because without them, your best engineer won't stay.
+If you are fostering a community or team where AGI whisperers need to thrive, vibe curation is not optional. It is core infrastructure. The person (or people) who serve this function are as important as your best engineer, because without them, your best engineer won't stay.
 
-Invest in this role. Recognize it. Protect the people who do it. They are building something invisible but load-bearing: the environment that makes everything else possible.
-
----
-
-## How to Foster These Environments
-
-Vibe curation is not something you set once and forget. It is an active, ongoing practice. Here is what it looks like in day-to-day operation.
-
-### Set the tone early
-
-The first five minutes of any gathering, call, or project kickoff establish the frequency for everything that follows. Start with genuine check-ins, not performative ones. Ask how people are actually doing. Share something real about your own state. When the leader models openness, everyone else relaxes.
-
-### Name problems immediately
-
-The single fastest way to destroy a good vibe is to let a problem go unnamed. When tension surfaces, address it directly but without blame. "I noticed X, can we talk about it?" is infinitely better than silence followed by weeks of passive subtext. Speed of resolution is everything. Small issues addressed in 24 hours stay small. The same issues left for a week become team-defining narratives.
-
-### Protect the space from energy drains
-
-Not everyone belongs in every room. This is not about exclusion for its own sake. It is about recognizing that one person operating from ego, cynicism, or chronic negativity can undo the work of ten people operating at high frequency. The vibe curator's hardest job is making the call to limit someone's access to a space, not because they lack talent, but because their energy is incompatible with what the team needs to produce.
-
-This connects directly to [readiness](/docs/concepts/agi-whisperer). Someone can be 95% of the way there and still not ready for a high-trust environment. Protecting the space sometimes means saying "not yet."
-
-### Celebrate loudly, correct quietly
-
-Public recognition amplifies good energy. When someone ships something great, say it in front of everyone. When something needs correction, do it privately, with care, and with the explicit framing that you're investing in them. People who feel celebrated take bigger swings. People who feel publicly corrected shrink.
-
-### Create rituals that reinforce frequency
-
-Regular rhythms that bring people together outside of pure task execution: informal calls, shared meals, creative sessions with no deliverable. These are not distractions from the work. They are the substrate that makes the work possible. Teams that only interact through tickets and PRs eventually stop feeling like teams.
-
-### Model the frequency you want
-
-This is the most important one. You cannot curate a vibe you do not embody. If you want calm, be calm. If you want openness, be open. If you want people to operate from love rather than fear, operate from love yourself. People mirror what they see, especially from leaders.
+Invest in this role. Recognize it. Protect the people who do it. They are fostering something invisible but load-bearing: the environment that makes everything else possible.
 
 ---
 
