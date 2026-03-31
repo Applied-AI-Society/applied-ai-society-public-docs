@@ -42,17 +42,55 @@ This is already happening:
 
 The pattern is clear: the products that win in the agentic economy are the ones that treat CLI and API access as first-class, not as an afterthought bolted on for "power users."
 
+## The CLI Renaissance
+
+After a decade of IDEs getting heavier and browser-based editors trying to replace local development, the command line has re-emerged as the center of gravity. Existing CLI tools are gaining entirely new utility when paired with AI agents, without requiring any modification.
+
+GitHub's `gh` CLI is the canonical example. It was designed for human developers, but agents discovered it, configured authentication, and started operating autonomously. Nobody had to build an "agent integration." The CLI was already agent-accessible by virtue of being a well-designed CLI. Polymarket shipped a Rust-based CLI and within days agents were building terminal dashboards, querying markets, and automating trading logic.
+
+The lesson: a good CLI is often the fastest way to make your product usable by agents. You do not need to build a custom integration. You need to build a good CLI.
+
 ## What to Do If You Build a Product
 
-1. **CLI-ify everything.** Every action a human can take in your GUI should be available as a terminal command. `--help` flag. `--json` for machine-readable output. Text in, text out.
+### 1. CLI-ify everything
 
-2. **API-ify everything.** Every action should be available as an HTTP endpoint. Document it. Make it consistent. If a human can do it by clicking, an agent should be able to do it by calling.
+Every action a human can take in your GUI should be available as a terminal command. The design principles that make a CLI good for agents are the same ones that make it good for humans:
 
-3. **Support structured output.** JSON by default. Markdown for human-readable content. Never trap data inside proprietary formats that agents cannot parse.
+- **`--help` that explains intent, not just syntax.** An agent reads `--help` to understand what a command does. Write it for someone who has never seen your product.
+- **`--json` for machine-readable output.** Every non-trivial command should support JSON output. This is how agents parse your responses.
+- **Non-zero exit codes on failure.** Agents detect errors by checking exit codes. If your CLI returns 0 on failure, agents will not know something went wrong.
+- **Clear authentication error messages.** An agent that gets a cryptic auth error will waste tokens retrying. Tell it exactly what went wrong and how to fix it.
+- **One obvious login command.** `tool auth login`, `tool auth status`. Keep it simple.
+- **Stable commands and flags.** Treat your CLI surface like an API contract. Breaking changes break agent workflows.
 
-4. **Consider MCP.** Publish an MCP server so agents can discover your product's capabilities without reading documentation. This is the emerging standard and early adopters will have an advantage.
+### 2. API-ify everything
 
-5. **Design for composability.** The output of your tool should be parseable as input by another tool. Agents chain tools together. If your tool's output is a pretty-printed table that cannot be piped, you are breaking the chain.
+Every action should be available as an HTTP endpoint. Document it. Make it consistent. If a human can do it by clicking, an agent should be able to do it by calling.
+
+### 3. Support structured output
+
+JSON by default. Markdown for human-readable content. Never trap data inside proprietary formats that agents cannot parse.
+
+### 4. Publish an MCP server
+
+[MCP (Model Context Protocol)](https://modelcontextprotocol.io/) is the emerging standard for agents to discover and use tools. Originally created by Anthropic, it was donated to the Linux Foundation's Agentic AI Foundation in late 2025 (co-founded with Block and OpenAI). The ecosystem has grown to over 10,000 active servers with 97 million monthly SDK downloads.
+
+Best practices for MCP servers (from the [MCP Best Practice Guide](https://mcp-best-practice.github.io/mcp-best-practice/best-practice/)):
+
+- **Single responsibility.** One clear domain per server. Focused toolsets, not kitchen-sink implementations.
+- **Contracts first.** Strict input/output schemas, explicit side effects, documented error handling.
+- **OAuth 2.0 authorization.** Least-privilege defaults. Per-tool, per-parameter authorization checks.
+- **Input validation and output sanitization.** Prevent downstream injection attacks.
+- **Secrets in secret stores.** Never inline credentials. Never rely on the model to keep secrets private.
+- **Observability.** Structured logging of who, what, when, why. Track success rates, latency, and policy violations.
+
+### 5. Design for composability
+
+The output of your tool should be parseable as input by another tool. Agents chain tools together. If your tool's output is a pretty-printed table that cannot be piped, you are breaking the chain.
+
+### 6. Write an AGENTS.md
+
+Add a section to your documentation (or a standalone AGENTS.md file) that describes your product's available tools, preferred output formats, authentication flows, and usage rules. This is the "onboarding doc" for agents. One file can be the difference between an agent figuring out your tool in seconds versus burning tokens in confusion.
 
 ## What to Do If You Use a Product
 
@@ -64,8 +102,15 @@ This is also why the [MVJ architecture](/docs/playbooks/practitioner/minimum-via
 
 ## Further Reading
 
+**Internal:**
 - [Personal Jarvis](/docs/concepts/personal-jarvis): The system that uses agent-accessible tools
 - [Harness Engineering](/docs/concepts/harness-engineering): How agents interact with tools through harnesses
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The organizational version of agent-accessibility
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where agent-accessible products lead at the business level
 - [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Why plain markdown beats proprietary formats
+
+**External:**
+- [CLI Is the New API and MCP: Building Agent-Ready Tools](https://jonnyzzz.com/blog/2026/02/20/cli-tools-for-ai-agents/): Deep dive on CLI design principles for agents
+- [CLIs as Agent-Native Interfaces (2026 Analysis)](https://blockchain.news/ainews/clis-as-agent-native-interfaces-2026-analysis-on-polymarket-cli-github-cli-and-mcp-for-ai-automation): How Polymarket and GitHub CLIs became agent tools overnight
+- [MCP Best Practice Guide](https://mcp-best-practice.github.io/mcp-best-practice/best-practice/): Security, architecture, and operations for MCP servers
+- [MCP Standard and Ecosystem in 2026](https://use-apify.com/blog/mcp-standard-ecosystem-2026): Current state of the MCP ecosystem
