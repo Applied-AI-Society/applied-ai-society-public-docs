@@ -33,7 +33,7 @@ Signal is subjective in the details. What is high-signal for a founder may not b
 
 ## The Formal Definition
 
-Roberto H. Luna's [Signal Theory](https://miosa.ai) (February 2026) provides a rigorous foundation for what we are describing here. Luna defines a **Signal** as "an encoded unit of intent that carries actionable information through a communication channel, designed to be decoded by the receiver into executable action." He formalizes it as a 5-tuple across five dimensions: Mode (how is it perceived?), Genre (what form does it take?), Type (what does it do?), Format (what is the container?), and Structure (how is it organized internally).
+Roberto H. Luna's [Signal Theory](https://zenodo.org/records/18774174) (February 2026) provides a rigorous foundation for what we are describing here. Luna defines a **Signal** as "an encoded unit of intent that carries actionable information through a communication channel, designed to be decoded by the receiver into executable action." He formalizes it as a 5-tuple across five dimensions: Mode (how is it perceived?), Genre (what form does it take?), Type (what does it do?), Format (what is the container?), and Structure (how is it organized internally).
 
 This matters because it gives us a precise way to distinguish signal from noise. Under Luna's framework, noise is not just "bad content." It is any communication where the encoding fails: wrong genre for the receiver, wrong mode for the channel, missing structure, no feedback loop, or intent that never reaches the point of action. A perfectly transmitted message that conveys no actionable meaning is noise. A poorly written email that provokes the right action is signal.
 
@@ -85,4 +85,4 @@ The [Applied AI Society](https://docs.appliedaisociety.org) exists to be a signa
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): What happens when an entire organization signalmaxxes
 - [Legacy](/docs/legacy): The discipline of curating signal
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The opposite of signalmaxxing (chasing tools instead of outcomes)
-- [Signal Theory: The Architecture of Optimal Intent Encoding](https://miosa.ai) by Roberto H. Luna: The formal framework behind the concepts in this article
+- [Signal Theory: The Architecture of Optimal Intent Encoding](https://zenodo.org/records/18774174) by Roberto H. Luna: The formal framework behind the concepts in this article
