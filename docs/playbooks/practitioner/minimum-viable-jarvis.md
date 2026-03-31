@@ -30,7 +30,7 @@ For the full philosophy behind why documented truth matters, see [Legacy](/docs/
 
 ## Phase 1: Install Your Tools
 
-You need five things. Most of them are free or cheap. The entire stack can be running in under 30 minutes.
+Most of what you need is free or cheap. The entire stack can be running in under 30 minutes.
 
 ### Step 1A: Voice-to-Text
 
@@ -146,9 +146,7 @@ Claude Code is not a chatbot. It reads your files, writes your files, runs comma
 
 Visual Studio Code is your window into the file system. Download it for free from [https://code.visualstudio.com](https://code.visualstudio.com).
 
-**If you have never used a terminal before:** the terminal is the text-based interface to your computer. When you see windows and icons on your screen, that is a graphical layer on top of what is really happening, which is your computer sitting in a folder, ready to execute actions. The terminal gives you direct access to that. You don't need to be fluent. You just need to be willing to open it.
-
-Open your terminal within VS Code (Terminal > New Terminal, or `` Ctrl+` ``) so you can see file changes in real time as Claude Code creates and modifies documents. The split view (terminal on the bottom, file explorer on the left, document preview on the right) is the cockpit of your business OS.
+**If you have never used a terminal before:** the terminal is the text-based interface to your computer. When you see windows and icons on your screen, that is a graphical layer on top of what is really happening, which is your computer sitting in a folder, ready to execute actions. The terminal gives you direct access to that. You don't need to be fluent. You just need to be willing to open it. You will open the terminal inside VS Code in Step 1G.
 
 ### Step 1F: Git and GitHub
 
@@ -196,7 +194,7 @@ You are now in the cockpit. The left panel shows your file tree. The bottom pane
 
 **If you do not have Git installed or prefer to start from scratch**, you can skip the clone and tell Claude Code to create the folders for you instead. Start a Claude Code session and say:
 
-> "Create a folder called my-jarvis in a good location on my computer with subfolders for people, artifacts, meeting-transcripts, and skills. Also create a CLAUDE.md file that instructs you on how to operate as my business OS agent."
+> "Create a folder called my-jarvis in a good location on my computer with subfolders for user, people, artifacts, meeting-transcripts, and skills. Also create a CLAUDE.md file that instructs you on how to operate as my business OS agent."
 
 The starter repo comes with five folders:
 
@@ -318,7 +316,7 @@ Once your MVJ is set up, the default interaction pattern is simple: you speak, t
 
 ### Step 4A: Open Your Workspace
 
-Open your business OS folder in VS Code. Open the terminal within VS Code (Terminal > New Terminal). Navigate to your business OS folder and start Claude Code (type `clauded` or `claude`).
+Open your business OS folder in VS Code. Open the terminal within VS Code (Terminal > New Terminal). Type `clauded` to start Claude Code.
 
 ### Step 4B: Brain Dump
 
