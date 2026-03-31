@@ -25,5 +25,6 @@ AI is doing the same thing, faster. The roles forming now sit at the intersectio
 - [Chief AI Officer](/docs/roles/chief-ai-officer): The embedded leader who transforms an organization into a self-improving enterprise. Leads both the technical and human sides of AI transformation at the organizational level.
 - [Business OS Administrator](/docs/roles/business-os-administrator): The person who maintains and evolves an organization's sovereign agentic business OS: agent orchestration, context architecture, and access governance.
 - [Jarvis Trainer](/docs/roles/jarvis-trainer): The person who takes someone from zero to a working AI-operated business OS, then coaches them through progressively deeper levels of integration.
+- [Community Leader](/docs/roles/community-leader): Applied AI Community Leader, the person who brings applied AI to their city, campus, or community through events, partnerships, and local network building.
 
 *More roles being added. If you're doing applied AI work that doesn't fit a known category, you may be early to something. [Tell us about it.](https://appliedaisociety.org/contribute)*
