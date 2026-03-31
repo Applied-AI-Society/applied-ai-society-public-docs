@@ -13,7 +13,7 @@ title: "Signalmaxxing"
 
 Signalmaxxing is the deliberate curation of your information environment so that everything influencing your thinking is truth-seeking and truth-emitting. It is not about producing content. It is about creating the conditions where signal flows and noise is eliminated.
 
-This means weeding out anything that degrades your epistemic reality: the accounts, feeds, group chats, newsletters, and media sources that distort your model of how the world actually works. Most of the internet is a noise machine. Bots, spam, FUD, memes that go nowhere, takes designed to spike your cortisol without giving you anything useful. Signalmaxxing is the discipline of refusing to let that into your environment.
+This means weeding out anything that warps your understanding of how the world actually works: the accounts, feeds, group chats, newsletters, and media sources that distort your ability to see reality clearly. Most of the internet is a noise machine. Bots, spam, FUD, memes that go nowhere, takes designed to spike your cortisol without giving you anything useful. Signalmaxxing is the discipline of refusing to let that into your environment.
 
 What makes something signal? It helps you function at a higher level in reality. It gives you a better baseline for how to succeed. It is information that, once you have it, changes how you operate. Alpha: information not everyone has that is genuinely valuable and viable.
 
