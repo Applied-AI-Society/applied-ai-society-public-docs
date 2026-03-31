@@ -17,7 +17,7 @@ This is already changing. The next phase is **always-on agents**: AI that runs i
 
 ## What This Looks Like
 
-In March 2026, [a deep analysis of Claude Code's source code](https://x.com/itsolelehmann/status/2039018963611627545) revealed a fully built but unreleased feature called KAIROS. It is the clearest signal yet for where all AI tools are heading.
+On March 31, 2026, [a deep analysis of Claude Code's source code](https://x.com/itsolelehmann/status/2039018963611627545) revealed a fully built but unreleased feature called KAIROS. It is the clearest signal yet for where all AI tools are heading.
 
 KAIROS is a proactive Claude that runs 24/7. Here is how it works:
 
