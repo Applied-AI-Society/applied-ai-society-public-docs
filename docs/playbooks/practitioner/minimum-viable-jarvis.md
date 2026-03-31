@@ -8,6 +8,10 @@ description: "A step-by-step guide to building your personal AI-operated busines
 
 *A step-by-step guide to setting up the simplest system that gives you AI-augmented recall, strategic clarity, and compounding context.*
 
+**Time estimate:** 3.5 to 4 hours to complete everything in this guide, even with some prior technical experience. If you are completely new to the terminal and have never installed developer tools before, expect the upper end.
+
+**The value of an instructor:** This guide is designed to be self-paced, but having someone experienced walk you through it in person makes a significant difference. Every machine is slightly different. You will hit edge cases (a Windows PowerShell permission error, an old Node.js version conflict, a corporate firewall blocking a download) that are too niche to document here but take 30 seconds for an experienced person to debug. An instructor gets you across the finish line instead of stuck at Step 1B for an hour. If you have access to an [Applied AI Society](https://docs.appliedaisociety.org) workshop or know someone who has done this before, take advantage of that. If not, this guide plus Claude Code itself (which can help you debug installation issues) will get you there.
+
 ---
 
 ## Why This Matters
