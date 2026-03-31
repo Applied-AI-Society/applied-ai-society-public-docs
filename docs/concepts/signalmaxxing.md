@@ -31,6 +31,14 @@ Signalmaxxing is the deliberate practice of producing and sharing information th
 
 Signal is subjective in the details. What is high-signal for a founder may not be high-signal for a student. But the principle is universal: does this information help you play the biggest game you are willing to play, at a higher level?
 
+## The Formal Definition
+
+Roberto H. Luna's [Signal Theory](https://miosa.ai) (February 2026) provides a rigorous foundation for what we are describing here. Luna defines a **Signal** as "an encoded unit of intent that carries actionable information through a communication channel, designed to be decoded by the receiver into executable action." He formalizes it as a 5-tuple across five dimensions: Mode (how is it perceived?), Genre (what form does it take?), Type (what does it do?), Format (what is the container?), and Structure (how is it organized internally).
+
+This matters because it gives us a precise way to distinguish signal from noise. Under Luna's framework, noise is not just "bad content." It is any communication where the encoding fails: wrong genre for the receiver, wrong mode for the channel, missing structure, no feedback loop, or intent that never reaches the point of action. A perfectly transmitted message that conveys no actionable meaning is noise. A poorly written email that provokes the right action is signal.
+
+The root metric Luna identifies is **Signal-to-Noise Ratio (S/N)**, borrowed from Shannon's information theory but extended to organizational communication. Every channel has finite capacity. Every piece of noise you consume reduces the bandwidth available for signal. Signalmaxxing, in Luna's terms, is the practice of maximizing S/N across every channel you operate in: your feeds, your conversations, your documents, your squad.
+
 ## Squadmaxxing
 
 Signalmaxxing does not happen in isolation. It is tied to squadmaxxing: maximizing the quality and alignment of the people you surround yourself with.
@@ -50,6 +58,8 @@ Every decision you make about your infrastructure, your tools, your strategy, yo
 Take a concrete example. Someone in your circle recommends a platform. You invest time learning it, building workflows on it, integrating it into your operation. Six months later, you realize the platform is a vendor lock-in trap with no CLI, no API, no export. Now you are months deep into an architecture that is actively working against you. That is compound drift. The bad advice did not just cost you one decision. It cost you every decision that was downstream of it.
 
 This is why the people you take signal from matter so much right now. In a stable, slow-moving environment, bad advice is recoverable. You course-correct next quarter. In the current environment, where the right infrastructure choices compound dramatically and the wrong ones lock you into dead-end patterns, bad signal is not just unhelpful. It is actively destructive. Every month you spend on suboptimal patterns is a month your competitors spent compounding on optimal ones.
+
+Luna's Signal Theory explains the mechanism behind compound drift. Every Signal has a lifecycle: Created, Sent, Received, Decoded, Acted Upon, with a Feedback loop that allows course correction. When you are taking advice from low-signal sources, the feedback loop is broken. You act on bad information, but the people who gave you that information have no mechanism (and no incentive) to tell you it was wrong. Without feedback, errors compound silently. By the time you notice the drift, you are months deep.
 
 The higher the rate of change in your environment, the more critical it is to protect yourself from noise. This is not about being elitist. It is about survival. The cost of drift is measured in time you cannot get back, and the velocity of change means that time costs more than it ever has.
 
@@ -75,3 +85,4 @@ The [Applied AI Society](https://docs.appliedaisociety.org) exists to be a signa
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): What happens when an entire organization signalmaxxes
 - [Legacy](/docs/legacy): The discipline of curating signal
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The opposite of signalmaxxing (chasing tools instead of outcomes)
+- [Signal Theory: The Architecture of Optimal Intent Encoding](https://miosa.ai) by Roberto H. Luna: The formal framework behind the concepts in this article
