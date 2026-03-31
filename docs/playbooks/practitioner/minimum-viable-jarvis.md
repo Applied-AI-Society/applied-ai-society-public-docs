@@ -47,15 +47,11 @@ Two solid options:
 
 Either works. You hold a key, you talk, you release, and the text appears wherever your cursor is. Even whispering works, which matters if you are in a co-working space or a meeting. The point is that you can speak naturally and get text. For more on the role of voice transcription in legacy, see [Voice Transcriber](/docs/legacy/voice-transcriber).
 
-### Step 1B: Claude Code
+### Step 1B: Install Node.js and npm
 
-Your terminal-based AI interface. This is the engine of the Jarvis. Important distinction: Claude Code on its own is not the Jarvis. The Jarvis is the combination of your file structure, your documented context, and how you use Claude Code to operate on all of it. Claude Code is simply the best engine for a Jarvis right now, but your files are yours. You could switch to a different AI tool tomorrow and keep everything.
+Claude Code is installed through npm (Node Package Manager), which comes bundled with Node.js. If you have never installed anything from the command line before, you need Node.js first.
 
-#### Step 1B-i: Prerequisites (Node.js and npm)
-
-If you have never installed anything from the command line before, you will need to install Node.js first. Node.js comes bundled with npm (Node Package Manager), which is the tool you use to install Claude Code.
-
-**If you try to run the install command below and see `npm: command not found`, this is why.** You need Node.js installed first.
+**If you try to run the Claude Code install command and see `npm: command not found`, this is why.** You need Node.js installed first.
 
 **macOS:**
 
@@ -92,7 +88,9 @@ npm --version
 
 If both commands print a version number, you are ready to install Claude Code.
 
-#### Step 1B-ii: Installing Claude Code
+### Step 1C: Install Claude Code
+
+Your terminal-based AI interface. This is the engine of the Jarvis. Important distinction: Claude Code on its own is not the Jarvis. The Jarvis is the combination of your file structure, your documented context, and how you use Claude Code to operate on all of it. Claude Code is simply the best engine for a Jarvis right now, but your files are yours. You could switch to a different AI tool tomorrow and keep everything.
 
 ```bash
 npm install -g @anthropic-ai/claude-code
@@ -102,7 +100,7 @@ You will want a Claude Max subscription (~$100/mo) for meaningful daily usage.
 
 **Why the CLI and not the desktop app?** Claude has a desktop app with a nice window, but it is a wrapper around the CLI, and the CLI updates far faster. Claude Code's CLI might update three times in a single session. The desktop app does not keep up, which means it is often buggy or missing features. The CLI auto-updates and is always current. Use the CLI in your terminal.
 
-#### Step 1B-iii: The `--dangerously-skip-permissions` Flag
+### Step 1D: Set Up the `clauded` Alias
 
 By default, Claude Code asks your permission before it does anything: creating a file, editing a file, running a command. Every. Single. Time. This is the safe, responsible design. And it will drive you absolutely crazy if you are trying to get real work done.
 
@@ -138,7 +136,7 @@ Either way, once the alias is set up and you have opened a fresh terminal, you n
 
 Claude Code is not a chatbot. It reads your files, writes your files, runs commands, and operates within the context of your entire workspace. It is the brain that draws on everything in your business OS.
 
-### Step 1C: VS Code
+### Step 1E: VS Code
 
 Visual Studio Code is your window into the file system. Download it for free from [https://code.visualstudio.com](https://code.visualstudio.com).
 
@@ -146,13 +144,13 @@ Visual Studio Code is your window into the file system. Download it for free fro
 
 Open your terminal within VS Code (Terminal > New Terminal, or `` Ctrl+` ``) so you can see file changes in real time as Claude Code creates and modifies documents. The split view (terminal on the bottom, file explorer on the left, document preview on the right) is the cockpit of your business OS.
 
-### Step 1D: Git and GitHub
+### Step 1F: Git and GitHub
 
 Version control is not optional. Create a private repository for your business OS. Git gives you something that no other tool does: a complete history of not just *what* changed but *when* and *why*. Every commit is a timestamped record of how your thinking evolved.
 
 For the full case for why source control is the right home for your truth, see [Why Legacy Matters](/docs/legacy/why-it-matters).
 
-### Step 1E: Meeting Transcription (Optional)
+### Step 1G: Meeting Transcription (Optional)
 
 Tools like [Granola](https://granola.ai/) run in the background during meetings and give you a transcript afterward. This becomes raw material for your business OS. Not every meeting needs to be transcribed, but the important ones should be captured so you can extract insights and commitments later.
 
@@ -278,7 +276,7 @@ These are real issues that come up when people set up their MVJ for the first ti
 
 **Remap your Caps Lock key.** Make it a Control key. This is a small thing that makes terminal life dramatically better. On macOS: System Settings, Keyboard, Keyboard Shortcuts, Modifier Keys. You'll thank yourself.
 
-**Understand the "dangerously skip permissions" tradeoff.** See the Claude Code installation section above for the full explanation of the `--dangerously-skip-permissions` flag and the `clauded` alias. Short version: use `clauded` for day-to-day work, use `claude` for sensitive operations.
+**Understand the "dangerously skip permissions" tradeoff.** See Step 1D above for the full explanation of the `--dangerously-skip-permissions` flag and the `clauded` alias. Short version: use `clauded` for day-to-day work, use `claude` for sensitive operations.
 
 **Voice transcription quality can vary.** Apple's built-in dictation can regress across OS updates. If you notice accuracy dropping, switch to Superwhisper or Wispr Flow as your primary and keep the other as backup.
 
