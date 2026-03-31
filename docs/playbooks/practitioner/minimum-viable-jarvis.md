@@ -449,7 +449,7 @@ That's the shift. And it starts with the Minimum Viable Jarvis.
 - [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): High-leverage questions to program into your business OS
 - [Training the MVJ Workshop](/docs/playbooks/practitioner/training-the-mvj-workshop): If you want to teach others how to set up their Jarvis
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the code wrapped around an AI model matters as much as the model itself, and why harnesses will soon improve themselves
-- [Personal Jarvis](/docs/concepts/jarvis): The concept behind the system you are building
+- [Personal Jarvis](/docs/concepts/personal-jarvis): The concept behind the system you are building
 
 ---
 
