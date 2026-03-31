@@ -100,6 +100,12 @@ You will want a Claude Max subscription (~$100/mo) for meaningful daily usage.
 
 **Why the CLI and not the desktop app?** Claude has a desktop app with a nice window, but it is a wrapper around the CLI, and the CLI updates far faster. Claude Code's CLI might update three times in a single session. The desktop app does not keep up, which means it is often buggy or missing features. The CLI auto-updates and is always current. Use the CLI in your terminal.
 
+**First launch:** When you type `claude` for the first time, it will walk you through a setup flow. Here is what to expect:
+
+1. **Theme selection.** It will ask you to pick a color theme. If you do not have a strong preference, pick **dark mode**. It looks better in most terminals and is easier on your eyes for long sessions.
+2. **Terminal setup.** It will ask if you want to use Claude Code's recommended terminal settings (Option+Enter for newlines, visual bell). **Say yes.** Pick option 1: "Yes, use recommended settings." This makes the experience smoother. You can always change it later with `/terminal-setup`.
+3. **Login.** It will ask you to log in with your Anthropic account. Follow the prompts to authenticate.
+
 ### Step 1D: Set Up the `clauded` Alias
 
 By default, Claude Code asks your permission before it does anything: creating a file, editing a file, running a command. Every. Single. Time. This is the safe, responsible design. And it will drive you absolutely crazy if you are trying to get real work done.
