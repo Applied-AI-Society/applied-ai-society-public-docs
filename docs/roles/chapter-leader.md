@@ -1,9 +1,9 @@
 ---
 sidebar_position: 6
-title: "Applied AI Society Chapter Leader"
+title: "Applied AI Community Leader"
 ---
 
-# Applied AI Society Chapter Leader
+# Applied AI Community Leader
 
 *The person who brings applied AI to their city, campus, or community. Not by lecturing about it. By creating the rooms where people experience it for the first time.*
 
