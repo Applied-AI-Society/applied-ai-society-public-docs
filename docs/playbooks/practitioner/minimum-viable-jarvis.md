@@ -165,30 +165,38 @@ Open your terminal within VS Code (Terminal > New Terminal, or `` Ctrl+` ``) so 
 2. Install the GitHub CLI so you can interact with GitHub from your terminal: `npm install -g gh` (you already have npm from Step 1B).
 3. Log in by typing `gh auth login` in your terminal and following the prompts.
 
-### Step 1G: Clone the Starter Repo (or Create From Scratch)
+### Step 1G: Set Up Your Jarvis Workspace
 
-We have created a starter repo with the default folder structure for your Jarvis. The fastest way to get started is to fork or clone it.
+We have created a starter repo with the default folder structure for your Jarvis. You are going to use Claude Code to clone it to your computer. This is a good first rep of telling Claude Code to do something for you.
 
-**Option 1: Fork on GitHub (recommended).** Go to [github.com/Applied-AI-Society/minimum-viable-jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis) and click the "Fork" button in the top right. This creates your own copy under your GitHub account. Then clone your fork to your computer:
+**Use Claude Code to clone the repo:**
 
-```bash
-git clone https://github.com/YOUR-USERNAME/minimum-viable-jarvis.git
-```
+1. Open any terminal on your computer (you do not need to be in any particular folder).
+2. Type `claude` to start a Claude Code session.
+3. Tell it something like:
 
-Replace `YOUR-USERNAME` with your GitHub username.
+> "Clone the repo at github.com/Applied-AI-Society/minimum-viable-jarvis into a folder that makes sense on my computer for storing projects. If I don't have a folder for that yet, create one."
 
-**Option 2: Clone directly.** If you just want the files without forking:
+Claude Code will figure out the right location for your operating system. On Mac, it might put it in `~/Documents/github-repos/` or `~/Projects/`. On Windows, it might use `C:\Users\YourName\Documents\`. It will ask you to approve the commands. Let it do its thing.
 
-```bash
-git clone https://github.com/Applied-AI-Society/minimum-viable-jarvis.git
-```
+4. Once the clone is done, note the folder path that Claude Code tells you it cloned into. You will need this in a moment.
+5. Type `/exit` to quit the Claude Code session.
 
-**Option 3: Create from scratch.** If you do not have Git or GitHub set up and just want to get started, create the folders manually. Open your terminal and run:
+**Open the workspace in VS Code:**
 
-```bash
-mkdir -p my-jarvis/people my-jarvis/artifacts my-jarvis/meeting-transcripts my-jarvis/skills
-cd my-jarvis
-```
+1. Open VS Code.
+2. Go to File > Open Folder (or `Ctrl+K Ctrl+O` on Windows, `Cmd+O` on Mac).
+3. Navigate to the folder that Claude Code just cloned and select it.
+4. Now open the terminal inside VS Code. This is important: you want the terminal to be scoped to your Jarvis folder.
+   - **Mac:** Terminal > New Terminal from the menu bar, or press `` Ctrl+` ``
+   - **Windows:** Terminal > New Terminal from the menu bar, or press `` Ctrl+` ``
+5. In the VS Code terminal, type `clauded` (or `claude` if you have not set up the alias yet). Claude Code is now running inside your Jarvis workspace and can see all the starter files.
+
+You are now in the cockpit. The left panel shows your file tree. The bottom panel is Claude Code in your terminal. The right panel is for viewing whatever file you are working on.
+
+**If you do not have Git installed or prefer to start from scratch**, you can skip the clone and tell Claude Code to create the folders for you instead. Start a Claude Code session and say:
+
+> "Create a folder called my-jarvis in a good location on my computer with subfolders for people, artifacts, meeting-transcripts, and skills. Also create a CLAUDE.md file that instructs you on how to operate as my business OS agent."
 
 The starter repo comes with four folders:
 
@@ -198,8 +206,6 @@ The starter repo comes with four folders:
 - **skills/** for SOPs that define repeatable tasks for your AI agent
 
 It also includes a `CLAUDE.md` file that gives Claude Code instructions on how to operate within your workspace. This is what makes Claude Code understand the structure of your business OS from the first session.
-
-Once you have the folder on your computer, open it in VS Code (File > Open Folder) and you are ready for Phase 3.
 
 ### Step 1H: Meeting Transcription (Optional)
 
