@@ -445,6 +445,7 @@ That's the shift. And it starts with the Minimum Viable Jarvis.
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): Making your operation grep-able and editable by AI agents
 - [Voice Transcriber](/docs/legacy/voice-transcriber): Deeper dive on the voice-to-text tools that power the brain dump workflow
 - [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): High-leverage questions to program into your business OS
+- [Training the MVJ Workshop](/docs/playbooks/practitioner/training-the-mvj-workshop): If you want to teach others how to set up their Jarvis
 
 ---
 
