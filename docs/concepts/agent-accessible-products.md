@@ -50,7 +50,9 @@ Traditional SEO is about making your product findable by humans searching Google
 
 The landscape is shifting. Darwinian selection is now favoring companies that make agents' lives easier. Your product's fitness is no longer just about the human experience. It is about the agent experience. Companies that expose CLIs, publish open source skill files for common workflows, and make their APIs trivially accessible will have better agent SEO. Their products will be the ones that agents recommend, integrate with, and default to.
 
-This is not a hypothetical. Consider a SaaS product that already has a great agent built into its own UI. That is table stakes. The next step is exposing that capability so that agents outside of your product can interact with it too. Your users are increasingly operating from a single terminal session (Claude Code, OpenCode, or whatever harness they use). If they have to leave that session to open your UI, you are creating friction. If they can stay in their flow and your product just works from the command line, you win.
+This is not a hypothetical. [Switchbooks](https://switchbooks.io), a QuickBooks replacement built by Ryland Beard, is a real example. Switchbooks already had an AI agent built into its own UI with about 20 tools, visible memory, and full bookkeeping automation. That was table stakes. After reading this article, Ryland added an MCP server on top of his existing API endpoints. It took him 60 seconds. Not an exaggeration. His API was already built, so exposing it to external agents was trivial. Now any user running Claude Code or any other harness can reconcile their books, create payees, categorize transactions, and pull financial reports without ever opening the Switchbooks UI. The next step is publishing open source skill files for common accounting workflows so that agents can onboard themselves to Switchbooks with zero friction.
+
+The lesson: if your product already has an API (and it should), making it agent-accessible is an afternoon of work. Maybe less. The hard part was building the product. Exposing it to agents is the easy part that most companies are sleeping on.
 
 ## The CLI Renaissance
 
