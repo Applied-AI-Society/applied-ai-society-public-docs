@@ -241,9 +241,35 @@ Start with read-only connections and work your way up. Connect your calendar so 
 
 ## Phase 3: Build Your First Business OS
 
-This is what a first session looks like. Four exercises, about an hour total. By the end, you'll have a working business OS with real data in it and a visceral sense of what this system can become.
+This is what a first session looks like. Five exercises, about an hour total. By the end, you will have a working business OS with real data in it, a clear picture of your top strategic blocker, and an actionable plan for getting unblocked.
 
-### Step 3A: "Who Do I Know?" (10 minutes)
+### Step 3A: "Who Am I?" (15 minutes)
+
+This is the most important first step. Before your Jarvis can help you with anything, it needs to know who you are. The starter repo includes a skill file that will guide Claude Code through an interview with you.
+
+Tell Claude Code:
+
+> "Read the skill file at skills/create-user-profile.md and run it."
+
+Claude Code will interview you one question at a time. It will ask about who you are, what you care about, how you make decisions, the current state of your operation, and your biggest strategic blocker. Use voice-to-text. Speak naturally. Do not overthink your answers.
+
+At the end, Claude Code will save a `artifacts/user.md` file that captures everything. This file is the foundation of your Jarvis. Every future conversation will be informed by it.
+
+**The moment:** Your Jarvis now knows who you are. Not the LinkedIn version. The real version. Your goals, your values, your decision-making style, and the thing that is actually blocking you right now. This alone makes every future interaction 10x more useful.
+
+### Step 3B: "What's My Plan?" (15 minutes)
+
+At the end of the user profile interview, Claude Code will ask if you want to think through your strategic blocker. Say yes.
+
+This is the payoff. Claude Code now has deep context on who you are, what you are working on, and what is in the way. It will help you break your blocker into actionable steps and save the result as a strategic plan in `artifacts/`.
+
+If you skipped this during the interview, you can trigger it yourself:
+
+> "Based on my user profile, help me create a strategic plan for getting past my biggest blocker. Save it as an artifact."
+
+**The moment:** You walked in with a vague sense of being stuck. You are walking out with a concrete, written plan. Not generic advice from an AI that does not know you. A plan built from your actual context, your actual constraints, and your actual goals. This is what a Jarvis does.
+
+### Step 3C: "Who Do I Know?" (10 minutes)
 
 Create 3 to 5 relationship files for key people in your professional life. Use voice-to-text to dictate into Claude Code. For each person, capture:
 
@@ -257,19 +283,7 @@ Tell Claude Code to create a file for each person in the `people/` directory (al
 
 **The moment:** These people now exist in structured form that AI can reference. You will never forget a detail about them again. The next time you have a meeting with one of them, your business OS can brief you on everything you know.
 
-### Step 3B: "What's Actually True About My Operation?" (15 minutes)
-
-Dictate a `STATUS.md` file into the `artifacts/` directory. Just talk. Let Claude Code structure it. Cover:
-
-- **Current state**: What are you working on right now? What's the honest situation?
-- **Key decisions and why**: What have you decided recently, and what was the reasoning?
-- **What's blocked**: Where are you stuck? What's in the way?
-- **Sources of truth**: Where does important information currently live? (Specific Slack channels, Google Docs, Notion pages, someone's head)
-- **Next milestones**: What are you trying to accomplish in the next 2 to 4 weeks?
-
-**The moment:** This is likely the first time the ground truth of your operation exists outside your head in structured form. Read it back. It will feel clarifying in a way that thinking about it never does. Writing forces precision that thinking alone does not.
-
-### Step 3C: "What Did I Actually Decide?" (10 minutes)
+### Step 3D: "What Did I Actually Decide?" (10 minutes)
 
 Create a strategic document capturing one major decision you've made recently. Dictate the story:
 
@@ -281,11 +295,11 @@ Create a strategic document capturing one major decision you've made recently. D
 
 **The moment:** When your team (or future you) asks "why did we do it this way?", you point them here. The truth is managed. No more relitigating settled decisions from memory.
 
-### Step 3D: "My System Talks Back" (10 minutes)
+### Step 3E: "My System Talks Back" (10 minutes)
 
 Now ask Claude Code to generate a briefing from everything you've created. Something like:
 
-> "Based on everything in this workspace, give me a briefing. Who are my key relationships? What's the current state of my operation? What decisions have I made and what's still unresolved? What should I be paying attention to?"
+> "Based on everything in this workspace, give me a briefing. Who am I? What's my strategic plan? Who are my key relationships? What decisions have I made? What should I be paying attention to?"
 
 Watch what comes back. It won't be perfect. But it will be useful. And it will be drawn from *your* truth, not from generic training data.
 
