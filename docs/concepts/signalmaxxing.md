@@ -41,6 +41,18 @@ This is the point of the squad. Not just vibes. Not just hanging out. The point 
 
 The opposite is squadmaxxing with people who are noise maxxing. That is a distraction multiplier. Every group chat becomes a cortisol factory. Every conversation pulls you further from clarity.
 
+## Compound Drift
+
+The cost of being around low-signal people is magnifying. Not linearly. Exponentially.
+
+Every decision you make about your infrastructure, your tools, your strategy, your partnerships is either moving you closer to your ideal setup or further from it. The delta between where you are and where you should be is the drift. And drift compounds.
+
+Take a concrete example. Someone in your circle recommends a platform. You invest time learning it, building workflows on it, integrating it into your operation. Six months later, you realize the platform is a vendor lock-in trap with no CLI, no API, no export. Now you are months deep into an architecture that is actively working against you. That is compound drift. The bad advice did not just cost you one decision. It cost you every decision that was downstream of it.
+
+This is why the people you take signal from matter so much right now. In a stable, slow-moving environment, bad advice is recoverable. You course-correct next quarter. In the current environment, where the right infrastructure choices compound dramatically and the wrong ones lock you into dead-end patterns, bad signal is not just unhelpful. It is actively destructive. Every month you spend on suboptimal patterns is a month your competitors spent compounding on optimal ones.
+
+The higher the rate of change in your environment, the more critical it is to protect yourself from noise. This is not about being elitist. It is about survival. The cost of drift is measured in time you cannot get back, and the velocity of change means that time costs more than it ever has.
+
 ## Why This Matters for Applied AI
 
 Your [Personal Jarvis](/docs/concepts/personal-jarvis) is a signalmaxxing machine. It takes the signal you produce (brain dumps, strategic documents, relationship files, decision records) and compounds it. Every piece of truth you put into the system makes the system's output higher-signal.
