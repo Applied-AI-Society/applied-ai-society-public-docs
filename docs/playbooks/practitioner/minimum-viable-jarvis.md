@@ -107,6 +107,10 @@ If both commands print a version number, you are ready to install Claude Code.
 
 Your terminal-based AI interface. This is the engine of the Jarvis. Important distinction: Claude Code on its own is not the Jarvis. The Jarvis is the combination of your file structure, your documented context, and how you use Claude Code to operate on all of it. Claude Code is simply the best engine for a Jarvis right now, but your files are yours. You could switch to a different AI tool tomorrow and keep everything.
 
+**Why not just use ChatGPT, Gemini, or any other chatbot?** The big AI platforms (OpenAI, Google, etc.) want you locked into their ecosystem. Your conversation history lives on their servers. Your context resets every session or is trapped behind their interface. You cannot export it, version-control it, or run a different AI on top of it. They are designed to keep you coming back to their app, not to give you a system you own.
+
+The MVJ approach is the opposite. Your files live on your computer. They are plain markdown. Any AI tool can read them. If Anthropic triples their price tomorrow, or a better tool comes out next month, you take your files and walk. No export process, no migration headache. You are not a user of someone else's platform. You are the operator of your own system. That is what sovereignty means in this context, and it is worth thinking about as you decide which tools earn your trust and your money.
+
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
