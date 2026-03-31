@@ -67,6 +67,7 @@ The next level of programming is not that the output is software. It is enterpri
 
 ## Further Reading
 
+- [Self-Improving Systems](/docs/concepts/self-improving-systems): The engineering principles that make self-improvement work (observability, evaluation, bounded experimentation, memory, oversight)
 - [Harness Engineering](/docs/concepts/harness-engineering): Self-improving code as a building block for self-improving enterprises
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): How Claude Code's hook system enables the recursive improvement loop described in this article
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The architectural prerequisite

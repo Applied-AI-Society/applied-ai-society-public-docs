@@ -53,6 +53,18 @@ The most prominent example is Tesla's Full Self-Driving. For years, it used a co
 
 The same principle is now applying to harnesses. Letting AI figure out how to build its own harness produces better results than having humans write it. And as the underlying models get better, the harnesses they build get better, which makes the models more effective, which makes the harnesses even better. It is a recursive improvement loop.
 
+## The Body as Harness
+
+There is an older, more intuitive way to understand this concept. Consider the human body.
+
+Your mind is capable of extraordinary things. But it operates through a body that constrains it: you can only be in one place, you need sleep, your senses have limited bandwidth. These constraints are not limitations. They are the architecture that makes focused thought possible. Remove them and you do not get a more powerful mind. You get an unfocused one.
+
+The body channels the mind. Pain redirects attention. Fatigue forces rest. Physical presence creates the conditions for connection. The constraints are what make human intelligence productive rather than diffuse.
+
+A harness does the same thing for a model. The model has extraordinary capability. The harness constrains it (permissions, budgets, tool limits), channels it (context assembly, skill files, memory), and enables it (file access, code execution, web search). Without the harness, the model is raw intelligence with no way to act. With the right harness, it becomes a system that does useful work in the world.
+
+The [Permission Surface](/docs/concepts/the-permission-surface) article explores this further: why reducing what an agent can do often improves what it actually produces.
+
 ## What This Means for You
 
 If you are building a [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis), you are already doing harness engineering. Your `CLAUDE.md` file is harness configuration. Your skill files are harness instructions. Your folder structure is harness architecture. You are telling the model what to store, what to retrieve, and how to present information back to you.
@@ -66,6 +78,8 @@ All software will be self-evolving software. The question is not whether this ha
 ## Further Reading
 
 - [Anatomy of a Harness: Lessons from Claude Code's Source](/docs/concepts/anatomy-of-a-harness): Deep technical analysis of a real-world harness, with patterns mapped to every concept in this article
+- [The Permission Surface](/docs/concepts/the-permission-surface): Why constraining agents improves both safety and output quality
+- [Instruction Files](/docs/concepts/instruction-files): CLAUDE.md, skills, and memory as the user-configurable layer of the harness
 - [MetaHarness Paper](https://arxiv.org/abs/2603.28052) (Stanford, MIT, Krafton, March 2026)
 - [MetaHarness Project Page](https://yoonholee.com/meta-harness/) with interactive demo
 - [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Your first harness
