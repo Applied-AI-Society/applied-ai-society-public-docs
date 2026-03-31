@@ -198,14 +198,15 @@ You are now in the cockpit. The left panel shows your file tree. The bottom pane
 
 > "Create a folder called my-jarvis in a good location on my computer with subfolders for people, artifacts, meeting-transcripts, and skills. Also create a CLAUDE.md file that instructs you on how to operate as my business OS agent."
 
-The starter repo comes with four folders:
+The starter repo comes with five folders:
 
+- **user/** for your profile, voice, and anything that helps your Jarvis understand who you are
 - **people/** for relationship files (one per person)
 - **artifacts/** for strategic documents, decision records, status updates, and plans
 - **meeting-transcripts/** for raw or processed transcripts from conversations
 - **skills/** for SOPs that define repeatable tasks for your AI agent
 
-It also includes a `CLAUDE.md` file that gives Claude Code instructions on how to operate within your workspace. This is what makes Claude Code understand the structure of your business OS from the first session.
+It also includes a `CLAUDE.md` file that gives Claude Code instructions on how to operate within your workspace (this is what makes Claude Code understand the structure of your business OS from the first session), and a skill file that will interview you on your first session to create your `user/USER.md` profile.
 
 ### Step 1H: Meeting Transcription (Optional)
 
@@ -253,9 +254,13 @@ Tell Claude Code:
 
 Claude Code will interview you one question at a time. It will ask about who you are, what you care about, how you make decisions, the current state of your operation, and your biggest strategic blocker. Use voice-to-text. Speak naturally. Do not overthink your answers.
 
-At the end, Claude Code will save a `artifacts/user.md` file that captures everything. This file is the foundation of your Jarvis. Every future conversation will be informed by it.
+At the end, Claude Code will save a `user/USER.md` file that captures everything. This file is the foundation of your Jarvis. Every future conversation will be informed by it.
+
+If you get stuck on a question and do not know the answer, just ask Claude Code: "Based on what you already know about me, what do you think?" It will offer its best guess, and you confirm or correct. This often surfaces insights you would not have articulated on your own.
 
 **The moment:** Your Jarvis now knows who you are. Not the LinkedIn version. The real version. Your goals, your values, your decision-making style, and the thing that is actually blocking you right now. This alone makes every future interaction 10x more useful.
+
+The `user/` folder is not limited to `USER.md`. You can add any file that helps your Jarvis understand you better. For example, a `user/voice-profile.md` that captures your writing style, your tone, how you handle conflict, how you communicate with different audiences. That way, anything your Jarvis writes on your behalf actually sounds like you. The principle is: the whole folder is about the agent getting to know who you are. Customize it to whatever matters for your situation.
 
 ### Step 3B: "What's My Plan?" (15 minutes)
 
