@@ -58,17 +58,31 @@ If you have never installed anything from the command line before, you will need
 **If you try to run the install command below and see `npm: command not found`, this is why.** You need Node.js installed first.
 
 **macOS:**
+
+The easiest option is to download the installer from [https://nodejs.org](https://nodejs.org). Run the `.pkg` file and follow the prompts. Done.
+
+Alternatively, if you prefer using the terminal, you can install via Homebrew. If you do not have Homebrew yet, install it first by opening Terminal (search "Terminal" in Spotlight or find it in Applications > Utilities) and pasting this command:
+
 ```bash
-# Option 1: Download the installer from https://nodejs.org (easiest)
-# Option 2: If you have Homebrew installed:
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Follow the prompts. Once Homebrew is installed, install Node.js:
+
+```bash
 brew install node
 ```
 
 **Windows:**
+
+First, find your terminal. Search "Command Prompt" or "PowerShell" in the Start menu. Both come pre-installed on every Windows 10 and 11 machine. On Windows 11, you may also have "Windows Terminal" which is a nicer wrapper around both. Any of these will work.
+
+Then install Node.js:
+
 1. Go to [https://nodejs.org](https://nodejs.org)
 2. Download the LTS (Long Term Support) version
 3. Run the installer. Accept the defaults. It will install both Node.js and npm.
-4. Close and reopen your terminal (Command Prompt or PowerShell) after installing.
+4. **Important:** Close and reopen your terminal after installing. The terminal needs to restart to recognize the new commands.
 
 **Verify it worked** by typing this in your terminal:
 ```bash
