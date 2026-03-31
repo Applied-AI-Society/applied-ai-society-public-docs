@@ -79,7 +79,7 @@ If you want support beyond the open source playbooks, the [Applied AI Society](h
 
 - **Brand and credibility.** Run events under the AAS banner. Use the brand assets, the event templates, and the promotional materials.
 - **Speaker network.** Access to practitioners who have presented at AAS events and are willing to travel or present remotely.
-- **Chapter leader community.** A private group chat of other Community Leaders sharing what is working in their cities.
+- **Community Leader network.** A private group chat of other Community Leaders sharing what is working in their cities.
 - **Content distribution.** Your event recaps and content get amplified through AAS channels.
 - **Flyer and video generation.** Tools for creating professional event flyers and recap videos.
 - **Discord community.** A global [signalmaxxing](/docs/concepts/signalmaxxing) community your local members can plug into.
