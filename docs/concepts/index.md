@@ -22,4 +22,4 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): The mental model shift from thinking in roles to thinking in workflows, and why it unlocks automation at every level
 - [The Token Economy](/docs/concepts/the-token-economy): Tokens as the atomic unit of AI economics, and why understanding token costs, tiers, and budgets is becoming a core applied AI skill
 - [Flow-State Infra](/docs/concepts/flow-state-infra): The practice of treating every friction point as a feature request, building custom tools that keep you in flow state, and the "I Wish" protocol for turning complaints into solutions
-- [The Chat Is Not the Product](/docs/concepts/the-chat-is-not-the-product): The chat window is an interface, not a destination. The artifacts you create through it are the product. If the chat disappears, nothing of value should be lost.
+- [Chat History Is Disposable](/docs/concepts/the-chat-is-not-the-product): The chat window is an interface, not a destination. The artifacts you create through it are the product. If the chat disappears, nothing of value should be lost.

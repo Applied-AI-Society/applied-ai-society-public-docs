@@ -1,9 +1,9 @@
 ---
 sidebar_position: 21
-title: "The Chat Is Not the Product"
+title: "Chat History Is Disposable"
 ---
 
-# The Chat Is Not the Product
+# Chat History Is Disposable
 
 *The chat window is an interface, not a destination. The artifacts you create through it are the product. If the chat disappears, nothing of value should be lost.*
 
