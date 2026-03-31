@@ -108,14 +108,26 @@ By default, Claude Code asks your permission before it does anything: creating a
 
 In practice, nearly every developer and power user runs Claude Code with the `--dangerously-skip-permissions` flag, which tells it to just do things without asking. The tradeoff is real: you are giving it permission to modify your files, run commands, and make changes without a confirmation step. But the productivity difference is enormous. With the flag, you stay in flow. Without it, you are clicking "approve" dozens of times per session.
 
-The recommended approach is to create an alias so you have both options:
+The recommended approach is to create an alias so you have both options. The fun part: you can use Claude Code itself to set this up for you. Start a Claude Code session by typing `claude` in your terminal, then tell it:
+
+> "Add an alias called clauded to my shell config that runs claude with the --dangerously-skip-permissions flag."
+
+Claude Code will find your shell config file (`~/.zshrc` on Mac, `~/.bashrc` on Linux) and add the alias for you. It will ask for permission to edit the file. Approve it.
+
+Once it confirms the alias is added, you need to do three things in order:
+
+1. **Quit your Claude Code session.** Type `/exit` or press `Ctrl+C` to get back to your normal terminal prompt.
+2. **Close your terminal tab or window entirely.** Your terminal loads the shell config file when it first opens, so the new alias will not exist in any terminal that was already open.
+3. **Open a new terminal tab or window.** Now the alias is loaded. You can verify by typing `clauded` and it should start Claude Code in dangerous mode.
+
+If you do not want to use Claude Code to do this, you can manually add this line to your shell config file:
 
 ```bash
 # Add this to your shell config (~/.zshrc on Mac, ~/.bashrc on Linux)
 alias clauded="claude --dangerously-skip-permissions"
 ```
 
-After adding this, restart your terminal (or run `source ~/.zshrc`). Now you have two commands:
+Either way, once the alias is set up and you have opened a fresh terminal, you now have two commands:
 
 - `claude` for when you want the safe mode with permission prompts
 - `clauded` for when you trust the operation and want to stay in flow
