@@ -67,7 +67,8 @@ The next level of programming is not that the output is software. It is enterpri
 
 ## Further Reading
 
-- [Harness Engineering](/docs/concepts/harness-engineering): Self-improving code as a building block for self-improving enterprisees
+- [Harness Engineering](/docs/concepts/harness-engineering): Self-improving code as a building block for self-improving enterprises
+- [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): How Claude Code's hook system enables the recursive improvement loop described in this article
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The architectural prerequisite
 - [Personal Jarvis](/docs/concepts/personal-jarvis): The starting point for the individual
 - [Game Design](/docs/concepts/game-design): Defining the rules your system operates by

@@ -65,6 +65,7 @@ All software will be self-evolving software. The question is not whether this ha
 
 ## Further Reading
 
+- [Anatomy of a Harness: Lessons from Claude Code's Source](/docs/concepts/anatomy-of-a-harness): Deep technical analysis of a real-world harness, with patterns mapped to every concept in this article
 - [MetaHarness Paper](https://arxiv.org/abs/2603.28052) (Stanford, MIT, Krafton, March 2026)
 - [MetaHarness Project Page](https://yoonholee.com/meta-harness/) with interactive demo
 - [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Your first harness
