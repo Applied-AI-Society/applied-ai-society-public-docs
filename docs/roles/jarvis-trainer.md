@@ -33,11 +33,11 @@ The initiation is the beginning. How deep someone goes depends on their needs an
 
 **Level 1: Context Builder.** The participant is regularly brain-dumping into their Jarvis. Relationship files are growing. Artifacts are accumulating. They are experiencing the compounding effect: Claude Code's responses are getting better because there is more context to draw from.
 
-**Level 2: Tool Connector.** The participant starts connecting external tools to their Jarvis. Email access. Calendar integration. Meeting transcription flowing automatically into the system. Each tool is like giving their chief of staff a new capability.
+**Level 2: Voice and Identity.** The participant creates a voice profile (`user/voice-profile.md`) that captures their writing style, tone, and communication patterns. This is just more context, the same principle as Level 1, but focused on how they express themselves. Once this is in place, anything the agent writes on their behalf (emails, proposals, social posts, responses) actually sounds like them, not like generic AI.
 
-**Level 3: Skill Writer.** The participant starts co-writing skill files with their agent. Repeatable workflows become documented SOPs that the agent can execute. The system starts doing real work, not just storing information.
+**Level 3: Tool Connector.** The participant starts connecting external tools to their Jarvis. Email access. Calendar integration. Meeting transcription flowing automatically into the system. Each tool is like giving their chief of staff a new capability.
 
-**Level 4: Voice Cloner.** The participant has a voice profile (`user/voice-profile.md`) detailed enough that the agent can write on their behalf and sound like them. Emails, proposals, social posts, and responses are drafted in their authentic voice.
+**Level 4: Skill Writer.** The participant starts co-writing skill files with their agent. Repeatable workflows become documented SOPs that the agent can execute. The system starts doing real work, not just storing information.
 
 **Level 5: System Architect.** The participant is designing their business as a system. They are defining objectives, rules, guardrails, and scoring for their agents. They are thinking about access controls, organizational expansion, and the [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) principles. Their Jarvis is not a tool they use. It is infrastructure they operate.
 
