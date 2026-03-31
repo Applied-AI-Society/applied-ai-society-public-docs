@@ -11,13 +11,15 @@ title: "Signalmaxxing"
 
 ## The Concept
 
-Signalmaxxing is the act of pumping out a constant flow of high-quality, high-signal information. Alpha. Not content for content's sake. Not engagement bait. Not noise. Signal.
+Signalmaxxing is the deliberate curation of your information environment so that everything influencing your thinking is truth-seeking and truth-emitting. It is not about producing content. It is about creating the conditions where signal flows and noise is eliminated.
 
-What makes something signal? It helps you function at a higher level in reality. It gives you a better baseline for how to succeed. It is information that, once you have it, changes how you operate.
+This means weeding out anything that degrades your epistemic reality: the accounts, feeds, group chats, newsletters, and media sources that distort your model of how the world actually works. Most of the internet is a noise machine. Bots, spam, FUD, memes that go nowhere, takes designed to spike your cortisol without giving you anything useful. Signalmaxxing is the discipline of refusing to let that into your environment.
 
-What makes something noise? It is a distraction machine. Bots, spam, FUD, memes that go nowhere, takes designed to spike your cortisol without giving you anything useful. Most of the internet is noise. Most feeds are noise. Most content is noise.
+What makes something signal? It helps you function at a higher level in reality. It gives you a better baseline for how to succeed. It is information that, once you have it, changes how you operate. Alpha: information not everyone has that is genuinely valuable and viable.
 
-Signalmaxxing is the deliberate practice of producing and sharing information that is genuinely useful, genuinely true (according to the best model of reality you have), and genuinely actionable. It is the opposite of posting to be seen. It is posting to be useful.
+What makes something noise? Anything that kills your ability to perceive reality clearly. Distraction, misinformation, engagement bait, content optimized for clicks rather than truth.
+
+When you do share (and you should), share with gradients of visibility. Private by default. Sensitive insights stay within trusted circles. Public sharing is for signal that is robust enough to withstand misinterpretation. The goal is not to broadcast. The goal is to surround yourself with, and contribute to, a network of people and systems that are oriented toward truth.
 
 ## Signal vs. Noise
 
