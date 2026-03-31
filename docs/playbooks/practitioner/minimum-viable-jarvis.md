@@ -16,6 +16,10 @@ You have a dozen inboxes. Discord, Telegram, iMessage, email, Slack, LinkedIn, X
 
 The thing nobody tells you about leveling up as a professional or leader is that the job changes underneath you. At a certain point, the most important work is no longer doing the work. It's defining reality, setting objectives, and evaluating whether the system is working. You shift from working *in* the business to working *on* the business. Meta work becomes the work. This shift from execution to design is what we call [game design](/docs/concepts/game-design): the discipline of defining objectives, rules, guardrails, and scoring for the AI agents in your system.
 
+Here is the uncomfortable truth: **you are the bottleneck.** Not the tools. Not the AI. You. The quality of your strategic thinking, the clarity of your communication, and your willingness to document what you actually know are the limiting factors. That is not a criticism. It is empowering. Because if you are the bottleneck, you are also the one who can unblock everything. And AI can help you see your own thinking more clearly, pressure-test your strategy, and refine your plans in ways that used to require an expensive advisor or a very patient co-founder.
+
+Meta thinking is the new thinking. The highest-leverage skill you can develop right now is not execution. It is the ability to design your business as a system: the objectives, the rules, the guardrails, the scoring. Execution is increasingly commoditized. Your ability to define what should be executed is not.
+
 Here's the key insight behind everything that follows: **the truth in your head is not the truth.** Not operationally. Not for AI. Not for your team. The truth that matters is the truth that exists in documents that AI can read and act on. If it's only in your head, it might as well not exist. It's ungreppable. It's unsearchable. It's locked in wet storage with a terrible API.
 
 Your [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) is the persistent memory your AI draws on. The Minimum Viable Jarvis (MVJ) is the simplest possible version of that business OS. Not the end state. The starting point.
@@ -30,28 +34,91 @@ You need five things. Most of them are free or cheap. The entire stack can be ru
 
 ### Voice-to-Text
 
-The bottleneck between thought and text must be removed. You think faster than you type, and most of your best insights happen when you're talking, not when you're sitting at a keyboard.
+The bottleneck between thought and text must be removed. This is not just about speed (though speaking is 3 to 5x faster than typing). It is about flow states.
+
+When you are typing, part of your brain is thinking about typing. You are compressing what you would otherwise say because the friction of getting it out is too high. You edit yourself mid-thought. You lose threads. You stay in the analytical, word-by-word part of your brain instead of the big-picture, strategic part.
+
+When you speak, you stay in flow. Your brain operates at its best capacity. Ideas connect to other ideas. Two hours fly by and you realize you just produced a massive amount of high-quality thinking. That is the state you want to be in when you are working with your Jarvis.
 
 Two solid options:
 
 - **[Superwhisper](https://superwhisper.com/)**: Fully local, privacy-focused. Your audio never leaves your machine. Great if sovereignty matters to you (and it should).
-- **[Wispr Flow](https://wispr.flow)** (~$10/mo): System-wide dictation that works across any application. Slightly more polished UX.
+- **[Wispr Flow](https://wispr.flow)** (~$10/mo): System-wide dictation that works across any application. Slightly more polished UX. One great feature: it auto-reformats what you say. If you stumble, say "oh wait," or restart a sentence, it cleans all of that up. It adds line breaks and structure to your raw speech. The output is surprisingly clean.
 
-Either works. The point is that you can speak naturally and get text. For more on the role of voice transcription in legacy, see [Voice Transcriber](/docs/legacy/voice-transcriber).
+Either works. You hold a key, you talk, you release, and the text appears wherever your cursor is. Even whispering works, which matters if you are in a co-working space or a meeting. The point is that you can speak naturally and get text. For more on the role of voice transcription in legacy, see [Voice Transcriber](/docs/legacy/voice-transcriber).
 
 ### Claude Code
 
-Your terminal-based AI interface. This is the "Jarvis" part. Install it globally:
+Your terminal-based AI interface. This is the engine of the Jarvis. Important distinction: Claude Code on its own is not the Jarvis. The Jarvis is the combination of your file structure, your documented context, and how you use Claude Code to operate on all of it. Claude Code is simply the best engine for a Jarvis right now, but your files are yours. You could switch to a different AI tool tomorrow and keep everything.
+
+#### Prerequisites: Installing Node.js and npm
+
+If you have never installed anything from the command line before, you will need to install Node.js first. Node.js comes bundled with npm (Node Package Manager), which is the tool you use to install Claude Code.
+
+**If you try to run the install command below and see `npm: command not found`, this is why.** You need Node.js installed first.
+
+**macOS:**
+```bash
+# Option 1: Download the installer from https://nodejs.org (easiest)
+# Option 2: If you have Homebrew installed:
+brew install node
+```
+
+**Windows:**
+1. Go to [https://nodejs.org](https://nodejs.org)
+2. Download the LTS (Long Term Support) version
+3. Run the installer. Accept the defaults. It will install both Node.js and npm.
+4. Close and reopen your terminal (Command Prompt or PowerShell) after installing.
+
+**Verify it worked** by typing this in your terminal:
+```bash
+node --version
+npm --version
+```
+
+If both commands print a version number, you are ready to install Claude Code.
+
+#### Installing Claude Code
 
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
 
-You'll want a Claude Max subscription (~$100/mo) for meaningful daily usage. Claude Code is not a chatbot. It reads your files, writes your files, runs commands, and operates within the context of your entire workspace. It's the brain that draws on everything in your business OS.
+You will want a Claude Max subscription (~$100/mo) for meaningful daily usage.
+
+**Why the CLI and not the desktop app?** Claude has a desktop app with a nice window, but it is a wrapper around the CLI, and the CLI updates far faster. Claude Code's CLI might update three times in a single session. The desktop app does not keep up, which means it is often buggy or missing features. The CLI auto-updates and is always current. Use the CLI in your terminal.
+
+#### The `--dangerously-skip-permissions` Flag
+
+By default, Claude Code asks your permission before it does anything: creating a file, editing a file, running a command. Every. Single. Time. This is the safe, responsible design. And it will drive you absolutely crazy if you are trying to get real work done.
+
+In practice, nearly every developer and power user runs Claude Code with the `--dangerously-skip-permissions` flag, which tells it to just do things without asking. The tradeoff is real: you are giving it permission to modify your files, run commands, and make changes without a confirmation step. But the productivity difference is enormous. With the flag, you stay in flow. Without it, you are clicking "approve" dozens of times per session.
+
+The recommended approach is to create an alias so you have both options:
+
+```bash
+# Add this to your shell config (~/.zshrc on Mac, ~/.bashrc on Linux)
+alias clauded="claude --dangerously-skip-permissions"
+```
+
+After adding this, restart your terminal (or run `source ~/.zshrc`). Now you have two commands:
+
+- `claude` for when you want the safe mode with permission prompts
+- `clauded` for when you trust the operation and want to stay in flow
+
+**When to use which:**
+- Use `clauded` for your day-to-day work: brain dumps, document creation, strategic thinking, updating your business OS. This is 95% of the time.
+- Use `claude` (safe mode) when you are doing something sensitive, like working with credentials, making changes to production systems, or any operation where you want to review each step before it happens.
+
+Claude Code is not a chatbot. It reads your files, writes your files, runs commands, and operates within the context of your entire workspace. It is the brain that draws on everything in your business OS.
 
 ### VS Code
 
-Visual Studio Code is your window into the file system. Open your terminal within VS Code so you can see file changes in real time as Claude Code creates and modifies documents. The split view (terminal on the bottom, file explorer on the left, document preview on the right) is the cockpit of your business OS.
+Visual Studio Code is your window into the file system. Download it for free from [https://code.visualstudio.com](https://code.visualstudio.com).
+
+**If you have never used a terminal before:** the terminal is the text-based interface to your computer. When you see windows and icons on your screen, that is a graphical layer on top of what is really happening, which is your computer sitting in a folder, ready to execute actions. The terminal gives you direct access to that. You don't need to be fluent. You just need to be willing to open it.
+
+Open your terminal within VS Code (Terminal > New Terminal, or `` Ctrl+` ``) so you can see file changes in real time as Claude Code creates and modifies documents. The split view (terminal on the bottom, file explorer on the left, document preview on the right) is the cockpit of your business OS.
 
 ### Git and GitHub
 
@@ -62,6 +129,30 @@ For the full case for why source control is the right home for your truth, see [
 ### Optional: Meeting Transcription
 
 Tools like [Granola](https://granola.ai/) run in the background during meetings and give you a transcript afterward. This becomes raw material for your business OS. Not every meeting needs to be transcribed, but the important ones should be captured so you can extract insights and commitments later.
+
+---
+
+## What Makes an Agent Actually Useful
+
+Think of your AI agent as a chief of staff. What does a chief of staff need to be genuinely helpful?
+
+**Tools.** When your chief of staff can swipe your credit card, that is like giving your agent a tool. When they can access your calendar, that is a tool. Without tools, your agent is just a conversationalist. With tools, it can actually get things done: send emails, schedule meetings, look things up, run scripts.
+
+**Context about you.** Your goals. Your decision-making style. Your risk tolerance. Your priorities. Your relationships and who matters in your network. The more your agent knows about the most important things in your life and business, the more it can act on your behalf without you having to correct it constantly. Without this context, you are just screaming into the void.
+
+**Standard operating procedures.** Humans have SOPs. Agents have skill files: markdown documents that clearly describe exactly what the agent should do for a given task. Step by step, in plain English, often mixed with specific commands or scripts to run. You can co-write these with the agent (it knows how to talk to itself). Over time, your library of skill files turns your agent from a general-purpose assistant into a specialist that knows your operation.
+
+The Minimum Viable Jarvis is about setting up the context layer: getting the truth about your operation, your relationships, and your thinking into files that AI can read. The tools and skill files come later as you grow the system.
+
+### A Note on Security
+
+As you connect more tools to your agent (email, calendar, file systems, payment processors), the surface area for things going wrong increases. This is worth being thoughtful about.
+
+The principle is simple: **human in the loop for anything consequential.** Your agent can draft every email, but a human reviews before sending. It can prepare financial reports, but a human approves before money moves. It can suggest meeting responses, but a human confirms before commitments are made.
+
+The risk is not that AI is malicious. The risk is that it is confidently wrong, or that someone finds a way to inject instructions into content your agent processes (a technique called prompt injection). If your agent is reading emails and acting on them without oversight, a carefully crafted email could theoretically trick it into doing something you did not intend.
+
+Start with read-only connections and work your way up. Connect your calendar so the agent can see your schedule before you give it permission to modify it. Let it read your email before you let it send on your behalf. Build trust incrementally, the same way you would with a new hire. The MVJ as described in this guide is inherently safe: it is just files on your computer. The security considerations become more important as you expand into connected tools and automated workflows.
 
 ---
 
@@ -147,7 +238,7 @@ These are real issues that come up when people set up their MVJ for the first ti
 
 **Remap your Caps Lock key.** Make it a Control key. This is a small thing that makes terminal life dramatically better. On macOS: System Settings, Keyboard, Keyboard Shortcuts, Modifier Keys. You'll thank yourself.
 
-**Understand the "dangerously skip permissions" tradeoff.** By default, Claude Code asks for permission before modifying files. For real productivity, many people create an alias (like `clauded`) that skips these prompts. This is faster but means Claude Code can modify files without asking. Use it when you trust the operation. Go back to the default when you're doing something sensitive.
+**Understand the "dangerously skip permissions" tradeoff.** See the Claude Code installation section above for the full explanation of the `--dangerously-skip-permissions` flag and the `clauded` alias. Short version: use `clauded` for day-to-day work, use `claude` for sensitive operations.
 
 **Voice transcription quality can vary.** Apple's built-in dictation can regress across OS updates. If you notice accuracy dropping, switch to Superwhisper or Wispr Flow as your primary and keep the other as backup.
 
