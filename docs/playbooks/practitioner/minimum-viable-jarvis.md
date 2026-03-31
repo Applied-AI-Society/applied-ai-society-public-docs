@@ -32,6 +32,21 @@ For the full philosophy behind why documented truth matters, see [Legacy](/docs/
 
 Most of what you need is free or cheap. The entire stack can be running in under 30 minutes.
 
+**Before you start:** if you are unfamiliar with any of these tools and want to verify they are safe and legitimate, that is smart. You can paste the link to this tutorial into any AI chat (ChatGPT, Claude, Gemini) and ask: "Is this all safe to install? What does each tool cost? What are the advantages?" It will walk you through every tool listed here. Spoiler: almost everything is free and open source. The one paid tool is Claude itself (~$100/mo for heavy usage).
+
+Here is the cost breakdown upfront:
+
+| Tool | Cost | Notes |
+|------|------|-------|
+| Node.js / npm | Free, open source | Required to install Claude Code |
+| Claude Code CLI | Free to install | Requires a Claude account. Free tier is limited. Claude Max (~$100/mo) for daily usage. |
+| VS Code | Free, open source | Made by Microsoft |
+| Git | Free, open source | Version control |
+| GitHub | Free | Paid tiers exist but you do not need them |
+| Superwhisper | Free tier available | Voice-to-text, fully local |
+| Wispr Flow | ~$10/mo | Voice-to-text, cloud-based |
+| Granola | Free tier available | Meeting transcription (optional) |
+
 ### Step 1A: Voice-to-Text
 
 The bottleneck between thought and text must be removed. This is not just about speed (though speaking is 3 to 5x faster than typing). It is about flow states.
