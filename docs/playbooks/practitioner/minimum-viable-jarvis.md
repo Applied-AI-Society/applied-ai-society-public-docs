@@ -172,7 +172,7 @@ We have created a starter repo with the default folder structure for your Jarvis
 **Use Claude Code to clone the repo:**
 
 1. Open any terminal on your computer (you do not need to be in any particular folder).
-2. Type `claude` to start a Claude Code session.
+2. Type `clauded` to start a Claude Code session (using the alias you set up in Step 1D).
 3. Tell it something like:
 
 > "Clone the repo at github.com/Applied-AI-Society/minimum-viable-jarvis into a folder that makes sense on my computer for storing projects. If I don't have a folder for that yet, create one."
@@ -190,7 +190,7 @@ Claude Code will figure out the right location for your operating system. On Mac
 4. Now open the terminal inside VS Code. This is important: you want the terminal to be scoped to your Jarvis folder.
    - **Mac:** Terminal > New Terminal from the menu bar, or press `` Ctrl+` ``
    - **Windows:** Terminal > New Terminal from the menu bar, or press `` Ctrl+` ``
-5. In the VS Code terminal, type `clauded` (or `claude` if you have not set up the alias yet). Claude Code is now running inside your Jarvis workspace and can see all the starter files.
+5. In the VS Code terminal, type `clauded`. Claude Code is now running inside your Jarvis workspace and can see all the starter files.
 
 You are now in the cockpit. The left panel shows your file tree. The bottom panel is Claude Code in your terminal. The right panel is for viewing whatever file you are working on.
 
