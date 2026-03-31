@@ -5,7 +5,7 @@ title: "Signalmaxxing"
 
 # Signalmaxxing
 
-*In an age of distraction maxxing to avoid cortisol spiking, you must be squadmaxxing with people who are signalmaxxing.*
+*The deliberate practice of maximizing Signal-to-Noise Ratio across every channel you operate in: your feeds, your conversations, your documents, your squad.*
 
 ---
 
