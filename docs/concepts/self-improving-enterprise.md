@@ -1,9 +1,9 @@
 ---
 sidebar_position: 16
-title: "The Self-Improving Business"
+title: "The Self-Improving Enterprise"
 ---
 
-# The Self-Improving Business
+# The Self-Improving Enterprise
 
 *A business designed so that its systems, processes, and documentation evolve on their own, with the human shifting from operator to architect.*
 
@@ -61,7 +61,7 @@ The [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) 
 
 The human's job in a self-improving business is not execution. It is not even strategy in the traditional sense. It is [game design](/docs/concepts/game-design): defining the objectives, rules, guardrails, and scoring by which the system evaluates whether it is getting better. The human defines what "better" means. The system figures out how to get there.
 
-As Travis Oliphant put it: "The next level of programming languages is not that the output is software. It is business."
+As Gary Sheng put it during the [Our Future Is Open podcast at SXSW 2026](https://docs.appliedaisociety.org): "The next level of programming languages is not that the output is software. It is business."
 
 ---
 
