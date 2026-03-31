@@ -21,3 +21,4 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [The Encounter](/docs/concepts/the-encounter): The moment AI stops being theoretical and becomes personal, and why adoption spreads through experience, not education
 - [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): The mental model shift from thinking in roles to thinking in workflows, and why it unlocks automation at every level
 - [The Token Economy](/docs/concepts/the-token-economy): Tokens as the atomic unit of AI economics, and why understanding token costs, tiers, and budgets is becoming a core applied AI skill
+- [Flow-State Infra](/docs/concepts/flow-state-infra): The practice of treating every friction point as a feature request, building custom tools that keep you in flow state, and the "I Wish" protocol for turning complaints into solutions
