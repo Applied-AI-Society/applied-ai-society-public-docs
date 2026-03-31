@@ -28,11 +28,11 @@ For the full philosophy behind why documented truth matters, see [Legacy](/docs/
 
 ---
 
-## The Setup Stack
+## Phase 1: Install Your Tools
 
 You need five things. Most of them are free or cheap. The entire stack can be running in under 30 minutes.
 
-### Voice-to-Text
+### Step 1A: Voice-to-Text
 
 The bottleneck between thought and text must be removed. This is not just about speed (though speaking is 3 to 5x faster than typing). It is about flow states.
 
@@ -47,11 +47,11 @@ Two solid options:
 
 Either works. You hold a key, you talk, you release, and the text appears wherever your cursor is. Even whispering works, which matters if you are in a co-working space or a meeting. The point is that you can speak naturally and get text. For more on the role of voice transcription in legacy, see [Voice Transcriber](/docs/legacy/voice-transcriber).
 
-### Claude Code
+### Step 1B: Claude Code
 
 Your terminal-based AI interface. This is the engine of the Jarvis. Important distinction: Claude Code on its own is not the Jarvis. The Jarvis is the combination of your file structure, your documented context, and how you use Claude Code to operate on all of it. Claude Code is simply the best engine for a Jarvis right now, but your files are yours. You could switch to a different AI tool tomorrow and keep everything.
 
-#### Prerequisites: Installing Node.js and npm
+#### Step 1B-i: Prerequisites (Node.js and npm)
 
 If you have never installed anything from the command line before, you will need to install Node.js first. Node.js comes bundled with npm (Node Package Manager), which is the tool you use to install Claude Code.
 
@@ -92,7 +92,7 @@ npm --version
 
 If both commands print a version number, you are ready to install Claude Code.
 
-#### Installing Claude Code
+#### Step 1B-ii: Installing Claude Code
 
 ```bash
 npm install -g @anthropic-ai/claude-code
@@ -102,7 +102,7 @@ You will want a Claude Max subscription (~$100/mo) for meaningful daily usage.
 
 **Why the CLI and not the desktop app?** Claude has a desktop app with a nice window, but it is a wrapper around the CLI, and the CLI updates far faster. Claude Code's CLI might update three times in a single session. The desktop app does not keep up, which means it is often buggy or missing features. The CLI auto-updates and is always current. Use the CLI in your terminal.
 
-#### The `--dangerously-skip-permissions` Flag
+#### Step 1B-iii: The `--dangerously-skip-permissions` Flag
 
 By default, Claude Code asks your permission before it does anything: creating a file, editing a file, running a command. Every. Single. Time. This is the safe, responsible design. And it will drive you absolutely crazy if you are trying to get real work done.
 
@@ -126,7 +126,7 @@ After adding this, restart your terminal (or run `source ~/.zshrc`). Now you hav
 
 Claude Code is not a chatbot. It reads your files, writes your files, runs commands, and operates within the context of your entire workspace. It is the brain that draws on everything in your business OS.
 
-### VS Code
+### Step 1C: VS Code
 
 Visual Studio Code is your window into the file system. Download it for free from [https://code.visualstudio.com](https://code.visualstudio.com).
 
@@ -134,19 +134,21 @@ Visual Studio Code is your window into the file system. Download it for free fro
 
 Open your terminal within VS Code (Terminal > New Terminal, or `` Ctrl+` ``) so you can see file changes in real time as Claude Code creates and modifies documents. The split view (terminal on the bottom, file explorer on the left, document preview on the right) is the cockpit of your business OS.
 
-### Git and GitHub
+### Step 1D: Git and GitHub
 
 Version control is not optional. Create a private repository for your business OS. Git gives you something that no other tool does: a complete history of not just *what* changed but *when* and *why*. Every commit is a timestamped record of how your thinking evolved.
 
 For the full case for why source control is the right home for your truth, see [Why Legacy Matters](/docs/legacy/why-it-matters).
 
-### Optional: Meeting Transcription
+### Step 1E: Meeting Transcription (Optional)
 
 Tools like [Granola](https://granola.ai/) run in the background during meetings and give you a transcript afterward. This becomes raw material for your business OS. Not every meeting needs to be transcribed, but the important ones should be captured so you can extract insights and commitments later.
 
 ---
 
-## What Makes an Agent Actually Useful
+## Phase 2: Understand What Makes This Work
+
+### Step 2A: The Chief of Staff Mental Model
 
 Think of your AI agent as a chief of staff. What does a chief of staff need to be genuinely helpful?
 
@@ -158,7 +160,7 @@ Think of your AI agent as a chief of staff. What does a chief of staff need to b
 
 The Minimum Viable Jarvis is about setting up the context layer: getting the truth about your operation, your relationships, and your thinking into files that AI can read. The tools and skill files come later as you grow the system.
 
-### A Note on Security
+### Step 2B: A Note on Security
 
 As you connect more tools to your agent (email, calendar, file systems, payment processors), the surface area for things going wrong increases. This is worth being thoughtful about.
 
@@ -170,11 +172,11 @@ Start with read-only connections and work your way up. Connect your calendar so 
 
 ---
 
-## The Hello World Progression
+## Phase 3: Build Your First Business OS
 
 This is what a first session looks like. Four exercises, about an hour total. By the end, you'll have a working business OS with real data in it and a visceral sense of what this system can become.
 
-### Hello World 1: "Who Do I Know?" (10 minutes)
+### Step 3A: "Who Do I Know?" (10 minutes)
 
 Create 3 to 5 relationship files for key people in your professional life. Use voice-to-text to dictate into Claude Code. For each person, capture:
 
@@ -188,7 +190,7 @@ Tell Claude Code to create a file for each person in a `people/` directory. The 
 
 **The moment:** These people now exist in structured form that AI can reference. You will never forget a detail about them again. The next time you have a meeting with one of them, your business OS can brief you on everything you know.
 
-### Hello World 2: "What's Actually True About My Operation?" (15 minutes)
+### Step 3B: "What's Actually True About My Operation?" (15 minutes)
 
 Dictate a `STATUS.md` file. Just talk. Let Claude Code structure it. Cover:
 
@@ -200,7 +202,7 @@ Dictate a `STATUS.md` file. Just talk. Let Claude Code structure it. Cover:
 
 **The moment:** This is likely the first time the ground truth of your operation exists outside your head in structured form. Read it back. It will feel clarifying in a way that thinking about it never does. Writing forces precision that thinking alone does not.
 
-### Hello World 3: "What Did I Actually Decide?" (10 minutes)
+### Step 3C: "What Did I Actually Decide?" (10 minutes)
 
 Create a strategic document capturing one major decision you've made recently. Dictate the story:
 
@@ -212,7 +214,7 @@ Create a strategic document capturing one major decision you've made recently. D
 
 **The moment:** When your team (or future you) asks "why did we do it this way?", you point them here. The truth is managed. No more relitigating settled decisions from memory.
 
-### Hello World 4: "My System Talks Back" (10 minutes)
+### Step 3D: "My System Talks Back" (10 minutes)
 
 Now ask Claude Code to generate a briefing from everything you've created. Something like:
 
@@ -224,23 +226,35 @@ Watch what comes back. It won't be perfect. But it will be useful. And it will b
 
 ---
 
-## The Brain Dump Workflow
+## Phase 4: The Daily Workflow
 
 Once your MVJ is set up, the default interaction pattern is simple: you speak, the system listens and routes.
 
-Here's what the daily workflow looks like:
+### Step 4A: Open Your Workspace
 
-1. **Open your business OS** in VS Code with the terminal running Claude Code.
-2. **Start talking.** Voice-to-text into the terminal. Just dump whatever is on your mind. It might be a meeting debrief, a strategic thought, an update on a relationship, a new idea, a decision you need to make.
-3. **Claude Code routes the information.** Based on what you said, it determines which existing documents to update, whether new documents need to be created, and how to maintain coherence across everything.
-4. **You review the changes.** Look at what Claude Code did. Approve, correct, or refine. This is you being the "dictator of truth" for your operation. The AI proposes; you approve.
-5. **The system maintains coherence.** Over time, Claude Code learns the structure of your business OS and keeps everything consistent. Cross-references stay accurate. Outdated information gets flagged.
+Open your business OS folder in VS Code. Open the terminal within VS Code (Terminal > New Terminal). Navigate to your business OS folder and start Claude Code (type `clauded` or `claude`).
+
+### Step 4B: Brain Dump
+
+Start talking. Voice-to-text into the terminal. Just dump whatever is on your mind. It might be a meeting debrief, a strategic thought, an update on a relationship, a new idea, a decision you need to make. Do not worry about structure. Just say what is true.
+
+### Step 4C: Let Claude Code Route It
+
+Based on what you said, Claude Code determines which existing documents to update, whether new documents need to be created, and how to maintain coherence across everything.
+
+### Step 4D: Review the Changes
+
+Look at what Claude Code did. Approve, correct, or refine. This is you being the "dictator of truth" for your operation. The AI proposes; you approve.
+
+### Step 4E: Repeat
+
+Over time, Claude Code learns the structure of your business OS and keeps everything consistent. Cross-references stay accurate. Outdated information gets flagged.
 
 The brain dump is the lowest-friction way to keep your business OS current. You don't need to think about where information goes. You just need to say what's true, and the system handles the rest.
 
 ---
 
-## Common Pitfalls (From Real Sessions)
+## Phase 5: Common Pitfalls (From Real Sessions)
 
 These are real issues that come up when people set up their MVJ for the first time. Knowing about them in advance saves frustration.
 
@@ -260,29 +274,29 @@ These are real issues that come up when people set up their MVJ for the first ti
 
 ---
 
-## Growing From MVJ to Full Business OS
+## Phase 6: Growing From MVJ to Full Business OS
 
 The MVJ is the seed. Here's what the growth trajectory looks like.
 
-### Week 1
+### Step 6A: Week 1
 
 - Add 5 more relationship files. Start with the people you interact with most.
 - Write your `PRINCIPLES.md`: the core decision rules you operate by. What do you value? What are your non-negotiables? What heuristics guide your judgment?
 - Process one real conversation (a meeting, a call, a brainstorm) through the system. See what it's like to capture and route real information.
 
-### Month 1
+### Step 6B: Month 1
 
 - Regular brain dumps are becoming habit. You speak into the system at least a few times a week.
 - Your artifact library is growing: status updates, decision records, relationship files, strategic notes.
 - You're starting to see the compounding effect. Claude Code's briefings are getting noticeably more useful because there's more context to draw from.
 
-### Month 3
+### Step 6C: Month 3
 
 - The system knows enough about you, your operation, and your relationships to generate genuinely useful briefings and catch things you'd miss.
 - You're spending less time trying to remember things and more time making decisions. The recall problem is largely solved.
 - You start to feel the shift: the system is not just a tool you use. It's a thinking partner that operates from your context.
 
-### The Organizational Expansion
+### Step 6D: The Organizational Expansion
 
 When you're ready to bring other people in, the business OS scales with access controls:
 
@@ -292,7 +306,7 @@ When you're ready to bring other people in, the business OS scales with access c
 
 ---
 
-## The Meta Work Shift
+## Phase 7: The Meta Work Shift
 
 Here's the part that feels counterintuitive at first: as your business OS matures, your day starts to look less and less like "work" in the traditional sense.
 
