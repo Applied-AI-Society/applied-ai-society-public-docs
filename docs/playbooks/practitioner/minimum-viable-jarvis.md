@@ -161,13 +161,17 @@ Either way, once the alias is set up and you have opened a fresh terminal, you n
 
 Claude Code is not a chatbot. It reads your files, writes your files, runs commands, and operates within the context of your entire workspace. It is the brain that draws on everything in your business OS.
 
-### Step 1E: VS Code
+---
+
+## Phase 2: Set Up Your Jarvis Workspace
+
+### Step 2A: VS Code
 
 Visual Studio Code is your window into the file system. Download it for free from [https://code.visualstudio.com](https://code.visualstudio.com).
 
-**If you have never used a terminal before:** the terminal is the text-based interface to your computer. When you see windows and icons on your screen, that is a graphical layer on top of what is really happening, which is your computer sitting in a folder, ready to execute actions. The terminal gives you direct access to that. You don't need to be fluent. You just need to be willing to open it. You will open the terminal inside VS Code in Step 1G.
+**If you have never used a terminal before:** the terminal is the text-based interface to your computer. When you see windows and icons on your screen, that is a graphical layer on top of what is really happening, which is your computer sitting in a folder, ready to execute actions. The terminal gives you direct access to that. You don't need to be fluent. You just need to be willing to open it. You will open the terminal inside VS Code in Step 2C.
 
-### Step 1F: Git and GitHub
+### Step 2B: Git and GitHub
 
 **What is the difference between Git and GitHub?** Git is a tool that runs on your computer. It tracks changes to your files over time, like an infinite undo history that also records *what* changed, *when*, and *why*. GitHub is a website (github.com) where you can store a copy of your Git-tracked files in the cloud, so they are backed up and accessible from anywhere. Think of Git as the engine and GitHub as the garage where you park your car. You need Git. GitHub is strongly recommended but technically optional. For a deeper explanation, [GitHub's own guide](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) is excellent.
 
@@ -179,10 +183,10 @@ Visual Studio Code is your window into the file system. Download it for free fro
 **Setting up GitHub:**
 
 1. Create a free account at [https://github.com](https://github.com) if you do not have one.
-2. Install the GitHub CLI so you can interact with GitHub from your terminal: `npm install -g gh` (you already have npm from Step 1B).
+2. Install the GitHub CLI so you can interact with GitHub from your terminal: `npm install -g gh` (you already have npm from Phase 1).
 3. Log in by typing `gh auth login` in your terminal and following the prompts.
 
-### Step 1G: Set Up Your Jarvis Workspace
+### Step 2C: Clone and Open Your Jarvis Workspace
 
 We have created a starter repo with the default folder structure for your Jarvis. You are going to use Claude Code to clone it to your computer. This is a good first rep of telling Claude Code to do something for you.
 
@@ -225,15 +229,15 @@ The starter repo comes with five folders:
 
 It also includes a `CLAUDE.md` file that gives Claude Code instructions on how to operate within your workspace (this is what makes Claude Code understand the structure of your business OS from the first session), and a skill file that will interview you on your first session to create your `user/USER.md` profile.
 
-### Step 1H: Meeting Transcription (Optional)
+### Step 2D: Meeting Transcription (Optional)
 
 Tools like [Granola](https://granola.ai/) run in the background during meetings and give you a transcript afterward. This becomes raw material for your business OS. Not every meeting needs to be transcribed, but the important ones should be captured so you can extract insights and commitments later.
 
 ---
 
-## Phase 2: Understand What Makes This Work
+## Phase 3: Understand What Makes This Work
 
-### Step 2A: The Chief of Staff Mental Model
+### Step 3A: The Chief of Staff Mental Model
 
 Think of your AI agent as a chief of staff. What does a chief of staff need to be genuinely helpful?
 
@@ -249,7 +253,7 @@ For example, there is a skill file called `aas-social-post` that drafts social m
 
 The Minimum Viable Jarvis is about setting up the context layer: getting the truth about your operation, your relationships, and your thinking into files that AI can read. The tools and skill files come later as you grow the system.
 
-### Step 2B: A Note on Security
+### Step 3B: A Note on Security
 
 As you connect more tools to your agent (email, calendar, file systems, payment processors), the surface area for things going wrong increases. This is worth being thoughtful about.
 
@@ -261,11 +265,11 @@ Start with read-only connections and work your way up. Connect your calendar so 
 
 ---
 
-## Phase 3: Build Your First Business OS
+## Phase 4: Build Your First Business OS
 
 This is what a first session looks like. Five exercises, about an hour total. By the end, you will have a working business OS with real data in it, a clear picture of your top strategic blocker, and an actionable plan for getting unblocked.
 
-### Step 3A: "Who Am I?" (15 minutes)
+### Step 4A: "Who Am I?" (15 minutes)
 
 This is the most important first step. Before your Jarvis can help you with anything, it needs to know who you are. The starter repo includes a skill file that will guide Claude Code through an interview with you.
 
@@ -283,7 +287,7 @@ If you get stuck on a question and do not know the answer, just ask Claude Code:
 
 The `user/` folder is not limited to `USER.md`. You can add any file that helps your Jarvis understand you better. For example, a `user/voice-profile.md` that captures your writing style, your tone, how you handle conflict, how you communicate with different audiences. That way, anything your Jarvis writes on your behalf actually sounds like you. The principle is: the whole folder is about the agent getting to know who you are. Customize it to whatever matters for your situation.
 
-### Step 3B: "What's My Plan?" (15 minutes)
+### Step 4B: "What's My Plan?" (15 minutes)
 
 At the end of the user profile interview, Claude Code will ask if you want to think through your strategic blocker. Say yes.
 
@@ -295,7 +299,7 @@ If you skipped this during the interview, you can trigger it yourself:
 
 **The moment:** You walked in with a vague sense of being stuck. You are walking out with a concrete, written plan. Not generic advice from an AI that does not know you. A plan built from your actual context, your actual constraints, and your actual goals. This is what a Jarvis does.
 
-### Step 3C: "Who Do I Know?" (10 minutes)
+### Step 4C: "Who Do I Know?" (10 minutes)
 
 Create 3 to 5 relationship files for key people in your professional life. Use voice-to-text to dictate into Claude Code. For each person, capture:
 
@@ -305,11 +309,11 @@ Create 3 to 5 relationship files for key people in your professional life. Use v
 - **Last meaningful interaction**
 - **Anything you want to remember** (their kid's name, that project they mentioned, the thing they're excited about)
 
-Tell Claude Code to create a file for each person in the `people/` directory (already set up in the starter repo from Step 1G). The format doesn't matter much right now. What matters is that these people now exist in your system.
+Tell Claude Code to create a file for each person in the `people/` directory (already set up in the starter repo from Step 2C). The format doesn't matter much right now. What matters is that these people now exist in your system.
 
 **The moment:** These people now exist in structured form that AI can reference. You will never forget a detail about them again. The next time you have a meeting with one of them, your business OS can brief you on everything you know.
 
-### Step 3D: "What Did I Actually Decide?" (10 minutes)
+### Step 4D: "What Did I Actually Decide?" (10 minutes)
 
 Create a strategic document capturing one major decision you've made recently. Dictate the story:
 
@@ -321,7 +325,7 @@ Create a strategic document capturing one major decision you've made recently. D
 
 **The moment:** When your team (or future you) asks "why did we do it this way?", you point them here. The truth is managed. No more relitigating settled decisions from memory.
 
-### Step 3E: "My System Talks Back" (10 minutes)
+### Step 4E: "My System Talks Back" (10 minutes)
 
 Now ask Claude Code to generate a briefing from everything you've created. Something like:
 
@@ -333,27 +337,27 @@ Watch what comes back. It won't be perfect. But it will be useful. And it will b
 
 ---
 
-## Phase 4: The Daily Workflow
+## Phase 5: The Daily Workflow
 
 Once your MVJ is set up, the default interaction pattern is simple: you speak, the system listens and routes.
 
-### Step 4A: Open Your Workspace
+### Step 5A: Open Your Workspace
 
 Open your business OS folder in VS Code. Open the terminal within VS Code (Terminal > New Terminal). Type `clauded` to start Claude Code.
 
-### Step 4B: Brain Dump
+### Step 5B: Brain Dump
 
 Start talking. Voice-to-text into the terminal. Just dump whatever is on your mind. It might be a meeting debrief, a strategic thought, an update on a relationship, a new idea, a decision you need to make. Do not worry about structure. Just say what is true.
 
-### Step 4C: Let Claude Code Route It
+### Step 5C: Let Claude Code Route It
 
 Based on what you said, Claude Code determines which existing documents to update, whether new documents need to be created, and how to maintain coherence across everything.
 
-### Step 4D: Review the Changes
+### Step 5D: Review the Changes
 
 Look at what Claude Code did. Approve, correct, or refine. This is you being the "dictator of truth" for your operation. The AI proposes; you approve.
 
-### Step 4E: Repeat
+### Step 5E: Repeat
 
 Over time, Claude Code learns the structure of your business OS and keeps everything consistent. Cross-references stay accurate. Outdated information gets flagged.
 
@@ -361,7 +365,7 @@ The brain dump is the lowest-friction way to keep your business OS current. You 
 
 ---
 
-## Phase 5: Common Pitfalls (From Real Sessions)
+## Phase 6: Common Pitfalls (From Real Sessions)
 
 These are real issues that come up when people set up their MVJ for the first time. Knowing about them in advance saves frustration.
 
@@ -375,7 +379,7 @@ These are real issues that come up when people set up their MVJ for the first ti
 
 **Remap your Caps Lock key.** Make it a Control key. This is a small thing that makes terminal life dramatically better. On macOS: System Settings, Keyboard, Keyboard Shortcuts, Modifier Keys. You'll thank yourself.
 
-**Understand the "dangerously skip permissions" tradeoff.** See Step 1D above for the full explanation of the `--dangerously-skip-permissions` flag and the `clauded` alias. Short version: use `clauded` for day-to-day work, use `claude` for sensitive operations.
+**Understand the "dangerously skip permissions" tradeoff.** See Phase 1, Step 1D above for the full explanation of the `--dangerously-skip-permissions` flag and the `clauded` alias. Short version: use `clauded` for day-to-day work, use `claude` for sensitive operations.
 
 **Voice transcription quality can vary.** Apple's built-in dictation can regress across OS updates. If you notice accuracy dropping, switch to Superwhisper or Wispr Flow as your primary and keep the other as backup.
 
@@ -383,29 +387,29 @@ These are real issues that come up when people set up their MVJ for the first ti
 
 ---
 
-## Phase 6: Growing From MVJ to Full Business OS
+## Phase 7: Growing From MVJ to Full Business OS
 
 The MVJ is the seed. Here's what the growth trajectory looks like.
 
-### Step 6A: Week 1
+### Step 7A: Week 1
 
 - Add 5 more relationship files. Start with the people you interact with most.
 - Write your `PRINCIPLES.md`: the core decision rules you operate by. What do you value? What are your non-negotiables? What heuristics guide your judgment?
 - Process one real conversation (a meeting, a call, a brainstorm) through the system. See what it's like to capture and route real information.
 
-### Step 6B: Month 1
+### Step 7B: Month 1
 
 - Regular brain dumps are becoming habit. You speak into the system at least a few times a week.
 - Your artifact library is growing: status updates, decision records, relationship files, strategic notes.
 - You're starting to see the compounding effect. Claude Code's briefings are getting noticeably more useful because there's more context to draw from.
 
-### Step 6C: Month 3
+### Step 7C: Month 3
 
 - The system knows enough about you, your operation, and your relationships to generate genuinely useful briefings and catch things you'd miss.
 - You're spending less time trying to remember things and more time making decisions. The recall problem is largely solved.
 - You start to feel the shift: the system is not just a tool you use. It's a thinking partner that operates from your context.
 
-### Step 6D: The Organizational Expansion
+### Step 7D: The Organizational Expansion
 
 When you're ready to bring other people in, the business OS scales with access controls:
 
@@ -415,7 +419,7 @@ When you're ready to bring other people in, the business OS scales with access c
 
 ---
 
-## Phase 7: The Meta Work Shift
+## Phase 8: The Meta Work Shift
 
 Here's the part that feels counterintuitive at first: as your business OS matures, your day starts to look less and less like "work" in the traditional sense.
 
