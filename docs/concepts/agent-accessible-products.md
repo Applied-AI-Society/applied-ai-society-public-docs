@@ -42,6 +42,16 @@ This is already happening:
 
 The pattern is clear: the products that win in the agentic economy are the ones that treat CLI and API access as first-class, not as an afterthought bolted on for "power users."
 
+## Agent SEO
+
+There is a new kind of discoverability emerging. Call it agent SEO.
+
+Traditional SEO is about making your product findable by humans searching Google. Agent SEO is about making your product usable by agents operating on behalf of humans. When someone tells their [Personal Jarvis](/docs/concepts/personal-jarvis) to reconcile their books, the agent picks the tool. If your accounting software has a CLI and an API, the agent can use it without the human ever opening your website. If your competitor is GUI-only, the agent cannot use it at all.
+
+The landscape is shifting. Darwinian selection is now favoring companies that make agents' lives easier. Your product's fitness is no longer just about the human experience. It is about the agent experience. Companies that expose CLIs, publish open source skill files for common workflows, and make their APIs trivially accessible will have better agent SEO. Their products will be the ones that agents recommend, integrate with, and default to.
+
+This is not a hypothetical. Consider a SaaS product that already has a great agent built into its own UI. That is table stakes. The next step is exposing that capability so that agents outside of your product can interact with it too. Your users are increasingly operating from a single terminal session (Claude Code, OpenCode, or whatever harness they use). If they have to leave that session to open your UI, you are creating friction. If they can stay in their flow and your product just works from the command line, you win.
+
 ## The CLI Renaissance
 
 After a decade of IDEs getting heavier and browser-based editors trying to replace local development, the command line has re-emerged as the center of gravity. Existing CLI tools are gaining entirely new utility when paired with AI agents, without requiring any modification.
