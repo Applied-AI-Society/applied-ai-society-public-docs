@@ -152,11 +152,56 @@ Open your terminal within VS Code (Terminal > New Terminal, or `` Ctrl+` ``) so 
 
 ### Step 1F: Git and GitHub
 
-Version control is not optional. Create a private repository for your business OS. Git gives you something that no other tool does: a complete history of not just *what* changed but *when* and *why*. Every commit is a timestamped record of how your thinking evolved.
+**What is the difference between Git and GitHub?** Git is a tool that runs on your computer. It tracks changes to your files over time, like an infinite undo history that also records *what* changed, *when*, and *why*. GitHub is a website (github.com) where you can store a copy of your Git-tracked files in the cloud, so they are backed up and accessible from anywhere. Think of Git as the engine and GitHub as the garage where you park your car. You need Git. GitHub is strongly recommended but technically optional. For a deeper explanation, [GitHub's own guide](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) is excellent.
 
-For the full case for why source control is the right home for your truth, see [Why Legacy Matters](/docs/legacy/why-it-matters).
+**Installing Git:**
 
-### Step 1G: Meeting Transcription (Optional)
+- **macOS:** Git often comes pre-installed. Open your terminal and type `git --version`. If it prints a version number, you are good. If not, install it from [https://git-scm.com/downloads/mac](https://git-scm.com/downloads/mac) or via Homebrew: `brew install git`.
+- **Windows:** Download the installer from [https://git-scm.com/downloads/win](https://git-scm.com/downloads/win). Run it and accept the defaults.
+
+**Setting up GitHub:**
+
+1. Create a free account at [https://github.com](https://github.com) if you do not have one.
+2. Install the GitHub CLI so you can interact with GitHub from your terminal: `npm install -g gh` (you already have npm from Step 1B).
+3. Log in by typing `gh auth login` in your terminal and following the prompts.
+
+### Step 1G: Clone the Starter Repo (or Create From Scratch)
+
+We have created a starter repo with the default folder structure for your Jarvis. The fastest way to get started is to fork or clone it.
+
+**Option 1: Fork on GitHub (recommended).** Go to [github.com/Applied-AI-Society/minimum-viable-jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis) and click the "Fork" button in the top right. This creates your own copy under your GitHub account. Then clone your fork to your computer:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/minimum-viable-jarvis.git
+```
+
+Replace `YOUR-USERNAME` with your GitHub username.
+
+**Option 2: Clone directly.** If you just want the files without forking:
+
+```bash
+git clone https://github.com/Applied-AI-Society/minimum-viable-jarvis.git
+```
+
+**Option 3: Create from scratch.** If you do not have Git or GitHub set up and just want to get started, create the folders manually. Open your terminal and run:
+
+```bash
+mkdir -p my-jarvis/people my-jarvis/artifacts my-jarvis/meeting-transcripts my-jarvis/skills
+cd my-jarvis
+```
+
+The starter repo comes with four folders:
+
+- **people/** for relationship files (one per person)
+- **artifacts/** for strategic documents, decision records, status updates, and plans
+- **meeting-transcripts/** for raw or processed transcripts from conversations
+- **skills/** for SOPs that define repeatable tasks for your AI agent
+
+It also includes a `CLAUDE.md` file that gives Claude Code instructions on how to operate within your workspace. This is what makes Claude Code understand the structure of your business OS from the first session.
+
+Once you have the folder on your computer, open it in VS Code (File > Open Folder) and you are ready for Phase 3.
+
+### Step 1H: Meeting Transcription (Optional)
 
 Tools like [Granola](https://granola.ai/) run in the background during meetings and give you a transcript afterward. This becomes raw material for your business OS. Not every meeting needs to be transcribed, but the important ones should be captured so you can extract insights and commitments later.
 
@@ -202,13 +247,13 @@ Create 3 to 5 relationship files for key people in your professional life. Use v
 - **Last meaningful interaction**
 - **Anything you want to remember** (their kid's name, that project they mentioned, the thing they're excited about)
 
-Tell Claude Code to create a file for each person in a `people/` directory. The format doesn't matter much right now. What matters is that these people now exist in your system.
+Tell Claude Code to create a file for each person in the `people/` directory (already set up in the starter repo from Step 1G). The format doesn't matter much right now. What matters is that these people now exist in your system.
 
 **The moment:** These people now exist in structured form that AI can reference. You will never forget a detail about them again. The next time you have a meeting with one of them, your business OS can brief you on everything you know.
 
 ### Step 3B: "What's Actually True About My Operation?" (15 minutes)
 
-Dictate a `STATUS.md` file. Just talk. Let Claude Code structure it. Cover:
+Dictate a `STATUS.md` file into the `artifacts/` directory. Just talk. Let Claude Code structure it. Cover:
 
 - **Current state**: What are you working on right now? What's the honest situation?
 - **Key decisions and why**: What have you decided recently, and what was the reasoning?
