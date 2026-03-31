@@ -65,7 +65,7 @@ As Travis put it at AAL#3: the goal is coordination, not consolidation. You want
 
 Someone has to build your business OS. That person (or team) will touch everything: your financials, your client relationships, your strategic plans, your employee data, your competitive intelligence. They will have more context about your business than almost anyone in your organization.
 
-This is why the [applied AI practitioner](/docs/roles/ai-agent-consultant) role is so consequential. It's not just a technical job. It's a trust job. You're not hiring someone to set up a chatbot. You're entrusting someone with the operating system of your company's future.
+This is why the [applied AI practitioner](/docs/roles/applied-ai-consultant) role is so consequential. It's not just a technical job. It's a trust job. You're not hiring someone to set up a chatbot. You're entrusting someone with the operating system of your company's future.
 
 The practitioners who thrive in this role are not just technically excellent. They understand security. They understand access control. They understand that a backdoor in a business OS isn't a bug: it's an existential risk. And they operate with the integrity that the role demands.
 

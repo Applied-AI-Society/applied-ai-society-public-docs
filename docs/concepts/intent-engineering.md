@@ -59,7 +59,7 @@ Three reasons.
 
 First, it's genuinely new. Before agents could run autonomously over long time horizons, organizations didn't need this. The human was the intent layer. Long-running agents broke that model and created a demand for something that didn't exist.
 
-Second, it's a two-cultures problem. The people who understand organizational strategy (executives, operations leaders) are not the people who build agents. The people building agents (engineers) don't typically see organizational alignment as their job. Bridging that gap requires someone whose role explicitly spans both, which is exactly what the [AI Workflow Architect](../roles/ai-workflow-architect) role is emerging to do.
+Second, it's a two-cultures problem. The people who understand organizational strategy (executives, operations leaders) are not the people who build agents. The people building agents (engineers) don't typically see organizational alignment as their job. Bridging that gap requires someone whose role explicitly spans both, which is exactly what the [Chief AI Officer](../roles/chief-ai-officer) role is emerging to do.
 
 Third, it's hard. Making organizational intent explicit and structured is difficult work. Most organizations have never had to do it. Their values live in slide decks, in leadership principles that get cited during performance reviews but aren't operationalized, in the tacit knowledge of experienced employees who know what to do in ambiguous situations even though they've never been told.
 
@@ -80,7 +80,7 @@ A mediocre model with extraordinary organizational intent infrastructure will ou
 ## Further Reading
 
 - [Game Design](./game-design): The umbrella discipline that composes intent and context engineering into a coherent system
-- [AI Workflow Architect](../roles/ai-workflow-architect): The role emerging to own intent engineering inside organizations
+- [Chief AI Officer](../roles/chief-ai-officer): The role emerging to own intent engineering inside organizations
 - [Context Engineering](./context-engineering): The companion discipline that tells agents what to know
 - [The Permission Surface](/docs/concepts/the-permission-surface): Permission design as one of the most concrete forms of intent engineering
 - Hat tip to [this video](https://www.youtube.com/watch?v=QWzLPn164w0), which named and articulated the intent engineering concept as clearly as anything we've encountered

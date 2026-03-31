@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 4
 title: "Business OS Administrator"
 ---
 
@@ -99,7 +99,7 @@ The best practices for this role are still forming. But the emerging pattern loo
 
 One of the most important dynamics around this role is the handoff from consultant to administrator.
 
-An [AI Agent Consultant](/docs/roles/ai-agent-consultant) or practitioner may set up the sovereign agentic business OS for a client. But the consultant leaves. The business OS needs to keep running, evolving, and staying current.
+An [Applied AI Consultant](/docs/roles/applied-ai-consultant) or practitioner may set up the sovereign agentic business OS for a client. But the consultant leaves. The business OS needs to keep running, evolving, and staying current.
 
 The person who inherits the system needs to understand what it does, how it works, what the agents have access to, and how to monitor all of it. If the handoff is poor, the business OS degrades quickly: context drifts from reality, agent permissions accumulate without review, and the system becomes a liability instead of an asset.
 
@@ -111,6 +111,6 @@ Good consultants build the handoff into the engagement: documentation, training,
 
 - [Sovereign Agentic Business OS Principles](/docs/sovereign-agentic-business-os/principles): The foundational framework this role maintains
 - [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): One of the key assets this role curates
-- [AI Agent Consultant](/docs/roles/ai-agent-consultant): Often the person who builds the business OS before handing it off
+- [Applied AI Consultant](/docs/roles/applied-ai-consultant): Often the person who builds the business OS before handing it off
 - [Context Engineering](/docs/concepts/context-engineering): The underlying discipline powering the business OS's information architecture
 - [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): The entry-point playbook for setting up a business OS from scratch

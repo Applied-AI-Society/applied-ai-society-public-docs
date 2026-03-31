@@ -21,11 +21,9 @@ AI is doing the same thing, faster. The roles forming now sit at the intersectio
 
 ## The Roles
 
-- [AI Workflow Architect](/docs/roles/ai-workflow-architect): The person who connects AI capability to organizational purpose
-- [AI Agent Consultant](/docs/roles/ai-agent-consultant): Solo practitioners who build custom AI agents and integrations for businesses
-- [Fractional AI Executive](/docs/roles/fractional-ai-executive): Experienced builders who embed with teams as part-time AI and product leaders
-- [AI Enablement Coach](/docs/roles/ai-enablement-coach): The person who embeds with a team for a few days to map workflows, coach on AI tools, and identify where AI creates real value
-- [Business OS Administrator](/docs/roles/business-os-administrator): The person who maintains and evolves an organization's sovereign agentic business OS: agent orchestration, context architecture, and access governance
-- [AI Transition Coach](/docs/roles/ai-transition-coach): The person who helps leaders and founders psychologically, emotionally, and imaginatively prepare for reinvention in the AI economy
+- [Applied AI Consultant](/docs/roles/applied-ai-consultant): The client-facing builder who designs, builds, and deploys AI systems for businesses. Combines workflow decomposition, agent architecture, and hands-on implementation.
+- [Chief AI Officer](/docs/roles/chief-ai-officer): The embedded leader who transforms an organization into a self-improving enterprise. Leads both the technical and human sides of AI transformation at the organizational level.
+- [Business OS Administrator](/docs/roles/business-os-administrator): The person who maintains and evolves an organization's sovereign agentic business OS: agent orchestration, context architecture, and access governance.
+- [Jarvis Trainer](/docs/roles/jarvis-trainer): The person who takes someone from zero to a working AI-operated business OS, then coaches them through progressively deeper levels of integration.
 
 *More roles being added. If you're doing applied AI work that doesn't fit a known category, you may be early to something. [Tell us about it.](https://appliedaisociety.org/contribute)*

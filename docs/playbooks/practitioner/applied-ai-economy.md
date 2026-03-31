@@ -125,7 +125,7 @@ The work looks like: auditing an existing SaaS product for agentic opportunities
 
 **Why it's growing fast:** The infrastructure for agentic systems (open-source agent frameworks, enterprise security layers, business OS architectures) has matured rapidly. What was experimental a year ago is now production-ready. At NVIDIA's GTC 2026, Jensen Huang stated that ["every single SaaS company will become a GaaS company, an agentic as a service company"](https://blogs.nvidia.com/blog/gtc-2026-news/) and that every company needs an agentic system strategy. Companies that don't have one are falling behind. They need practitioners who can lead the transition.
 
-**The model:** This often starts as a strategic engagement (assessing where agents fit) and evolves into implementation work. The best practitioners in this space combine the strategic framing of a [Fractional AI Executive](/docs/roles/fractional-ai-executive) with the technical execution of an [AI Workflow Architect](/docs/roles/ai-workflow-architect). Understanding [token economics](/docs/concepts/the-token-economy) is essential for scoping these engagements.
+**The model:** This often starts as a strategic engagement (assessing where agents fit) and evolves into implementation work. The best practitioners in this space combine the strategic framing of a [Chief AI Officer](/docs/roles/chief-ai-officer) with the technical execution of an [Applied AI Consultant](/docs/roles/applied-ai-consultant). Understanding [token economics](/docs/concepts/the-token-economy) is essential for scoping these engagements.
 
 ---
 
