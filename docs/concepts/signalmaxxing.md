@@ -73,11 +73,11 @@ But garbage in, garbage out. If you are feeding your Jarvis noise (vague braindu
 
 Signalmaxxing as a practice means being intentional about what you put into your system. Every brain dump should contain something true that was not documented before. Every relationship file should capture something genuinely useful. Every skill file should encode a workflow that actually works.
 
-The [Applied AI Society](https://docs.appliedaisociety.org) exists to be a signalmaxxing squad. The events, the docs, the Discord, the workshops are all designed to be high-signal environments where practitioners share what is actually working, not what sounds impressive.
+The [Applied AI Society](https://docs.appliedaisociety.org) exists to be a signalmaxxing community comprised of signalmaxxing squads around the world. The events, the docs, the public and private group chats, the workshops are all designed to be high-signal environments where practitioners share what is actually working, not what sounds impressive.
 
 ## The Line
 
-> In an age of distraction maxxing to avoid cortisol spiking, you must be squadmaxxing with people who are signalmaxxing.
+> In an age of mass distraction and chaos, to avoid cortisol spiking, you must be squadmaxxing with people who are signalmaxxing.
 
 ---
 
