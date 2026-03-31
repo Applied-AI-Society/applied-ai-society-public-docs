@@ -5,21 +5,21 @@ title: "The Self-Improving Enterprise"
 
 # The Self-Improving Enterprise
 
-*A business designed so that its systems, processes, and documentation evolve on their own, with the human shifting from operator to architect.*
+*An enterprise designed so that its systems, processes, and documentation evolve on their own, with the human shifting from operator to architect.*
 
 ---
 
 ## The Concept
 
-A self-improving business is one where the operational systems do not just run. They get better over time without a human manually improving them.
+A self-improving enterprise is one where the operational systems do not just run. They get better over time without a human manually improving them.
 
-Today, when a business process breaks or becomes inefficient, a human notices, diagnoses the problem, designs a fix, and implements it. In a self-improving business, the system itself detects the inefficiency, proposes a fix, and (with human approval) implements it across the entire operation. The human's role shifts from doing the work to defining what "better" means and approving the system's proposals.
+Today, when a business process breaks or becomes inefficient, a human notices, diagnoses the problem, designs a fix, and implements it. In a self-improving enterprise, the system itself detects the inefficiency, proposes a fix, and (with human approval) implements it across the entire operation. The human's role shifts from doing the work to defining what "better" means and approving the system's proposals.
 
 This is not science fiction. The building blocks exist today. The question is whether your business is architectured to take advantage of them.
 
 ## The Hierarchy
 
-Self-improving businesses do not appear out of nowhere. They are built on a progression:
+Self-improving enterprises do not appear out of nowhere. They are built on a progression:
 
 1. **Self-improving humans.** You have to know what "better" looks like before you can teach a system to improve. The foundational skill is meta-reflection: the ability to step back, evaluate your own thinking and processes, and identify what should change. Without this, you will automate the wrong things.
 
@@ -47,7 +47,7 @@ These are not hypothetical. These are businesses operating this way right now:
 
 ## The Prerequisite: Refactorability
 
-A business cannot self-improve if it is not [refactorable](/docs/legacy/make-your-company-refactorable). Refactorability means:
+An enterprise cannot self-improve if it is not [refactorable](/docs/legacy/make-your-company-refactorable). Refactorability means:
 
 - **Grep-able.** Everything is in plain text formats (markdown, not proprietary databases). An agent can search across your entire operation.
 - **Git-first.** All changes flow through version control. No hidden state in CMS databases. Every change is tracked, reversible, and attributable.
@@ -57,9 +57,9 @@ The test: pick any operational change (renaming a concept, updating a policy, re
 
 ## The North Star
 
-The [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) is the starting point. It gets the truth out of your head and into files. The self-improving business is the destination. It is what happens when that truth is structured well enough, connected to enough tools, and governed by clear enough principles that the system can propose its own evolution.
+The [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) is the starting point. It gets the truth out of your head and into files. The self-improving enterprise is the destination. It is what happens when that truth is structured well enough, connected to enough tools, and governed by clear enough principles that the system can propose its own evolution.
 
-The human's job in a self-improving business is not execution. It is not even strategy in the traditional sense. It is [game design](/docs/concepts/game-design): defining the objectives, rules, guardrails, and scoring by which the system evaluates whether it is getting better. The human defines what "better" means. The system figures out how to get there.
+The human's job in a self-improving enterprise is not execution. It is not even strategy in the traditional sense. It is [game design](/docs/concepts/game-design): defining the objectives, rules, guardrails, and scoring by which the system evaluates whether it is getting better. The human defines what "better" means. The system figures out how to get there.
 
 The next level of programming is not that the output is software. It is enterprise.
 
@@ -67,8 +67,10 @@ The next level of programming is not that the output is software. It is enterpri
 
 ## Further Reading
 
-- [Harness Engineering](/docs/concepts/harness-engineering): Self-improving code as a building block for self-improving businesses
+- [Harness Engineering](/docs/concepts/harness-engineering): Self-improving code as a building block for self-improving enterprisees
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The architectural prerequisite
 - [Personal Jarvis](/docs/concepts/personal-jarvis): The starting point for the individual
 - [Game Design](/docs/concepts/game-design): Defining the rules your system operates by
 - [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Where to start
+- [Jarvis Trainer](/docs/roles/jarvis-trainer): The role that guides people through the progression
+- [Training the MVJ Workshop](/docs/playbooks/practitioner/training-the-mvj-workshop): How to run the initiation session

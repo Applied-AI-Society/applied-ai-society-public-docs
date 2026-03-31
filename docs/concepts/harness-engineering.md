@@ -68,4 +68,6 @@ All software will be self-evolving software. The question is not whether this ha
 - [MetaHarness Paper](https://arxiv.org/abs/2603.28052) (Stanford, MIT, Krafton, March 2026)
 - [MetaHarness Project Page](https://yoonholee.com/meta-harness/) with interactive demo
 - [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Your first harness
+- [Personal Jarvis](/docs/concepts/personal-jarvis): The system the harness powers
+- [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where self-improving harnesses lead at the business level
 - [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The philosophy of owning your own system

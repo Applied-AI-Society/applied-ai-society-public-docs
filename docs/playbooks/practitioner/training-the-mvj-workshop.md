@@ -132,5 +132,9 @@ If you run a workshop, share what you learned. Update this playbook by contribut
 
 - [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): The tutorial you are teaching
 - [Starter Repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis): The forkable workspace participants clone
+- [Jarvis Trainer](/docs/roles/jarvis-trainer): The role description and progression framework
+- [Personal Jarvis](/docs/concepts/personal-jarvis): The concept you are teaching
+- [Harness Engineering](/docs/concepts/harness-engineering): Why Claude Code is a harness, not the only option
 - [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): High-leverage questions for deeper user profile interviews
+- [Game Design](/docs/concepts/game-design): The framing for how humans define objectives for their agents
 - [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): How to run Applied AI events (the MVJ workshop fits as a format)

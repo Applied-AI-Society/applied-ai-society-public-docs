@@ -59,7 +59,7 @@ This is not consulting. The trainer is not analyzing the participant's business 
 
 - **Applied AI practitioners** who want to add a high-value, repeatable service to their practice
 - **Chapter leaders** who want to run workshops in their local community
-- **College students** who want to upskill their peers and local professionals (see: [Brian DeSousa's model](https://docs.appliedaisociety.org/docs/playbooks/practitioner/minimum-viable-jarvis) of going into libraries and high schools)
+- **College students** who want to upskill their peers and local professionals (e.g., running AI literacy programs at libraries and high schools)
 - **Anyone with a working Jarvis** who has the patience and people skills to help others build theirs
 
 The prerequisite is simple: you must have completed the MVJ tutorial yourself and used your own Jarvis for at least a few weeks. You cannot teach what you have not experienced.
