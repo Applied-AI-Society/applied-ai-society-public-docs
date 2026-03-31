@@ -357,6 +357,8 @@ The brain dump is the lowest-friction way to keep your business OS current. You 
 
 These are real issues that come up when people set up their MVJ for the first time. Knowing about them in advance saves frustration.
 
+**Old computers will struggle.** If your laptop is 8 to 10+ years old, expect installations to take longer, and some tools may have compatibility issues that nobody on the development team is prioritizing. This is just the practical reality of how software companies allocate engineering resources. Everything in this guide will work on Windows, Mac, and Linux, but if your machine is very old, consider upgrading when you can. The MVJ does not require a powerful computer, but a reasonably modern one (last 5 years or so) will save you a lot of frustration.
+
 **Slow internet makes tool installation painful.** Claude Code downloads a binary during installation. If your connection is spotty, this can time out or hang. Make sure you have a solid connection for the initial setup.
 
 **Claude Code sometimes times out on long operations.** This is normal. Just resume the session. Your files are already saved. Nothing is lost.
