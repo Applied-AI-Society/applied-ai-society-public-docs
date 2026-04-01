@@ -110,6 +110,10 @@ The relationship files and decision records (Steps 4C and 4D) are bonuses. The c
 
 **The "ask Claude to guess" moment is powerful.** During the user profile interview, when someone does not know the answer to a question, telling them to ask Claude "what do you think, based on what you already know about me?" produces genuine insight. The agent reflects their own thinking back to them in a way they did not expect.
 
+## Testimonials
+
+- [](https://youtube.com/shorts/gFJIVm-wvhc) (real estate entrepreneur, March 31 2026 workshop): recorded immediately after completing the workshop
+
 ---
 
 ## Running Your Own Workshop
