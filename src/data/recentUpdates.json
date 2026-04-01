@@ -1,5 +1,19 @@
 [
   {
+    "title": "Train Your AI Like You Would Train a Human Apprentice",
+    "link": "/docs/concepts/train-your-agent",
+    "date": "2026-03-31",
+    "summary": "Most people give their agent one task, get a bad result, and conclude AI does not work. The reinforcement loop that fixes this.",
+    "tag": "New"
+  },
+  {
+    "title": "Applied AI Community Leader",
+    "link": "/docs/roles/community-leader",
+    "date": "2026-03-31",
+    "summary": "The person who brings applied AI to their city, campus, or community. Open source playbooks for running events and building movements.",
+    "tag": "New"
+  },
+  {
     "title": "Always-On Agents",
     "link": "/docs/concepts/always-on-agents",
     "date": "2026-03-31",
@@ -21,13 +35,6 @@
     "tag": "New"
   },
   {
-    "title": "Anatomy of a Harness: Lessons from Claude Code's Source",
-    "link": "/docs/concepts/anatomy-of-a-harness",
-    "date": "2026-03-31",
-    "summary": "In March 2026, Claude Code's source code became publicly visible. For the first time, we could study the internals of...",
-    "tag": "New"
-  },
-  {
     "title": "The Minimum Viable Jarvis",
     "link": "/docs/playbooks/practitioner/minimum-viable-jarvis",
     "date": "2026-03-31",
@@ -39,13 +46,6 @@
     "link": "/docs/concepts/personal-jarvis",
     "date": "2026-03-31",
     "summary": "A personal AI system that operates from your context, compounds over time, and is owned entirely by you.",
-    "tag": "New"
-  },
-  {
-    "title": "Harness Engineering",
-    "link": "/docs/concepts/harness-engineering",
-    "date": "2026-03-31",
-    "summary": "The code wrapped around an AI model is just as important as the model itself. And soon, that code will write itself.",
     "tag": "New"
   },
   {
