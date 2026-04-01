@@ -1,6 +1,6 @@
 #!/bin/bash
 # Auto-generate the recent updates JSON from git history.
-# Finds the 4 most recently created or modified docs and extracts metadata.
+# Finds the 8 most recently created or modified docs and extracts metadata.
 # Output: src/data/recentUpdates.json (consumed by RecentlyUpdated component)
 
 set -e
@@ -14,7 +14,7 @@ mkdir -p "$OUTPUT_DIR"
 
 cd "$PROJECT_DIR"
 
-# Get the 4 most recently changed doc files (by commit date, unique by file)
+# Get the 8 most recently changed doc files (by commit date, unique by file)
 # Skip index files since they're category landing pages
 recent_files=$(git log --diff-filter=ACMR --name-only --pretty=format:"%ai" -- 'docs/**/*.md' 'docs/**/*.mdx' \
   | awk '
@@ -25,7 +25,7 @@ recent_files=$(git log --diff-filter=ACMR --name-only --pretty=format:"%ai" -- '
       }
     }
   ' \
-  | head -4)
+  | head -8)
 
 echo "[" > "$OUTPUT_FILE"
 first=true
