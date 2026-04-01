@@ -112,7 +112,9 @@ The relationship files and decision records (Steps 4C and 4D) are bonuses. The c
 
 ## Testimonials
 
-- [](https://youtube.com/shorts/gFJIVm-wvhc) (real estate entrepreneur, March 31 2026 workshop): recorded immediately after completing the workshop
+, real estate entrepreneur, recorded immediately after the March 31 2026 workshop:
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/gFJIVm-wvhc" title=" MVJ Workshop Testimonial" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ---
 
