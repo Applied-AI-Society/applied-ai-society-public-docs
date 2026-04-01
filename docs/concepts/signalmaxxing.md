@@ -87,4 +87,6 @@ The [Applied AI Society](https://docs.appliedaisociety.org) exists to be a signa
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): What happens when an entire organization signalmaxxes
 - [Legacy](/docs/legacy): The discipline of curating signal
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The opposite of signalmaxxing (chasing tools instead of outcomes)
+- [Context Overflow](/docs/concepts/context-overflow): The dark side of being high-signal: when the demand for your attention exceeds your capacity
+- [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): How to serve the people your signal attracts without burning out
 - [Signal Theory: The Architecture of Optimal Intent Encoding](https://zenodo.org/records/18774174) by Roberto H. Luna: The formal framework behind the concepts in this article
