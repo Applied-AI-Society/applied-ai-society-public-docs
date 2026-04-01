@@ -19,6 +19,8 @@ Here is how it works. You build something real. You develop expertise. You becom
 
 And every single one of them feels exciting.
 
+The velocity makes it worse. When you are operating at a high level, life moves fast. Every conversation is rich. Every person you meet is also moving at speed. You are cooking. The people around you are cooking. The richness of what is happening feels like evidence that you should keep saying yes. But that very velocity is what makes the overflow dangerous: by the time you notice the weight of all those commitments, you are already buried.
+
 That is the trap. Context overflow for humans does not feel like drowning. It feels like flying. You are high on life. You have so much value to give. You want to serve. Someone pitches an idea and you think, "Yeah, I can figure that out." Someone else brings a project and you think, "This could be exponential." The hopium is real: each new thing looks like it could be the big one.
 
 But you are over-promising. You are saying yes to things that pull you away from the work that made you high-signal in the first place. And it sneaks up on you, because the vibes are good the whole way down.

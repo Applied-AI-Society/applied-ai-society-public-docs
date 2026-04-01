@@ -33,6 +33,8 @@ When someone asks for a meeting with you, the question becomes: "What module are
 - **They are on Module 3 and have a specific question.** Now you have a focused, high-value conversation. Their question is grounded in context they already built. Your answer lands harder because they have the foundation to understand it.
 - **They finished the course and want to go deeper.** This is someone worth your time. They did the work. They respected your energy. They earned the meeting.
 
+The boundary can and should be stated plainly: "If you're trying to learn from me, go to my course. I don't have time if you didn't go through my course. It's that simple." That is not arrogance. That is someone who has learned, the hard way, that unfiltered access to their calendar will destroy the very thing that makes them worth talking to.
+
 The course turns an open-ended request ("Can I pick your brain?") into a structured progression that respects both your time and theirs.
 
 ### Public Documentation
@@ -75,15 +77,17 @@ The course becomes the entry point to a relationship, not a replacement for one.
 
 If you are an expert in any field and people regularly want your help, here is a practical sequence:
 
-**1. Document the FAQ.** What do you explain most often? Write it down. Publish it somewhere accessible. Even a simple web page eliminates dozens of repetitive conversations.
+**1. Capture in real time.** When life is moving fast and every conversation is rich, record it. Voice memos, transcripts, brain dumps. You do not need to process everything immediately. You need to capture it before it is gone. The raw material for your courses, docs, and systems comes from the conversations you are already having. A [voice transcriber](/docs/legacy/voice-transcriber) and a transcript processing pipeline turn the conversations you would have had anyway into permanent, shareable knowledge.
 
-**2. Build a structured course.** Take your most common engagement (the thing you do with every new client/student/collaborator) and turn it into a self-paced experience. It does not need to be polished. It needs to be complete enough that someone can make real progress without you.
+**2. Document the FAQ.** What do you explain most often? Write it down. Publish it somewhere accessible. Even a simple web page eliminates dozens of repetitive conversations.
 
-**3. Create the filter.** When someone requests your time, point them to the course first. "Start here, and when you have questions about a specific module, I am happy to chat." This is not dismissive. It is respectful of both parties.
+**3. Build a structured course.** Take your most common engagement (the thing you do with every new client/student/collaborator) and turn it into a self-paced experience. It does not need to be polished. It needs to be complete enough that someone can make real progress without you.
 
-**4. Automate the delivery.** Use [agent-accessible](/docs/concepts/agent-accessible-products) tools to deliver your knowledge. A Jarvis that can answer questions about your course content. An email sequence that drip-feeds the material. A community where graduates help newcomers.
+**4. Create the filter.** When someone requests your time, point them to the course first. "Start here, and when you have questions about a specific module, I am happy to chat." This is not dismissive. It is respectful of both parties.
 
-**5. Iterate from real usage.** Pay attention to where people get stuck. Those sticking points are your next piece of content. Over time, the system gets better at serving people without you, and your direct time gets reserved for the conversations that genuinely require you.
+**5. Automate the delivery.** Use [agent-accessible](/docs/concepts/agent-accessible-products) tools to deliver your knowledge. A Jarvis that can answer questions about your course content. An email sequence that drip-feeds the material. A community where graduates help newcomers.
+
+**6. Iterate from real usage.** Pay attention to where people get stuck. Those sticking points are your next piece of content. Over time, the system gets better at serving people without you, and your direct time gets reserved for the conversations that genuinely require you.
 
 ## The Deeper Principle
 
