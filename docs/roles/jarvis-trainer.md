@@ -13,9 +13,9 @@ title: "Jarvis Trainer"
 
 ## What They Do
 
-The Jarvis Trainer runs workshops that get people from no system to a working business OS. But the first session is just the initiation. The real value is in the ongoing progression.
+The Jarvis Trainer runs workshops that get people from no system to a working business OS. But the first session is just the activation. The real value is in the ongoing progression.
 
-### The Initiation (Session 1: ~4 hours)
+### The Activation (Session 1: ~4 hours)
 
 This is the [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) workshop. By the end, every participant has:
 
@@ -29,7 +29,7 @@ The trainer's guide for running this session is at [Training the MVJ Workshop](/
 
 ### The Progression (Sessions 2+)
 
-The initiation is the beginning. How deep someone goes depends on their needs and ambitions. The trainer helps them level up through progressively deeper phases:
+The activation is the beginning. How deep someone goes depends on their needs and ambitions. The trainer helps them level up through progressively deeper phases:
 
 **Level 1: Context Builder.** The participant is regularly brain-dumping into their Jarvis. Relationship files are growing. Artifacts are accumulating. They are experiencing the compounding effect: Claude Code's responses are getting better because there is more context to draw from.
 
@@ -70,12 +70,12 @@ The prerequisite is simple: you must have completed the MVJ tutorial yourself an
 
 Jarvis Trainers can charge for their time in several ways:
 
-- **Workshop fees.** Charge per seat for the 4-hour initiation session. Small groups (6-8 people) at a premium price point.
+- **Workshop fees.** Charge per seat for the 4-hour activation session. Small groups (6-8 people) at a premium price point.
 - **Follow-up coaching.** Monthly or bi-weekly sessions where you help participants level up through the progression. This is recurring revenue.
-- **Enterprise engagements.** Run the initiation for a team within a company, then provide ongoing support as they build out their organizational business OS.
+- **Enterprise engagements.** Run the activation for a team within a company, then provide ongoing support as they build out their organizational business OS.
 - **Community workshops.** Free or low-cost sessions through Applied AI Society chapters, libraries, co-working spaces, or universities. These build reputation and pipeline.
 
-The key insight is that the initiation is a one-time event, but the progression is ongoing. A trainer who runs one workshop and walks away is leaving most of the value on the table. The real business is in the continued relationship as participants deepen their systems.
+The key insight is that the activation is a one-time event, but the progression is ongoing. A trainer who runs one workshop and walks away is leaving most of the value on the table. The real business is in the continued relationship as participants deepen their systems.
 
 ---
 

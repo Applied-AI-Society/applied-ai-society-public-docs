@@ -7,7 +7,7 @@ title: Chapter Leader Playbooks
 
 Guides for running Applied AI Society chapters and events.
 
-Every AAS event is an **initiation into the applied AI economy**: a landscape map where real practitioners share how they actually make money. The audience leaves knowing what paths exist, what's real, and what's hype. The formats below are all ways to deliver on that promise.
+Every AAS event is an **activation into the applied AI economy**: a landscape map where real practitioners share how they actually make money. The audience leaves knowing what paths exist, what's real, and what's hype. The formats below are all ways to deliver on that promise.
 
 ---
 

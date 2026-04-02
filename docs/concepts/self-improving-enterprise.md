@@ -75,5 +75,5 @@ The next level of programming is not that the output is software. It is enterpri
 - [Game Design](/docs/concepts/game-design): Defining the rules your system operates by
 - [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Where to start
 - [Jarvis Trainer](/docs/roles/jarvis-trainer): The role that guides people through the progression
-- [Training the MVJ Workshop](/docs/playbooks/practitioner/training-the-mvj-workshop): How to run the initiation session
+- [Training the MVJ Workshop](/docs/playbooks/practitioner/training-the-mvj-workshop): How to run the activation session
 - [Always-On Agents](/docs/concepts/always-on-agents): The mechanism by which self-improving enterprises actually operate

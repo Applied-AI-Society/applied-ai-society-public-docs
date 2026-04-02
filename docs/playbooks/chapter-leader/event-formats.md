@@ -7,7 +7,7 @@ title: Event Formats
 
 A catalog of event formats the Applied AI Society runs or is developing. Each format serves a different purpose and audience. Chapter leaders can mix and match based on what their local community needs.
 
-The unifying thread: every AAS event is an **initiation into the applied AI economy**. Attendees leave with a clearer picture of what's real, what's possible, and who they can work with.
+The unifying thread: every AAS event is an **activation into the applied AI economy**. Attendees leave with a clearer picture of what's real, what's possible, and who they can work with.
 
 ---
 
