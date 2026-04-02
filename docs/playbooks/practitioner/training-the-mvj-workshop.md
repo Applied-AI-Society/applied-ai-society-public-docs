@@ -116,6 +116,10 @@ The relationship files and decision records (Steps 4C and 4D) are bonuses. The c
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/gFJIVm-wvhc" title=" MVJ Workshop Testimonial" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
+March 31 2026 workshop participant:
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/4K0K6_wiOus" title="MVJ Workshop Testimonial" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+
 ---
 
 ## Running Your Own Workshop
