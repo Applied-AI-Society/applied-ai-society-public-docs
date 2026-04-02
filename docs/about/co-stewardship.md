@@ -75,6 +75,14 @@ This is not a one-way contribution. Co-stewards get:
 
 Reach out via the [contact page](/docs/contact) or join the [Discord](https://discord.gg/K7uWJBMFaN) to get started.
 
+## Current Co-Stewards
+
+- **[OpenTeams](https://openteams.com/)** and **[Open Technology Incubator](https://otincubator.com/)**: Founding sponsors. Building the infrastructure layer for applied AI and open source.
+- **[Milwaukee AI Club](https://milwaukeeaiclub.com/)**: 500+ member student-led AI organization across 5 Midwest universities. NVIDIA expansion partner. Contributing mentor network playbooks and skill trees.
+- **[Applied AI Institute for Europe](https://appliedai-institute.de/)**: European applied AI research and education institute. Bridging applied AI literacy across the Atlantic.
+
+*This list grows as more organizations contribute to the commons.*
+
 ---
 
 ## Further Reading
