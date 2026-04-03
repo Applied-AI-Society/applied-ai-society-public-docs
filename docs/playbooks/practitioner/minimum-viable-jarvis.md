@@ -231,7 +231,7 @@ You are now in the cockpit. The left panel shows your file tree. The bottom pane
 
 > "Create a folder called my-jarvis in a good location on my computer with subfolders for user, people, artifacts, meeting-transcripts, and skills. Also create a CLAUDE.md file that instructs you on how to operate as my business OS agent."
 
-The starter repo comes with five folders:
+The starter repo comes with five folders. Together, these form your [context lake](/docs/concepts/context-lake): the persistent memory layer that makes your Jarvis genuinely useful.
 
 - **user/** for your profile, voice, and anything that helps your Jarvis understand who you are
 - **people/** for relationship files (one per person)
@@ -263,7 +263,7 @@ Think of your AI agent as a chief of staff. What does a chief of staff need to b
 
 For example, there is a skill file called `aas-social-post` that drafts social media posts for X and LinkedIn. When it runs, it does not produce generic AI content. It has access to every past post, every brand guideline, every event recap, every strategy document, and every relationship file in the system. So it knows what the organization sounds like, what has already been posted, what is being promoted right now, and who to reference. The output sounds like it was written by the person running the org, because the agent has enough context to actually represent them. That is the difference between a chatbot and a Jarvis. Context compounds. One person plus a deeply contextualized AI chief of staff can do what used to require a team.
 
-The Minimum Viable Jarvis is about setting up the context layer: getting the truth about your operation, your relationships, and your thinking into files that AI can read. The tools and skill files come later as you grow the system.
+The Minimum Viable Jarvis is about building your [context lake](/docs/concepts/context-lake): the structured collection of markdown files that contains everything your AI needs to know about you, your operation, and your world. Getting the truth about your relationships, your thinking, and your decisions into files that AI can read is the foundation. The tools and skill files come later as you grow the system.
 
 ### Step 3B: A Note on Security
 
@@ -413,7 +413,7 @@ The MVJ is the seed. Here's what the growth trajectory looks like.
 
 - Regular brain dumps are becoming habit. You speak into the system at least a few times a week.
 - Your artifact library is growing: status updates, decision records, relationship files, strategic notes.
-- You're starting to see the compounding effect. Claude Code's briefings are getting noticeably more useful because there's more context to draw from.
+- You're starting to see the compounding effect. Your [context lake](/docs/concepts/context-lake) is deepening. Claude Code's briefings are getting noticeably more useful because there's more context to draw from.
 
 ### Step 7C: Month 3
 
