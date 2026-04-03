@@ -78,3 +78,4 @@ And for the people you say no to: build systems that serve them without requirin
 - [Signalmaxxing](/docs/concepts/signalmaxxing): The practice that makes you high-signal (and therefore a target for context overflow)
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Building infrastructure that protects your focus
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): Another form of self-inflicted context overflow (chasing tools instead of outcomes)
+- [The Soul Harness](/docs/concepts/the-soul-harness): Auditing your full life harness, including the commitments that cause overflow

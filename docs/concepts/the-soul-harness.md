@@ -30,7 +30,7 @@ Your soul's harness is everything you build around your raw talent to make it pr
 - **The tools you use.** Your agentic harness (Claude Code, Cursor, etc.), your operating system, your knowledge base. These are the equivalent of the model's tool access.
 - **The people around you.** Your friends, collaborators, mentors, squad. Before there were AI agents, there were people. Your network is your original multi-agent system.
 - **The communities you belong to.** The events you attend, the group chats you are in, the organizations you contribute to. These shape your information diet and your opportunity surface.
-- **The city you live in.** Geography is a harness component. [Austin](/wiki/why-austin) is a different harness than San Francisco is a different harness than a small town with no tech community. The city determines who you bump into.
+- **The city you live in.** Geography is a harness component. Austin is a different harness than San Francisco is a different harness than a small town with no tech community. The city determines who you bump into.
 - **The content you consume.** Your feeds, your reading, your media diet. This is [signalmaxxing](/docs/concepts/signalmaxxing) territory: the signal-to-noise ratio of your inputs directly affects the quality of your outputs.
 - **The workplace you participate in.** Your job is a harness. A good one gives you resources, relationships, and runway to grow. A bad one extracts your talent and gives you a paycheck that keeps you compliant.
 - **Your health, security, and stability.** You need good food, rest, safety, and peace of mind to operate at full capacity. These are your infrastructure. Neglect them and everything else degrades.
@@ -43,7 +43,7 @@ Not all harnesses are created equal. Some are designed to help you flourish. Oth
 
 **A predatory harness** feels good at first but locks you in. It is optimized for someone else's objectives, not yours. You trade your sovereignty for convenience.
 
-ChatGPT is a predatory harness. You pour your thoughts, your documents, your strategic context into a platform owned by a company whose incentive is to make you dependent on their subscription. Your data trains their models. Your context lives on their servers. If you leave, you leave with nothing. It is the AI equivalent of a record label signing an artist to a 360 deal: you get distribution, but they own everything.
+ChatGPT is a predatory harness. You pour your thoughts, your documents, your strategic context into a platform owned by a company whose incentive is to make you dependent on their subscription. By default, your data can be used to improve their models. Your context lives on their servers. If you leave, you leave with nothing. It is the AI equivalent of a record label signing an artist to a 360 deal: you get distribution, but they own everything.
 
 And it is not just ChatGPT. Grok, Claude's own web app, every centralized AI platform has the same structural incentive: lock you in, make switching costly, capture the value you create. This is not a moral judgment on the companies. It is the logic of shareholder-driven platforms. Their job is to maximize retention and revenue. Your sovereignty is not their priority.
 
@@ -55,7 +55,7 @@ The pattern is always the same: short-term comfort in exchange for long-term con
 
 A [Personal Jarvis](/docs/concepts/personal-jarvis) built on local files, open source tools, and plain markdown is a liberating harness. Your data stays on your computer. Your context is yours. If you switch models tomorrow, your files, your relationships, your strategic documents, your skill files all come with you. Nothing is lost. The harness made you more capable without making you dependent.
 
-A liberating harness in life looks like: a community where you grow and contribute ([inner circles](/wiki/inner-circles) built on trust, not status). A workplace that invests in your growth and gives you equity in the outcome. A city where ambitious, generous people challenge you and open doors. Tools that respect your data and your sovereignty.
+A liberating harness in life looks like: a community where you grow and contribute (inner circles built on trust, not status). A workplace that invests in your growth and gives you equity in the outcome. A city where ambitious, generous people challenge you and open doors. Tools that respect your data and your sovereignty.
 
 ## Choose Your Harness
 
@@ -81,7 +81,7 @@ The beautiful thing about a well-designed harness is that it compounds. This is 
 
 Every good tool you adopt makes you more productive. That productivity gives you time to invest in better relationships. Those relationships open doors to better communities. Those communities connect you to better opportunities. Those opportunities fund better tools. The flywheel spins.
 
-People who consciously design their harness report saving 50% or more of the time they used to spend on work. They grow their businesses while spending more time with their families. They find ways to automate more, do more, add more value to their customers. They cannot believe they ever operated any other way.
+People who consciously design their harness consistently report dramatic reductions in time spent on repetitive work. They grow their businesses while spending more time with their families. They find ways to automate more, do more, add more value to their customers. They cannot believe they ever operated any other way.
 
 This is not optimization for its own sake. It is liberation. A well-designed harness frees you to spend your time on the things that only you can do: the judgment calls, the creative leaps, the relationships, the presence. The [soul-requiring work](/docs/philosophy/canon) that no agent or system can replace.
 
@@ -106,4 +106,4 @@ Choose your soul's harness. Then keep refining it. For the rest of your life.
 - [Compounding Docs](/docs/concepts/compounding-docs): How your knowledge harness compounds over time
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Building harness components that serve people without requiring your presence
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Freeing value trapped inside predatory systems
-- [The Applied AI Canon](/docs/philosophy/canon): The philosophical foundation, efficiency is a tool, more soul-requiring work is the goal
+- [The Applied AI Canon](/docs/philosophy/canon): The philosophical foundation. Efficiency is a tool; more soul-requiring work is the goal
