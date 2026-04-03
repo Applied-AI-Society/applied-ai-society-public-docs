@@ -23,7 +23,7 @@ Here is what the applied AI economy requires as table stakes:
 
 **A modern computer.** Not a 15-year-old laptop that can barely run a browser. A machine from the last five years with enough RAM and storage to install development tools, run AI agents locally, and handle multiple applications simultaneously. This alone prices out a significant portion of the population.
 
-**Reliable, fast internet.** Voice-to-text tools like Whisper Flow do not work without solid bandwidth. Claude Code downloads binaries during installation that time out on spotty connections. Video calls for remote work require stable upload speeds. Even basic AI chat interfaces lag on slow connections. If your internet cuts out every ten minutes, you cannot maintain a flow state with your Jarvis.
+**Reliable, fast internet.** Voice-to-text tools like Wispr Flow do not work without solid bandwidth. Claude Code downloads binaries during installation that time out on spotty connections. Video calls for remote work require stable upload speeds. Even basic AI chat interfaces lag on slow connections. If your internet cuts out every ten minutes, you cannot maintain a flow state with your Jarvis.
 
 **A quiet, stable environment.** You cannot voice-dictate brain dumps into your Jarvis in a loud apartment with five people. You cannot enter a flow state when you are worried about rent, childcare, or safety. Maslow's hierarchy is real. Nervous system regulation, the foundation for clear thinking and creativity, requires a baseline of physical stability and safety.
 
@@ -35,7 +35,7 @@ Here is what the applied AI economy requires as table stakes:
 
 ## The Disparity Nobody Discusses
 
-The AI conversation is dominated by people with $8,000 laptops and Google Fiber. They complain about slight latency on their gigabit connection while millions of people in the same country cannot get reliable broadband.
+The AI conversation is dominated by people with $8,000 laptops and Google Fiber. Very few cities even have Google Fiber. Most of the country is on Spectrum, AT&T, or whatever local monopoly offers spotty service at inflated prices. But the developers and founders shaping the AI narrative live in the handful of cities with gigabit internet, and they assume everyone else does too. They complain about slight latency on their fiber connection while millions of people in the same country cannot get reliable broadband at all.
 
 This creates a compounding problem. The people who already have the infrastructure get activated first. They build their Jarvis, enter the [imagination economy](/docs/concepts/the-survivor-economy), and start pulling away. The people without the infrastructure fall further behind. The elevator economy accelerates the gap.
 
@@ -52,7 +52,7 @@ This is the same pattern repeating across generations. Rich families hired SAT t
 
 ## Internet as a Single Point of Failure
 
-One day of bad WiFi can shut you down completely. Whisper Flow doesn't work. Claude Code can't download what it needs. Video calls drop. You can't watch the tutorial videos that teach you what to do next. Every channel for getting alpha goes dark simultaneously.
+One day of bad WiFi can shut you down completely. Wispr Flow doesn't work. Claude Code can't download what it needs. Video calls drop. You can't watch the tutorial videos that teach you what to do next. Every channel for getting alpha goes dark simultaneously.
 
 Your internet connection is a single point of failure for your entire ability to participate in the modern economy. And there are governments, hackers, and adversaries who understand this. Infrastructure is power. Shutting down someone's infrastructure is shutting down their ability to think, learn, and build. This is not abstract. This is what a bad WiFi day feels like, scaled up.
 
