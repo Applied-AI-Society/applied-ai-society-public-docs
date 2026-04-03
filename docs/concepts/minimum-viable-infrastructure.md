@@ -35,7 +35,7 @@ Here is what the applied AI economy requires as table stakes:
 
 ## The Disparity Nobody Discusses
 
-The AI conversation is dominated by people with $8,000 laptops and Google Fiber. Very few cities even have Google Fiber. Most of the country is on Spectrum, AT&T, or whatever local monopoly offers spotty service at inflated prices. But the developers and founders shaping the AI narrative live in the handful of cities with gigabit internet, and they assume everyone else does too. They complain about slight latency on their fiber connection while millions of people in the same country cannot get reliable broadband at all.
+The AI conversation is dominated by people with $3,000 to $8,000 laptops and Google Fiber. Very few cities even have Google Fiber. Most of the country is on Spectrum, AT&T, or whatever local monopoly offers spotty service at inflated prices. But the developers and founders shaping the AI narrative live in the handful of cities with gigabit internet, and they assume everyone else does too. They complain about slight latency on their fiber connection while millions of people in the same country cannot get reliable broadband at all.
 
 This creates a compounding problem. The people who already have the infrastructure get activated first. They build their Jarvis, enter the [imagination economy](/docs/concepts/the-survivor-economy), and start pulling away. The people without the infrastructure fall further behind. The elevator economy accelerates the gap.
 
