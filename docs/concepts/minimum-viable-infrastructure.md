@@ -48,6 +48,34 @@ This is not a future problem. It is happening right now:
 
 The people best positioned to talk about this disparity are the least likely to experience it. And the people experiencing it are too busy surviving to articulate what they need.
 
+This is the same pattern repeating across generations. Rich families hired SAT tutors. Now they hire AI tutors. The tool changes. The disparity doesn't.
+
+## Internet as a Single Point of Failure
+
+One day of bad WiFi can shut you down completely. Whisper Flow doesn't work. Claude Code can't download what it needs. Video calls drop. You can't watch the tutorial videos that teach you what to do next. Every channel for getting alpha goes dark simultaneously.
+
+Your internet connection is a single point of failure for your entire ability to participate in the modern economy. And there are governments, hackers, and adversaries who understand this. Infrastructure is power. Shutting down someone's infrastructure is shutting down their ability to think, learn, and build. This is not abstract. This is what a bad WiFi day feels like, scaled up.
+
+## Sovereignty Is Currently for the Wealthy
+
+Here is an uncomfortable truth: the real powerful sovereign stuff (running AI locally, self-hosting your tools, owning your compute) requires serious hardware and serious bandwidth. The [Soul Harness](https://docs.appliedaisociety.org/docs/concepts/the-soul-harness) framework distinguishes between liberating and predatory harnesses. But right now, the most liberating harnesses are only accessible to people who already have resources. More sovereignty for people who already have sovereignty.
+
+Cloud-based tools like Replit partially bridge the gap. You can code in a browser without a powerful local machine. But you are trading sovereignty for accessibility. Your work lives on someone else's servers. The real sovereign stack, the one where your data never leaves your machine, is still a privilege.
+
+## The Bootstrapping Paradox
+
+Here is the practical reality for anyone building in this space: to keep the lights on, you start by serving people who already have the infrastructure. Wealthy professionals, established businesses, people with good laptops and fast internet. They pay for workshops. They pay for consulting. That revenue funds the mission.
+
+This feels backwards. Why are we helping the privileged get more privileged? Because that is how you fund the infrastructure to eventually serve everyone else. You cannot justify running a Jarvis workshop in a community where nobody's laptop can handle the install. Not yet. But the goal is to get there.
+
+## The Human Guide Problem
+
+Even with perfect infrastructure, there is another bottleneck: you need a human to walk you through this stuff. And those humans are rare.
+
+The [MVJ tutorial](/docs/playbooks/practitioner/minimum-viable-jarvis) is designed to be self-paced. But every machine is different. You hit a permission error on Windows. Your Node.js version conflicts with something. A corporate firewall blocks a download. These edge cases take an experienced person 30 seconds to debug and can trap a beginner for hours.
+
+A human guide who has done this before, who can look at your screen and say "oh, just run this command," is worth more than any tutorial. But there are not enough of these people. Training more of them, building a bench of practitioners who can teach others, is one of the highest-leverage things the [Applied AI Society](https://appliedaisociety.org) can do. Every person who gets activated becomes a potential guide for the next person. The flywheel only works if we invest in the humans, not just the tools.
+
 ## What "Democratizing AI" Actually Requires
 
 Most "democratize AI" initiatives focus on making AI tools cheaper or more accessible. That is necessary but insufficient. The real democratization requires:
@@ -58,11 +86,11 @@ Most "democratize AI" initiatives focus on making AI tools cheaper or more acces
 
 **Environment stability.** This connects to housing, safety, childcare, and basic needs. You cannot build a sovereign agentic business OS when your nervous system is in survival mode. The applied AI economy requires the same thing every economy requires: people who are stable enough to think clearly.
 
-**Training that meets people where they are.** The MVJ tutorial assumes a certain baseline. Meeting people below that baseline requires different approaches: in-person workshops with loaner equipment, community-based learning cohorts, mentorship from people who have recently crossed the gap themselves.
+**Training that meets people where they are.** The MVJ tutorial assumes a certain baseline. Meeting people below that baseline requires different approaches: in-person workshops with loaner equipment, community-based learning cohorts, mentorship from people who have recently crossed the gap themselves. And crucially: human guides who can debug the edge cases that no tutorial can anticipate.
 
 ## The North Star
 
-If the mission is to help people thrive in the applied AI economy, then the mission includes ensuring people have the minimum infrastructure to even begin. Not as charity. As strategy. Every person who gets activated is a potential contributor to the ecosystem: a future [AGI whisperer](https://docs.appliedaisociety.org/docs/concepts/agi-whisperer), a future practitioner, a future workshop facilitator in their own community.
+If the mission is to help people thrive in the applied AI economy, then the mission includes ensuring people have the minimum infrastructure to even begin. Not as charity. As strategy. Every person who gets activated is a potential contributor to the ecosystem: a future [AGI whisperer](https://docs.appliedaisociety.org/docs/concepts/agi-whisperer), a future practitioner, a future workshop facilitator who walks the next person through their first install.
 
 The applied AI economy does not need to be a rich person's game. But right now, the infrastructure requirements make it one by default. Naming this honestly is the first step toward fixing it.
 
