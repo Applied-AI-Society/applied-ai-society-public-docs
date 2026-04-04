@@ -75,6 +75,14 @@ A context lake starts personal but can scale to teams and organizations:
 
 Each level builds on the one before it. Start with yours.
 
+## The World Is Catching Up
+
+In April 2025, Andrej Karpathy (founding member of OpenAI, former head of AI at Tesla, one of the most respected researchers in the field) [described his workflow](https://x.com/karpathy/status/2039805659525644595): indexing source documents into a raw directory, using an LLM to compile a wiki of markdown files, running Q&A against the accumulated knowledge, and filing outputs back into the wiki to enhance it for further queries. He noted: "You rarely ever write or edit the wiki manually, it's the domain of the LLM."
+
+This is a context lake. The data ingestion is the [capture](/docs/concepts/capture-process-compound) phase. The LLM-compiled wiki is the process phase. The Q&A and filed outputs are the compound phase. The health checks he describes are [legacy](/docs/legacy). The whole system compounds over time, which is [compounding docs](/docs/concepts/compounding-docs).
+
+The Applied AI Society has been teaching this architecture since early 2026 through the [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) tutorial. The fact that one of the world's leading AI researchers independently arrived at the same pattern is strong validation that this is not a niche workflow. It is the future of how humans organize knowledge and work with AI.
+
 ---
 
 ## Further Reading
