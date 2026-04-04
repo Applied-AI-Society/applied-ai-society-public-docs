@@ -33,13 +33,37 @@ The founders may genuinely believe in openness. Many of them do. But beliefs do 
 
 There are two forces converging on the same territory from opposite directions.
 
-**Hyperscalers creep up from the bottom.** They started with the model. Then they built the harness (Claude Code, ChatGPT's interface). Then they added workflows (custom GPTs, projects, memory). Now they are moving into integrations and verticalization: connecting to your email, your calendar, your files, your entire digital life. Each step up the stack captures more of your operations and makes switching harder.
+**Hyperscalers creep up from the bottom.** Think of the stack as layers, from low-level to high-level: model at the bottom, then harness, then workflows, then integrations at the top.
 
-**Open source moves from the top down.** Open source started with integrations and workflows (connecting tools, automating processes). Then it built harnesses (OpenCode, Aider, Cursor). Now open source models are approaching frontier quality from below (Llama, Mistral, Qwen, DeepSeek). The gap is closing at every layer.
+Anthropic started by selling you the model (Claude). Then they built the harness around it (Claude Code). Then they added workflows (projects, memory, custom instructions). Now they are moving into integrations and verticalization: connecting to your email, your calendar, your files, your entire digital life. Each step UP the stack captures more of your daily operations and makes switching harder. They are not just selling you intelligence anymore. They are becoming your operating system.
 
-These two forces are converging. The question is which one reaches you first. If the hyperscaler captures your workflows and integrations before open source models are good enough to replace them, you are locked in. If open source gets good enough before you are fully captured, you stay free.
+```
+Hyperscaler direction (bottom → up):
 
-This is why the timing matters. Every month you spend deepening your dependency on a proprietary stack is a month the walls get higher. Every month you spend building on portable files and open harnesses is a month you stay sovereign.
+  Integrations  ← moving here now (email, calendar, files)
+  Workflows     ← custom GPTs, projects, memory
+  Harness       ← Claude Code, ChatGPT interface
+  Model         ← started here (Claude, GPT)
+```
+
+**Open source moves from the top down.** Open source started the opposite way. People built integrations and workflow tools first (connecting APIs, automating processes with scripts and open tools). Then the community built open harnesses (OpenCode, Aider, Cursor). Now open source models are approaching frontier quality (Llama, Mistral, Qwen, DeepSeek). The gap with proprietary models is closing fast.
+
+```
+Open source direction (top → down):
+
+  Integrations  ← started here (open APIs, automation tools)
+  Workflows     ← open workflow tools, n8n, Zapier alternatives
+  Harness       ← OpenCode, Aider, Cursor
+  Model         ← arriving here now (Llama, Mistral, DeepSeek)
+```
+
+**The squeeze.** Both are converging on the same middle ground from opposite directions. You, the user, are in the middle. The question is which force reaches you first.
+
+If the hyperscaler captures your workflows and integrations before open source models are good enough to replace the proprietary ones, you are locked in. Your data, your habits, your team's processes are all inside their walls. Switching becomes painful enough that you just keep paying.
+
+If open source gets good enough at every layer before you are fully captured, you stay free. You run local models, use open harnesses, own your files, and switch providers whenever you want.
+
+This is why the timing matters. Every month you spend deepening your dependency on a proprietary stack is a month the walls get higher. Every month you spend building on portable files and open harnesses is a month you stay sovereign. The race is real, and it is happening right now.
 
 ## What Gets Locked In
 
