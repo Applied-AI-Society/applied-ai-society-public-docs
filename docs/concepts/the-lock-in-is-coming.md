@@ -5,7 +5,7 @@ title: "The Lock-In Is Coming"
 
 # The Lock-In Is Coming
 
-*Every VC-funded AI company will eventually move to lock you in. This is not a prediction. It is a structural inevitability.*
+*Every VC-backed hyperscaler with proprietary models will eventually move to lock you in. This is not a prediction. It is a structural inevitability.*
 
 ---
 
@@ -15,7 +15,7 @@ A company raises billions of dollars from venture capital. In the early days, th
 
 Then the economics kick in. Investors want returns. The company needs revenue. And the easiest revenue comes from the people who are already dependent on the platform. So the walls go up. Third-party access gets restricted. Open integrations get shut down or repriced. Features that were free become paid. The platform that welcomed you in now charges you to leave.
 
-This is not unique to AI. It happened with social media. It happened with cloud computing. It happened with app stores. It is the lifecycle of every VC-funded platform: subsidize adoption, build dependency, monetize the captive audience.
+This is not unique to AI. It happened with social media. It happened with cloud computing. It happened with app stores. It is the lifecycle of every VC-backed hyperscaler with proprietary infrastructure: subsidize adoption, build dependency, monetize the captive audience.
 
 The AI industry is now entering the monetization phase. If you built your workflow on any single AI platform's proprietary ecosystem, the lock-in is coming. Maybe it already arrived.
 
