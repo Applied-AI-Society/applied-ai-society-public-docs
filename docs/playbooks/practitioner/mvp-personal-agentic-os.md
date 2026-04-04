@@ -327,6 +327,16 @@ If you skipped this during the interview, you can trigger it yourself:
 
 **Now make it real.** Open a new Google Doc. Open your strategy markdown file in VS Code, select all the text, and copy it. In Google Docs, right-click and choose **"Paste from Markdown"** (or go to Edit > Paste from Markdown). Your strategy will appear beautifully formatted with headers, bold text, and bullet points. You now have a professional strategic document you can share with a partner, hand off to an employee, send to an investor, or use as a brief for any agent. You created it in 15 minutes. That is the aha moment. This is what AI-augmented strategic thinking actually feels like.
 
+**Then watch what happens next.** You send that strategy doc to your CTO, your partner, your advisor. You get on a call to discuss it. They say "actually, I think we should approach the pricing differently" and "this timeline is unrealistic, here is what is realistic" and "you are missing a section on distribution." Normal conversation. Normally, the next step would be painful: someone has to go back, write comments, make edits, reconcile versions.
+
+Instead: take the call transcript (from Granola, or a voice memo, or even rough notes), drop it into your terminal, and tell your AI:
+
+> "Here is the transcript from my call with [name] about the strategy doc. Apply their feedback as edits to the strategy. Update the markdown file."
+
+Your AI reads the transcript, understands the feedback, and rewrites the strategy doc incorporating everything. Neither of you had to write a single comment. Neither of you had to sit in a Google Doc making tracked changes. The boring work took zero time.
+
+This is the real shift. Your job as a leader is not editing documents. Your job is to network, build relationships, have strategic conversations, meditate, read something inspiring, have time for divine downloads. The document work happens in the background, powered by the conversations you are already having.
+
 ### Step 4C: "Who Do I Know?" (10 minutes)
 
 Create 3 to 5 relationship files for key people in your professional life. Use voice-to-text to dictate into Claude Code. For each person, capture:
