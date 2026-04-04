@@ -74,15 +74,9 @@ Claude Code is installed through npm (Node Package Manager), which comes bundled
 
 **macOS:**
 
-The easiest option is to download the installer from [https://nodejs.org](https://nodejs.org). Run the `.pkg` file and follow the prompts. Done.
+Go to [https://nodejs.org](https://nodejs.org) and download the pre-built installer (the LTS version). Run the `.pkg` file and follow the prompts. Done. This is the recommended approach. No terminal needed for this step.
 
-Alternatively, if you prefer using the terminal, you can install via Homebrew. If you do not have Homebrew yet, install it first by opening Terminal (search "Terminal" in Spotlight or find it in Applications > Utilities) and pasting this command:
-
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-Follow the prompts. Once Homebrew is installed, install Node.js:
+If you already have Homebrew and prefer using the terminal, you can also run:
 
 ```bash
 brew install node
