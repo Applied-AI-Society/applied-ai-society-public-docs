@@ -94,6 +94,60 @@ Traditional assessments ask you questions to learn about you. Zero-question asse
 
 ---
 
+## Try It: The Bible Character Assessment Skill
+
+Copy the skill file below into your Jarvis workspace as `skills/bible-character-assessment.md` and tell your AI agent to run it. It will scan your context lake and tell you which Bible character you are.
+
+<details>
+<summary><strong>Click to expand the full skill file</strong></summary>
+
+````markdown
+# Bible Character Assessment
+
+A zero-question personality assessment. Reads your context lake and maps you to a Bible character archetype.
+
+## Instructions
+
+1. Scan all markdown files in this workspace: user profiles, principles, relationship files, strategic documents, transcripts, decision records, journal entries.
+2. Build a profile across these dimensions: leadership style, relationship to God, relationship to people, relationship to power, core strength, core vulnerability, response to adversity, what drives them, how they create change.
+3. Map to one PRIMARY and 1-2 SECONDARY Bible character archetypes from the list below.
+4. Write the result to `bible-character-assessment.md` at the workspace root.
+
+## Archetypes
+
+- **David** — Warrior-worshipper. Creative, passionate, intimate with God. Rises from nothing, falls when appetite goes unchecked.
+- **Joseph** — Long-game strategist. Betrayed, imprisoned, patient. Ends up running the system. Forgives.
+- **Moses** — Reluctant leader. Feels unqualified. God equips in real time. Liberates nations.
+- **Paul** — Converted zealot. Radical transformation. Tireless infrastructure builder. Brilliant and suffering.
+- **Daniel** — Faithful exile. Thrives in hostile territory without compromising. Politically savvy, spiritually pure.
+- **Nehemiah** — Builder-organizer. Sees broken walls, mobilizes people, rebuilds. Prays AND plans.
+- **Esther** — Positioned for purpose. "For such a time as this." Uses influence to save her people.
+- **Abraham** — Faith pioneer. Leaves everything on a promise. Walks by faith when evidence is thin.
+- **Peter** — Impulsive loyalist. Bold, messy. Fails publicly, gets restored. Becomes the rock.
+- **Elijah** — Confronter. Takes on the establishment. Dramatic power followed by burnout.
+- **Samson** — Gifted but undisciplined. Supernatural talent, fatal weakness. Could be unstoppable.
+- **Ruth** — Faithful outsider. Loyal beyond reason. Joins a community not her own. Proven by action.
+
+## Output Format
+
+Write a personalized assessment with:
+- Primary match with specific evidence from their files (not generic descriptions)
+- Shadow warning personalized to what you observed
+- 1-2 secondary matches
+- A "What Your Files Reveal" synthesis of surprising patterns
+- Note how many files were scanned and that accuracy improves as the context lake deepens
+
+Be honest, not flattering. Cite specific files and patterns. This is a mirror, not a horoscope.
+````
+
+</details>
+
+To run it, tell your AI agent:
+
+> "Read the skill file at skills/bible-character-assessment.md and run it."
+
+---
+
 ## Further Reading
 
 - [Context Lake](/docs/concepts/context-lake): The knowledge base that makes zero-question assessments possible
