@@ -13,12 +13,14 @@ title: "Instruction Files"
 
 An instruction file is a plain text document that configures how an AI agent operates within a specific context. It is not code. It is not a prompt. It is a persistent set of directives that the agent reads at the start of every session and follows throughout.
 
-If you have used Claude Code, you have already encountered them:
+If you have used any modern AI coding harness, you have already encountered them:
 
 - **CLAUDE.md** tells Claude Code what to know about your project, how to behave, and what conventions to follow
-- **AGENTS.md** does the same across multiple agent platforms (Claude Code, Gemini, Codex, and others)
-- **Skill files** (`.claude/skills/`) define specific workflows the agent can execute on demand
-- **Memory files** (`.claude/projects/<slug>/memory/`) store persistent knowledge that survives across sessions
+- **AGENTS.md** does the same across multiple agent platforms (Claude Code, Gemini, Codex, OpenCode, and others)
+- **Skill files** define specific workflows the agent can execute on demand
+- **Memory files** store persistent knowledge that survives across sessions
+
+The specific file names and paths vary by harness, but the concept is universal. Every serious harness supports some form of instruction files. When choosing which harness to build on, look for one that maximizes a good balance of utility, cost, and sovereignty. Your instruction files should be portable.
 
 These are all instruction files. Together, they form the configurable layer of the [harness](/docs/concepts/harness-engineering) that sits between you and the model.
 

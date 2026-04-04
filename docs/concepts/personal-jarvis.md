@@ -40,7 +40,7 @@ A Jarvis has five core components:
 
 5. **Skill files** (`skills/`): SOPs for your AI agent. Repeatable workflows documented step by step so the agent can execute them reliably.
 
-The AI [harness](/docs/concepts/harness-engineering) (currently Claude Code for most practitioners) reads all of these files and operates within that context. The harness is the engine. The files are the fuel. You can swap the engine any time. The fuel is yours.
+The AI [harness](/docs/concepts/harness-engineering) reads all of these files and operates within that context. Choose the harness that maximizes a good balance of utility, cost, and sovereignty. Claude Code, OpenCode, Cursor, Aider, and others all work. The harness is the engine. The files are the fuel. You can swap the engine any time. The fuel is yours.
 
 ## The Compounding Effect
 
