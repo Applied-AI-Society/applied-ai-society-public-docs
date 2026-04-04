@@ -6,7 +6,7 @@ description: "A step-by-step guide to building your Personal Agentic OS for lega
 
 # The Personal Agentic OS Workshop
 
-*A step-by-step guide to setting up the simplest system that gives you AI-augmented recall, strategic clarity, and compounding context. Some people affectionately call this the "Minimum Viable Jarvis" (a nod to Tony Stark's AI). Whatever you call it, by the end of this guide you will have your own Personal Agentic OS.*
+*A step-by-step guide to setting up the simplest system that gives you AI-augmented recall, strategic clarity, and compounding context. Some people affectionately call this the "Minimum Viable Jarvis" (a nod to Tony Stark's AI). Whatever you call it, by the end of this guide you will have your own Personal Agentic OS, whose utility you can then compound daily.*
 
 **Time estimate:** 3.5 to 4 hours to complete everything in this guide, even with some prior technical experience. If you are completely new to the terminal and have never installed developer tools before, expect the upper end.
 
