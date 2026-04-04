@@ -325,6 +325,8 @@ If you skipped this during the interview, you can trigger it yourself:
 
 **The moment:** You walked in with a vague sense of being stuck. You are walking out with a concrete, written plan. Not generic advice from an AI that does not know you. A plan built from your actual context, your actual constraints, and your actual goals. This is what a Personal Agentic OS does.
 
+**Now make it real.** Open a new Google Doc. Open your strategy markdown file in VS Code, select all the text, and copy it. In Google Docs, right-click and choose **"Paste from Markdown"** (or go to Edit > Paste from Markdown). Your strategy will appear beautifully formatted with headers, bold text, and bullet points. You now have a professional strategic document you can share with a partner, hand off to an employee, send to an investor, or use as a brief for any agent. You created it in 15 minutes. That is the aha moment. This is what AI-augmented strategic thinking actually feels like.
+
 ### Step 4C: "Who Do I Know?" (10 minutes)
 
 Create 3 to 5 relationship files for key people in your professional life. Use voice-to-text to dictate into Claude Code. For each person, capture:
