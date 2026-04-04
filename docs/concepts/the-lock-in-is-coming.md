@@ -21,11 +21,25 @@ The AI industry is now entering the monetization phase. If you built your workfl
 
 ## Why This Is Structural, Not Personal
 
-This is not about any specific CEO being good or bad. It is about incentive structures. When a company takes billions in venture capital, it takes on an obligation to generate returns that justify that investment. That obligation shapes every product decision, every pricing change, every policy update.
+This is not about any specific CEO being good or bad. Most of them did not have a Machiavellian plan to build dependence and then raise walls. It is about incentive structures. When a company takes billions in venture capital, it takes on an obligation to generate returns that justify that investment. That obligation shapes every product decision, every pricing change, every policy update.
+
+These companies are betting on two things: amortized usage at sustainable margins as capacity increases, and moving higher up the stack to own more of your operations. Not just the model. The data. The integrations. The workflows. The verticalization. Every layer they move into is a layer you become more dependent on.
 
 To the extent that any AI company supports open source or third-party integrations, that support exists because it currently serves the company's growth. The moment it stops serving growth, it stops. This is not cynicism. It is how shareholder-driven companies work. The fiduciary duty is to the investors, not to the developer community.
 
 The founders may genuinely believe in openness. Many of them do. But beliefs do not override balance sheets. When the board asks why subscription revenue is leaking through third-party harnesses, the answer is always the same: close the leak.
+
+## The Two-Direction Squeeze
+
+There are two forces converging on the same territory from opposite directions.
+
+**Hyperscalers creep up from the bottom.** They started with the model. Then they built the harness (Claude Code, ChatGPT's interface). Then they added workflows (custom GPTs, projects, memory). Now they are moving into integrations and verticalization: connecting to your email, your calendar, your files, your entire digital life. Each step up the stack captures more of your operations and makes switching harder.
+
+**Open source moves from the top down.** Open source started with integrations and workflows (connecting tools, automating processes). Then it built harnesses (OpenCode, Aider, Cursor). Now open source models are approaching frontier quality from below (Llama, Mistral, Qwen, DeepSeek). The gap is closing at every layer.
+
+These two forces are converging. The question is which one reaches you first. If the hyperscaler captures your workflows and integrations before open source models are good enough to replace them, you are locked in. If open source gets good enough before you are fully captured, you stay free.
+
+This is why the timing matters. Every month you spend deepening your dependency on a proprietary stack is a month the walls get higher. Every month you spend building on portable files and open harnesses is a month you stay sovereign.
 
 ## What Gets Locked In
 
