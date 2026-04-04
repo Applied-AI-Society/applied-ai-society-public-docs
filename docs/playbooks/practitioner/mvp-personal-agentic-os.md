@@ -281,7 +281,7 @@ Start with read-only connections and work your way up. Connect your calendar so 
 
 ---
 
-## Phase 4: Build Your First Business OS
+## Phase 4: Build Your First Personal Agentic OS
 
 This is what a first session looks like. Five exercises, about an hour total. By the end, you will have a working business OS with real data in it, a clear picture of your top strategic blocker, and an actionable plan for getting unblocked.
 
