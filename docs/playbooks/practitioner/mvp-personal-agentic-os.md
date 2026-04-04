@@ -24,7 +24,7 @@ Here is the uncomfortable truth: **you are the bottleneck.** Not the tools. Not 
 
 Meta thinking is the new thinking. The highest-leverage skill you can develop right now is not execution. It is the ability to design your business as a system: the objectives, the rules, the guardrails, the scoring. Execution is increasingly commoditized. Your ability to define what should be executed is not.
 
-Here's the key insight behind everything that follows: **the truth in your head is not the truth.** Not operationally. Not for AI. Not for your team. The truth that matters is the truth that exists in documents that AI can read and act on. If it's only in your head, it might as well not exist. It's ungreppable. It's unsearchable. It's locked in wet storage with a terrible API.
+Here's the key insight behind everything that follows: **the truth in your head is not the truth.** Not operationally. Not for AI. Not for your team. The truth that matters is the truth that exists in documents that AI can read and act on. If it's only in your head, it might as well not exist. It's unsearchable. Your brain has no search bar, no version history, and no way for an AI to read it.
 
 Your [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) is the persistent memory your AI draws on. The MVP Personal Agentic OS is the simplest possible version of that business OS. Not the end state. The starting point.
 
@@ -68,7 +68,9 @@ Either works. You hold a key, you talk, you release, and the text appears wherev
 
 ### Step 1B: Install Node.js and npm
 
-Claude Code is installed through npm (Node Package Manager), which comes bundled with Node.js. If you have never installed anything from the command line before, you need Node.js first.
+Claude Code is installed through npm (Node Package Manager), which comes bundled with Node.js. Think of npm as an app store for developer tools: you type a command, and it downloads and installs software for you. If you have never installed anything from the command line before, you need Node.js first.
+
+**A note on paths:** Throughout this guide, you will see paths like `~/Documents/` or `~/.zshrc`. The `~` symbol means "your home folder" (e.g., `/Users/YourName/` on Mac or `C:\Users\YourName\` on Windows). When you see `~/Documents/`, that just means the Documents folder inside your home folder.
 
 **If you try to run the Claude Code install command and see `npm: command not found`, this is why.** You need Node.js installed first.
 
@@ -195,7 +197,7 @@ Visual Studio Code is your window into the file system. Download it for free fro
 **Setting up GitHub:**
 
 1. Create a free account at [https://github.com](https://github.com) if you do not have one.
-2. Install the GitHub CLI so you can interact with GitHub from your terminal: `npm install -g gh` (you already have npm from Phase 1).
+2. Install the GitHub CLI so you can interact with GitHub from your terminal. On **macOS**: `brew install gh` (if you have Homebrew) or download from [https://cli.github.com](https://cli.github.com). On **Windows**: download the installer from [https://cli.github.com](https://cli.github.com).
 3. Log in by typing `gh auth login` in your terminal and following the prompts.
 
 ### Step 2C: Clone and Open Your Workspace
