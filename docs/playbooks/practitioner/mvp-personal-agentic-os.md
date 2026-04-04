@@ -287,17 +287,27 @@ This is what a first session looks like. Five exercises, about an hour total. By
 
 ### Step 4A: "Who Am I?" (15 minutes)
 
-This is the most important first step. Before your Personal Agentic OS can help you with anything, it needs to know who you are. The starter repo includes a skill file that will guide Claude Code through an interview with you.
+This is the most important first step. Before your Personal Agentic OS can help you with anything, it needs to know who you are. Think about it like briefing a new chief of staff. If you were hiring the best possible team partner, someone with full access to your life who could execute on everything you are doing, what would you want them to know?
 
-Tell Claude Code:
+**The recommended approach: brief your AI directly.** If you already have documents that capture who you are (a bio, a personal website, a LinkedIn profile, previous strategic docs, a blog, a wiki, anything), drop them into the `user/` folder or paste them into the terminal and tell your AI:
+
+> "Here is everything about me. Read all of it and create a USER.md that captures who I am, what I care about, how I make decisions, and what I am working on right now."
+
+This is faster and richer than any interview because the truth is already documented. Your AI reads it, synthesizes it, and creates a comprehensive profile in minutes. You review, correct, and approve. Done.
+
+The more context you give upfront, the less your AI has to guess. If you have been [wikimaxxing](https://garysheng.com/wiki/wikimaxxing), writing strategic docs, or documenting your thinking anywhere, bring all of it in. Your AI should know you the way a chief of staff who has worked with you for years would know you.
+
+**The backup approach: the interview.** If you do not have existing documents to draw from, the starter repo includes a skill file that will guide your AI through an interview with you.
+
+Tell your AI:
 
 > "Read the skill file at skills/create-user-profile.md and run it."
 
-Claude Code will interview you one question at a time. It will ask about who you are, what you care about, how you make decisions, the current state of your operation, and your biggest strategic blocker. Use voice-to-text. Speak naturally. Do not overthink your answers.
+It will interview you one question at a time. It will ask about who you are, what you care about, how you make decisions, the current state of your operation, and your biggest strategic blocker. Use voice-to-text. Speak naturally. Do not overthink your answers.
 
-At the end, Claude Code will save a `user/USER.md` file that captures everything. This file is the foundation of your Personal Agentic OS. Every future conversation will be informed by it.
+Either way, at the end your AI will save a `user/USER.md` file that captures everything. This file is the foundation of your Personal Agentic OS. Every future conversation will be informed by it.
 
-If you get stuck on a question and do not know the answer, just ask Claude Code: "Based on what you already know about me, what do you think?" It will offer its best guess, and you confirm or correct. This often surfaces insights you would not have articulated on your own.
+If you get stuck on a question and do not know the answer, just ask your AI: "Based on what you already know about me, what do you think?" It will offer its best guess, and you confirm or correct. This often surfaces insights you would not have articulated on your own.
 
 **The moment:** Your Personal Agentic OS now knows who you are. Not the LinkedIn version. The real version. Your goals, your values, your decision-making style, and the thing that is actually blocking you right now. This alone makes every future interaction 10x more useful.
 
