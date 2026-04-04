@@ -406,7 +406,13 @@ Once your MVP Personal Agentic OS is set up, the default interaction pattern is 
 
 ### Step 5A: Open Your Workspace
 
-Open your business OS folder in VS Code. Open the terminal within VS Code (Terminal > New Terminal). Type `clauded` to start Claude Code.
+**The fast way (Mac):** Right-click on the VS Code icon in your Dock. You will see a list of recently opened projects. Click your workspace name. Done. This is the fastest way to get back into your Personal Agentic OS every day. No navigating folders, no remembering file paths.
+
+**The manual way:** Open VS Code, go to File > Open Recent, and select your workspace. Or File > Open Folder and navigate to it.
+
+Once your workspace is open, open the terminal within VS Code (Terminal > New Terminal). Type `clauded` to start Claude Code.
+
+**Resuming a previous session:** If you had a session going yesterday and want to pick up where you left off, type `clauded` and then `/resume`. You will see a list of recent sessions. Pick the one with the most kilobytes (that is the session with the most context). Use the arrow keys to select it and press Enter. You are back where you were, with all the context from your last session intact.
 
 ### Step 5B: Brain Dump
 
