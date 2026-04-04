@@ -7,6 +7,8 @@ title: "The Lock-In Is Coming"
 
 *Every VC-backed hyperscaler with proprietary models will eventually move to lock you in. This is not a prediction. It is a structural inevitability.*
 
+*With input from Sam Padilla.*
+
 ---
 
 ## The Pattern
