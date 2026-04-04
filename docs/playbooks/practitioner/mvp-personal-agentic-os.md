@@ -341,9 +341,29 @@ Tell Claude Code to create a file for each person in the `people/` directory (al
 
 **The moment:** These people now exist in structured form that AI can reference. You will never forget a detail about them again. The next time you have a meeting with one of them, your business OS can brief you on everything you know.
 
-### Step 4D: "What Did I Actually Decide?" (10 minutes)
+### Step 4D: "What Do I Want Built?" (15 minutes)
 
-Create a strategic document capturing one major decision you've made recently. Dictate the story:
+This is the exercise that changes how you think about delegation forever.
+
+Pick something you want to see built, created, or executed. A product idea. A marketing campaign. An event. A new workflow. A business initiative. Anything you have been carrying in your head but have not fully specified yet.
+
+Tell your AI:
+
+> "Interview me about this idea. Ask me hard questions. Push me to be specific. I want to end up with a comprehensive brief that I could hand to someone and they would know exactly what I want."
+
+Your AI will ask you things you had not thought to answer. What is the target audience? What does success look like? What are the constraints? What has been tried before? What is the budget? What is the timeline? Who needs to be involved? What are the risks?
+
+This is not your AI telling you what to build. It is your AI forcing you to think more deeply about what you already want to build. The interview process surfaces assumptions you did not know you were making. It fills gaps that would have become confusion later. It produces a document that answers the questions your teammate, employee, contractor, or co-founder would have asked you anyway.
+
+At the end, your AI saves the brief as a markdown file in `artifacts/`. Paste it into Google Docs (Edit > Paste from Markdown) and you have a professional spec you can hand off immediately.
+
+Do this for every major thing you want built. One interview, one artifact, one markdown file in your `artifacts/` folder. Over time, this folder becomes a library of everything you are building, have built, and want to build. Your AI can reference all of it. Your team can reference all of it. Nothing stays trapped in your head.
+
+**The moment:** You realize that 15 minutes of being interviewed by your AI produced a clearer, more complete brief than hours of trying to write it yourself from scratch. And the person receiving it has half the questions they would have had otherwise.
+
+### Step 4E: "What Did I Actually Decide?" (10 minutes)
+
+Create a strategic document capturing one major decision you have made recently. Dictate the story:
 
 - **The situation**: What was the context?
 - **The options**: What were you choosing between?
