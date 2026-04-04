@@ -101,6 +101,8 @@ Then install Node.js:
 3. Run the installer. Accept the defaults. It will install both Node.js and npm.
 4. **Important:** Close and reopen your terminal after installing. The terminal needs to restart to recognize the new commands.
 
+**macOS users: you may see a popup asking to install "Command Line Developer Tools."** This is normal. macOS requires these tools before it can run things like Node.js and Git from the terminal. Click "Install," wait a few minutes (it can take 4-10 minutes), and let it finish. You only have to do this once.
+
 **Verify it worked** by typing this in your terminal:
 ```bash
 node --version
