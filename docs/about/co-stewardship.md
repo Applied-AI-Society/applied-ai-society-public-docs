@@ -25,7 +25,7 @@ If your organization runs AI workshops, hackathons, mentor networks, skill trees
 
 What we are looking for:
 
-- **Workshop formats.** How do you run your events? What works? What did you try that failed? The [MVJ Workshop playbook](/docs/playbooks/practitioner/training-the-mvj-workshop) is an example: continuously updated based on real sessions, honest about what went wrong, and immediately usable by anyone who wants to run one.
+- **Workshop formats.** How do you run your events? What works? What did you try that failed? The [Personal Agentic OS Workshop playbook](/docs/playbooks/practitioner/training-the-workshop) is an example: continuously updated based on real sessions, honest about what went wrong, and immediately usable by anyone who wants to run one.
 - **Curriculum and skill trees.** How do you take someone from zero to building with AI agents? What is the progression? What are the prerequisites?
 - **Expansion playbooks.** How did you scale from one location to five? What did the second chapter need that the first one did not?
 - **Concepts and frameworks.** Have you coined a term or developed a mental model that helps people understand applied AI? Contribute it. Name it. Let the community build on it.
@@ -45,7 +45,7 @@ Co-stewardship means:
 
 ### Run the Playbooks in Your Community
 
-The best way to improve a playbook is to run it. Take the [MVJ Workshop format](/docs/playbooks/practitioner/training-the-mvj-workshop), run it with your community, and report back what worked and what did not. Take the [event formats](/docs/playbooks/chapter-leader/event-formats), adapt them to your audience, and share what you learned.
+The best way to improve a playbook is to run it. Take the [Personal Agentic OS Workshop format](/docs/playbooks/practitioner/training-the-workshop), run it with your community, and report back what worked and what did not. Take the [event formats](/docs/playbooks/chapter-leader/event-formats), adapt them to your audience, and share what you learned.
 
 Every community is different. What works for business owners in Austin may need adjustments for engineering students in Milwaukee or artists in Los Angeles. Those adjustments are the contribution. They make the playbooks more universal and more useful for the next community that picks them up.
 

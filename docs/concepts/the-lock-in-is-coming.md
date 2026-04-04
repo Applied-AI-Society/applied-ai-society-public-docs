@@ -41,13 +41,13 @@ The lock-in happens at every layer:
 
 ## The Sovereign Alternative
 
-The entire architecture of the [Personal Jarvis](/docs/concepts/personal-jarvis) and the [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) is designed to prevent this. Not as a theoretical principle. As a practical reality you can verify today.
+The entire architecture of the [Personal Agentic OS](/docs/concepts/personal-agentic-os) and the [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) is designed to prevent this. Not as a theoretical principle. As a practical reality you can verify today.
 
 **Own your data.** Your [context lake](/docs/concepts/context-lake) is plain markdown files on your computer. Not on anyone's servers. Not behind anyone's API. Files you can open in any text editor, version-control with git, and back up anywhere you want.
 
 **Own your models.** Open source models are getting remarkably good, remarkably fast. You can run them on your own hardware with zero data leaving your machine. Today's best default might be a proprietary model. Tomorrow it might be open source. Your files do not care.
 
-**Own your harness.** Claude Code is one [harness](/docs/concepts/harness-engineering). There are others: OpenCode, Cursor, Aider, and more emerging constantly. The MVJ architecture works with any harness that can read files and run commands. If your current harness changes its pricing, its policies, or its attitude toward third-party tools, you switch. Your context lake comes with you. Nothing is lost.
+**Own your harness.** Claude Code is one [harness](/docs/concepts/harness-engineering). There are others: OpenCode, Cursor, Aider, and more emerging constantly. The Personal Agentic OS architecture works with any harness that can read files and run commands. If your current harness changes its pricing, its policies, or its attitude toward third-party tools, you switch. Your context lake comes with you. Nothing is lost.
 
 **Own your future.** Sovereignty means the platform serves you, not the other way around. You are not a user of someone else's system. You are the operator of your own system. The [Soul Harness](/docs/concepts/the-soul-harness) framework makes the distinction clear: a predatory harness makes you dependent over time. A liberating harness makes you more capable and more independent over time. Choose liberating harnesses. Build liberating harnesses.
 
@@ -77,8 +77,8 @@ The lock-in is coming. For some platforms, it has already arrived. The question 
 
 - [The Soul Harness](/docs/concepts/the-soul-harness): Predatory vs. liberating systems
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building systems that free people instead of trapping them
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The sovereign AI system
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The sovereign AI system
 - [Context Lake](/docs/concepts/context-lake): Your portable, platform-independent knowledge base
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the wrapper matters as much as the model
-- [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): The tutorial that builds sovereignty from day one
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): The tutorial that builds sovereignty from day one
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements, including the ability to run tools independently

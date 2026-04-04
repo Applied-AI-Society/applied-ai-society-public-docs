@@ -102,7 +102,7 @@ This lazy-loading architecture means you do not pay the token cost of every inst
 
 ## What Makes a Good Instruction File
 
-After studying Claude Code's architecture and working with practitioners building [Personal Jarvis](/docs/concepts/personal-jarvis) systems, patterns emerge:
+After studying Claude Code's architecture and working with practitioners building [Personal Agentic OS](/docs/concepts/personal-agentic-os) systems, patterns emerge:
 
 **Be specific, not comprehensive.** A CLAUDE.md that tries to cover every possible situation is too long and too vague. A CLAUDE.md that covers the three most important conventions for this project is short, clear, and followed consistently.
 
@@ -130,7 +130,7 @@ This is why instruction file writing is emerging as a core practitioner skill. I
 
 ## For Practitioners
 
-When you set up a [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) for a client, the instruction files are the foundation. The USER.md is an instruction file (it tells the agent who it is working for). The skill files are instruction files (they tell the agent how to execute workflows). The CLAUDE.md is an instruction file (it tells the agent how to behave in this workspace).
+When you set up a [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) for a client, the instruction files are the foundation. The USER.md is an instruction file (it tells the agent who it is working for). The skill files are instruction files (they tell the agent how to execute workflows). The CLAUDE.md is an instruction file (it tells the agent how to behave in this workspace).
 
 **Your job is to write these well.** Not the client's job. Most clients have never written instructions for a machine that interprets them with judgment. They will write vague aspirations ("be helpful") or rigid scripts ("always do X then Y then Z"). Neither works well. The practitioner's skill is translating the client's actual intent into instructions that an agent can follow with appropriate judgment.
 
@@ -144,5 +144,5 @@ This is [context engineering](/docs/concepts/context-engineering) at its most pr
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): How Claude Code discovers, loads, and follows instruction files
 - [The Spec Is the Product](/docs/concepts/spec-writing): The quality chain that applies to every instruction file
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information state
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The system that instruction files configure
-- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Where you write your first instruction files
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that instruction files configure
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where you write your first instruction files

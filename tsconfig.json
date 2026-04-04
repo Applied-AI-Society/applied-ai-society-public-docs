@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -9,19 +13,25 @@
     "noEmit": true,
     "esModuleInterop": true,
     "module": "esnext",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
-      "@site/*": ["./*"]
-    }
+      "@site/*": [
+        "./*"
+      ]
+    },
+    "incremental": true
   },
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx",
     "docusaurus.config.ts",
     "sidebars.ts"
+  ],
+  "exclude": [
+    "node_modules"
   ]
 }

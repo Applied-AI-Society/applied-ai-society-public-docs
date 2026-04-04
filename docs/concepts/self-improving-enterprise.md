@@ -41,7 +41,7 @@ These are not hypothetical. These are businesses operating this way right now:
 
 ### Tomorrow
 
-- Your [Personal Jarvis](/docs/concepts/personal-jarvis) notices that you keep losing track of client priorities and proposes restructuring your artifacts folder.
+- Your [Personal Agentic OS](/docs/concepts/personal-agentic-os) notices that you keep losing track of client priorities and proposes restructuring your artifacts folder.
 - Your business OS detects that a policy document is stale (no updates in 60 days, but the area it covers has had 12 brain dumps) and drafts an updated version for your review.
 - Your skill files evolve: the agent tracks which steps in a workflow consistently need human correction and proposes refined instructions.
 
@@ -57,7 +57,7 @@ The test: pick any operational change (renaming a concept, updating a policy, re
 
 ## The North Star
 
-The [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) is the starting point. It gets the truth out of your head and into files. The self-improving enterprise is the destination. It is what happens when that truth is structured well enough, connected to enough tools, and governed by clear enough principles that the system can propose its own evolution.
+The [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) is the starting point. It gets the truth out of your head and into files. The self-improving enterprise is the destination. It is what happens when that truth is structured well enough, connected to enough tools, and governed by clear enough principles that the system can propose its own evolution.
 
 The human's job in a self-improving enterprise is not execution. It is not even strategy in the traditional sense. It is [game design](/docs/concepts/game-design): defining the objectives, rules, guardrails, and scoring by which the system evaluates whether it is getting better. The human defines what "better" means. The system figures out how to get there.
 
@@ -71,9 +71,9 @@ The next level of programming is not that the output is software. It is enterpri
 - [Harness Engineering](/docs/concepts/harness-engineering): Self-improving code as a building block for self-improving enterprises
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): How Claude Code's hook system enables the recursive improvement loop described in this article
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The architectural prerequisite
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The starting point for the individual
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The starting point for the individual
 - [Game Design](/docs/concepts/game-design): Defining the rules your system operates by
-- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Where to start
-- [Jarvis Trainer](/docs/roles/jarvis-trainer): The role that guides people through the progression
-- [Training the MVJ Workshop](/docs/playbooks/practitioner/training-the-mvj-workshop): How to run the activation session
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where to start
+- [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The role that guides people through the progression
+- [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): How to run the activation session
 - [Always-On Agents](/docs/concepts/always-on-agents): The mechanism by which self-improving enterprises actually operate

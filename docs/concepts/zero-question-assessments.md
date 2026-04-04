@@ -84,9 +84,9 @@ Each one follows the same architecture: scan the context lake, synthesize patter
 
 ## Why This Matters
 
-Zero-question assessments are a killer application for the [context lake](/docs/concepts/context-lake). They give people a visceral, personal reason to build and maintain their context lake. The more you document, the more accurate your assessments become. The more accurate your assessments become, the more useful your [Personal Jarvis](/docs/concepts/personal-jarvis) feels. It creates a flywheel.
+Zero-question assessments are a killer application for the [context lake](/docs/concepts/context-lake). They give people a visceral, personal reason to build and maintain their context lake. The more you document, the more accurate your assessments become. The more accurate your assessments become, the more useful your [Personal Agentic OS](/docs/concepts/personal-agentic-os) feels. It creates a flywheel.
 
-This is also a powerful demonstration tool for [MVJ workshops](/docs/playbooks/practitioner/training-the-mvj-workshop). After someone sets up their first context lake and populates it with a user profile, a few relationship files, and a strategic document, you run the Bible character assessment. They get a personalized, surprisingly accurate result derived from their own data. That is the moment they understand what a context lake is actually for.
+This is also a powerful demonstration tool for [workshops](/docs/playbooks/practitioner/training-the-workshop). After someone sets up their first context lake and populates it with a user profile, a few relationship files, and a strategic document, you run the Bible character assessment. They get a personalized, surprisingly accurate result derived from their own data. That is the moment they understand what a context lake is actually for.
 
 Traditional assessments ask you questions to learn about you. Zero-question assessments read what you have already told the truth about. The second approach is better in every way, as long as you have been honest in your files. And that is the point: [legacy](/docs/legacy) is the foundation. The quality of your assessments is directly proportional to the quality of the truth in your context lake.
 
@@ -96,7 +96,7 @@ Traditional assessments ask you questions to learn about you. Zero-question asse
 
 ## Try It: The Bible Character Assessment Skill
 
-Copy the skill file below into your Jarvis workspace as `skills/bible-character-assessment.md` and tell your AI agent to run it. It will scan your context lake and tell you which Bible character you are.
+Copy the skill file below into your Personal Agentic OS workspace as `skills/bible-character-assessment.md` and tell your AI agent to run it. It will scan your context lake and tell you which Bible character you are.
 
 <details>
 <summary><strong>Click to expand the full skill file</strong></summary>
@@ -151,7 +151,7 @@ To run it, tell your AI agent:
 ## Further Reading
 
 - [Context Lake](/docs/concepts/context-lake): The knowledge base that makes zero-question assessments possible
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The system that runs the assessments
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that runs the assessments
 - [Instruction Files](/docs/concepts/instruction-files): How to build assessment skills
 - [Compounding Docs](/docs/concepts/compounding-docs): Why the assessments get better over time
 - [Legacy](/docs/legacy): The quality of the input determines the quality of the output

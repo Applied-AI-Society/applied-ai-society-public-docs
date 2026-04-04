@@ -15,7 +15,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 
 - [Context Lake](/docs/concepts/context-lake): The structured collection of markdown files that powers your AI system. Your persistent memory layer. The foundation everything else builds on.
 - [Context Engineering](/docs/concepts/context-engineering): Curating the right information state for AI systems so agents have the knowledge they need, when they need it
-- [Personal Jarvis](/docs/concepts/personal-jarvis): Your AI-operated business OS. The system that compounds over time as your context lake deepens.
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your AI-operated business OS. The system that compounds over time as your context lake deepens.
 - [Harness Engineering](/docs/concepts/harness-engineering): The code wrapped around an AI model matters as much as the model itself. Choose harnesses that maximize utility, cost, and sovereignty.
 - [Instruction Files](/docs/concepts/instruction-files): The persistent directives that configure how your AI agent operates. CLAUDE.md, AGENTS.md, skill files, memory files.
 - [Compounding Docs](/docs/concepts/compounding-docs): Documentation as a compounding asset. Every file you add makes every other file more useful.
@@ -31,7 +31,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 ### Collaboration
 
 - [Lossy AI Telephone](/docs/concepts/lossy-ai-telephone): The pattern where teams pass information through multiple AI systems, losing fidelity at each hop. The fix: shared agentic project OS.
-- [Hypercontext Protocol](/docs/concepts/hypercontext-protocol): Your personal Jarvis as an API to the world. Trusted agents query your context directly through a permission surface.
+- [Hypercontext Protocol](/docs/concepts/hypercontext-protocol): Your Personal Agentic OS as an API to the world. Trusted agents query your context directly through a permission surface.
 - [The Permission Surface](/docs/concepts/the-permission-surface): Access control for agent systems. Who can see what, do what, and when.
 
 ### Economy and Roles

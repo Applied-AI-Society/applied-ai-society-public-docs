@@ -27,3 +27,4 @@ yarn-error.log*
 
 # Generated at build time
 src/data/recentUpdates.json
+.next/

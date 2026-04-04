@@ -28,7 +28,7 @@ The purpose of interacting with an AI agent, when it comes to real work, is not 
 - Markdown files in your workspace
 - Code committed to a repository
 - Documents saved to your file system
-- Updates to your [Personal Jarvis](/docs/concepts/personal-jarvis) context files
+- Updates to your [Personal Agentic OS](/docs/concepts/personal-agentic-os) context files
 - Actions taken in the world (emails sent, deploys triggered, data updated)
 
 If a chat session produces a brilliant strategy but that strategy only exists in the chat, you have not done work. You have had a conversation. The work happens when the output lands somewhere durable.
@@ -49,7 +49,7 @@ When your workspace is the source of truth (not the chat), three things change:
 
 **1. You become agent-portable.** Switch from Claude to GPT to Gemini to whatever comes next. Your markdown files, your instruction files, your command center: they come with you. The new agent reads them and picks up where the last one left off. You are not locked into a provider because a particularly good conversation lives on their servers.
 
-**2. New sessions are cheap.** Spin up a fresh chat. It reads your workspace. It has context in seconds. You do not need to "catch it up" with a wall of text explaining everything. The files do that. This is the [re-contexting](/docs/concepts/personal-jarvis) superpower of a well-maintained Jarvis.
+**2. New sessions are cheap.** Spin up a fresh chat. It reads your workspace. It has context in seconds. You do not need to "catch it up" with a wall of text explaining everything. The files do that. This is the [re-contexting](/docs/concepts/personal-agentic-os) superpower of a well-maintained Personal Agentic OS.
 
 **3. Your work compounds.** A chat that runs for hours and then ends has captured nothing. A chat that runs for hours and produces ten updated files has compounded your operational context. The next chat is smarter because the last one left its mark on the file system.
 
@@ -66,7 +66,7 @@ An interview or brainstorm is different. Conversation for the sake of exploring 
 - **After every meaningful chat session, ask: "What should I save?"** If the answer is nothing, the session was either pure exploration (fine) or wasted time.
 - **Build the habit of telling your agent to write files.** Not "explain X to me." Instead: "Write a strategy doc about X and save it to my artifacts folder."
 - **Do not be precious about any particular chat.** If you are afraid to close a conversation, that is a signal that your workspace is not capturing what it should.
-- **Your [command center](/docs/concepts/personal-jarvis) is your product.** The collection of markdown files, instruction files, relationship files, and artifacts that make up your operational context. That is what grows. That is what compounds. The chat is just how you tend it.
+- **Your [command center](/docs/concepts/personal-agentic-os) is your product.** The collection of markdown files, instruction files, relationship files, and artifacts that make up your operational context. That is what grows. That is what compounds. The chat is just how you tend it.
 
 ---
 

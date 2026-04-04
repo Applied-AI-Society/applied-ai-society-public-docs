@@ -1,58 +1,49 @@
 [
   {
-    "title": "Train Your AI Like You Would Train a Human Apprentice",
-    "link": "/docs/concepts/train-your-agent",
-    "date": "2026-03-31",
-    "summary": "Most people give their agent one task, get a bad result, and conclude AI does not work. The reinforcement loop that fixes this.",
+    "title": "The Sovereignty Stack",
+    "link": "/docs/concepts/the-sovereignty-stack",
+    "date": "2026-04-03",
+    "summary": "Own your future. Every layer of your digital life has a default version controlled by someone who is not you. Here is...",
     "tag": "New"
-  },
+  }
+,
   {
-    "title": "Applied AI Community Leader",
-    "link": "/docs/roles/community-leader",
-    "date": "2026-03-31",
-    "summary": "The person who brings applied AI to their city, campus, or community. Open source playbooks for running events and building movements.",
+    "title": "Zero-Question Assessments",
+    "link": "/docs/concepts/zero-question-assessments",
+    "date": "2026-04-03",
+    "summary": "Your context lake already has the answers. Stop asking questions your files can answer for you.",
     "tag": "New"
-  },
+  }
+,
   {
-    "title": "Always-On Agents",
-    "link": "/docs/concepts/always-on-agents",
-    "date": "2026-03-31",
-    "summary": "The shift from AI that answers when asked to AI that works for you while you sleep. References KAIROS in Claude Code's source.",
+    "title": "The Lock-In Is Coming",
+    "link": "/docs/concepts/the-lock-in-is-coming",
+    "date": "2026-04-03",
+    "summary": "Every VC-backed hyperscaler with proprietary models will eventually move to lock you in. This is not a prediction. It...",
     "tag": "New"
-  },
+  }
+,
   {
-    "title": "Signalmaxxing",
-    "link": "/docs/concepts/signalmaxxing",
-    "date": "2026-03-31",
-    "summary": "The deliberate curation of your information environment so that everything influencing your thinking is truth-seeking.",
+    "title": "Context Lake",
+    "link": "/docs/concepts/context-lake",
+    "date": "2026-04-03",
+    "summary": "The collection of everything your AI knows about you, your operation, and your world.",
     "tag": "New"
-  },
+  }
+,
   {
-    "title": "Agent-Accessible Products",
-    "link": "/docs/concepts/agent-accessible-products",
-    "date": "2026-03-31",
-    "summary": "If agents cannot use your product, agents will replace your product. CLI-ify everything. API-ify everything.",
-    "tag": "New"
-  },
-  {
-    "title": "The Minimum Viable Jarvis",
-    "link": "/docs/playbooks/practitioner/minimum-viable-jarvis",
-    "date": "2026-03-31",
-    "summary": "Battle-tested tutorial for setting up your AI business OS. Now with starter repo, trainer guide, and workshop format.",
+    "title": "Harness Engineering",
+    "link": "/docs/concepts/harness-engineering",
+    "date": "2026-04-03",
+    "summary": "The code wrapped around an AI model is just as important as the model itself. And soon, that code will write itself.",
     "tag": "Updated"
-  },
+  }
+,
   {
-    "title": "Personal Jarvis",
-    "link": "/docs/concepts/personal-jarvis",
-    "date": "2026-03-31",
-    "summary": "A personal AI system that operates from your context, compounds over time, and is owned entirely by you.",
-    "tag": "New"
-  },
-  {
-    "title": "The Self-Improving Enterprise",
-    "link": "/docs/concepts/self-improving-enterprise",
-    "date": "2026-03-31",
-    "summary": "An enterprise designed so that its systems, processes, and documentation evolve on their own.",
-    "tag": "New"
+    "title": "Instruction Files",
+    "link": "/docs/concepts/instruction-files",
+    "date": "2026-04-03",
+    "summary": "The new unit of programming is not a function. It is a markdown file that tells an agent how to behave.",
+    "tag": "Updated"
   }
 ]

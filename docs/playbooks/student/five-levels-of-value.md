@@ -105,4 +105,4 @@ Most businesses never reach level three. If you can build at level three (or hel
 
 The AI economy rewards people who climb. The tools are accessible. The demand is infinite. The question is whether you'll stay in the stands or get in the game.
 
-See also: [Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy) | [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop) | [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis)
+See also: [Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy) | [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop) | [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os)

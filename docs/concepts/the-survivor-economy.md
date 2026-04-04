@@ -53,7 +53,7 @@ As automation consolidates existing roles, new roles are emerging. They do not h
 
 The Survivor Economy framing can sound bleak if you stop at "adapt or die." But the point is not to celebrate ruthless optimization. The point is to be honest about what is happening so that people can make informed choices.
 
-The humane response is activation, not fear. Get people the [tools](/docs/playbooks/practitioner/minimum-viable-jarvis), the [knowledge](/docs/concepts/compounding-docs), and the [community](/docs/about/co-stewardship) they need to make the transition on their own terms. Not everyone will become an AGI Whisperer. But everyone deserves the opportunity to understand what is changing and to choose their path deliberately rather than having it chosen for them.
+The humane response is activation, not fear. Get people the [tools](/docs/playbooks/practitioner/mvp-personal-agentic-os), the [knowledge](/docs/concepts/compounding-docs), and the [community](/docs/about/co-stewardship) they need to make the transition on their own terms. Not everyone will become an AGI Whisperer. But everyone deserves the opportunity to understand what is changing and to choose their path deliberately rather than having it chosen for them.
 
 This is why applied AI literacy is not a nice-to-have skill. It is the new reading and writing. The people who have it will thrive. The people who do not will be at the mercy of systems they do not understand, operated by people they have never met, optimizing for objectives they were never consulted on.
 
@@ -71,4 +71,4 @@ Start building. Start now. Create from a position of sovereignty, not dependency
 - [Harness Engineering](/docs/concepts/harness-engineering): The technical discipline behind agent harnesses
 - [Applied AI Literacy](/docs/applied-ai-literacy): The foundational skill for surviving and thriving
 - [Capture, Process, Compound](/docs/concepts/capture-process-compound): The daily practice that builds your edge
-- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Where to start building your harness today
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where to start building your harness today

@@ -43,7 +43,7 @@ Humans learn through reinforcement. You do a thing, get an outcome, good or bad.
 
 Agents learn the same way, except the feedback is explicit, not implicit. Every time you correct an agent's output, that correction should become a permanent rule. Not a one-time fix. A rule that prevents the mistake from ever happening again.
 
-This is what [skill files](/docs/concepts/personal-jarvis) are. Every correction, every refinement, every "no, do it like this" becomes a line in a skill file or a rule in your `CLAUDE.md`. The agent never forgets a rule. It never has a bad day. It never needs to be told twice, if you actually write it down.
+This is what [skill files](/docs/concepts/instruction-files) are. Every correction, every refinement, every "no, do it like this" becomes a line in a skill file or a rule in your `CLAUDE.md`. The agent never forgets a rule. It never has a bad day. It never needs to be told twice, if you actually write it down.
 
 The loop:
 
@@ -81,14 +81,14 @@ Here is what most people miss: every rule you write, every example you provide, 
 
 A human apprentice might forget rule 47 after three months. Your agent will not. Every investment in training your agent pays dividends on every future interaction. Your agent at day 90 is operating on the accumulated wisdom of every correction you made on days 1 through 89. A human cannot do that. Their working memory has limits. Your agent's context files do not.
 
-This is why the [Personal Jarvis](/docs/concepts/personal-jarvis) architecture matters. The user profile, the skill files, the principles, the relationship files: they are not just context. They are training data. Every file you add makes the agent better at everything, not just the specific task that prompted the file.
+This is why the [Personal Agentic OS](/docs/concepts/personal-agentic-os) architecture matters. The user profile, the skill files, the principles, the relationship files: they are not just context. They are training data. Every file you add makes the agent better at everything, not just the specific task that prompted the file.
 
 ---
 
 ## Further Reading
 
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The system your trained agent operates within
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system your trained agent operates within
 - [Observable Behavior Engineering](/docs/concepts/observable-behavior-engineering): Defining what good looks like in concrete terms
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your agent knows
-- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Where to start building the system
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where to start building the system
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where trained agents lead at the organizational level

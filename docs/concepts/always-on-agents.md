@@ -38,7 +38,7 @@ Here is the thing nobody is talking about yet: an always-on agent is only as use
 
 If your agent does not know your goals, it cannot advance them while you sleep. If it does not know your priorities, it cannot triage your notifications. If it does not know your relationships, it cannot draft the right response to the 2am email. If it does not know your principles, it will make decisions you disagree with.
 
-This is why [context engineering](/docs/concepts/context-engineering) is so important. The entire [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) architecture (user profiles, relationship files, artifacts, skill files, principles) is not just useful for prompt-response interactions. It is the prerequisite for always-on agents. The people who have been building their context layer now will have agents that can actually do meaningful work autonomously. The people who have been using AI as a chatbot will have agents that are clueless.
+This is why [context engineering](/docs/concepts/context-engineering) is so important. The entire [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) architecture (user profiles, relationship files, artifacts, skill files, principles) is not just useful for prompt-response interactions. It is the prerequisite for always-on agents. The people who have been building their context layer now will have agents that can actually do meaningful work autonomously. The people who have been using AI as a chatbot will have agents that are clueless.
 
 Your `user/USER.md` tells the agent who you are. Your `artifacts/` tell it what you are working on. Your `skills/` tell it how to do things. Your `people/` tell it who matters. Without this context, an always-on agent is just a very expensive process running in the background doing nothing useful.
 
@@ -58,7 +58,7 @@ This is what it means for a business to improve itself. Not a human doing the im
 
 You do not need to wait for KAIROS to ship. The preparation is the same whether always-on agents arrive in three months or three years:
 
-1. **Build your context layer.** Set up your [Personal Jarvis](/docs/concepts/personal-jarvis). The richer your context, the more useful any future always-on agent will be.
+1. **Build your context layer.** Set up your [Personal Agentic OS](/docs/concepts/personal-agentic-os). The richer your context, the more useful any future always-on agent will be.
 2. **Write your principles.** An agent making decisions on your behalf at 3am needs to know your decision-making rules. Document them.
 3. **Make your operation [refactorable](/docs/legacy/make-your-company-refactorable).** Always-on agents need to read and modify your files. If your truth is locked in proprietary tools the agent cannot access, it cannot help you.
 4. **Think in skill files.** Every workflow you document as a skill file is a workflow an always-on agent can eventually run without you.
@@ -70,7 +70,7 @@ The post-prompting era is coming. The question is whether your system is ready f
 ## Further Reading
 
 - [Context Engineering](/docs/concepts/context-engineering): The discipline that makes always-on agents useful
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The context layer always-on agents will operate on
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The context layer always-on agents will operate on
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): What always-on agents enable at the organizational level
 - [Harness Engineering](/docs/concepts/harness-engineering): The code layer that always-on agents run inside
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The prerequisite for agents that can modify your operation

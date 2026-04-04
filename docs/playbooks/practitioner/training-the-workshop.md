@@ -1,18 +1,18 @@
 ---
-sidebar_label: "Training the MVJ Workshop"
-title: "Training the MVJ Workshop: A Guide for Instructors"
-description: "How to run a Minimum Viable Jarvis workshop. Logistics, format, pacing, common issues, and lessons learned from real sessions."
+sidebar_label: "Training the Workshop"
+title: "Training the Personal Agentic OS Workshop: A Guide for Instructors"
+description: "How to run a Personal Agentic OS workshop. Logistics, format, pacing, common issues, and lessons learned from real sessions."
 ---
 
-# Training the MVJ Workshop
+# Training the Personal Agentic OS Workshop
 
-*A playbook for anyone who wants to teach other people how to set up their Minimum Viable Jarvis. Open source, evolving in real time based on actual workshop sessions.*
+*A playbook for anyone who wants to teach other people how to set up their Personal Agentic OS (what some people affectionately call the "Minimum Viable Jarvis," a nod to Tony Stark's AI). Open source, evolving in real time based on actual workshop sessions.*
 
 ---
 
 ## Why This Playbook Exists
 
-The [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) tutorial is designed to be self-paced. But in practice, having an instructor makes an enormous difference. Every machine is slightly different. People hit edge cases (a Windows PowerShell permission error, an old Node.js version, a corporate firewall, an outdated laptop) that are too niche to document but take an experienced person 30 seconds to debug.
+The [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) tutorial is designed to be self-paced. But in practice, having an instructor makes an enormous difference. Every machine is slightly different. People hit edge cases (a Windows PowerShell permission error, an old Node.js version, a corporate firewall, an outdated laptop) that are too niche to document but take an experienced person 30 seconds to debug.
 
 The instructor is the person who gets participants across the finish line. Without one, a significant percentage of people will get stuck at installation and never make it to the part that actually changes their life: the user profile interview and the strategic blocker plan. The tutorial is the map. The instructor is the guide who keeps people moving when the terrain gets rough.
 
@@ -29,7 +29,7 @@ This playbook captures what we are learning in real time about how to run these 
 ### Setup
 
 - **Big TV or monitor** at the front where you can screen share. Everyone should be huddled close enough to read code on the screen.
-- **Your own laptop** connected to the TV, running your own Jarvis in Claude Code. You will be demoing live throughout.
+- **Your own laptop** connected to the TV, running your own Personal Agentic OS in Claude Code. You will be demoing live throughout.
 - **A mix of in-person and online is fine.** Use a video call with screen share for remote participants. Have them unmute to ask questions.
 
 ### Duration
@@ -54,7 +54,7 @@ A rough pacing guide:
 
 ### Live Demo, Not Just Lecture
 
-The most powerful thing you can do as an instructor is **use your own Jarvis in real time** while teaching. When a participant asks a question, answer it by talking to Claude Code on the big screen. When someone gives feedback about the tutorial, update the tutorial live using your Jarvis. This is not a bug; it is the demo. You are showing them what a mature Jarvis workflow looks like: speak, the system routes it, review the changes, push.
+The most powerful thing you can do as an instructor is **use your own Personal Agentic OS in real time** while teaching. When a participant asks a question, answer it by talking to Claude Code on the big screen. When someone gives feedback about the tutorial, update the tutorial live using your system. This is not a bug; it is the demo. You are showing them what a mature Personal Agentic OS workflow looks like: speak, the system routes it, review the changes, push.
 
 ### Debug, Don't Prescribe
 
@@ -79,7 +79,7 @@ Before anyone touches a keyboard, spend time on the strategic framing:
 
 A participant has succeeded if they leave with:
 
-1. A working Jarvis workspace on their computer (the starter repo, open in VS Code, Claude Code running)
+1. A working Personal Agentic OS workspace on their computer (the starter repo, open in VS Code, Claude Code running)
 2. A `user/USER.md` file from the interview that captures who they are
 3. A strategic blocker plan in `artifacts/` that gives them an actionable path forward
 4. The visceral experience of voice-to-text into Claude Code and seeing it route information into files
@@ -104,7 +104,7 @@ The relationship files and decision records (Steps 4C and 4D) are bonuses. The c
 
 **Windows users need extra help.** PowerShell can throw unexpected permission errors. Be prepared to debug these live. You cannot document every possible Windows edge case.
 
-**Iterate the tutorial in real time.** Update the public docs during the workshop based on feedback. This is the meta-demo: you are using your Jarvis to improve the material in front of the participants. They see the system in action.
+**Iterate the tutorial in real time.** Update the public docs during the workshop based on feedback. This is the meta-demo: you are using your Personal Agentic OS to improve the material in front of the participants. They see the system in action.
 
 **One participant canceled ChatGPT during the workshop.** The vendor lock-in framing (your files are yours, you can walk away any time) resonated strongly. People care about sovereignty once you frame it clearly.
 
@@ -114,19 +114,19 @@ The relationship files and decision records (Steps 4C and 4D) are bonuses. The c
 
 , real estate entrepreneur, recorded immediately after the March 31 2026 workshop:
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/gFJIVm-wvhc" title=" MVJ Workshop Testimonial" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/gFJIVm-wvhc" title=" Workshop Testimonial" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 March 31 2026 workshop participant:
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/4K0K6_wiOus" title="MVJ Workshop Testimonial" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/4K0K6_wiOus" title="Workshop Testimonial" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ---
 
 ## Running Your Own Workshop
 
-If you want to run an MVJ workshop in your community, here is the minimum you need:
+If you want to run a Personal Agentic OS workshop in your community, here is the minimum you need:
 
-1. **Complete the MVJ tutorial yourself first.** You need to have a working Jarvis with at least a few weeks of usage to demo credibly.
+1. **Complete the [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) tutorial yourself first.** You need to have a working system with at least a few weeks of usage to demo credibly.
 2. **A space with a big screen** and seating for up to 8 people.
 3. **A video call link** for remote participants (optional but recommended).
 4. **3.5 to 4 hours** of uninterrupted time.
@@ -140,11 +140,11 @@ If you run a workshop, share what you learned. Update this playbook by contribut
 
 ## Further Reading
 
-- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): The tutorial you are teaching
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): The tutorial you are teaching
 - [Starter Repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis): The forkable workspace participants clone
-- [Jarvis Trainer](/docs/roles/jarvis-trainer): The role description and progression framework
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The concept you are teaching
+- [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The role description and progression framework
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The concept you are teaching
 - [Harness Engineering](/docs/concepts/harness-engineering): Why Claude Code is a harness, not the only option
 - [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): High-leverage questions for deeper user profile interviews
 - [Game Design](/docs/concepts/game-design): The framing for how humans define objectives for their agents
-- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): How to run Applied AI events (the MVJ workshop fits as a format)
+- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): How to run Applied AI events (the workshop fits as a format)

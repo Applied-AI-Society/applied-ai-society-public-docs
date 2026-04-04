@@ -1,12 +1,12 @@
 ---
-sidebar_label: "Minimum Viable Jarvis"
-title: "The Minimum Viable Jarvis: Setting Up Your AI Business OS"
-description: "A step-by-step guide to building your personal AI-operated business OS for legacy, strategic clarity, and compounding context."
+sidebar_label: "MVP Personal Agentic OS"
+title: "MVP Personal Agentic OS: Setting Up Your AI Business OS"
+description: "A step-by-step guide to building your Personal Agentic OS for legacy, strategic clarity, and compounding context."
 ---
 
-# The Minimum Viable Jarvis
+# MVP Personal Agentic OS
 
-*A step-by-step guide to setting up the simplest system that gives you AI-augmented recall, strategic clarity, and compounding context.*
+*A step-by-step guide to setting up the simplest system that gives you AI-augmented recall, strategic clarity, and compounding context. Some people call this the MVP Personal Agentic OS (like Tony Stark's AI, but for your real life).*
 
 **Time estimate:** 3.5 to 4 hours to complete everything in this guide, even with some prior technical experience. If you are completely new to the terminal and have never installed developer tools before, expect the upper end.
 
@@ -26,7 +26,7 @@ Meta thinking is the new thinking. The highest-leverage skill you can develop ri
 
 Here's the key insight behind everything that follows: **the truth in your head is not the truth.** Not operationally. Not for AI. Not for your team. The truth that matters is the truth that exists in documents that AI can read and act on. If it's only in your head, it might as well not exist. It's ungreppable. It's unsearchable. It's locked in wet storage with a terrible API.
 
-Your [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) is the persistent memory your AI draws on. The Minimum Viable Jarvis (MVJ) is the simplest possible version of that business OS. Not the end state. The starting point.
+Your [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) is the persistent memory your AI draws on. The MVP Personal Agentic OS is the simplest possible version of that business OS. Not the end state. The starting point.
 
 For the full philosophy behind why documented truth matters, see [Legacy](/docs/legacy) and [Why It Matters](/docs/legacy/why-it-matters). This playbook is the practical "how to start" companion to those ideas.
 
@@ -57,7 +57,7 @@ The bottleneck between thought and text must be removed. This is not just about 
 
 When you are typing, part of your brain is thinking about typing. You are compressing what you would otherwise say because the friction of getting it out is too high. You edit yourself mid-thought. You lose threads. You stay in the analytical, word-by-word part of your brain instead of the big-picture, strategic part.
 
-When you speak, you stay in flow. Your brain operates at its best capacity. Ideas connect to other ideas. Two hours fly by and you realize you just produced a massive amount of high-quality thinking. That is the state you want to be in when you are working with your Jarvis.
+When you speak, you stay in flow. Your brain operates at its best capacity. Ideas connect to other ideas. Two hours fly by and you realize you just produced a massive amount of high-quality thinking. That is the state you want to be in when you are working with your Personal Agentic OS.
 
 Two solid options:
 
@@ -109,13 +109,13 @@ If both commands print a version number, you are ready to install Claude Code.
 
 ### Step 1C: Install Claude Code
 
-Your terminal-based AI interface. This is the engine of the Jarvis. Important distinction: Claude Code on its own is not the Jarvis. The Jarvis is the combination of your file structure, your documented context, and how you use Claude Code to operate on all of it. Claude Code is simply the best engine for a Jarvis right now, but your files are yours. You could switch to a different AI tool tomorrow and keep everything.
+Your terminal-based AI interface. This is the engine of your Personal Agentic OS. Important distinction: Claude Code on its own is not the system. Your Personal Agentic OS is the combination of your file structure, your documented context, and how you use Claude Code to operate on all of it. Claude Code is simply the best engine for this right now, but your files are yours. You could switch to a different AI tool tomorrow and keep everything.
 
 **Why not just use ChatGPT, Gemini, or any other chatbot?** The big AI platforms (OpenAI, Google, etc.) want you locked into their ecosystem. Your conversation history lives on their servers. Your context resets every session or is trapped behind their interface. You cannot export it, version-control it, or run a different AI on top of it. They are designed to keep you coming back to their app, not to give you a system you own.
 
-The MVJ approach is the opposite. Your files live on your computer. They are plain markdown. Any AI tool can read them. If Anthropic triples their price tomorrow, or a better tool comes out next month, you take your files and walk. No export process, no migration headache. You are not a user of someone else's platform. You are the operator of your own system.
+The Personal Agentic OS approach is the opposite. Your files live on your computer. They are plain markdown. Any AI tool can read them. If Anthropic triples their price tomorrow, or a better tool comes out next month, you take your files and walk. No export process, no migration headache. You are not a user of someone else's platform. You are the operator of your own system.
 
-**This tutorial is not an ad for any AI company.** We default to Claude Code in this tutorial because it currently offers a strong balance of utility for this workflow. But the entire point of the MVJ architecture is that you are not locked in. When choosing your harness, find the one that maximizes a good balance of **utility, cost, and sovereignty**. You have options at every level:
+**This tutorial is not an ad for any AI company.** We default to Claude Code in this tutorial because it currently offers a strong balance of utility for this workflow. But the entire point of the Personal Agentic OS architecture is that you are not locked in. When choosing your harness, find the one that maximizes a good balance of **utility, cost, and sovereignty**. You have options at every level:
 
 - **Different harnesses.** Claude Code is one harness. Others exist and new ones are emerging constantly: [OpenCode](https://github.com/opencode-ai/opencode), Cursor, Pi, Hermes, and more. They all read files and run commands. The instructions in this tutorial default to Claude Code, but the overall usage patterns (brain dumps, user profiles, skill files, relationship files) work with any harness that can read your workspace. Check the [AI Dev Tool Power Rankings](https://blog.logrocket.com/ai-dev-tool-power-rankings/) or [Best AI Coding Agents comparison](https://www.faros.ai/blog/best-ai-coding-agents-2026) for current rankings.
 - **Different models within the same harness.** Even within Claude Code, you can swap models. You are not constrained to Anthropic's models. Other harnesses let you use any model you want.
@@ -175,7 +175,7 @@ Claude Code is not a chatbot. It reads your files, writes your files, runs comma
 
 ---
 
-## Phase 2: Set Up Your Jarvis Workspace
+## Phase 2: Set Up Your Personal Agentic OS Workspace
 
 ### Step 2A: VS Code
 
@@ -198,9 +198,9 @@ Visual Studio Code is your window into the file system. Download it for free fro
 2. Install the GitHub CLI so you can interact with GitHub from your terminal: `npm install -g gh` (you already have npm from Phase 1).
 3. Log in by typing `gh auth login` in your terminal and following the prompts.
 
-### Step 2C: Clone and Open Your Jarvis Workspace
+### Step 2C: Clone and Open Your Workspace
 
-We have created a starter repo with the default folder structure for your Jarvis. You are going to use Claude Code to clone it to your computer. This is a good first rep of telling Claude Code to do something for you.
+We have created a starter repo with the default folder structure for your Personal Agentic OS. You are going to use Claude Code to clone it to your computer. This is a good first rep of telling Claude Code to do something for you.
 
 **Use Claude Code to clone the repo:**
 
@@ -220,20 +220,20 @@ Claude Code will figure out the right location for your operating system. On Mac
 1. Open VS Code.
 2. Go to File > Open Folder (or `Ctrl+K Ctrl+O` on Windows, `Cmd+O` on Mac).
 3. Navigate to the folder that Claude Code just cloned and select it.
-4. Now open the terminal inside VS Code. This is important: you want the terminal to be scoped to your Jarvis folder.
+4. Now open the terminal inside VS Code. This is important: you want the terminal to be scoped to your workspace folder.
    - **Mac:** Terminal > New Terminal from the menu bar, or press `` Ctrl+` ``
    - **Windows:** Terminal > New Terminal from the menu bar, or press `` Ctrl+` ``
-5. In the VS Code terminal, type `clauded`. Claude Code is now running inside your Jarvis workspace and can see all the starter files.
+5. In the VS Code terminal, type `clauded`. Claude Code is now running inside your workspace and can see all the starter files.
 
 You are now in the cockpit. The left panel shows your file tree. The bottom panel is Claude Code in your terminal. The right panel is for viewing whatever file you are working on.
 
 **If you do not have Git installed or prefer to start from scratch**, you can skip the clone and tell Claude Code to create the folders for you instead. Start a Claude Code session and say:
 
-> "Create a folder called my-jarvis in a good location on my computer with subfolders for user, people, artifacts, meeting-transcripts, and skills. Also create a CLAUDE.md file that instructs you on how to operate as my business OS agent."
+> "Create a folder called my-agentic-os in a good location on my computer with subfolders for user, people, artifacts, meeting-transcripts, and skills. Also create a CLAUDE.md file that instructs you on how to operate as my business OS agent."
 
-The starter repo comes with five folders. Together, these form your [context lake](/docs/concepts/context-lake): the persistent memory layer that makes your Jarvis genuinely useful.
+The starter repo comes with five folders. Together, these form your [context lake](/docs/concepts/context-lake): the persistent memory layer that makes your Personal Agentic OS genuinely useful.
 
-- **user/** for your profile, voice, and anything that helps your Jarvis understand who you are
+- **user/** for your profile, voice, and anything that helps your Personal Agentic OS understand who you are
 - **people/** for relationship files (one per person)
 - **artifacts/** for strategic documents, decision records, status updates, and plans
 - **meeting-transcripts/** for raw or processed transcripts from conversations
@@ -259,11 +259,11 @@ Think of your AI agent as a chief of staff. What does a chief of staff need to b
 
 **Standard operating procedures.** Humans have SOPs. Agents have skill files: markdown documents that clearly describe exactly what the agent should do for a given task. Step by step, in plain English, often mixed with specific commands or scripts to run. You can co-write these with the agent (it knows how to talk to itself). Over time, your library of skill files turns your agent from a general-purpose assistant into a specialist that knows your operation.
 
-**A real example:** The [Applied AI Society](https://docs.appliedaisociety.org) is, as of March 2026, operated by one person. One. That one person runs events, writes newsletters, manages partnerships, creates strategic documents, drafts social media posts across platforms, processes meeting transcripts, maintains a CRM of hundreds of relationships, and publishes documentation. The way this is possible is a Jarvis with deep context.
+**A real example:** The [Applied AI Society](https://docs.appliedaisociety.org) is, as of March 2026, operated by one person. One. That one person runs events, writes newsletters, manages partnerships, creates strategic documents, drafts social media posts across platforms, processes meeting transcripts, maintains a CRM of hundreds of relationships, and publishes documentation. The way this is possible is a Personal Agentic OS with deep context.
 
-For example, there is a skill file called `aas-social-post` that drafts social media posts for X and LinkedIn. When it runs, it does not produce generic AI content. It has access to every past post, every brand guideline, every event recap, every strategy document, and every relationship file in the system. So it knows what the organization sounds like, what has already been posted, what is being promoted right now, and who to reference. The output sounds like it was written by the person running the org, because the agent has enough context to actually represent them. That is the difference between a chatbot and a Jarvis. Context compounds. One person plus a deeply contextualized AI chief of staff can do what used to require a team.
+For example, there is a skill file called `aas-social-post` that drafts social media posts for X and LinkedIn. When it runs, it does not produce generic AI content. It has access to every past post, every brand guideline, every event recap, every strategy document, and every relationship file in the system. So it knows what the organization sounds like, what has already been posted, what is being promoted right now, and who to reference. The output sounds like it was written by the person running the org, because the agent has enough context to actually represent them. That is the difference between a chatbot and a Personal Agentic OS. Context compounds. One person plus a deeply contextualized AI chief of staff can do what used to require a team.
 
-The Minimum Viable Jarvis is about building your [context lake](/docs/concepts/context-lake): the structured collection of markdown files that contains everything your AI needs to know about you, your operation, and your world. Getting the truth about your relationships, your thinking, and your decisions into files that AI can read is the foundation. The tools and skill files come later as you grow the system.
+The MVP Personal Agentic OS is about building your [context lake](/docs/concepts/context-lake): the structured collection of markdown files that contains everything your AI needs to know about you, your operation, and your world. Getting the truth about your relationships, your thinking, and your decisions into files that AI can read is the foundation. The tools and skill files come later as you grow the system.
 
 ### Step 3B: A Note on Security
 
@@ -273,7 +273,7 @@ The principle is simple: **human in the loop for anything consequential.** Your 
 
 The risk is not that AI is malicious. The risk is that it is confidently wrong, or that someone finds a way to inject instructions into content your agent processes (a technique called prompt injection). If your agent is reading emails and acting on them without oversight, a carefully crafted email could theoretically trick it into doing something you did not intend.
 
-Start with read-only connections and work your way up. Connect your calendar so the agent can see your schedule before you give it permission to modify it. Let it read your email before you let it send on your behalf. Build trust incrementally, the same way you would with a new hire. The MVJ as described in this guide is inherently safe: it is just files on your computer. The security considerations become more important as you expand into connected tools and automated workflows.
+Start with read-only connections and work your way up. Connect your calendar so the agent can see your schedule before you give it permission to modify it. Let it read your email before you let it send on your behalf. Build trust incrementally, the same way you would with a new hire. The MVP as described in this guide is inherently safe: it is just files on your computer. The security considerations become more important as you expand into connected tools and automated workflows.
 
 ---
 
@@ -283,7 +283,7 @@ This is what a first session looks like. Five exercises, about an hour total. By
 
 ### Step 4A: "Who Am I?" (15 minutes)
 
-This is the most important first step. Before your Jarvis can help you with anything, it needs to know who you are. The starter repo includes a skill file that will guide Claude Code through an interview with you.
+This is the most important first step. Before your Personal Agentic OS can help you with anything, it needs to know who you are. The starter repo includes a skill file that will guide Claude Code through an interview with you.
 
 Tell Claude Code:
 
@@ -291,13 +291,13 @@ Tell Claude Code:
 
 Claude Code will interview you one question at a time. It will ask about who you are, what you care about, how you make decisions, the current state of your operation, and your biggest strategic blocker. Use voice-to-text. Speak naturally. Do not overthink your answers.
 
-At the end, Claude Code will save a `user/USER.md` file that captures everything. This file is the foundation of your Jarvis. Every future conversation will be informed by it.
+At the end, Claude Code will save a `user/USER.md` file that captures everything. This file is the foundation of your Personal Agentic OS. Every future conversation will be informed by it.
 
 If you get stuck on a question and do not know the answer, just ask Claude Code: "Based on what you already know about me, what do you think?" It will offer its best guess, and you confirm or correct. This often surfaces insights you would not have articulated on your own.
 
-**The moment:** Your Jarvis now knows who you are. Not the LinkedIn version. The real version. Your goals, your values, your decision-making style, and the thing that is actually blocking you right now. This alone makes every future interaction 10x more useful.
+**The moment:** Your Personal Agentic OS now knows who you are. Not the LinkedIn version. The real version. Your goals, your values, your decision-making style, and the thing that is actually blocking you right now. This alone makes every future interaction 10x more useful.
 
-The `user/` folder is not limited to `USER.md`. You can add any file that helps your Jarvis understand you better. For example, a `user/voice-profile.md` that captures your writing style, your tone, how you handle conflict, how you communicate with different audiences. That way, anything your Jarvis writes on your behalf actually sounds like you. The principle is: the whole folder is about the agent getting to know who you are. Customize it to whatever matters for your situation.
+The `user/` folder is not limited to `USER.md`. You can add any file that helps your Personal Agentic OS understand you better. For example, a `user/voice-profile.md` that captures your writing style, your tone, how you handle conflict, how you communicate with different audiences. That way, anything your system writes on your behalf actually sounds like you. The principle is: the whole folder is about the agent getting to know who you are. Customize it to whatever matters for your situation.
 
 ### Step 4B: "What's My Plan?" (15 minutes)
 
@@ -309,7 +309,7 @@ If you skipped this during the interview, you can trigger it yourself:
 
 > "Based on my user profile, help me create a strategic plan for getting past my biggest blocker. Save it as an artifact."
 
-**The moment:** You walked in with a vague sense of being stuck. You are walking out with a concrete, written plan. Not generic advice from an AI that does not know you. A plan built from your actual context, your actual constraints, and your actual goals. This is what a Jarvis does.
+**The moment:** You walked in with a vague sense of being stuck. You are walking out with a concrete, written plan. Not generic advice from an AI that does not know you. A plan built from your actual context, your actual constraints, and your actual goals. This is what a Personal Agentic OS does.
 
 ### Step 4C: "Who Do I Know?" (10 minutes)
 
@@ -351,7 +351,7 @@ Watch what comes back. It won't be perfect. But it will be useful. And it will b
 
 ## Phase 5: The Daily Workflow
 
-Once your MVJ is set up, the default interaction pattern is simple: you speak, the system listens and routes.
+Once your MVP Personal Agentic OS is set up, the default interaction pattern is simple: you speak, the system listens and routes.
 
 ### Step 5A: Open Your Workspace
 
@@ -379,9 +379,9 @@ The brain dump is the lowest-friction way to keep your business OS current. You 
 
 ## Phase 6: Common Pitfalls (From Real Sessions)
 
-These are real issues that come up when people set up their MVJ for the first time. Knowing about them in advance saves frustration.
+These are real issues that come up when people set up their MVP Personal Agentic OS for the first time. Knowing about them in advance saves frustration.
 
-**Old computers will struggle.** If your laptop is 8 to 10+ years old, expect installations to take longer, and some tools may have compatibility issues that nobody on the development team is prioritizing. This is just the practical reality of how software companies allocate engineering resources. Everything in this guide will work on Windows, Mac, and Linux, but if your machine is very old, consider upgrading when you can. The MVJ does not require a powerful computer, but a reasonably modern one (last 5 years or so) will save you a lot of frustration.
+**Old computers will struggle.** If your laptop is 8 to 10+ years old, expect installations to take longer, and some tools may have compatibility issues that nobody on the development team is prioritizing. This is just the practical reality of how software companies allocate engineering resources. Everything in this guide will work on Windows, Mac, and Linux, but if your machine is very old, consider upgrading when you can. The MVP does not require a powerful computer, but a reasonably modern one (last 5 years or so) will save you a lot of frustration.
 
 **Slow internet makes tool installation painful.** Claude Code downloads a binary during installation. If your connection is spotty, this can time out or hang. Make sure you have a solid connection for the initial setup.
 
@@ -395,13 +395,13 @@ These are real issues that come up when people set up their MVJ for the first ti
 
 **Voice transcription quality can vary.** Apple's built-in dictation can regress across OS updates. If you notice accuracy dropping, switch to Superwhisper or Wispr Flow as your primary and keep the other as backup.
 
-**Don't try to make it perfect on day one.** The MVJ is a scaffold. It will be messy at first. That's fine. The structure will emerge as you use it. Resist the urge to spend three hours designing the perfect folder hierarchy before you've written a single document. Start writing. Reorganize later.
+**Don't try to make it perfect on day one.** The MVP is a scaffold. It will be messy at first. That's fine. The structure will emerge as you use it. Resist the urge to spend three hours designing the perfect folder hierarchy before you've written a single document. Start writing. Reorganize later.
 
 ---
 
-## Phase 7: Growing From MVJ to Full Business OS
+## Phase 7: Growing From MVP to Full Business OS
 
-The MVJ is the seed. Here's what the growth trajectory looks like.
+The MVP is the seed. Here's what the growth trajectory looks like.
 
 ### Step 7A: Week 1
 
@@ -441,7 +441,7 @@ A productive day might involve very little typing and a lot of thinking, convers
 
 The question is no longer "how do I get all this work done?" It's "am I defining reality accurately enough that the system can do good work on my behalf?"
 
-That's the shift. And it starts with the Minimum Viable Jarvis.
+That's the shift. And it starts with the MVP Personal Agentic OS.
 
 ---
 
@@ -453,9 +453,9 @@ That's the shift. And it starts with the Minimum Viable Jarvis.
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): Making your operation grep-able and editable by AI agents
 - [Voice Transcriber](/docs/legacy/voice-transcriber): Deeper dive on the voice-to-text tools that power the brain dump workflow
 - [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): High-leverage questions to program into your business OS
-- [Training the MVJ Workshop](/docs/playbooks/practitioner/training-the-mvj-workshop): If you want to teach others how to set up their Jarvis
+- [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): If you want to teach others how to set up their Personal Agentic OS
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the code wrapped around an AI model matters as much as the model itself, and why harnesses will soon improve themselves
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The concept behind the system you are building
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The concept behind the system you are building
 
 ---
 

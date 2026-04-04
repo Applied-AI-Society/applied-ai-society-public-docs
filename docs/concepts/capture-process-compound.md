@@ -84,7 +84,7 @@ You can have this edge. It does not require special talent. It requires a daily 
 ## Further Reading
 
 - [Compounding Docs](/docs/concepts/compounding-docs): The flywheel that makes this practice exponential
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The operating system you are feeding
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The operating system you are feeding
 - [Harness Engineering](/docs/concepts/harness-engineering): The agentic harness that makes processing fast
 - [Signalmaxxing](/docs/concepts/signalmaxxing): Keeping your knowledge base high-signal
 - [The Soul Harness](/docs/concepts/the-soul-harness): Your operating system as one component of your full life harness

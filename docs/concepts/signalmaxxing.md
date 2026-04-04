@@ -67,9 +67,9 @@ The higher the rate of change in your environment, the more critical it is to pr
 
 ## Why This Matters for Applied AI
 
-Your [Personal Jarvis](/docs/concepts/personal-jarvis) is a signalmaxxing machine. It takes the signal you produce (brain dumps, strategic documents, relationship files, decision records) and compounds it. Every piece of truth you put into the system makes the system's output higher-signal.
+Your [Personal Agentic OS](/docs/concepts/personal-agentic-os) is a signalmaxxing machine. It takes the signal you produce (brain dumps, strategic documents, relationship files, decision records) and compounds it. Every piece of truth you put into the system makes the system's output higher-signal.
 
-But garbage in, garbage out. If you are feeding your Jarvis noise (vague braindumps with no substance, copied articles you never processed, notes from meetings you were not paying attention in), the system produces noise back.
+But garbage in, garbage out. If you are feeding your Personal Agentic OS noise (vague braindumps with no substance, copied articles you never processed, notes from meetings you were not paying attention in), the system produces noise back.
 
 Signalmaxxing as a practice means being intentional about what you put into your system. Every brain dump should contain something true that was not documented before. Every relationship file should capture something genuinely useful. Every skill file should encode a workflow that actually works.
 
@@ -83,7 +83,7 @@ The [Applied AI Society](https://docs.appliedaisociety.org) exists to be a signa
 
 ## Further Reading
 
-- [Personal Jarvis](/docs/concepts/personal-jarvis): Your personal signalmaxxing machine
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your personal signalmaxxing machine
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): What happens when an entire organization signalmaxxes
 - [Legacy](/docs/legacy): The discipline of curating signal
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The opposite of signalmaxxing (chasing tools instead of outcomes)

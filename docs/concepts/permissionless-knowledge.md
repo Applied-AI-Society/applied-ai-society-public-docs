@@ -41,7 +41,7 @@ The course turns an open-ended request ("Can I pick your brain?") into a structu
 
 Not everything needs to be a course. Some expertise is better served by living documentation: articles, guides, FAQs, and reference material that anyone can access at any time.
 
-The [Applied AI Society docs](https://docs.appliedaisociety.org) are an example of this pattern. Instead of explaining the same concepts in every conversation, practitioners can share a link. "Here is what we mean by [harness engineering](/docs/concepts/harness-engineering)." "Here is the [MVJ playbook](/docs/playbooks/practitioner/minimum-viable-jarvis)." The conversation starts at a higher level because the basics are already covered.
+The [Applied AI Society docs](https://docs.appliedaisociety.org) are an example of this pattern. Instead of explaining the same concepts in every conversation, practitioners can share a link. "Here is what we mean by [harness engineering](/docs/concepts/harness-engineering)." "Here is the [MVP Personal Agentic OS playbook](/docs/playbooks/practitioner/mvp-personal-agentic-os)." The conversation starts at a higher level because the basics are already covered.
 
 Good permissionless documentation has a few properties:
 
@@ -55,7 +55,7 @@ Good permissionless documentation has a few properties:
 Beyond courses and docs, there are systems that actively deliver your expertise without you being present:
 
 - **Email sequences** that guide new people through your framework step by step
-- **AI-powered assistants** trained on your documented knowledge (your [Personal Jarvis](/docs/concepts/personal-jarvis) can serve others, not just you)
+- **AI-powered assistants** trained on your documented knowledge (your [Personal Agentic OS](/docs/concepts/personal-agentic-os) can serve others, not just you)
 - **Community forums** where experienced members answer questions that you would have answered yourself
 - **Templates and toolkits** that let people implement your approach without custom guidance
 
@@ -85,7 +85,7 @@ If you are an expert in any field and people regularly want your help, here is a
 
 **4. Create the filter.** When someone requests your time, point them to the course first. "Start here, and when you have questions about a specific module, I am happy to chat." This is not dismissive. It is respectful of both parties.
 
-**5. Automate the delivery.** Use [agent-accessible](/docs/concepts/agent-accessible-products) tools to deliver your knowledge. A Jarvis that can answer questions about your course content. An email sequence that drip-feeds the material. A community where graduates help newcomers.
+**5. Automate the delivery.** Use [agent-accessible](/docs/concepts/agent-accessible-products) tools to deliver your knowledge. A Personal Agentic OS that can answer questions about your course content. An email sequence that drip-feeds the material. A community where graduates help newcomers.
 
 **6. Iterate from real usage.** Pay attention to where people get stuck. Those sticking points are your next piece of content. Over time, the system gets better at serving people without you, and your direct time gets reserved for the conversations that genuinely require you.
 
@@ -109,4 +109,4 @@ The people who change industries are not the ones who have the most meetings. Th
 - [Liberation Architecture](/docs/concepts/liberation-architecture): The same principle applied to enterprise systems
 - [Agent-Accessible Products](/docs/concepts/agent-accessible-products): Making your knowledge accessible to AI agents, not just humans
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): How your knowledge systems can get better without you
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The AI layer that can serve your permissionless knowledge
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The AI layer that can serve your permissionless knowledge

@@ -52,7 +52,7 @@ Here is what the compounding docs flywheel looks like in practice, starting from
 
 **Month 3.** You have 100+ documents. The agent operates like a well-briefed chief of staff. It connects dots you did not see. It references a conversation from six weeks ago that is relevant to what you are working on today. It catches inconsistencies between your stated priorities and your actual behavior. The workspace is not just a filing cabinet. It is an intelligence layer.
 
-This is why the [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis) workshop starts with the user profile interview, not the tools. The tools are commodity. The context is the asset. The first document you write is the most important because it starts the flywheel.
+This is why the [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) workshop starts with the user profile interview, not the tools. The tools are commodity. The context is the asset. The first document you write is the most important because it starts the flywheel.
 
 ## For Practitioners
 
@@ -76,8 +76,8 @@ Start writing. The flywheel is waiting.
 
 - [Signalmaxxing](/docs/concepts/signalmaxxing): Why the quality of your documents matters as much as the quantity
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): The engineering pattern behind compounding docs
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The AI system that reads and acts on your documents
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The AI system that reads and acts on your documents
 - [Harness Engineering](/docs/concepts/harness-engineering): How agentic harnesses discover and use your context
 - [Legacy](/docs/legacy): The discipline of keeping your document library truthful and current
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Building tools that reduce friction, including the friction of documenting
-- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Where the flywheel starts
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where the flywheel starts

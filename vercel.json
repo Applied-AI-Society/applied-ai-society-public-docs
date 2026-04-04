@@ -1,3 +1,25 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/docs/concepts/personal-jarvis",
+      "destination": "/docs/concepts/personal-agentic-os",
+      "permanent": true
+    },
+    {
+      "source": "/docs/playbooks/practitioner/minimum-viable-jarvis",
+      "destination": "/docs/playbooks/practitioner/mvp-personal-agentic-os",
+      "permanent": true
+    },
+    {
+      "source": "/docs/playbooks/practitioner/training-the-mvj-workshop",
+      "destination": "/docs/playbooks/practitioner/training-the-workshop",
+      "permanent": true
+    },
+    {
+      "source": "/docs/roles/jarvis-trainer",
+      "destination": "/docs/roles/agentic-os-trainer",
+      "permanent": true
+    }
+  ]
 }

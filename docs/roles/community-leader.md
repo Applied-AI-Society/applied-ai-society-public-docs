@@ -17,7 +17,7 @@ The Applied AI Community Leader is the local operator for applied AI in their ar
 
 Three core functions:
 
-**1. Run events.** Practitioners sharing how they actually make money with applied AI. Hackathons where people build together. [MVJ workshops](/docs/playbooks/practitioner/training-the-mvj-workshop) where people set up their first [Personal Jarvis](/docs/concepts/personal-jarvis). The format matters less than the consistency. One event is a meetup. A recurring event is a movement.
+**1. Run events.** Practitioners sharing how they actually make money with applied AI. Hackathons where people build together. [workshops](/docs/playbooks/practitioner/training-the-workshop) where people set up their first [Personal Agentic OS](/docs/concepts/personal-agentic-os). The format matters less than the consistency. One event is a meetup. A recurring event is a movement.
 
 **2. Build the local network.** Know who the builders, founders, and operators are in your area. Connect people who should know each other. Find venues, speakers, photographers, and partners. Be the connective tissue between the global applied AI movement and your local community.
 
@@ -27,7 +27,7 @@ Three core functions:
 
 ## Why This Role Is Emerging Now
 
-Most people's exposure to AI is ChatGPT. They type a question, get an answer, and think "that's cool, I guess." The gap between that and a working [Personal Jarvis](/docs/concepts/personal-jarvis) is enormous. Content alone cannot close it. People need to see it done by someone they relate to, in a room they trust, in their own city.
+Most people's exposure to AI is ChatGPT. They type a question, get an answer, and think "that's cool, I guess." The gap between that and a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) is enormous. Content alone cannot close it. People need to see it done by someone they relate to, in a room they trust, in their own city.
 
 Every city needs someone who creates that room. Every campus needs one. The applied AI economy is emerging everywhere simultaneously, but the in-person infrastructure for learning about it barely exists. The Community Leader is the person who builds it.
 
@@ -64,7 +64,7 @@ Everything you need to run events and build community is documented and freely a
 - [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): A proven practitioner showcase format with a master checklist
 - [Running a Hackathon](/docs/playbooks/chapter-leader/running-a-hackathon): Co-hosted building events
 - [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session): Real business owner + real engineer, live
-- [MVJ Workshop](/docs/playbooks/practitioner/training-the-mvj-workshop): 4-hour hands-on Jarvis setup session
+- [Personal Agentic OS Workshop](/docs/playbooks/practitioner/training-the-workshop): 4-hour hands-on Personal Agentic OS setup session
 - [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue), [Speaker Outreach](/docs/playbooks/chapter-leader/speaker-outreach), [Event Promotion](/docs/playbooks/chapter-leader/event-promotion), [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships): The operational details
 - [CRM Setup](/docs/playbooks/chapter-leader/crm-setup): Tracking your community
 - [Writing Event Recaps](/docs/playbooks/chapter-leader/writing-and-sharing-event-recaps): Sharing what happened
@@ -102,6 +102,6 @@ This support is optional. The playbooks work without it. But if you want to be p
 
 - [Chapter Leader Playbooks](/docs/playbooks/chapter-leader): The full operational guide (24 pages covering events, partnerships, content, CRM, and more)
 - [The Encounter](/docs/concepts/the-encounter): Why in-person experiences matter
-- [Jarvis Trainer](/docs/roles/jarvis-trainer): The role that pairs naturally with Community Leader (run MVJ workshops at your events)
+- [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The role that pairs naturally with Community Leader (run Personal Agentic OS workshops at your events)
 - [Signalmaxxing](/docs/concepts/signalmaxxing): What your community should be
-- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): The tutorial your community members will go through
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): The tutorial your community members will go through

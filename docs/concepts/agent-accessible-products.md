@@ -31,7 +31,7 @@ An agent-accessible product exposes its core functionality through interfaces th
 
 ## Why This Is Urgent
 
-Agents are increasingly the ones deciding which tools get used. When a human tells their [Personal Jarvis](/docs/concepts/personal-jarvis) "schedule a meeting with Sarah next Tuesday," the agent picks the tool. If your calendar product has a CLI or API, the agent uses it. If your calendar product is a web-only GUI with no programmatic access, the agent uses a competitor that does have one.
+Agents are increasingly the ones deciding which tools get used. When a human tells their [Personal Agentic OS](/docs/concepts/personal-agentic-os) "schedule a meeting with Sarah next Tuesday," the agent picks the tool. If your calendar product has a CLI or API, the agent uses it. If your calendar product is a web-only GUI with no programmatic access, the agent uses a competitor that does have one.
 
 This is already happening:
 
@@ -46,7 +46,7 @@ The pattern is clear: the products that win in the agentic economy are the ones 
 
 There is a new kind of discoverability emerging. Call it agent SEO.
 
-Traditional SEO is about making your product findable by humans searching Google. Agent SEO is about making your product usable by agents operating on behalf of humans. When someone tells their [Personal Jarvis](/docs/concepts/personal-jarvis) to reconcile their books, the agent picks the tool. If your accounting software has a CLI and an API, the agent can use it without the human ever opening your website. If your competitor is GUI-only, the agent cannot use it at all.
+Traditional SEO is about making your product findable by humans searching Google. Agent SEO is about making your product usable by agents operating on behalf of humans. When someone tells their [Personal Agentic OS](/docs/concepts/personal-agentic-os) to reconcile their books, the agent picks the tool. If your accounting software has a CLI and an API, the agent can use it without the human ever opening your website. If your competitor is GUI-only, the agent cannot use it at all.
 
 The landscape is shifting. Darwinian selection is now favoring companies that make agents' lives easier. Your product's fitness is no longer just about the human experience. It is about the agent experience. Companies that expose CLIs, publish open source skill files for common workflows, and make their APIs trivially accessible will have better agent SEO. Their products will be the ones that agents recommend, integrate with, and default to.
 
@@ -106,20 +106,20 @@ Add a section to your documentation (or a standalone AGENTS.md file) that descri
 
 ## What to Do If You Use a Product
 
-When choosing tools for your operation, ask: "Can an agent use this?" If the answer is no, that tool has an expiration date. Prefer products with CLIs, APIs, and open data formats. Your [Personal Jarvis](/docs/concepts/personal-jarvis) can only be as capable as the tools it can access.
+When choosing tools for your operation, ask: "Can an agent use this?" If the answer is no, that tool has an expiration date. Prefer products with CLIs, APIs, and open data formats. Your [Personal Agentic OS](/docs/concepts/personal-agentic-os) can only be as capable as the tools it can access.
 
-This is also why the [MVJ architecture](/docs/playbooks/practitioner/minimum-viable-jarvis) uses plain markdown files instead of proprietary apps. Markdown is the most agent-accessible format there is. Any tool can read it. Any agent can write it. No vendor lock-in. No API key required.
+This is also why the [Personal Agentic OS architecture](/docs/playbooks/practitioner/mvp-personal-agentic-os) uses plain markdown files instead of proprietary apps. Markdown is the most agent-accessible format there is. Any tool can read it. Any agent can write it. No vendor lock-in. No API key required.
 
 ---
 
 ## Further Reading
 
 **Internal:**
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The system that uses agent-accessible tools
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that uses agent-accessible tools
 - [Harness Engineering](/docs/concepts/harness-engineering): How agents interact with tools through harnesses
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The organizational version of agent-accessibility
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where agent-accessible products lead at the business level
-- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): Why plain markdown beats proprietary formats
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Why plain markdown beats proprietary formats
 
 **External:**
 - [CLI Is the New API and MCP: Building Agent-Ready Tools](https://jonnyzzz.com/blog/2026/02/20/cli-tools-for-ai-agents/): Deep dive on CLI design principles for agents

@@ -53,7 +53,7 @@ The pattern is always the same: short-term comfort in exchange for long-term con
 
 **A liberating harness** does the opposite. It amplifies your sovereignty over time. The more you use it, the more capable and independent you become.
 
-A [Personal Jarvis](/docs/concepts/personal-jarvis) built on local files, open source tools, and plain markdown is a liberating harness. Your data stays on your computer. Your context is yours. If you switch models tomorrow, your files, your relationships, your strategic documents, your skill files all come with you. Nothing is lost. The harness made you more capable without making you dependent.
+A [Personal Agentic OS](/docs/concepts/personal-agentic-os) built on local files, open source tools, and plain markdown is a liberating harness. Your data stays on your computer. Your context is yours. If you switch models tomorrow, your files, your relationships, your strategic documents, your skill files all come with you. Nothing is lost. The harness made you more capable without making you dependent.
 
 A liberating harness in life looks like: a community where you grow and contribute (inner circles built on trust, not status). A workplace that invests in your growth and gives you equity in the outcome. A city where ambitious, generous people challenge you and open doors. Tools that respect your data and your sovereignty.
 
@@ -100,7 +100,7 @@ Choose your soul's harness. Then keep refining it. For the rest of your life.
 ## Further Reading
 
 - [Harness Engineering](/docs/concepts/harness-engineering): The technical concept that inspired this metaphor
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The liberating AI harness
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The liberating AI harness
 - [Signalmaxxing](/docs/concepts/signalmaxxing): Curating the signal quality of your harness inputs
 - [Context Overflow](/docs/concepts/context-overflow): What happens when your harness is overloaded
 - [Compounding Docs](/docs/concepts/compounding-docs): How your knowledge harness compounds over time

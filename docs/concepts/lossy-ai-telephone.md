@@ -54,7 +54,7 @@ What does this look like in practice?
 - Shared context: project goals, task lists, decisions made, decisions pending. All in plain text. All version-controlled. All accessible to every team member and their agents simultaneously.
 - A permission surface that determines who can see and edit what. Not everyone needs access to everything. But the information they do share should be the actual source of truth, not a lossy copy of it.
 
-This is a collective [Personal Jarvis](/docs/concepts/personal-jarvis). A shared Jarvis for the project. Instead of each person talking to their own AI about what the other person's AI said, everyone's AI reads from and writes to the same files.
+This is a collective [Personal Agentic OS](/docs/concepts/personal-agentic-os). A shared Personal Agentic OS for the project. Instead of each person talking to their own AI about what the other person's AI said, everyone's AI reads from and writes to the same files.
 
 ## Why This Works
 
@@ -98,7 +98,7 @@ Stop playing telephone. Start sharing the source code.
 
 - [Instruction Files](/docs/concepts/instruction-files): The file that tells your agents what to do
 - [Harness Engineering](/docs/concepts/harness-engineering): Building the system around the AI
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The individual version of the agentic OS
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The individual version of the agentic OS
 - [Compounding Docs](/docs/concepts/compounding-docs): Documentation as a compounding asset
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information
 - [The Soul Harness](/docs/concepts/the-soul-harness): Liberating vs. predatory systems at the life level

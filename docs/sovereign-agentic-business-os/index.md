@@ -85,7 +85,7 @@ If you're a business leader reading this, here's the practical reality:
 
 **The transition is happening now.** Companies are already moving from scattered SaaS to sovereign business operating systems. Every month you wait, the gap between your operational capacity and your competitors' widens.
 
-**You don't need to build it all at once.** Start with a [Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): a personal AI operating system for the CEO or a key executive. Experience the power of consolidated context firsthand. Then expand to the team and organizational level.
+**You don't need to build it all at once.** Start with a [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): a personal AI operating system for the CEO or a key executive. Experience the power of consolidated context firsthand. Then expand to the team and organizational level.
 
 **The practitioner matters more than the tool.** The difference between a business OS that transforms your company and one that becomes shelfware is the person (or team) who builds and maintains it. Find someone you trust. Invest in that relationship.
 
@@ -106,7 +106,7 @@ The Sovereign Agentic Business OS is not just a technical architecture. It's a s
 
 ## Further Reading
 
-- [The Minimum Viable Jarvis](/docs/playbooks/practitioner/minimum-viable-jarvis): How to start with a personal AI operating system today
+- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): How to start with a personal AI operating system today
 - [Business OS Administrator](/docs/roles/business-os-administrator): The emerging role responsible for maintaining organizational AI operating systems
 - [Legacy](/docs/legacy): The discipline of documenting the knowledge that powers your business OS
 - [Context Engineering](/docs/concepts/context-engineering): The skill of curating the right information for AI systems

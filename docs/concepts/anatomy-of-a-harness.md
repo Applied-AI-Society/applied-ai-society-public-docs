@@ -15,7 +15,7 @@ In late March 2026, the full TypeScript source code for Claude Code (Anthropic's
 
 For anyone who has read our [Harness Engineering](/docs/concepts/harness-engineering) article, this is an extraordinary opportunity. That article argued that the code wrapped around an AI model is just as important as the model itself, and cited the [MetaHarness](https://yoonholee.com/meta-harness/) research showing 6x performance gaps from harness variations alone. Now we can see exactly how the best harness in the world is built. Not in theory. In source code.
 
-What follows is a deep architectural analysis of Claude Code's harness, mapped to the concepts and frameworks that AAS practitioners use every day. If you are building a [Personal Jarvis](/docs/concepts/personal-jarvis), designing [games](/docs/concepts/game-design) for agents, or thinking about [self-improving systems](/docs/concepts/self-improving-enterprise), this is the engineering behind the curtain.
+What follows is a deep architectural analysis of Claude Code's harness, mapped to the concepts and frameworks that AAS practitioners use every day. If you are building a [Personal Agentic OS](/docs/concepts/personal-agentic-os), designing [games](/docs/concepts/game-design) for agents, or thinking about [self-improving systems](/docs/concepts/self-improving-enterprise), this is the engineering behind the curtain.
 
 ---
 
@@ -86,7 +86,7 @@ This architecture directly reflects the economics described in our [Context Engi
 
 The 200-line, 25KB limit on the MEMORY.md index is a hard constraint. If your memory index exceeds this, it gets truncated with a warning. This is not a bug. It is a design choice: the memory index must fit in context without crowding out the actual work.
 
-**For MVJ practitioners:** Your folder structure is literally the context architecture. When Claude Code starts a session in your project directory, it walks the tree looking for CLAUDE.md files and loads them as context. Every CLAUDE.md you write is an instruction to the harness. Every skill file is a lazy-loaded command. Every memory file is a piece of persistent knowledge that survives across sessions. Structure these files with the same care you would structure a database schema, because they are serving the same function.
+**For Personal Agentic OS practitioners:** Your folder structure is literally the context architecture. When Claude Code starts a session in your project directory, it walks the tree looking for CLAUDE.md files and loads them as context. Every CLAUDE.md you write is an instruction to the harness. Every skill file is a lazy-loaded command. Every memory file is a piece of persistent knowledge that survives across sessions. Structure these files with the same care you would structure a database schema, because they are serving the same function.
 
 ---
 
@@ -160,7 +160,7 @@ The harness discovers skills from three locations: bundled skills shipped with t
 
 Here is what this means: **the quality of your skill file directly determines the quality of the agent's output.** A vague skill file produces vague behavior. A precise skill file produces precise behavior. Same model. Same harness. Same tools. The only variable is the spec.
 
-This is the quality chain from [The Spec Is the Product](/docs/concepts/spec-writing) made real: **Spec quality -> System quality -> Outcome quality.** Every skill file you write for your Jarvis is a spec. Every CLAUDE.md is a spec. Every instruction you put in a context file is a spec. The model executes them literally.
+This is the quality chain from [The Spec Is the Product](/docs/concepts/spec-writing) made real: **Spec quality -> System quality -> Outcome quality.** Every skill file you write for your Personal Agentic OS is a spec. Every CLAUDE.md is a spec. Every instruction you put in a context file is a spec. The model executes them literally.
 
 ---
 
@@ -182,11 +182,11 @@ Three design choices stand out:
 
 **Write-through pattern.** The model writes memories in a two-step process: first write the memory file, then update the index. This ensures the index stays in sync with the files. If the model writes a file but fails to update the index, the memory exists on disk but won't be discovered. This is a deliberate trade-off: consistency of the index is more important than completeness.
 
-### The Personal Jarvis Connection
+### The Personal Agentic OS Connection
 
-The [Personal Jarvis](/docs/concepts/personal-jarvis) article describes five core components: user profile, relationship files, artifacts, transcripts, and skill files. Claude Code's memory system maps directly to this architecture:
+The [Personal Agentic OS](/docs/concepts/personal-agentic-os) article describes five core components: user profile, relationship files, artifacts, transcripts, and skill files. Claude Code's memory system maps directly to this architecture:
 
-| Jarvis Component | Claude Code Equivalent |
+| Personal Agentic OS Component | Claude Code Equivalent |
 |---|---|
 | User profile | `user` type memory files |
 | Relationship files | `project` and `reference` type memories |
@@ -194,7 +194,7 @@ The [Personal Jarvis](/docs/concepts/personal-jarvis) article describes five cor
 | Transcripts | Session transcripts (persisted to `session.json`) |
 | Skill files | Skills in `.claude/skills/` |
 
-The Jarvis architecture IS the harness architecture. When we tell practitioners to build a folder of markdown files, they are building the same system that powers the most capable AI tool in the world. The only difference is scale and sophistication.
+The Personal Agentic OS architecture IS the harness architecture. When we tell practitioners to build a folder of markdown files, they are building the same system that powers the most capable AI tool in the world. The only difference is scale and sophistication.
 
 ---
 
@@ -303,7 +303,7 @@ From this analysis, ten engineering patterns emerge that define what makes Claud
 | 9 | **Budget persistence through compaction** | Long-running sessions never lose track of cost and progress |
 | 10 | **Declarative plugin registration** | Capabilities declared upfront, loaded on demand, evolved independently |
 
-Every one of these patterns is something a practitioner can apply at a simpler scale when building client systems, personal Jarvis setups, or enterprise agent architectures. You do not need 800,000 lines of TypeScript to use these patterns. You need the principles.
+Every one of these patterns is something a practitioner can apply at a simpler scale when building client systems, Personal Agentic OS setups, or enterprise agent architectures. You do not need 800,000 lines of TypeScript to use these patterns. You need the principles.
 
 ---
 
@@ -315,7 +315,7 @@ When you write a CLAUDE.md file for your project, you are writing Layer 3 of the
 
 ### Your Skill Files Are Specs
 
-Every skill file you write for your Jarvis is a spec that the model follows literally. If your skill says "ask the user for context before proceeding," the model asks. If your skill says "write the output to artifacts/," the model writes there. The spec IS the product.
+Every skill file you write for your Personal Agentic OS is a spec that the model follows literally. If your skill says "ask the user for context before proceeding," the model asks. If your skill says "write the output to artifacts/," the model writes there. The spec IS the product.
 
 ### Your Folder Structure Is Your Context Architecture
 
@@ -352,7 +352,7 @@ All software will be self-evolving software. We just got to see the source code 
 - [Intent Engineering](/docs/concepts/intent-engineering): What the permission system is really encoding
 - [The Spec Is the Product](/docs/concepts/spec-writing): Why skill files as markdown specs matter
 - [Game Design](/docs/concepts/game-design): The framework that tools, permissions, and budgets implement
-- [Personal Jarvis](/docs/concepts/personal-jarvis): The practitioner-scale version of this architecture
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The practitioner-scale version of this architecture
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where recursive harness improvement leads
 - [The Token Economy](/docs/concepts/the-token-economy): Why budget tracking is not optional
 - [Liberation Architecture](/docs/concepts/liberation-architecture): The pattern that plugins implement at the code level
