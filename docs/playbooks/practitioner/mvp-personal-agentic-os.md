@@ -206,17 +206,22 @@ Visual Studio Code is your window into the file system. Download it for free fro
 
 We have created a starter repo with the default folder structure for your Personal Agentic OS. You are going to use Claude Code to clone it to your computer. This is a good first rep of telling Claude Code to do something for you.
 
-**Use Claude Code to clone the repo:**
+**Use Claude Code to clone and personalize the repo:**
 
 1. Open any terminal on your computer (you do not need to be in any particular folder).
 2. Type `clauded` to start a Claude Code session (using the alias you set up in Step 1D).
 3. Tell it something like:
 
-> "Clone the repo at github.com/Applied-AI-Society/minimum-viable-jarvis into a folder that makes sense on my computer for storing projects. If I don't have a folder for that yet, create one."
+> "Clone the repo at github.com/Applied-AI-Society/minimum-viable-jarvis into a folder that makes sense on my computer for storing projects. If I don't have a folder for that yet, create one. After cloning, ask me what I want to name my workspace and what my name is, then rename the folder and update all the files (CLAUDE.md, README, etc.) to reflect my name and workspace name."
 
-Claude Code will figure out the right location for your operating system. On Mac, it might put it in `~/Documents/github-repos/` or `~/Projects/`. On Windows, it might use `C:\Users\YourName\Documents\`. It will ask you to approve the commands. Let it do its thing.
+Claude Code will figure out the right location for your operating system. On Mac, it might put it in `~/Documents/github-repos/` or `~/Projects/`. On Windows, it might use `C:\Users\YourName\Documents\`. Then it will ask you two quick questions:
 
-4. Once the clone is done, note the folder path that Claude Code tells you it cloned into. You will need this in a moment.
+- **What do you want to call your workspace?** Pick something that feels like yours. Your name, your company name, a codename. Examples: `sarah-command-center`, `apex-os`, `my-jarvis`. This becomes the folder name and shows up in your file tree every day, so make it something you like.
+- **What is your name?** So it can personalize the CLAUDE.md and any starter files with your identity.
+
+Claude Code will rename the folder, update the internal files, and personalize the workspace so it feels like yours from the first moment. This is your system, not a generic template.
+
+4. Once the clone and personalization is done, note the folder path that Claude Code tells you it cloned into. You will need this in a moment.
 5. Type `/exit` to quit the Claude Code session.
 
 **Open the workspace in VS Code:**
@@ -233,7 +238,7 @@ You are now in the cockpit. The left panel shows your file tree. The bottom pane
 
 **If you do not have Git installed or prefer to start from scratch**, you can skip the clone and tell Claude Code to create the folders for you instead. Start a Claude Code session and say:
 
-> "Create a folder called my-agentic-os in a good location on my computer with subfolders for user, people, artifacts, meeting-transcripts, and skills. Also create a CLAUDE.md file that instructs you on how to operate as my business OS agent."
+> "Create a folder for my Personal Agentic OS in a good location on my computer. Ask me what I want to name it and what my name is. Set up subfolders for user, people, artifacts, meeting-transcripts, and skills. Create a CLAUDE.md file personalized with my name that instructs you on how to operate as my chief of staff."
 
 The starter repo comes with five folders. Together, these form your [context lake](/docs/concepts/context-lake): the persistent memory layer that makes your Personal Agentic OS genuinely useful.
 
