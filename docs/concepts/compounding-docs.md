@@ -79,5 +79,6 @@ Start writing. The flywheel is waiting.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The AI system that reads and acts on your documents
 - [Harness Engineering](/docs/concepts/harness-engineering): How agentic harnesses discover and use your context
 - [Legacy](/docs/legacy): The discipline of keeping your document library truthful and current
+- [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why the human is the bottleneck and how writing fixes it
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Building tools that reduce friction, including the friction of documenting
 - [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where the flywheel starts

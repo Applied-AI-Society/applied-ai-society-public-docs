@@ -90,4 +90,5 @@ The [Applied AI Society](https://docs.appliedaisociety.org) exists to be a signa
 - [Context Overflow](/docs/concepts/context-overflow): The dark side of being high-signal: when the demand for your attention exceeds your capacity
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): How to serve the people your signal attracts without burning out
 - [Compounding Docs](/docs/concepts/compounding-docs): Your document library is a signal channel. Every high-signal doc you write makes your AI agent smarter.
+- [Externalize Your Brain](/docs/concepts/externalize-your-brain): Getting your thinking into plain text so AI can amplify it
 - [Signal Theory: The Architecture of Optimal Intent Encoding](https://zenodo.org/records/18774174) by Roberto H. Luna: The formal framework behind the concepts in this article

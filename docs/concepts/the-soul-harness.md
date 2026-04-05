@@ -105,5 +105,6 @@ Choose your soul's harness. Then keep refining it. For the rest of your life.
 - [Context Overflow](/docs/concepts/context-overflow): What happens when your harness is overloaded
 - [Compounding Docs](/docs/concepts/compounding-docs): How your knowledge harness compounds over time
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Building harness components that serve people without requiring your presence
+- [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why human development is the prerequisite for AI amplification
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Freeing value trapped inside predatory systems
 - [The Applied AI Canon](/docs/philosophy/canon): The philosophical foundation. Efficiency is a tool; more soul-requiring work is the goal

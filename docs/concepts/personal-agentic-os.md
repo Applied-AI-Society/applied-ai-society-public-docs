@@ -72,4 +72,5 @@ The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the prog
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the code around the model matters as much as the model
 - [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The full sovereignty philosophy
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your AI knows
+- [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why the bottleneck is you, not the tools, and how to fix it
 - [Game Design](/docs/concepts/game-design): Designing objectives, rules, and guardrails for your agents

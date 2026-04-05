@@ -102,4 +102,5 @@ The applied AI economy does not need to be a rich person's game. But right now, 
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): What happens when the gap widens
 - [Context Lake](/docs/concepts/context-lake): What you are building once you have the infrastructure
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that compounds on top of this foundation
+- [Externalize Your Brain](/docs/concepts/externalize-your-brain): What you do once you have the infrastructure
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Making the knowledge layer free even when the infrastructure layer is not
