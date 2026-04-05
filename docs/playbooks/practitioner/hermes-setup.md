@@ -1,12 +1,22 @@
 ---
 sidebar_label: "Hermes Setup"
 title: "Setting Up Hermes Agent"
-description: "A detailed guide to installing, configuring, and getting the most out of Hermes Agent as your personal AI agent."
+description: "A detailed guide to installing, configuring, and getting the most out of Hermes Agent — the open source agent that replaces Claude Code and OpenClaw in one tool."
 ---
 
 # Setting Up Hermes Agent
 
-[Hermes Agent](https://hermes-agent.nousresearch.com) is an open source, CLI-first AI agent by Nous Research. It reads your files, writes your files, runs commands, manages scheduled tasks, and integrates with messaging platforms. It is the engine behind the Personal Agentic OS.
+[Hermes Agent](https://hermes-agent.nousresearch.com) is an open source autonomous AI agent by [Nous Research](https://nousresearch.com) — a research company that builds frontier open source AI models (the Hermes model family) and now full agent infrastructure. Hermes is named after the AI model line they are known for.
+
+## Why Hermes
+
+Hermes is Claude Code and OpenClaw in one tool. It gives you the AI coding agent that reads files, writes files, runs commands, and operates inside your workspace — plus the always-on agent that runs cron jobs, manages messaging platforms, maintains persistent memory, and keeps working when your terminal session is gone.
+
+For context: before Hermes, the Applied AI Society ran on OpenClaw + Claude (~$200/mo in API costs). Cron jobs were timing out. Skills were scattered across three directories, half invisible to the primary agent. Four out of six active cron jobs were failing. The agent was broken and costing $200/month for it to be broken.
+
+The migration to Hermes + Qwen 3.6 via OpenRouter's free tier brought the monthly inference cost to zero. Same cron jobs. Same Telegram delivery. Same skills. Same memory. Same triage. Better reliability.
+
+That is what Hermes makes possible: an agent system with zero marginal cost per message. Run the heartbeat, the triage, the morning briefing with deeper context, additional subagents for research — the economic friction is gone. You stop optimizing for API cost and start optimizing for capability.
 
 ## Quick Install
 
