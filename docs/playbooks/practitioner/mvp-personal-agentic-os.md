@@ -42,14 +42,14 @@ Here is the cost breakdown upfront:
 
 | Tool | Cost | Notes |
 |------|------|-------|
-| Hermes Agent | Free, open source | Installed via one-line installer. Handles all dependencies automatically. |
-| LLM API Key | Free tier available | **OpenRouter has high-powered models for free** — Qwen 3.6 Plus, Gemma, and others. No credit card required. Paid tiers like Claude ($200/mo) are optional. |
-| VS Code | Free, open source | Made by Microsoft |
-| Git | Free, open source | Version control |
-| GitHub | Free | Paid tiers exist but you do not need them |
-| Superwhisper | Free tier available | Voice-to-text, fully local |
-| Wispr Flow | ~$10/mo | Voice-to-text, cloud-based |
-| Granola | Free tier available | Meeting transcription (optional) |
+| [Hermes Agent](https://hermes-agent.nousresearch.com) | Free, open source | Installed via one-line installer. Handles all dependencies automatically. |
+| [LLM API Key](https://openrouter.ai) ([OpenRouter](https://openrouter.ai)) | Free tier available | **OpenRouter has high-powered models for free** — Qwen 3.6 Plus, Gemma, and others. No credit card required. Paid tiers like Claude (~$200/mo) are optional. |
+| [VS Code](https://code.visualstudio.com) | Free, open source | Made by Microsoft |
+| [Git](https://git-scm.com) | Free, open source | Version control |
+| [GitHub](https://github.com) | Free | Paid tiers exist but you do not need them |
+| [Superwhisper](https://superwhisper.com) | Free tier available | Voice-to-text, fully local |
+| [Wispr Flow](https://wisprflow.ai) | ~$10/mo | Voice-to-text, cloud-based |
+| [Granola](https://granola.ai) | Free tier available | Meeting transcription (optional) |
 
 ### Step 1A: Voice-to-Text
 
