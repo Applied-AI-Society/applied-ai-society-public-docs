@@ -1,49 +1,65 @@
 [
   {
-    "title": "The Sovereignty Stack",
-    "link": "/docs/concepts/the-sovereignty-stack",
-    "date": "2026-04-03",
-    "summary": "Own your future. Every layer of your digital life has a default version controlled by someone who is not you. Here is...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Zero-Question Assessments",
-    "link": "/docs/concepts/zero-question-assessments",
-    "date": "2026-04-03",
-    "summary": "Your context lake already has the answers. Stop asking questions your files can answer for you.",
-    "tag": "New"
-  }
-,
-  {
-    "title": "The Lock-In Is Coming",
-    "link": "/docs/concepts/the-lock-in-is-coming",
-    "date": "2026-04-03",
-    "summary": "Every VC-backed hyperscaler with proprietary models will eventually move to lock you in. This is not a prediction. It...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Context Lake",
-    "link": "/docs/concepts/context-lake",
-    "date": "2026-04-03",
-    "summary": "The collection of everything your AI knows about you, your operation, and your world.",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Harness Engineering",
-    "link": "/docs/concepts/harness-engineering",
-    "date": "2026-04-03",
-    "summary": "The code wrapped around an AI model is just as important as the model itself. And soon, that code will write itself.",
+    "title": "Compounding Docs",
+    "link": "/docs/concepts/compounding-docs",
+    "date": "2026-04-04",
+    "summary": "Every document you write makes your AI agent smarter. Every smarter agent output makes the next document faster. This...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Instruction Files",
-    "link": "/docs/concepts/instruction-files",
-    "date": "2026-04-03",
-    "summary": "The new unit of programming is not a function. It is a markdown file that tells an agent how to behave.",
+    "title": "Context Engineering",
+    "link": "/docs/concepts/context-engineering",
+    "date": "2026-04-04",
+    "summary": "The skill that separates \"AI is okay\" from \"AI changed how I work.\" And the one most people are skipping.",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Externalize Your Brain",
+    "link": "/docs/concepts/externalize-your-brain",
+    "date": "2026-04-04",
+    "summary": "The bottleneck is you, not the tools. AI is so abundant and powerful that the human is now the constraint. The fix is...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Minimum Viable Infrastructure",
+    "link": "/docs/concepts/minimum-viable-infrastructure",
+    "date": "2026-04-04",
+    "summary": "The baseline requirements to participate in the applied AI economy. They are higher than most people realize, and alm...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Personal Agentic OS",
+    "link": "/docs/concepts/personal-agentic-os",
+    "date": "2026-04-04",
+    "summary": "A personal AI system that operates from your context, compounds over time, and is owned entirely by you. Think Tony S...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Signalmaxxing",
+    "link": "/docs/concepts/signalmaxxing",
+    "date": "2026-04-04",
+    "summary": "The deliberate practice of maximizing Signal-to-Noise Ratio across every channel you operate in: your feeds, your con...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "The Soul Harness",
+    "link": "/docs/concepts/the-soul-harness",
+    "date": "2026-04-04",
+    "summary": "A large language model is useless without a harness. So is a human.",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "The Sovereignty Stack",
+    "link": "/docs/concepts/the-sovereignty-stack",
+    "date": "2026-04-04",
+    "summary": "Own your future. Every layer of your digital life has a default version controlled by someone who is not you. Here is...",
     "tag": "Updated"
   }
 ]
