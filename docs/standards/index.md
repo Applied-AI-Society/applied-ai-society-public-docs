@@ -24,4 +24,9 @@ That's not installation (getting the tool on your machine). It's not documentati
 
 Applied AI Society identifies emerging patterns in the agent tooling ecosystem and publishes lightweight specs so teams can build on shared conventions instead of reinventing them.
 
-Our first standard is [INTEGRATE.md](/docs/standards/integrate-md) -- a file format for teaching AI agents how to wire a library into any codebase.
+Our standards so far:
+
+1. [INTEGRATE.md](/docs/standards/integrate-md): a file format for teaching AI agents how to wire a library into any codebase.
+2. [ALIGN.md](/docs/standards/align-md): a file format for teaching AI agents how to evaluate alignment between organizations, people, or entities. It answers the question: "Are we aligned? Should we work together?"
+
+INTEGRATE.md is technical (how to wire things in). ALIGN.md is relational (whether to work together at all). Together, they cover two of the most common questions agents face when operating across organizational boundaries.

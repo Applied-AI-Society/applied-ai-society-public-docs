@@ -20,6 +20,16 @@ INTEGRATE.md is a file format for teaching AI coding agents how to wire a librar
 
 The key difference: INTEGRATE.md assumes the agent is working in a codebase it already understands, and needs to add capabilities from an external library. The agent knows the target. It needs to learn the source.
 
+## Required Metadata
+
+Every INTEGRATE.md must start with a `last_updated` date. This is how agents know whether the integration instructions are current. Libraries change. APIs break. An INTEGRATE.md without a date is untrustworthy. An INTEGRATE.md older than 6 months should be treated as potentially stale.
+
+```markdown
+<!-- last_updated: 2026-04-05 -->
+```
+
+Place this as the first line of the file, before any content. Use ISO 8601 format (YYYY-MM-DD). Update it every time you change the integration steps.
+
 ## Required Sections
 
 Every INTEGRATE.md must include these sections, in this order.
@@ -117,6 +127,8 @@ The audience is an agent that already has context on the target codebase. Give i
 Copy this as a starting point:
 
 ````markdown
+<!-- last_updated: YYYY-MM-DD -->
+
 # Add [Library] Support to This [Project Type]
 
 You are adding [library] support to this [project type]. [One sentence on what the library does and why it matters here.]
@@ -222,6 +234,18 @@ Now read this codebase. Understand what it does, what its core concepts are, and
 
 Then create an `INTEGRATE.md` at the repo root following the spec you just read.
 ````
+
+## Standard Footer
+
+Every INTEGRATE.md should end with a link back to the spec. This is how the standard spreads: someone's agent reads your INTEGRATE.md, sees the spec link, and now their human knows the format exists.
+
+```markdown
+---
+
+*This file follows the [INTEGRATE.md standard](https://docs.appliedaisociety.org/docs/standards/integrate-md),
+an open format for teaching AI agents how to integrate libraries into codebases.
+Publish your own: https://docs.appliedaisociety.org/docs/standards/integrate-md*
+```
 
 ## Version Note
 
