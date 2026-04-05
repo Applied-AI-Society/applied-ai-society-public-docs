@@ -43,7 +43,7 @@ Here is the cost breakdown upfront:
 | Tool | Cost | Notes |
 |------|------|-------|
 | [Hermes Agent](https://hermes-agent.nousresearch.com) | Free, open source | Installed via one-line installer. Handles all dependencies automatically. |
-| [LLM API Key](https://openrouter.ai) ([OpenRouter](https://openrouter.ai)) | Free tier available | **OpenRouter has high-powered models for free** — Qwen 3.6 Plus, Gemma, and others. No credit card required. Paid tiers like Claude (~$200/mo) are optional. |
+| [OpenRouter](https://openrouter.ai) | Free tier available | High-powered models on a free tier — Qwen 3.6 Plus, Gemma, and more. No credit card required. Paid models like Claude (~$200/mo) are optional. |
 | [VS Code](https://code.visualstudio.com) | Free, open source | Made by Microsoft |
 | [Git](https://git-scm.com) | Free, open source | Version control |
 | [GitHub](https://github.com) | Free | Paid tiers exist but you do not need them |
@@ -94,13 +94,13 @@ The installer handles everything automatically: Python, Node.js, ripgrep, ffmpeg
 source ~/.zshrc  # or source ~/.bashrc
 ```
 
-Then configure your LLM provider:
+Then configure your model:
 
 ```bash
 hermes model
 ```
 
-Pick your provider (OpenRouter, Anthropic, OpenAI, or any other) and follow the prompts. You will need at least one API key. **We recommend starting with OpenRouter** — it gives you access to Qwen 3.6 Plus and other high-powered models on a free tier, so you can run a capable agent system at zero cost. Paid tiers like Claude are optional.
+Select OpenRouter as your provider and enter your API key (free tier, no credit card). You can also use Anthropic, OpenAI, or any other provider — but OpenRouter gives you Qwen 3.6 Plus and other capable models for free.
 
 **First launch:** Type `hermes` in your terminal. If this is your first time, Hermes will walk you through its setup flow. Follow the prompts to authenticate and pick your preferences.
 
