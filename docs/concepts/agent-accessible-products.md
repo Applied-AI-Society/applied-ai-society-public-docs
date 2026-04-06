@@ -115,6 +115,7 @@ This is also why the [Personal Agentic OS architecture](/docs/playbooks/practiti
 ## Further Reading
 
 **Internal:**
+- [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): The next evolution of agent-accessible software
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that uses agent-accessible tools
 - [Harness Engineering](/docs/concepts/harness-engineering): How agents interact with tools through harnesses
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The organizational version of agent-accessibility

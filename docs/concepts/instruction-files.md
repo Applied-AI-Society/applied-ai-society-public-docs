@@ -146,3 +146,4 @@ This is [context engineering](/docs/concepts/context-engineering) at its most pr
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information state
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that instruction files configure
 - [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where you write your first instruction files
+- [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): Where skills end and full programs begin

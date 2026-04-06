@@ -85,4 +85,5 @@ All software will be self-evolving software. The question is not whether this ha
 - [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Your first harness
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system the harness powers
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where self-improving harnesses lead at the business level
+- [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): What gets built on top of harnesses
 - [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The philosophy of owning your own system
