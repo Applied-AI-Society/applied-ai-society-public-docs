@@ -23,7 +23,7 @@ People are being quoted $10,000 to $15,000 to build apps that AI tools can now p
 
 But before you rush to save money by building it yourself, ask a harder question: **should this app exist at all?**
 
-The world is drowning in what we call the slop apocalypse. AI makes it trivially easy to generate apps, content, and features that add nothing of value. More lines of code do not mean more progress. More token spend does not mean more progress. The only real sign of progress is whether the thing you built is serving people in a way that makes them want to keep coming back.
+The world is drowning in what we call the slopacalypse. AI makes it trivially easy to generate apps, content, and features that add nothing of value. More lines of code do not mean more progress. More token spend does not mean more progress. The only real sign of progress is whether the thing you built is serving people in a way that makes them want to keep coming back.
 
 If you already have customers, relationships, and a business that works, the app should serve that business. If you are starting from scratch with no idea who the customer is, you are probably not ready to build an app. You are ready to [scope a pilot](/docs/playbooks/business-owner/pilot-scope).
 
