@@ -19,6 +19,8 @@ This is the slopacalypse. Not a future risk. The present reality.
 
 The tools keep getting better. The cost keeps going down. And the percentage of what gets built that actually matters to anyone keeps shrinking. We are drowning in software that was born from "I wonder if I could build this" rather than "someone needs this and I am the right person to build it."
 
+Consider Y Combinator CEO Garry Tan, who posted in March 2026 about shipping ~37,000 lines of code per day using AI tools. The tech community quickly dissected one of the resulting sites and found bloated server requests, rookie architectural mistakes, and the kind of code that optimizes for volume over substance. This is not a criticism of Tan specifically. It is a perfect illustration of the slopacalypse's central trap: the activity of building feels like progress. Lines of code feel like progress. Token spend feels like progress. None of it is progress until a real human being's life is measurably better. If the head of the world's most prestigious startup accelerator can confuse output with outcome, the trap is real for all of us.
+
 ## Why Most of It Will Fail
 
 The slopacalypse is not just about volume. It is about trust.
@@ -67,19 +69,15 @@ Super suits for all.
 
 ## How to Survive the Slopacalypse
 
-The businesses and technologies that will stand out are the ones built with genuine inspiration and genuine service. Not "we saw a market opportunity." Not "AI makes this possible now." Those are fine starting points, but they produce commodity output in a commodity world.
+The businesses and technologies that will stand out are the ones built from something deeper than opportunity analysis. You can obviously build apps without any spiritual conviction. Many successful products are born from pure market insight. But the ones that break through the noise of a million AI-generated competitors tend to share a quality that is hard to manufacture: the builder knows, with a conviction that precedes the spreadsheet, that this thing is supposed to exist. That conviction might come from years of domain experience, from a problem that kept you up at night, from a community that is begging for a solution. Or it might come from somewhere higher. Whatever the source, the clearest specs come from downloads, not pivot tables.
 
 What survives the slopacalypse:
 
-**1. Specificity.** Serve a specific group of people you actually know. Model them in high fidelity. Build for their actual problems, not the abstracted version of their problems. The more specific your service, the harder it is to replicate.
+**1. Specificity and real feedback loops.** Serve specific people you actually know. Model them in high fidelity. Build for their actual problems, not the abstracted version. Then let them shape what you build. The slopacalypse is partly caused by builders who never talk to the people using their tools. Your advantage is that you can. Every iteration that reflects real feedback deepens trust and compounds heartshare. The app is not the product. The relationship is the product. The app is just the current expression of your understanding. That understanding should get deeper every week, and the technology should reflect it. This is the [self-improving enterprise](/docs/concepts/self-improving-enterprise) in practice.
 
-**2. Feedback loops.** The slopacalypse is partly caused by builders who never talk to the people using their tools. Your advantage is that you can. Build the feedback loop into the product from day one. Let the people you serve shape what you build. This is how heartshare compounds: every iteration that reflects real feedback deepens trust.
+**2. Purpose that precedes the technology.** If you cannot explain why this thing needs to exist without referencing AI, it probably does not need to exist. The technology is a means. The purpose is what keeps you building when the dopamine of the initial launch fades and the real work of serving people begins.
 
-**3. Continuous improvement.** The app is not the product. The relationship is the product. The app is just the current expression of your understanding of what the people you serve actually need. That understanding should get deeper every week, and the technology should reflect it. This is the [self-improving enterprise](/docs/concepts/self-improving-enterprise) in practice.
-
-**4. Purpose that precedes the technology.** If you cannot explain why this thing needs to exist without referencing AI, it probably does not need to exist. The technology is a means. The purpose is what keeps you building when the dopamine of the initial launch fades and the real work of serving people begins.
-
-**5. Heartshare over mindshare.** Stop optimizing for attention. Optimize for trust. The attention economy is dying. What replaces it is the trust economy, where people buy from and build with people whose character they believe in. Your character is your moat. Your integrity is your distribution. Your reputation among the specific people you serve is worth more than a million impressions.
+**3. Heartshare over mindshare.** Stop optimizing for attention. Optimize for trust. The attention economy is dying. What replaces it is the trust economy, where people buy from and build with people whose character they believe in. Your character is your moat. Your integrity is your distribution. Your reputation among the specific people you serve is worth more than a million impressions.
 
 ## The Practitioner's Opportunity
 

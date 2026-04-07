@@ -56,7 +56,7 @@ Not demoing it. Not showing it to friends. Using it. For real. In your actual wo
 
 This is how you find out whether the thing you built is adding genuine value or whether it is just a collection of buttons and screens that felt exciting to create. The dopamine rush of watching AI write code and produce something visual is real. It is also misleading. Building something feels like progress. Watching lines of code appear feels like progress. It is not progress until someone (starting with you) is getting real value from using it.
 
-There is a reason people are [calling out prominent tech figures](https://x.com) for falling into this trap: it is easy to confuse the activity of building with the outcome of serving. Building is a means. Serving is the end.
+Consider Y Combinator CEO Garry Tan, who posted in March 2026 about shipping ~37,000 lines of code per day across five projects using AI coding tools. The tech community's response was swift and instructive: [developers pointed out](https://news.ycombinator.com) bloated server requests, rookie architectural mistakes, and the fundamental confusion of output volume with output quality. Lines of code is not a productivity metric. Token spend is not a productivity metric. Customer value is the only metric that matters. If the head of the world's most prestigious startup accelerator can fall into this trap, so can you. Stay grounded.
 
 So get to the minimum version as quickly as you can. Put it in your own hands. Use it for a week. Notice what is missing. Notice what you never touch. Notice what annoys you. That feedback is worth more than any spec refinement you could do in the abstract.
 
@@ -80,11 +80,13 @@ The free tier is functional. The first paid tier is around $20 per month. Many p
 
 ### Vibe Design
 
-Before you even open Replit, consider doing what we call vibe design. Tools like Google Quick Stitch let you rapidly create wireframes and mockups by describing what you want verbally or sketching on paper.
+Before you even open Replit, consider doing what we call **vibe design**: describing the desired look, feel, and user experience in natural language (or with images, sketches, voice) and letting an AI tool generate high-fidelity interfaces instead of you building them pixel by pixel.
 
-The idea is simple: iterate on how the app looks and feels before you commit to building it. Attach reference images. Sketch on a napkin and photograph it. Describe the layout in plain language. These tools turn rough ideas into visual prototypes fast enough that you can explore ten directions in an hour.
+[Google Stitch](https://stitch.withgoogle.com) is the best current example. It is a free, experimental AI design tool from Google Labs built on Gemini. You describe what you want ("premium minimalist checkout, calming and trustworthy, for a wellness app"), and it generates coherent layouts, components, and interactive prototypes on an infinite canvas. You can refine with voice, add reference images, sketch on paper and upload a photo, or just keep talking. It exports to Figma, frontend code (HTML/CSS/JS), or a portable `DESIGN.md` file that you can feed directly into coding tools like Replit or Claude.
 
-Some people have a strong visual sense of what they want. Others (plenty of successful builders included) have no mental image at all and prefer to let the tools surprise them. Both approaches work. The point is to get visual before you get technical.
+The point is to explore ten directions in an hour instead of committing to one direction and spending a week. Your role shifts from manual execution to direction, taste, and curation. You do not need design skills. You need clarity about what you want the experience to feel like.
+
+Some people have a strong visual sense. Others (plenty of successful builders included) have no mental image at all and prefer to let the tools surprise them. Both approaches work. The point is to get visual before you get technical.
 
 ---
 
@@ -112,9 +114,11 @@ Both paths are valid. Here is how to think about it.
 
 ## Voice-to-Text Changes Everything
 
-If you are not already speaking to your computer instead of typing, start now. There are many tools for this (Wispr Flow, macOS Dictation, and others). The specific tool does not matter. What matters is the shift.
+If you are not already speaking to your computer instead of typing, start now. Tools like [Wispr Flow](https://www.wispr.com), macOS Dictation, and others make this trivially easy. The specific tool does not matter. What matters is the shift.
 
-When you type, you compress your thoughts. When you speak, you channel them. The difference in fidelity is enormous. Your spec, your feedback, your brainstorms: all of them benefit from the raw, unfiltered flow of spoken thought. You can always edit later. But you cannot recover ideas that were lost because typing was too slow to keep up with your thinking.
+When you type, you compress your thoughts. When you speak, you channel them. The difference in fidelity is enormous, and this matters most when writing your spec. Speaking at ~180 words per minute versus typing at ~50 means you capture three times the detail, the edge cases, the "wait, what about this scenario?" moments that would get silently dropped when typing feels like too much effort. Modern voice tools handle developer jargon, clean up filler words, add punctuation, and format the output into readable text. You speak conversationally. You get a polished document.
+
+This is how you protect spec fidelity: the faithfulness with which your original vision survives translation into a document that AI or engineers will read. Every detail lost between your brain and the spec is a detail the builder will guess at. Speaking reduces that loss dramatically. You can always edit later. But you cannot recover ideas that were never captured.
 
 This is especially important for people who think in images, feelings, or rapid associations rather than structured sentences. Speaking captures the full signal. Typing often captures only the parts you had time to formalize.
 
