@@ -151,13 +151,13 @@ All three read the same workspace folder structure. Pick the one that fits your 
 
 ## Troubleshooting
 
-**`codex: command not found`** — Restart your terminal. Check that npm's global bin is on your PATH: `npm config get prefix`.
+**`codex: command not found`:** Restart your terminal. Check that npm's global bin is on your PATH: `npm config get prefix`.
 
-**Node version too old** — Codex requires Node 22+. Run `node --version`. Upgrade via [nodejs.org](https://nodejs.org) or `nvm install 22`.
+**Node version too old:** Codex requires Node 22+. Run `node --version`. Upgrade via [nodejs.org](https://nodejs.org) or `nvm install 22`.
 
-**Authentication issues** — Run `codex` and follow the sign-in prompts. Works with ChatGPT account or OpenAI API key.
+**Authentication issues:** Run `codex` and follow the sign-in prompts. Works with ChatGPT account or OpenAI API key.
 
-**Windows** — Codex works best in WSL2. Install WSL2 first, then follow Linux instructions inside your WSL terminal. See the [Windows guide](https://developers.openai.com/codex/windows).
+**Windows:** Codex works best in WSL2. Install WSL2 first, then follow Linux instructions inside your WSL terminal. See the [Windows guide](https://developers.openai.com/codex/windows).
 
 ---
 

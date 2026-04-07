@@ -115,18 +115,18 @@ A zero-question personality assessment. Reads your context lake and maps you to 
 
 ## Archetypes
 
-- **David** — Warrior-worshipper. Creative, passionate, intimate with God. Rises from nothing, falls when appetite goes unchecked.
-- **Joseph** — Long-game strategist. Betrayed, imprisoned, patient. Ends up running the system. Forgives.
-- **Moses** — Reluctant leader. Feels unqualified. God equips in real time. Liberates nations.
-- **Paul** — Converted zealot. Radical transformation. Tireless infrastructure builder. Brilliant and suffering.
-- **Daniel** — Faithful exile. Thrives in hostile territory without compromising. Politically savvy, spiritually pure.
-- **Nehemiah** — Builder-organizer. Sees broken walls, mobilizes people, rebuilds. Prays AND plans.
-- **Esther** — Positioned for purpose. "For such a time as this." Uses influence to save her people.
-- **Abraham** — Faith pioneer. Leaves everything on a promise. Walks by faith when evidence is thin.
-- **Peter** — Impulsive loyalist. Bold, messy. Fails publicly, gets restored. Becomes the rock.
-- **Elijah** — Confronter. Takes on the establishment. Dramatic power followed by burnout.
-- **Samson** — Gifted but undisciplined. Supernatural talent, fatal weakness. Could be unstoppable.
-- **Ruth** — Faithful outsider. Loyal beyond reason. Joins a community not her own. Proven by action.
+- **David.** Warrior-worshipper. Creative, passionate, intimate with God. Rises from nothing, falls when appetite goes unchecked.
+- **Joseph.** Long-game strategist. Betrayed, imprisoned, patient. Ends up running the system. Forgives.
+- **Moses.** Reluctant leader. Feels unqualified. God equips in real time. Liberates nations.
+- **Paul.** Converted zealot. Radical transformation. Tireless infrastructure builder. Brilliant and suffering.
+- **Daniel.** Faithful exile. Thrives in hostile territory without compromising. Politically savvy, spiritually pure.
+- **Nehemiah.** Builder-organizer. Sees broken walls, mobilizes people, rebuilds. Prays AND plans.
+- **Esther.** Positioned for purpose. "For such a time as this." Uses influence to save her people.
+- **Abraham.** Faith pioneer. Leaves everything on a promise. Walks by faith when evidence is thin.
+- **Peter.** Impulsive loyalist. Bold, messy. Fails publicly, gets restored. Becomes the rock.
+- **Elijah.** Confronter. Takes on the establishment. Dramatic power followed by burnout.
+- **Samson.** Gifted but undisciplined. Supernatural talent, fatal weakness. Could be unstoppable.
+- **Ruth.** Faithful outsider. Loyal beyond reason. Joins a community not her own. Proven by action.
 
 ## Output Format
 

@@ -43,7 +43,7 @@ Here is the cost breakdown upfront:
 | Tool | Cost | Notes |
 |------|------|-------|
 | [Hermes Agent](https://hermes-agent.nousresearch.com) | Free, open source | Installed via one-line installer. Handles all dependencies automatically. |
-| [OpenRouter](https://openrouter.ai) | Free tier available | High-powered models on a free tier — Qwen 3.6 Plus, Gemma, and more. No credit card required. Paid models like Claude (~$200/mo) are optional. |
+| [OpenRouter](https://openrouter.ai) | Free tier available | High-powered models on a free tier (Qwen 3.6 Plus, Gemma, and more). No credit card required. Paid models like Claude (~$200/mo) are optional. |
 | [VS Code](https://code.visualstudio.com) | Free, open source | Made by Microsoft |
 | [Git](https://git-scm.com) | Free, open source | Version control |
 | [GitHub](https://github.com) | Free | Paid tiers exist but you do not need them |
@@ -106,7 +106,7 @@ Then configure your model:
 hermes model
 ```
 
-Select OpenRouter as your provider and enter your API key (free tier, no credit card). You can also use Anthropic, OpenAI, or any other provider — but OpenRouter gives you Qwen 3.6 Plus and other capable models for free.
+Select OpenRouter as your provider and enter your API key (free tier, no credit card). You can also use Anthropic, OpenAI, or any other provider, but OpenRouter gives you Qwen 3.6 Plus and other capable models for free.
 
 **First launch:** Type `hermes` in your terminal. If this is your first time, Hermes will walk you through its setup flow. Follow the prompts to authenticate and pick your preferences.
 
@@ -120,13 +120,13 @@ By default, Hermes asks permission before doing anything potentially dangerous. 
 
 Hermes is not just another AI coding agent. It is **Claude Code and OpenClaw in one tool**:
 
-- **AI coding agent** — reads files, writes files, runs commands, operates inside your workspace
-- **Always-on agent** — runs cron jobs, manages messaging platforms, maintains persistent memory
-- **Works when your terminal session is gone** — the gateway keeps running, cron jobs fire, messages get delivered. The agent grows the longer it runs.
+- **AI coding agent.** Reads files, writes files, runs commands, operates inside your workspace.
+- **Always-on agent.** Runs cron jobs, manages messaging platforms, maintains persistent memory.
+- **Works when your terminal session is gone.** The gateway keeps running, cron jobs fire, messages get delivered. The agent grows the longer it runs.
 
 [Nous Research](https://nousresearch.com) is an AI research company known for the Hermes model family. They build frontier open source AI models, and now they build full agent infrastructure. Hermes Agent is their answer to closed, platform-locked AI systems.
 
-For context: before switching to Hermes, the Applied AI Society ran on OpenClaw + Claude at ~$200/mo in API costs. Cron jobs were timing out. Four out of six active jobs were failing. The agent was broken and costing money for it to break. After migrating to Hermes + Qwen 3.6 via OpenRouter's free tier, the monthly inference cost dropped to zero — with better reliability, same capabilities, and the full skill architecture preserved.
+For context: before switching to Hermes, the Applied AI Society ran on OpenClaw + Claude at ~$200/mo in API costs. Cron jobs were timing out. Four out of six active jobs were failing. The agent was broken and costing money for it to break. After migrating to Hermes + Qwen 3.6 via OpenRouter's free tier, the monthly inference cost dropped to zero, with better reliability, same capabilities, and the full skill architecture preserved.
 
 That is what Hermes makes possible: an agent system with zero marginal cost per message. Run the heartbeat. Run the triage. Run the morning briefing with deeper context. The economic friction is gone. You stop optimizing for API cost and start optimizing for capability.
 

@@ -169,13 +169,13 @@ gh repo create my-jarvis --private --push
 
 ## Troubleshooting
 
-**`claude: command not found`** — Restart your terminal or run `source ~/.zshrc`. If still missing, check that npm's global bin directory is on your PATH: `npm config get prefix` should show a path, and `{that path}/bin` should be in your PATH.
+**`claude: command not found`:** Restart your terminal or run `source ~/.zshrc`. If still missing, check that npm's global bin directory is on your PATH: `npm config get prefix` should show a path, and `{that path}/bin` should be in your PATH.
 
-**Authentication issues** — Run `claude` and follow the login prompts. You need an active Anthropic account with Claude Max or API access.
+**Authentication issues:** Run `claude` and follow the login prompts. You need an active Anthropic account with Claude Max or API access.
 
-**Old Node.js version** — Claude Code requires Node 18+. Run `node --version` to check. If you need to upgrade, download the latest LTS from [nodejs.org](https://nodejs.org) or use `nvm install --lts`.
+**Old Node.js version:** Claude Code requires Node 18+. Run `node --version` to check. If you need to upgrade, download the latest LTS from [nodejs.org](https://nodejs.org) or use `nvm install --lts`.
 
-**Windows users** — Claude Code works best in WSL2 (Windows Subsystem for Linux). Install WSL2 first, then follow the Linux instructions inside your WSL terminal.
+**Windows users:** Claude Code works best in WSL2 (Windows Subsystem for Linux). Install WSL2 first, then follow the Linux instructions inside your WSL terminal.
 
 ---
 
