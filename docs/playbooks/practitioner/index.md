@@ -30,6 +30,11 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [Finding Clients Through Trust](/docs/playbooks/practitioner/finding-clients) | Why cold outreach fails and how to build a practice through your warm network |
 | [The Pilot Pitch](/docs/playbooks/practitioner/pilot-pitch) | How to propose a 2-4 week pilot that's almost impossible to say no to |
 | [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) | Setting up your personal AI business OS for legacy and compounding context |
+| [Hermes Setup](/docs/playbooks/practitioner/hermes-setup) | Installing Hermes Agent (free, open source harness) |
+| [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup) | Installing Claude Code (Anthropic's commercial harness) |
+| [Codex Setup](/docs/playbooks/practitioner/codex-setup) | Installing OpenAI Codex (open source, works with ChatGPT subscription) |
+| [First Git Setup](/docs/playbooks/practitioner/first-git-setup) | Version control basics for your workspace |
+| [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop) | Instructor guide for running Personal Agentic OS workshops |
 
 ## Coming Soon
 

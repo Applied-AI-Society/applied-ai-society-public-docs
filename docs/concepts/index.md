@@ -36,6 +36,8 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 
 ### Economy and Roles
 
+- [Hyperagency](/docs/concepts/hyperagency): Two types of people are emerging: hyperagents (humans amplified by AI) and everyone else. The defining split of this economy.
+- [Effective AGI](/docs/concepts/effective-agi): AGI is not coming. It is here, for the people who know how to wield it. The bottleneck is the human, not the technology.
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): Every legacy company is playing a game of Survivor right now. AI is sorting people into adapters and everyone else.
 - [AGI Whisperer](/docs/concepts/agi-whisperer): The person who designs, builds, and refines the agentic systems. The new essential technical role.
 - [The Encounter](/docs/concepts/the-encounter): The moment AI stops being theoretical and becomes personal, and why adoption spreads through experience, not education
