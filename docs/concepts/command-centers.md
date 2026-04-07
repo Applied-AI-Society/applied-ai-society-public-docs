@@ -75,4 +75,5 @@ If you are a business owner exploring whether you need a custom app or a command
 - [Compounding Docs](/docs/concepts/compounding-docs): Why command centers get more valuable over time
 - [The Soul Harness](/docs/concepts/the-soul-harness): Choosing systems that liberate rather than extract
 - [Chat History Is Disposable](/docs/concepts/the-chat-is-not-the-product): The command center is the product, not the chat
+- [Hyperagency](/docs/concepts/hyperagency): The human outcome when command centers compound
 - [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app): The practical walkthrough for business owners

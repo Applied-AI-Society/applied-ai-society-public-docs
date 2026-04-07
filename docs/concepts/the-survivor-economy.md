@@ -71,4 +71,5 @@ Start building. Start now. Create from a position of sovereignty, not dependency
 - [Harness Engineering](/docs/concepts/harness-engineering): The technical discipline behind agent harnesses
 - [Applied AI Literacy](/docs/applied-ai-literacy): The foundational skill for surviving and thriving
 - [Capture, Process, Compound](/docs/concepts/capture-process-compound): The daily practice that builds your edge
+- [Hyperagency](/docs/concepts/hyperagency): The state you are building toward when you suit up
 - [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where to start building your harness today
