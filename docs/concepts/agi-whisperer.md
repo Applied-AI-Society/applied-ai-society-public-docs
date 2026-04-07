@@ -83,4 +83,6 @@ That's what we're building here.
 - [Game Design](/docs/concepts/game-design): The meta-skill of designing the systems that agents play in
 - [Context Engineering](/docs/concepts/context-engineering): Curating the information state that makes AI systems effective
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose into agent infrastructure
+- [Effective AGI](/docs/concepts/effective-agi): The philosophical claim that AGI is functionally here now
+- [Hyperagency](/docs/concepts/hyperagency): The state you reach when you wield effective AGI with self-knowledge
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The broader landscape of practitioner roles

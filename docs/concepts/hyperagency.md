@@ -74,4 +74,5 @@ Suit up.
 - [Harness Engineering](/docs/concepts/harness-engineering): The technical discipline of building the suit
 - [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Own your stack so no one can take your suit away
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building systems that free people, not capture them
+- [Effective AGI](/docs/concepts/effective-agi): The claim that AGI is already here for anyone who can wield it
 - [Ignorance Debt](/docs/concepts/ignorance-debt): What happens when high-agency people build without self-knowledge
