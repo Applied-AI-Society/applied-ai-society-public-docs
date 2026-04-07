@@ -66,21 +66,27 @@ Two solid options:
 
 Either works. You hold a key, you talk, you release, and the text appears wherever your cursor is. It works with every application that has a text input: your terminal, a browser, Slack, email, a Google Doc, anything. Wherever your mouse clicks into a text box, that is where the transcription goes. Wispr Flow also keeps a history of everything you have dictated, so you can go back and copy-paste a previous dictation into a different app if needed. Once you install it and start using it, it works everywhere. Even whispering works, which matters if you are in a co-working space or a meeting. The point is that you can speak naturally and get text. For more on the role of voice transcription in legacy, see [Voice Transcriber](/docs/legacy/voice-transcriber).
 
-### Step 1B: Install Hermes Agent
+### Step 1B: Choose and Install Your Harness
 
-Your terminal-based AI agent. This is the engine of your Personal Agentic OS. Important distinction: Hermes on its own is not the system. Your Personal Agentic OS is the combination of your file structure, your documented context, and how you use Hermes to operate on all of it. Hermes is simply the best engine for this right now, but your files are yours. You could switch to a different AI tool tomorrow and keep everything.
+Your terminal-based AI agent is the engine of your Personal Agentic OS. Important distinction: the harness on its own is not the system. Your Personal Agentic OS is the combination of your file structure, your documented context, and how you use the harness to operate on all of it. Your files are yours. You could switch to a different tool tomorrow and keep everything.
 
-**Why not just use ChatGPT, Gemini, or any other chatbot?** The big AI platforms (OpenAI, Google, etc.) want you locked into their ecosystem. Your conversation history lives on their servers. Your context resets every session or is trapped behind their interface. You cannot export it, version-control it, or run a different AI on top of it. They are designed to keep you coming back to their app, not to give you a system you own.
+**Why not just use ChatGPT, Gemini, or any other chatbot?** The big AI platforms want you locked into their ecosystem. Your conversation history lives on their servers. Your context resets every session or is trapped behind their interface. You cannot export it, version-control it, or run a different AI on top of it.
 
-The Personal Agentic OS approach is the opposite. Your files live on your computer. They are plain markdown. Any AI tool can read them. If Anthropic triples their price tomorrow, or a better tool comes out next month, you take your files and walk. No export process, no migration headache. You are not a user of someone else's platform. You are the operator of your own system.
+The Personal Agentic OS approach is the opposite. Your files live on your computer. They are plain markdown. Any AI tool can read them. You are not a user of someone else's platform. You are the operator of your own system.
 
-**This tutorial is not an ad for any AI company.** Hermes is the default in this tutorial because it is the most capable open source agentic OS available. But the entire point of the Personal Agentic OS architecture is that you are not locked in. When choosing your harness, find the one that maximizes a good balance of **utility, cost, and sovereignty**. You have options at every level:
+**This tutorial is not an ad for any AI company.** When choosing your harness, find the one that maximizes a good balance of **utility, cost, and sovereignty**. We have dedicated setup guides for the three most popular options:
 
-- **Different harnesses.** Hermes is one harness. Others exist and new ones are emerging constantly: [OpenCode](https://github.com/opencode-ai/opencode), Cursor, Pi, Claude Code, and more. They all read files and run commands. The instructions in this tutorial default to Hermes, but the overall usage patterns (brain dumps, user profiles, skill files, relationship files) work with any harness that can read your workspace. Check the [AI Dev Tool Power Rankings](https://blog.logrocket.com/ai-dev-tool-power-rankings/) or [Best AI Coding Agents comparison](https://www.faros.ai/blog/best-ai-coding-agents-2026) for current rankings.
-- **Different models within the same harness.** Hermes lets you pick any LLM provider and model. OpenRouter, Anthropic, OpenAI, local models — you choose.
-- **Open source models you run yourself.** Open source AI models are getting remarkably good, remarkably fast, and many of them can be run entirely on your own hardware with zero data leaving your machine. New ones come out every few weeks. Check the [Open LLM Leaderboard](https://vellum.ai/open-llm-leaderboard) or [Open WebUI Leaderboard](https://openwebui.com/leaderboard) for current model rankings.
+| Harness | Cost | Best For | Setup Guide |
+|---------|------|----------|-------------|
+| **Hermes** | Free (open source models) | Zero-cost setup, always-on agents, cron jobs | [Hermes Setup](/docs/playbooks/practitioner/hermes-setup) |
+| **Claude Code** | $100-200/mo (Anthropic) | Deep context, strong reasoning | [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup) |
+| **OpenAI Codex** | Free with ChatGPT Plus/Pro | If you already pay for ChatGPT | [Codex Setup](/docs/playbooks/practitioner/codex-setup) |
 
-The competitive pressure between American companies, Chinese labs, and the open source community is driving quality up and cost down at a pace that benefits you. Today's default might be one tool. Tomorrow it might be something else. Your files do not care. That is what sovereignty means in this context, and it is worth thinking about as you decide which tools earn your trust and your money. For a deeper dive on sovereignty principles, see [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) and [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming).
+Other harnesses work too: [OpenCode](https://github.com/opencode-ai/opencode), Cursor, and more. They all read files and run commands. The overall usage patterns (brain dumps, user profiles, skill files, relationship files) work with any harness that can read your workspace. Check the [AI Dev Tool Power Rankings](https://blog.logrocket.com/ai-dev-tool-power-rankings/) or [Best AI Coding Agents comparison](https://www.faros.ai/blog/best-ai-coding-agents-2026) for current rankings.
+
+The competitive pressure between American companies, Chinese labs, and the open source community is driving quality up and cost down at a pace that benefits you. Today's default might be one tool. Tomorrow it might be something else. Your files do not care. That is what sovereignty means in this context. For a deeper dive, see [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) and [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming).
+
+**The rest of this tutorial uses Hermes as the default** because it is free and open source. If you chose Claude Code or Codex, follow your setup guide above and then rejoin this tutorial at Step 1C. The workspace setup and daily usage are identical across harnesses.
 
 **Install Hermes:**
 
