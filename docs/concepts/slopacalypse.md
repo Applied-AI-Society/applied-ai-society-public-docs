@@ -99,7 +99,8 @@ This is the applied AI economy. Not shipping more slop. Shipping super suits.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The trap of building for the sake of building
 - [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop): Why fixing the process matters before you automate
 - [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app): The practical walkthrough for building with purpose
-- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The command center that replaces the generic app
+- [Command Centers](/docs/concepts/command-centers): The meta-concept: why command centers are replacing apps
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The individual command center
 - [Harness Engineering](/docs/concepts/harness-engineering): The technical foundation for custom systems
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): What gets built on top of harnesses
 - [The Soul Harness](/docs/concepts/the-soul-harness): Choosing systems that liberate rather than extract

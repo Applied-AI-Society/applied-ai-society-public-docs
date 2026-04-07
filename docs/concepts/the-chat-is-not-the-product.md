@@ -71,3 +71,10 @@ An interview or brainstorm is different. Conversation for the sake of exploring 
 ---
 
 *God forbid the chat disappears. If you have done your job, it does not matter.*
+
+---
+
+## Further Reading
+
+- [Command Centers](/docs/concepts/command-centers): The meta-concept for the persistent systems that replace disposable chats
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your command center in practice
