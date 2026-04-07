@@ -153,3 +153,4 @@ curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scri
 - [GitHub Repository](https://github.com/NousResearch/hermes-agent)
 - [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) — The full workshop guide
 - [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup) — Alternative harness using Anthropic's commercial agent
+- [Codex Setup](/docs/playbooks/practitioner/codex-setup) — Alternative harness using OpenAI's open source agent

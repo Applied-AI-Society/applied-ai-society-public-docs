@@ -12,13 +12,9 @@ description: "A practical guide to installing and configuring Claude Code as the
 
 ## Why Claude Code
 
-Claude Code is the most capable commercial AI coding agent available. It reads your entire workspace as context, executes multi-step tasks autonomously, and supports persistent [instruction files](/docs/concepts/instruction-files) (CLAUDE.md) that shape how it operates. For building a Personal Agentic OS, it has three advantages:
+Claude Code is Anthropic's terminal agent. It reads your workspace, runs commands, writes files, and supports persistent [instruction files](/docs/concepts/instruction-files) (CLAUDE.md) that shape how it operates across sessions. It is one of several harnesses that work well for building a Personal Agentic OS. Others include [OpenAI Codex](/docs/playbooks/practitioner/codex-setup), [Hermes](/docs/playbooks/practitioner/hermes-setup), OpenCode, and Cursor.
 
-1. **Deep context window.** Claude Code reads all the files in your workspace. Your user profile, relationship files, artifacts, skill files, meeting transcripts. It sees everything and operates from that full picture.
-2. **Persistent instructions.** The CLAUDE.md file at the root of your workspace tells Claude Code how to behave, what conventions to follow, and what skills are available. It reads this file at the start of every session. This is how you train your Jarvis.
-3. **Tool use.** Claude Code can run shell commands, search the web, read files, write files, and execute scripts. It is not a chatbot. It is an agent that can take action on your behalf.
-
-The tradeoff: Claude Code requires a paid Anthropic subscription (Claude Max at $100/mo or $200/mo, or API usage). If cost is a constraint, see the [Hermes Setup](/docs/playbooks/practitioner/hermes-setup) guide for a zero-cost alternative that uses open source models. Both harnesses work with the same Personal Agentic OS folder structure. Your files are portable.
+The tradeoff: Claude Code requires a paid Anthropic subscription (Claude Max at $100/mo or $200/mo, or API usage). If cost is a constraint, see [Hermes Setup](/docs/playbooks/practitioner/hermes-setup) for a zero-cost open source alternative, or [Codex Setup](/docs/playbooks/practitioner/codex-setup) if you already have a ChatGPT subscription. All harnesses work with the same Personal Agentic OS folder structure. Your files are portable.
 
 ---
 
@@ -52,11 +48,19 @@ Download from [code.visualstudio.com](https://code.visualstudio.com). Claude Cod
 
 ## Install Claude Code
 
-One command:
+**Option A: Native installer (recommended)**
+
+```bash
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+**Option B: npm**
 
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
+
+Do not use `sudo` with npm. If you get permission errors, install Node via [nvm](https://github.com/nvm-sh/nvm) instead.
 
 Verify it installed:
 
