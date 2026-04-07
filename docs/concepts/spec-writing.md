@@ -116,3 +116,4 @@ This is the work. This is where practitioners in the applied AI economy create r
 - [Intent Engineering](./intent-engineering): Encoding organizational purpose into infrastructure, the "why" behind the spec
 - [Context Engineering](./context-engineering): Curating the information state that agents operate within, the "what" the spec references
 - [Don't Scale Slop](../playbooks/business-owner/dont-scale-slop): Why clarity matters before you automate anything
+- [Building the App of Your Dreams](../playbooks/business-owner/building-your-app): A practical walkthrough that puts spec writing at the center of building with AI

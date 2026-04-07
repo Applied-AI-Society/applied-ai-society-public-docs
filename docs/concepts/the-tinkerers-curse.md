@@ -48,3 +48,4 @@ The metric is simple: are the skills I am developing leading to people being exc
 - [Why Making Money Matters](/docs/philosophy/why-making-money-matters): The philosophical case for using revenue as a signal
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): The progression from Spectator to Game Engine Creator
 - [Business Outcomes Over Technology Fascination](/docs/philosophy/principles): Operating principle #3
+- [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app): How to stay grounded when building your first app with AI

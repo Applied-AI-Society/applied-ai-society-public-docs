@@ -135,4 +135,4 @@ Systems are not for when your company gets big. They are prerequisites for getti
 
 AI is the most powerful scaling tool ever created. That's exactly why you need to be honest about what you're feeding into it. Fix the process. Build the infrastructure. Climb the levels. That's how you scale something worth scaling.
 
-See also: [The Five Levels of Value](/docs/playbooks/student/five-levels-of-value) | [Quick Check](/docs/playbooks/business-owner/quick-check) | [Situation Map](/docs/playbooks/business-owner/situation-map) | [Workflow Decomposition](/docs/playbooks/business-owner/workflow-decomposition) | [Beyond Automation](/docs/playbooks/business-owner/beyond-automation)
+See also: [The Five Levels of Value](/docs/playbooks/student/five-levels-of-value) | [Quick Check](/docs/playbooks/business-owner/quick-check) | [Situation Map](/docs/playbooks/business-owner/situation-map) | [Workflow Decomposition](/docs/playbooks/business-owner/workflow-decomposition) | [Beyond Automation](/docs/playbooks/business-owner/beyond-automation) | [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app)
