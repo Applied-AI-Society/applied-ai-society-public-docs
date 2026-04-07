@@ -151,3 +151,4 @@ The tools have never been better. The cost has never been lower. The only scarce
 - [Hiring Applied AI Practitioners](/docs/playbooks/business-owner/hiring-practitioners): How to find and work with the right people
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): What you actually need to get started
 - [Pilot Scope](/docs/playbooks/business-owner/pilot-scope): How to define a focused first project
+- [The Slopacalypse](/docs/concepts/slopacalypse): Why only purpose-built technology survives the flood

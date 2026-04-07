@@ -74,3 +74,4 @@ The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the prog
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your AI knows
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why the bottleneck is you, not the tools, and how to fix it
 - [Game Design](/docs/concepts/game-design): Designing objectives, rules, and guardrails for your agents
+- [The Slopacalypse](/docs/concepts/slopacalypse): Why hyper-specific command centers are replacing generic apps
