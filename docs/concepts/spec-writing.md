@@ -62,6 +62,24 @@ This maps directly to the [game design](./game-design) framework: objectives, ru
 
 ---
 
+## Principles Before Implementations
+
+There is a mistake that even rigorous spec writers make: they jump to implementation before they have established the principle.
+
+"I want to use zero-knowledge proofs for member privacy" is an implementation. "I want to maximally protect the privacy of my members" is a principle. ZK proofs are one possible way to realize that principle. Maybe the right way. Maybe not. Maybe today, maybe in two years when the tooling matures.
+
+When a spec leads with implementations, it locks the builder into a technical path before the actual requirement is understood. Teams start debating ZK vs. encryption vs. on-device processing when the real question is simpler: do the people in this system feel protected? The implementation is the how. The principle is the what. The what must come first. The how must stay flexible.
+
+This is where most specs go wrong. A document full of feature requirements ("we need end-to-end encryption, we need invite trees, we need reputation scores") looks rigorous. It is a house built from the roof down. The features are disconnected from the purpose they serve, so they drift, get gamed, or solve the wrong problem entirely.
+
+A spec built from principles looks different. It says: "This system exists to protect the dignity and privacy of every member. Every design choice must serve that principle. Here are some ways that might work today." The principle constrains the design space. The implementation stays open to whatever best serves the principle as technology evolves.
+
+**Practically, this means a good spec has a section most specs skip: the design principles.** Three to five statements about what the system values, stated plainly, before a single feature is mentioned. Every feature in the spec should trace back to at least one principle. If a feature serves no principle, cut it. If a principle has no feature serving it, that is a gap worth investigating.
+
+The principle is eternal. The implementation is contextual. Write the spec accordingly.
+
+---
+
 ## Two Emerging Disciplines
 
 As spec writing becomes the core value-creation activity, two distinct skill sets are crystallizing in the market:
@@ -117,3 +135,4 @@ This is the work. This is where practitioners in the applied AI economy create r
 - [Context Engineering](./context-engineering): Curating the information state that agents operate within, the "what" the spec references
 - [Don't Scale Slop](../playbooks/business-owner/dont-scale-slop): Why clarity matters before you automate anything
 - [Building the App of Your Dreams](../playbooks/business-owner/building-your-app): A practical walkthrough that puts spec writing at the center of building with AI
+- [The Judgment Line](./the-judgment-line): The design rule for splitting work between judgment and deterministic execution, a principle that should appear in every agentic system spec
