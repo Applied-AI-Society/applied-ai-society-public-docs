@@ -76,4 +76,4 @@ Suit up.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building systems that free people, not capture them
 - [Effective AGI](/docs/concepts/effective-agi): The claim that AGI is already here for anyone who can wield it
 - [Ignorance Debt](/docs/concepts/ignorance-debt): What happens when high-agency people build without self-knowledge
-- [The Four Levels of Applied AI](/docs/concepts/four-levels-of-applied-ai): The operational ladder from automation to custom systems. Hyperagents operate at level 4.
+- [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): The operational ladder from automation to custom systems. Hyperagents operate at level 4.

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 45
-title: "The Four Levels of Applied AI"
+title: "The Four Levels of Applied AI for Existing Businesses"
 ---
 
-# The Four Levels of Applied AI
+# The Four Levels of Applied AI for Existing Businesses
 
 *Most people never get past level 1. The ROI compounds at level 3.*
 

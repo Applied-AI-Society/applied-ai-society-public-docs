@@ -53,7 +53,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 
 ### Frameworks
 
-- [The Four Levels of Applied AI](/docs/concepts/four-levels-of-applied-ai): Automate, Think, Unlock, Build. A diagnostic ladder for where you are and what climbing looks like. Most people plateau at level 1.
+- [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): Automate, Think, Unlock, Build. A diagnostic ladder for where you are and what climbing looks like. Most people plateau at level 1.
 
 ### Practical
 

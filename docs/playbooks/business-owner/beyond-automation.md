@@ -109,4 +109,4 @@ Work through all three stages first. It will also tell you a lot about which pra
 
 ## Further Reading
 
-- [The Four Levels of Applied AI](/docs/concepts/four-levels-of-applied-ai): The full progression from automation (level 1) through building custom systems (level 4). This page covers the level 1 trap. The ladder shows what comes next.
+- [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): The full progression from automation (level 1) through building custom systems (level 4). This page covers the level 1 trap. The ladder shows what comes next.
