@@ -65,6 +65,16 @@ A smaller system you trust will always beat a bigger one you route around. The j
 
 ---
 
+## The Human Layer
+
+The judgment line has two sides. But not all judgment belongs to the LLM.
+
+High-stakes decisions (sending money, publishing externally, responding to a key client, making a commitment on your behalf) need a human in the loop. The LLM can draft, recommend, and flag. It should not execute. The cost of a bad judgment call on routine email triage is low. The cost of a bad judgment call on a fundraise follow-up or a public statement is not.
+
+The design rule extends naturally: code handles determinism, the LLM handles routine judgment, and you handle the judgment that matters most. As trust builds over time, the boundary between LLM judgment and human judgment can shift. But it should shift deliberately, not by default.
+
+---
+
 ## Further Reading
 
 - [Harness Engineering](/docs/concepts/harness-engineering): The broader architecture that the judgment line operates within
