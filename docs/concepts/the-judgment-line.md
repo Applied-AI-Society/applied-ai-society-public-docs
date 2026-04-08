@@ -71,7 +71,7 @@ The judgment line has two sides. But not all judgment belongs to the LLM.
 
 High-stakes decisions (sending money, publishing externally, responding to a key client, making a commitment on your behalf) need a human in the loop. The LLM can draft, recommend, and flag. It should not execute. The cost of a bad judgment call on routine email triage is low. The cost of a bad judgment call on a fundraise follow-up or a public statement is not.
 
-The design rule extends naturally: code handles determinism, the LLM handles routine judgment, and you handle the judgment that matters most. As trust builds over time, the boundary between LLM judgment and human judgment can shift. But it should shift deliberately, not by default.
+The design rule extends naturally: code handles determinism, the LLM handles routine judgment, and you handle the judgment that matters most. The [permission surface](/docs/concepts/the-permission-surface) is how you enforce this in practice: certain actions require your approval before the system executes them. As trust builds over time, the boundary between LLM judgment and human judgment can shift. But it should shift deliberately, not by default.
 
 ---
 
@@ -80,4 +80,5 @@ The design rule extends naturally: code handles determinism, the LLM handles rou
 - [Harness Engineering](/docs/concepts/harness-engineering): The broader architecture that the judgment line operates within
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): How Claude Code implements this separation in practice
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): Systems that get the layer separation right can improve themselves
+- [The Permission Surface](/docs/concepts/the-permission-surface): How to enforce the human layer in practice
 - [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): Level 4 (Build) is where the judgment line becomes a daily design decision
