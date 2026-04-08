@@ -71,6 +71,8 @@ The judgment line has two sides. But not all judgment belongs to the LLM.
 
 High-stakes decisions (sending money, publishing externally, responding to a key client, making a commitment on your behalf) need a human in the loop. The LLM can draft, recommend, and flag. It should not execute. The cost of a bad judgment call on routine email triage is low. The cost of a bad judgment call on a fundraise follow-up or a public statement is not.
 
+This applies to creative work too. A musician choosing which take has the right feel, a designer deciding the visual tone of a brand, a writer finding the voice of a piece: these are judgment calls that define the work itself. Automating them does not save time. It removes the thing that makes the output worth anything. The judgment line is not just about risk management. It is about knowing which decisions are the point of your work and keeping those in human hands.
+
 The design rule extends naturally: code handles determinism, the LLM handles routine judgment, and you handle the judgment that matters most. The [permission surface](/docs/concepts/the-permission-surface) is how you enforce this in practice: certain actions require your approval before the system executes them. As trust builds over time, the boundary between LLM judgment and human judgment can shift. But it should shift deliberately, not by default.
 
 ---
