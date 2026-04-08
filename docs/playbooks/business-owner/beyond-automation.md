@@ -104,3 +104,9 @@ The [three-stage path](/docs/playbooks/business-owner) exists to protect you. Th
 That's not administrative overhead. It's the prerequisite to knowing whether anything actually improved. Without a clear metric defined at the start, you have no way to evaluate whether the engagement delivered real value, and neither does the practitioner.
 
 Work through all three stages first. It will also tell you a lot about which practitioners take it seriously and which ones just want to start building.
+
+---
+
+## Further Reading
+
+- [The Four Levels of Applied AI](/docs/concepts/four-levels-of-applied-ai): The full progression from automation (level 1) through building custom systems (level 4). This page covers the level 1 trap. The ladder shows what comes next.

@@ -51,6 +51,10 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Observable Behavior Engineering](/docs/concepts/observable-behavior-engineering): Translating vague human intent into specific, measurable actions
 - [Capture, Process, Compound](/docs/concepts/capture-process-compound): The lifecycle of turning raw information into compounding knowledge
 
+### Frameworks
+
+- [The Four Levels of Applied AI](/docs/concepts/four-levels-of-applied-ai): Automate, Think, Unlock, Build. A diagnostic ladder for where you are and what climbing looks like. Most people plateau at level 1.
+
 ### Practical
 
 - [Why Your Business Needs a Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The shift from scattered SaaS to a sovereign operating system

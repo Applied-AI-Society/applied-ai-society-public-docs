@@ -1,65 +1,65 @@
 [
   {
-    "title": "Compounding Docs",
-    "link": "/docs/concepts/compounding-docs",
-    "date": "2026-04-04",
-    "summary": "Every document you write makes your AI agent smarter. Every smarter agent output makes the next document faster. This...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Context Engineering",
-    "link": "/docs/concepts/context-engineering",
-    "date": "2026-04-04",
-    "summary": "The skill that separates \"AI is okay\" from \"AI changed how I work.\" And the one most people are skipping.",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Externalize Your Brain",
-    "link": "/docs/concepts/externalize-your-brain",
-    "date": "2026-04-04",
-    "summary": "The bottleneck is you, not the tools. AI is so abundant and powerful that the human is now the constraint. The fix is...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Minimum Viable Infrastructure",
-    "link": "/docs/concepts/minimum-viable-infrastructure",
-    "date": "2026-04-04",
-    "summary": "The baseline requirements to participate in the applied AI economy. They are higher than most people realize, and alm...",
-    "tag": "Updated"
-  }
-,
-  {
     "title": "Personal Agentic OS",
     "link": "/docs/concepts/personal-agentic-os",
-    "date": "2026-04-04",
+    "date": "2026-04-07",
     "summary": "A personal AI system that operates from your context, compounds over time, and is owned entirely by you. Think Tony S...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Signalmaxxing",
-    "link": "/docs/concepts/signalmaxxing",
-    "date": "2026-04-04",
-    "summary": "The deliberate practice of maximizing Signal-to-Noise Ratio across every channel you operate in: your feeds, your con...",
+    "title": "Hypercontext Protocol",
+    "link": "/docs/concepts/hypercontext-protocol",
+    "date": "2026-04-07",
+    "summary": "Your personal agent OS is your API to the world.",
     "tag": "Updated"
   }
 ,
   {
-    "title": "The Soul Harness",
-    "link": "/docs/concepts/the-soul-harness",
-    "date": "2026-04-04",
-    "summary": "A large language model is useless without a harness. So is a human.",
+    "title": "Zero-Question Assessments",
+    "link": "/docs/concepts/zero-question-assessments",
+    "date": "2026-04-07",
+    "summary": "Your context lake already has the answers. Stop asking questions your files can answer for you.",
     "tag": "Updated"
   }
 ,
   {
-    "title": "The Sovereignty Stack",
-    "link": "/docs/concepts/the-sovereignty-stack",
-    "date": "2026-04-04",
-    "summary": "Own your future. Every layer of your digital life has a default version controlled by someone who is not you. Here is...",
+    "title": "Setting Up Claude Code",
+    "link": "/docs/playbooks/practitioner/claude-code-setup",
+    "date": "2026-04-07",
+    "summary": "Claude Code is Anthropic's terminal-based AI agent. It reads your files, writes files, runs commands, and operates in...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Setting Up OpenAI Codex",
+    "link": "/docs/playbooks/practitioner/codex-setup",
+    "date": "2026-04-07",
+    "summary": "Codex is OpenAI's open source terminal agent. It reads your files, runs commands, and operates inside your workspace....",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Setting Up Hermes Agent",
+    "link": "/docs/playbooks/practitioner/hermes-setup",
+    "date": "2026-04-07",
+    "summary": "Hermes Agent is an open source autonomous AI agent by Nous Research, a research company that builds frontier open sou...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "The Personal Agentic OS Workshop",
+    "link": "/docs/playbooks/practitioner/mvp-personal-agentic-os",
+    "date": "2026-04-07",
+    "summary": "A step-by-step guide to setting up the simplest system that gives you AI-augmented recall, strategic clarity, and com...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Game Design",
+    "link": "/docs/concepts/game-design",
+    "date": "2026-04-07",
+    "summary": "The meta-skill of the AI era. Not playing the game. Designing it.",
     "tag": "Updated"
   }
 ]
