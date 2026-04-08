@@ -55,6 +55,8 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 
 - [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): Automate, Think, Unlock, Build. A diagnostic ladder for where you are and what climbing looks like. Most people plateau at level 1.
 
+- [The Judgment Line](/docs/concepts/the-judgment-line): LLMs handle judgment. Code handles everything else. The design rule that makes agentic systems trustworthy.
+
 ### Practical
 
 - [Why Your Business Needs a Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The shift from scattered SaaS to a sovereign operating system

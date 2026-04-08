@@ -87,3 +87,4 @@ All software will be self-evolving software. The question is not whether this ha
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where self-improving harnesses lead at the business level
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): What gets built on top of harnesses
 - [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The philosophy of owning your own system
+- [The Judgment Line](/docs/concepts/the-judgment-line): The design rule for splitting work between LLMs and code inside a harness

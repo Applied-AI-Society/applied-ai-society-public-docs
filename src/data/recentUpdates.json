@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Four Levels of Applied AI for Existing Businesses",
+    "link": "/docs/concepts/four-levels-of-applied-ai-for-existing-businesses",
+    "date": "2026-04-08",
+    "summary": "Most people never get past level 1. The ROI compounds at level 3.",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Hyperagency",
+    "link": "/docs/concepts/hyperagency",
+    "date": "2026-04-08",
+    "summary": "There are going to be two types of people in this world. Hyperagents, and people who live in the world that hyperagen...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Don't Accept Automation as the Goal",
+    "link": "/docs/playbooks/business-owner/beyond-automation",
+    "date": "2026-04-08",
+    "summary": "Most AI consultants will automate your workflow and hand it back to you.",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "Personal Agentic OS",
     "link": "/docs/concepts/personal-agentic-os",
     "date": "2026-04-07",
@@ -29,37 +53,5 @@
     "date": "2026-04-07",
     "summary": "Claude Code is Anthropic's terminal-based AI agent. It reads your files, writes files, runs commands, and operates in...",
     "tag": "New"
-  }
-,
-  {
-    "title": "Setting Up OpenAI Codex",
-    "link": "/docs/playbooks/practitioner/codex-setup",
-    "date": "2026-04-07",
-    "summary": "Codex is OpenAI's open source terminal agent. It reads your files, runs commands, and operates inside your workspace....",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Setting Up Hermes Agent",
-    "link": "/docs/playbooks/practitioner/hermes-setup",
-    "date": "2026-04-07",
-    "summary": "Hermes Agent is an open source autonomous AI agent by Nous Research, a research company that builds frontier open sou...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "The Personal Agentic OS Workshop",
-    "link": "/docs/playbooks/practitioner/mvp-personal-agentic-os",
-    "date": "2026-04-07",
-    "summary": "A step-by-step guide to setting up the simplest system that gives you AI-augmented recall, strategic clarity, and com...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Game Design",
-    "link": "/docs/concepts/game-design",
-    "date": "2026-04-07",
-    "summary": "The meta-skill of the AI era. Not playing the game. Designing it.",
-    "tag": "Updated"
   }
 ]
