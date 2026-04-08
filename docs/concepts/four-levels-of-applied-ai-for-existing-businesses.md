@@ -37,13 +37,13 @@ Level 1 is valuable. It is not a destination. (See: [Don't Accept Automation as 
 
 *Use AI where it is better than you.*
 
-Brainstorm keyword angles. Steelman your own strategy. Find blind spots in copy. Pressure-test assumptions. Stress-test a proposal before you send it. Generate counterarguments to your own pitch. Identify patterns in customer feedback you missed because you were too close to it.
+Steelman your own strategy. Pressure-test assumptions before you present them. Generate counterarguments to your own pitch. Stress-test a proposal before you send it. Identify patterns in customer feedback you missed because you were too close to it. Brainstorm angles on a problem you have been staring at for weeks.
 
 This is AI as a sparring partner, not a faster intern. The shift is subtle but critical: you stop giving AI tasks and start giving it problems. You stop saying "write this email" and start saying "here is my situation, here is what I am considering, what am I missing?"
 
 This requires [context engineering](/docs/concepts/context-engineering): the AI needs enough of your situation to think with you, not just for you. A prompt with no context produces generic output. A prompt with your strategy doc, your competitive landscape, and your last three quarterly reviews produces insight you could not have gotten alone.
 
-Most people skip this level entirely. They go from "AI writes my emails" to trying to build a chatbot, missing the entire middle layer where AI is most useful as a thinking tool.
+Most people skip this level entirely. They jump from "AI writes my emails" straight to tool-building, missing the entire middle layer where AI is most useful as a thinking tool.
 
 **What level 2 gives you:** Better decisions.
 
@@ -109,11 +109,11 @@ Level 1 saves time. Level 2 improves thinking. Level 3 creates new work. Level 4
 
 ## What About New Businesses?
 
-This ladder describes the progression for existing operations. If you are starting from scratch, you do not need to climb. You start at level 4.
+This ladder describes the progression for existing operations. If you are starting a business from scratch, you do not need to climb one level at a time. You can architect for all four levels from day one.
 
-New businesses have no legacy workflows to automate, no existing processes to optimize. The smartest move is to build a [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) from day one: custom tools, sovereign data, compounding systems designed around your specific problem. You skip the ladder entirely because there is nothing to climb from.
+New businesses have no legacy workflows weighing them down. No teams doing things the old way. The smartest move is to build a [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) from the start: custom tools, sovereign data, compounding systems designed around your specific problem. You still benefit from level 2 thinking (AI as sparring partner) and level 3 awareness (what work is now worth doing that never was before). But you get to wire it all in from the foundation instead of retrofitting.
 
-The ladder matters for existing businesses because they have gravity. They have teams doing things the old way. They have workflows that predate AI. The progression from level 1 to level 4 is the path to modernizing an operation that already exists. New businesses get to leapfrog it.
+The ladder matters for existing businesses because they have gravity. They have workflows that predate AI. The progression from level 1 to level 4 is the path to modernizing an operation that already exists. New businesses get to skip the retrofit.
 
 ---
 
@@ -123,7 +123,7 @@ The ladder matters for existing businesses because they have gravity. They have 
 
 **If you are a practitioner:** This is your engagement roadmap. Most clients come to you stuck at level 1. Show them the ladder. The conversation shifts from "automate my reports" to "what work should my business be doing that it has never done?" That is a fundamentally different engagement, and a fundamentally different price point. (See: [Pricing](/docs/playbooks/practitioner/pricing))
 
-**If you are a student:** This framework maps to the [Five Levels of Value](/docs/playbooks/student/five-levels-of-value). Level 1 and 2 are Player territory. Level 3 is where Coaches operate. Level 4 is where Game Creators build. Figure out where you want to be.
+**If you are a student:** This framework complements the [Five Levels of Value](/docs/playbooks/student/five-levels-of-value). That ladder is about where you sit in the economy. This ladder is about how the organizations you work in (or build) use AI. Understanding both gives you a map of where to aim and what to push for once you are inside a team.
 
 ---
 
@@ -134,10 +134,7 @@ The ladder matters for existing businesses because they have gravity. They have 
 - [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): The mental model that reveals level 3 opportunities
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system at the heart of level 4
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): How level 4 systems compound over time
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Why building your own tools matters more than renting someone else's
-- [Harness Engineering](/docs/concepts/harness-engineering): The technical discipline behind level 4
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): The related framework for where you sit in the economy
-- [Hyperagency](/docs/concepts/hyperagency): What happens when you operate at level 4 consistently
 
 ---
 
