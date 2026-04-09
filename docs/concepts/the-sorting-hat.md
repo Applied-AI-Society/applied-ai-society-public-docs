@@ -41,6 +41,8 @@ The buckets do not need to be perfect. They need to exist. You can refine them a
 
 Each bucket has criteria. What kind of person or opportunity belongs here? What signals indicate fit? What disqualifies someone? These principles are yours. They come from your values, your experience, your strategy. AI cannot invent them for you. But once you write them down, AI can apply them at scale.
 
+**This is the hardest part, and the most important.** Bad principles produce worse outcomes than no sorting at all. If your criteria overfit to surface-level signals (job title, follower count, how polished their pitch is), you will systematically filter out the people who would have mattered most and let in the people who look good on paper but add nothing. The principles need to come from somewhere deeper than metrics. What do you actually value? What does alignment feel like when it is real? What patterns have you seen in the partnerships that worked vs. the ones that drained you? The best sorting principles are rooted in lived experience and honest self-knowledge, not in optimization logic. (For one framework on designing from principles rather than KPIs, see [divine principle-first design](https://faithwalk.garysheng.com/perspectives/divine-principle-first-design).)
+
 This is [game design](/docs/concepts/game-design) applied to your inbox. You are designing the rules of a sorting game. The objectives are clear routing. The guardrails are your non-negotiables. The scoring is whether the recommendation matches what you would have decided if you had unlimited time to think about it.
 
 **3. Full context about the inbound.**
