@@ -43,7 +43,7 @@ Here is the cost breakdown upfront:
 | Tool | Cost | Notes |
 |------|------|-------|
 | [Hermes Agent](https://hermes-agent.nousresearch.com) | Free, open source | Installed via one-line installer. Handles all dependencies automatically. |
-| [OpenRouter](https://openrouter.ai) | Free tier available | High-powered models on a free tier (Qwen 3.6 Plus, Gemma, and more). No credit card required. Paid models like Claude (~$200/mo) are optional. |
+| [OpenRouter](https://openrouter.ai) | Free tier available | Routes to multiple model providers. Free models available but read the privacy note below. Paid models (Claude, GPT) are also available through OpenRouter. |
 | [VS Code](https://code.visualstudio.com) | Free, open source | Made by Microsoft |
 | [Git](https://git-scm.com) | Free, open source | Version control |
 | [GitHub](https://github.com) | Free | Paid tiers exist but you do not need them |
@@ -106,7 +106,11 @@ Then configure your model:
 hermes model
 ```
 
-Select OpenRouter as your provider and enter your API key (free tier, no credit card). You can also use Anthropic, OpenAI, or any other provider, but OpenRouter gives you Qwen 3.6 Plus and other capable models for free.
+Select your provider and enter your API key. OpenRouter, Anthropic, OpenAI, and other providers all work.
+
+:::caution[A note on free and cheap models]
+Free models on OpenRouter (Qwen, Gemma, etc.) are great for getting started and learning the patterns, but understand the tradeoffs. When you use a free or cheap model through a routing service, your prompts and data may be used for training, logged, or handled with less privacy protection than paid tiers from established providers. If you are feeding your Personal Agentic OS sensitive information (business strategy, client details, financial data, personal relationships), you should be using a paid model from a provider with clear data handling policies. Anthropic (Claude), OpenAI (GPT), and Google (Gemini) all have enterprise-grade data handling on their paid tiers. The free tier is fine for learning. Once your system has real context about your life and work, treat model selection like you would treat choosing who gets access to your most private documents.
+:::
 
 **First launch:** Type `hermes` in your terminal. If this is your first time, Hermes will walk you through its setup flow. Follow the prompts to authenticate and pick your preferences.
 
@@ -126,9 +130,9 @@ Hermes is not just another AI coding agent. It is **Claude Code and OpenClaw in 
 
 [Nous Research](https://nousresearch.com) is an AI research company known for the Hermes model family. They build frontier open source AI models, and now they build full agent infrastructure. Hermes Agent is their answer to closed, platform-locked AI systems.
 
-For context: before switching to Hermes, the Applied AI Society ran on OpenClaw + Claude at ~$200/mo in API costs. Cron jobs were timing out. Four out of six active jobs were failing. The agent was broken and costing money for it to break. After migrating to Hermes + Qwen 3.6 via OpenRouter's free tier, the monthly inference cost dropped to zero, with better reliability, same capabilities, and the full skill architecture preserved.
+For context: before switching to Hermes, the Applied AI Society ran on OpenClaw + Claude at ~$200/mo in API costs. Cron jobs were timing out. Four out of six active jobs were failing. The agent was broken and costing money for it to break. After migrating to Hermes + Qwen 3.6 via OpenRouter, the monthly inference cost dropped significantly, with better reliability and the full skill architecture preserved.
 
-That is what Hermes makes possible: an agent system with zero marginal cost per message. Run the heartbeat. Run the triage. Run the morning briefing with deeper context. The economic friction is gone. You stop optimizing for API cost and start optimizing for capability.
+That is what Hermes makes possible: an agent system with very low marginal cost per message. Run the heartbeat. Run the triage. Run the morning briefing with deeper context. The economic friction is dramatically reduced. You stop optimizing for API cost and start optimizing for capability. As your system grows and holds more sensitive context, consider upgrading to a paid model with stronger privacy guarantees (see the note above).
 
 ---
 
