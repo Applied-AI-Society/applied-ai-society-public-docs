@@ -86,12 +86,17 @@ In each case, the human designs the game. The AI plays it. The human reviews the
 
 ## Getting Started
 
-You do not need a custom-built system. If you have a [Personal Agentic OS](/docs/concepts/personal-agentic-os) with documented principles and a context lake, you can start sorting today:
+The implementation is a [skill file](/docs/concepts/instruction-files). A skill file is a markdown document that tells your AI agent how to perform a specific task. Your sorting hat skill file contains your buckets, your principles, and the instructions for how to evaluate an inbound. When you invoke it, the agent reads the skill, reads the context about the person or opportunity, and produces a recommendation.
+
+This is not a separate app. It is a file in your workspace that your harness knows how to execute.
+
+Here is how to build one:
 
 1. **Define your buckets.** Write down 3 to 5 categories that cover where people and opportunities fit in your life. Keep it simple.
-2. **Write your principles.** For each bucket, write 2 to 3 sentences about what belongs there and what does not.
-3. **Test it.** Next time someone new enters your world, paste their context into your harness and ask: "Given my principles and my current commitments, where does this person fit and what should I do next?"
-4. **Refine.** When the recommendation is wrong, update the principles. The sorting hat learns by you sharpening the criteria, not by magic.
+2. **Write your principles.** For each bucket, write 2 to 3 sentences about what belongs there and what does not. This is the part that matters most. Take your time.
+3. **Create the skill file.** A markdown file in your skills directory that tells the agent: read the inbound context, look up the person, apply these principles, recommend a bucket and a next action. The file is the sorting hat.
+4. **Test it.** Next time someone new enters your world, invoke the skill. Review the recommendation. Did it match what you would have decided?
+5. **Refine.** When the recommendation is wrong, update the principles in the skill file. The sorting hat learns by you sharpening the criteria, not by magic. Every correction makes the file better.
 
 ---
 
