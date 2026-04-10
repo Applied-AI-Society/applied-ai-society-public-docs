@@ -104,3 +104,4 @@ The applied AI economy does not need to be a rich person's game. But right now, 
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that compounds on top of this foundation
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): What you do once you have the infrastructure
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Making the knowledge layer free even when the infrastructure layer is not
+- [Imagination Economy Infrastructure](/docs/concepts/imagination-economy-infrastructure): The full stack view. MVI is the individual baseline. Imagination economy infrastructure is the civilizational stack.
