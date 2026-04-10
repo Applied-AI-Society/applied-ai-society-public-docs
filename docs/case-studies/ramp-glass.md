@@ -188,6 +188,30 @@ The Ramp story validates, at corporate scale, nearly every core AAS concept:
 
 ---
 
+## The Playbook for Every Company
+
+You do not need to be Ramp. You do not need a team of four engineers or a 700-person hackathon. But you need to understand that this is the new bar. The companies that suit up their entire workforce this way will compound advantages that companies still debating their "AI strategy" cannot match.
+
+Here is what any company can take from Ramp's approach:
+
+**1. Start today, not with a plan.** Ramp did not have a master plan. They had a culture that rewards speed and a leadership team that said: AI usage is an expectation, not an experiment. That clarity alone moves organizations further than any strategy deck.
+
+**2. Build the infrastructure that removes friction.** Pre-connect your tools. Eliminate token limits. Kill the IT approval queues that stand between your people and their breakthrough moment. If your employees have to debug a setup before they can use AI, you have already lost.
+
+**3. Make it a game.** Leaderboards. Team rankings. All-hands celebrations. The competitive dynamics did more for Ramp's adoption than any training program. When a CSM sees a risk analyst save 16 hours a month, they do not think "good for Risk." They think "what can I build?"
+
+**4. Build from the center, drive from the spokes.** A small central team builds platforms and plumbing. Functional teams build on top. The spokes drive the center as much as the center drives the spokes.
+
+**5. Share skills, not just tools.** The Dojo pattern: when someone discovers a workflow, they package it as a reusable skill file. The floor [rises](/docs/concepts/raise-the-floor) with every contribution.
+
+**6. Treat AI proficiency as a hiring requirement.** It is not optional. It is how you evaluate whether people and teams are operating at their potential. The interview should include: build me something, show me how you built it, walk me through how it works.
+
+**7. Expect creative destruction.** Your tools from three months ago should feel obsolete. If they do not, you are not moving fast enough.
+
+The cost math is simple: token consumption per employee is a rounding error compared to their salary. If AI makes someone 2x more productive, spend aggressively. The ROI is not in day one. It is in the compounding.
+
+---
+
 ## The Key Insight
 
 The single most important thing Ramp learned: **every feature is secretly a lesson.**

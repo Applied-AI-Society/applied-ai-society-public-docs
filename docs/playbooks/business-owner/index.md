@@ -43,6 +43,12 @@ Translate everything you've mapped into a concrete pilot: a specific problem, a 
 
 ---
 
+## See What the Best Companies Are Doing
+
+Before you scope your pilot, look at what the most aggressive companies are already doing. [Ramp](/docs/case-studies/ramp-glass) built an internal AI suite that got 700 employees building with AI: 6,300% usage growth, 1,500 apps shipped in six weeks, non-engineers doing production code. They gamified the process, shared skills across the whole company, and removed every constraint between their people and AI. Their playbook is documented in full. Read it. It will change how you think about what is possible.
+
+---
+
 ## The Mindset That Matters
 
 The best applied AI engagements don't end at delivery. They get better over time. Before you hire anyone, understand the difference between automation (doing the same thing faster) and continuous improvement (driving better outcomes). Read [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation).
