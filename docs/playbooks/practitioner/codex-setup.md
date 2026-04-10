@@ -165,7 +165,7 @@ All three read the same workspace folder structure. Pick the one that fits your 
 
 - [OpenAI Codex Documentation](https://developers.openai.com/codex/quickstart): Official quickstart
 - [GitHub Repository](https://github.com/openai/codex): Source code and issues
-- [MVP Personal Agentic OS Workshop](/docs/playbooks/practitioner/mvp-personal-agentic-os): The full self-paced tutorial
+- [MVP Personal Agentic OS Workshop](/docs/workshops/supersuit-up): The full self-paced tutorial
 - [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup): Alternative harness from Anthropic
 - [Hermes Setup](/docs/playbooks/practitioner/hermes-setup): Zero-cost open source alternative
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the wrapper matters as much as the model

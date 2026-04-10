@@ -138,4 +138,4 @@ Done. You just created a repository, committed a file, and pushed it to GitHub.
 
 ## Next Steps
 
-Now that Git and GitHub are set up, you are ready to clone your [Personal Agentic OS workspace](/docs/playbooks/practitioner/mvp-personal-agentic-os#step-2c-clone-and-open-your-workspace).
+Now that Git and GitHub are set up, you are ready to clone your [Personal Agentic OS workspace](/docs/workshops/supersuit-up#step-2c-clone-and-open-your-workspace).

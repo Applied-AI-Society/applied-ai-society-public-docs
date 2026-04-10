@@ -181,7 +181,7 @@ gh repo create my-jarvis --private --push
 
 ## Further Reading
 
-- [MVP Personal Agentic OS Workshop](/docs/playbooks/practitioner/mvp-personal-agentic-os): The full self-paced tutorial covering the entire system
+- [MVP Personal Agentic OS Workshop](/docs/workshops/supersuit-up): The full self-paced tutorial covering the entire system
 - [Hermes Setup](/docs/playbooks/practitioner/hermes-setup): Zero-cost alternative harness using open source models
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The concept behind what you just built
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the code around the model matters as much as the model

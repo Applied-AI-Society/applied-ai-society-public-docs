@@ -72,7 +72,7 @@ This is not a philosophical stance. It is an architectural decision. The [Sovere
 
 ## Getting Started
 
-The [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) tutorial walks you through setting up your first Personal Agentic OS in about 4 hours. The [starter repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis) gives you the default folder structure to clone.
+The [MVP Personal Agentic OS](/docs/workshops/supersuit-up) tutorial walks you through setting up your first Personal Agentic OS in about 4 hours. The [starter repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis) gives you the default folder structure to clone.
 
 The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the progression from first setup through increasingly deeper levels of integration.
 
@@ -80,7 +80,7 @@ The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the prog
 
 ## Further Reading
 
-- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): The setup tutorial
+- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The setup tutorial
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the code around the model matters as much as the model
 - [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The full sovereignty philosophy
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your AI knows

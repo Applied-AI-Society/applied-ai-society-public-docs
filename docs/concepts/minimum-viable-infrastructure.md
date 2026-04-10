@@ -13,7 +13,7 @@ title: "Minimum Viable Infrastructure"
 
 We talk about the [elevator economy](/docs/concepts/the-survivor-economy) like everyone has a ticket. They do not.
 
-Before you can build a [Personal Agentic OS](/docs/concepts/personal-agentic-os), before you can set up a [context lake](/docs/concepts/context-lake), before you can even complete the [MVP Personal Agentic OS tutorial](/docs/playbooks/practitioner/mvp-personal-agentic-os), you need a set of baseline infrastructure that most conversations about AI completely take for granted.
+Before you can build a [Personal Agentic OS](/docs/concepts/personal-agentic-os), before you can set up a [context lake](/docs/concepts/context-lake), before you can even complete the [MVP Personal Agentic OS tutorial](/docs/workshops/supersuit-up), you need a set of baseline infrastructure that most conversations about AI completely take for granted.
 
 The minimum viable infrastructure to be activated in 2026 is not trivial. And in many parts of the world, including large parts of the United States, people do not have it.
 
@@ -72,7 +72,7 @@ This feels backwards. Why are we helping the privileged get more privileged? Bec
 
 Even with perfect infrastructure, there is another bottleneck: you need a human to walk you through this stuff. And those humans are rare.
 
-The [MVP tutorial](/docs/playbooks/practitioner/mvp-personal-agentic-os) is designed to be self-paced. But every machine is different. You hit a permission error on Windows. Your Node.js version conflicts with something. A corporate firewall blocks a download. These edge cases take an experienced person 30 seconds to debug and can trap a beginner for hours.
+The [MVP tutorial](/docs/workshops/supersuit-up) is designed to be self-paced. But every machine is different. You hit a permission error on Windows. Your Node.js version conflicts with something. A corporate firewall blocks a download. These edge cases take an experienced person 30 seconds to debug and can trap a beginner for hours.
 
 A human guide who has done this before, who can look at your screen and say "oh, just run this command," is worth more than any tutorial. But there are not enough of these people. Training more of them, building a bench of practitioners who can teach others, is one of the highest-leverage things the [Applied AI Society](https://appliedaisociety.org) can do. Every person who gets activated becomes a potential guide for the next person. The flywheel only works if we invest in the humans, not just the tools.
 
@@ -98,7 +98,7 @@ The applied AI economy does not need to be a rich person's game. But right now, 
 
 ## Further Reading
 
-- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): The tutorial that assumes this infrastructure exists
+- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The tutorial that assumes this infrastructure exists
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): What happens when the gap widens
 - [Context Lake](/docs/concepts/context-lake): What you are building once you have the infrastructure
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that compounds on top of this foundation

@@ -43,6 +43,20 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/docs/playbooks/practitioner/mvp-personal-agentic-os',
+            to: '/docs/workshops/supersuit-up',
+          },
+        ],
+      },
+    ],
+  ],
+
   themes: [
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),

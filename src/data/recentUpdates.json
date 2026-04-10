@@ -1,57 +1,57 @@
 [
   {
-    "title": "The Four Levels of Applied AI for Existing Businesses",
-    "link": "/docs/concepts/four-levels-of-applied-ai-for-existing-businesses",
-    "date": "2026-04-08",
-    "summary": "Most people never get past level 1. The ROI compounds at level 3.",
+    "title": "Ramp: Glass",
+    "link": "/docs/case-studies/ramp-glass",
+    "date": "2026-04-10",
+    "summary": "700 employees. 350 shared skills. 6,300% usage growth. 1,500 apps shipped in six weeks. And they're just getting star...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Externalize Your Brain",
+    "link": "/docs/concepts/externalize-your-brain",
+    "date": "2026-04-10",
+    "summary": "The bottleneck is you, not the tools. AI is so abundant and powerful that the human is now the constraint. The fix is...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "See Your Own Thinking",
+    "link": "/docs/concepts/see-your-own-thinking",
+    "date": "2026-04-10",
+    "summary": "Most people have never seen their own thinking laid out in front of them. When they do, everything changes.",
     "tag": "New"
   }
 ,
   {
     "title": "Hyperagency",
     "link": "/docs/concepts/hyperagency",
-    "date": "2026-04-08",
+    "date": "2026-04-10",
     "summary": "There are going to be two types of people in this world. Hyperagents, and people who live in the world that hyperagen...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Don't Accept Automation as the Goal",
-    "link": "/docs/playbooks/business-owner/beyond-automation",
-    "date": "2026-04-08",
-    "summary": "Most AI consultants will automate your workflow and hand it back to you.",
+    "title": "Raise the Floor",
+    "link": "/docs/concepts/raise-the-floor",
+    "date": "2026-04-10",
+    "summary": "One person's breakthrough should become everyone's baseline. The organizations that figure this out will compound fas...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "The Survivor Economy",
+    "link": "/docs/concepts/the-survivor-economy",
+    "date": "2026-04-10",
+    "summary": "Every person in an existing company is on a game show right now. Most of them do not know it yet.",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Personal Agentic OS",
-    "link": "/docs/concepts/personal-agentic-os",
-    "date": "2026-04-07",
-    "summary": "A personal AI system that operates from your context, compounds over time, and is owned entirely by you. Think Tony S...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Hypercontext Protocol",
-    "link": "/docs/concepts/hypercontext-protocol",
-    "date": "2026-04-07",
-    "summary": "Your personal agent OS is your API to the world.",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Zero-Question Assessments",
-    "link": "/docs/concepts/zero-question-assessments",
-    "date": "2026-04-07",
-    "summary": "Your context lake already has the answers. Stop asking questions your files can answer for you.",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Setting Up Claude Code",
-    "link": "/docs/playbooks/practitioner/claude-code-setup",
-    "date": "2026-04-07",
-    "summary": "Claude Code is Anthropic's terminal-based AI agent. It reads your files, writes files, runs commands, and operates in...",
+    "title": "Your Two Futures",
+    "link": "/docs/philosophy/your-two-futures",
+    "date": "2026-04-10",
+    "summary": "You are standing at a fork. Not someday. Today. And the two paths lead to radically different lives.",
     "tag": "New"
   }
 ]

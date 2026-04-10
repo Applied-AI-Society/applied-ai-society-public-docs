@@ -12,7 +12,7 @@ description: "How to run a Personal Agentic OS workshop. Logistics, format, paci
 
 ## Why This Playbook Exists
 
-The [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) tutorial is designed to be self-paced. But in practice, having an instructor makes an enormous difference. Every machine is slightly different. People hit edge cases (a Windows PowerShell permission error, an old Node.js version, a corporate firewall, an outdated laptop) that are too niche to document but take an experienced person 30 seconds to debug.
+The [MVP Personal Agentic OS](/docs/workshops/supersuit-up) tutorial is designed to be self-paced. But in practice, having an instructor makes an enormous difference. Every machine is slightly different. People hit edge cases (a Windows PowerShell permission error, an old Node.js version, a corporate firewall, an outdated laptop) that are too niche to document but take an experienced person 30 seconds to debug.
 
 The instructor is the person who gets participants across the finish line. Without one, a significant percentage of people will get stuck at installation and never make it to the part that actually changes their life: the user profile interview and the strategic blocker plan. The tutorial is the map. The instructor is the guide who keeps people moving when the terrain gets rough.
 
@@ -126,7 +126,7 @@ March 31 2026 workshop participant:
 
 If you want to run a Personal Agentic OS workshop in your community, here is the minimum you need:
 
-1. **Complete the [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) tutorial yourself first.** You need to have a working system with at least a few weeks of usage to demo credibly.
+1. **Complete the [MVP Personal Agentic OS](/docs/workshops/supersuit-up) tutorial yourself first.** You need to have a working system with at least a few weeks of usage to demo credibly.
 2. **A space with a big screen** and seating for up to 8 people.
 3. **A video call link** for remote participants (optional but recommended).
 4. **3.5 to 4 hours** of uninterrupted time.
@@ -140,7 +140,7 @@ If you run a workshop, share what you learned. Update this playbook by contribut
 
 ## Further Reading
 
-- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): The tutorial you are teaching
+- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The tutorial you are teaching
 - [Starter Repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis): The forkable workspace participants clone
 - [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The role description and progression framework
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The concept you are teaching

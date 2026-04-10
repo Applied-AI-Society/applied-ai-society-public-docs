@@ -47,7 +47,7 @@ If you are an applied AI practitioner, building command centers is the work.
 
 Not generic SaaS. Not another AI wrapper. Custom, high-fidelity command centers for specific people and organizations. The work looks like:
 
-- **For individuals:** setting up a Personal Agentic OS, importing their existing knowledge, training them to maintain it, and refining it over time as their operation evolves. This is what the [MVP Personal Agentic OS workshop](/docs/playbooks/practitioner/mvp-personal-agentic-os) teaches.
+- **For individuals:** setting up a Personal Agentic OS, importing their existing knowledge, training them to maintain it, and refining it over time as their operation evolves. This is what the [MVP Personal Agentic OS workshop](/docs/workshops/supersuit-up) teaches.
 - **For businesses:** building a Sovereign Agentic Business OS that consolidates scattered tools into unified context. This is deeper, longer-term engagement that requires [trust](/docs/sovereign-agentic-business-os) at the level of a business partner, not a vendor.
 - **For verticals:** creating [CLIPs](/docs/concepts/clips) and domain-specific [skill files](/docs/concepts/instruction-files) that plug into command centers and give them specialized capabilities.
 
@@ -57,7 +57,7 @@ Super suits for all.
 
 ## Getting Started
 
-If you do not have a command center yet, start with the personal version. The [MVP Personal Agentic OS tutorial](/docs/playbooks/practitioner/mvp-personal-agentic-os) walks you through the full setup in about four hours. You will not go back.
+If you do not have a command center yet, start with the personal version. The [MVP Personal Agentic OS tutorial](/docs/workshops/supersuit-up) walks you through the full setup in about four hours. You will not go back.
 
 If you already have one and want to understand the organizational version, read the [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) section.
 

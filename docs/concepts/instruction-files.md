@@ -130,7 +130,7 @@ This is why instruction file writing is emerging as a core practitioner skill. I
 
 ## For Practitioners
 
-When you set up a [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) for a client, the instruction files are the foundation. The USER.md is an instruction file (it tells the agent who it is working for). The skill files are instruction files (they tell the agent how to execute workflows). The CLAUDE.md is an instruction file (it tells the agent how to behave in this workspace).
+When you set up a [MVP Personal Agentic OS](/docs/workshops/supersuit-up) for a client, the instruction files are the foundation. The USER.md is an instruction file (it tells the agent who it is working for). The skill files are instruction files (they tell the agent how to execute workflows). The CLAUDE.md is an instruction file (it tells the agent how to behave in this workspace).
 
 **Your job is to write these well.** Not the client's job. Most clients have never written instructions for a machine that interprets them with judgment. They will write vague aspirations ("be helpful") or rigid scripts ("always do X then Y then Z"). Neither works well. The practitioner's skill is translating the client's actual intent into instructions that an agent can follow with appropriate judgment.
 
@@ -145,6 +145,6 @@ This is [context engineering](/docs/concepts/context-engineering) at its most pr
 - [The Spec Is the Product](/docs/concepts/spec-writing): The quality chain that applies to every instruction file
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information state
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that instruction files configure
-- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where you write your first instruction files
+- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): Where you write your first instruction files
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): Where skills end and full programs begin
 - [Ramp: Glass](/docs/case-studies/ramp-glass): 350+ shared markdown skill files at corporate scale. Git-backed, versioned, reviewed like code.

@@ -52,7 +52,7 @@ Here is what the compounding docs flywheel looks like in practice, starting from
 
 **Month 3.** You have 100+ documents. The agent operates like a well-briefed chief of staff. It connects dots you did not see. It references a conversation from six weeks ago that is relevant to what you are working on today. It catches inconsistencies between your stated priorities and your actual behavior. The workspace is not just a filing cabinet. It is an intelligence layer.
 
-This is why the [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) workshop starts with the user profile interview, not the tools. The tools are commodity. The context is the asset. The first document you write is the most important because it starts the flywheel.
+This is why the [MVP Personal Agentic OS](/docs/workshops/supersuit-up) workshop starts with the user profile interview, not the tools. The tools are commodity. The context is the asset. The first document you write is the most important because it starts the flywheel.
 
 ## For Practitioners
 
@@ -81,4 +81,4 @@ Start writing. The flywheel is waiting.
 - [Legacy](/docs/legacy): The discipline of keeping your document library truthful and current
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why the human is the bottleneck and how writing fixes it
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Building tools that reduce friction, including the friction of documenting
-- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where the flywheel starts
+- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): Where the flywheel starts

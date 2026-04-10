@@ -84,7 +84,7 @@ But we cannot make the choice for you. Nobody can.
 ## Where to Start
 
 **If you are an individual:**
-Start with your [Personal Agentic OS](/docs/concepts/personal-agentic-os). Write down who you are, what you are building, and how you think. Give your AI partner the context it needs to be genuinely useful. The [MVP tutorial](/docs/playbooks/practitioner/mvp-personal-agentic-os) takes an afternoon to set up. Within a week, you will understand why people describe this as a transformation.
+Start with your [Personal Agentic OS](/docs/concepts/personal-agentic-os). Write down who you are, what you are building, and how you think. Give your AI partner the context it needs to be genuinely useful. The [MVP tutorial](/docs/workshops/supersuit-up) takes an afternoon to set up. Within a week, you will understand why people describe this as a transformation.
 
 **If you lead a team or company:**
 Look at what [Ramp built](/docs/case-studies/ramp-glass). Every employee with an AI partner. Shared skill files so one person's breakthrough becomes everyone's baseline. Everything connected on day one. You do not need to build Glass. You need to build the version of this that fits your organization. Start with the [Four Levels](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses) to understand where you are. Then move.
@@ -122,5 +122,5 @@ Choose.
 - [Robot Mode](/docs/concepts/robot-mode): The work AI should replace so you can be fully human.
 - [Crutching](/docs/concepts/crutching): The wrong way to use AI. The path that weakens instead of strengthens.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your system. The place to start.
-- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): The tutorial. One afternoon to begin.
+- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The tutorial. One afternoon to begin.
 - [The Encounter](/docs/concepts/the-encounter): Why seeing it in person changes everything.

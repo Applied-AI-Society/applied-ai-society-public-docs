@@ -41,7 +41,7 @@ The course turns an open-ended request ("Can I pick your brain?") into a structu
 
 Not everything needs to be a course. Some expertise is better served by living documentation: articles, guides, FAQs, and reference material that anyone can access at any time.
 
-The [Applied AI Society docs](https://docs.appliedaisociety.org) are an example of this pattern. Instead of explaining the same concepts in every conversation, practitioners can share a link. "Here is what we mean by [harness engineering](/docs/concepts/harness-engineering)." "Here is the [MVP Personal Agentic OS playbook](/docs/playbooks/practitioner/mvp-personal-agentic-os)." The conversation starts at a higher level because the basics are already covered.
+The [Applied AI Society docs](https://docs.appliedaisociety.org) are an example of this pattern. Instead of explaining the same concepts in every conversation, practitioners can share a link. "Here is what we mean by [harness engineering](/docs/concepts/harness-engineering)." "Here is the [MVP Personal Agentic OS playbook](/docs/workshops/supersuit-up)." The conversation starts at a higher level because the basics are already covered.
 
 Good permissionless documentation has a few properties:
 

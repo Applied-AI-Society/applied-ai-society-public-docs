@@ -63,7 +63,7 @@ A command center is not an app in the traditional sense. It is a [Personal Agent
 
 Creating the custom interface that someone has with the digital world is the new app building.
 
-This is not science fiction. This is what the [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) workshop teaches. It is why we emphasize it so heavily. Everyone needs one. But the bigger picture for applied AI practitioners is this: if you want to know where the industry is heading, it is toward creating custom [harnesses](/docs/concepts/harness-engineering) for individuals. And for organizations.
+This is not science fiction. This is what the [MVP Personal Agentic OS](/docs/workshops/supersuit-up) workshop teaches. It is why we emphasize it so heavily. Everyone needs one. But the bigger picture for applied AI practitioners is this: if you want to know where the industry is heading, it is toward creating custom [harnesses](/docs/concepts/harness-engineering) for individuals. And for organizations.
 
 Super suits for all.
 

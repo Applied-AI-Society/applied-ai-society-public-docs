@@ -90,5 +90,5 @@ This is why the [Personal Agentic OS](/docs/concepts/personal-agentic-os) archit
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system your trained agent operates within
 - [Observable Behavior Engineering](/docs/concepts/observable-behavior-engineering): Defining what good looks like in concrete terms
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your agent knows
-- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where to start building the system
+- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): Where to start building the system
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where trained agents lead at the organizational level

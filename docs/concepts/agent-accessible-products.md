@@ -108,7 +108,7 @@ Add a section to your documentation (or a standalone AGENTS.md file) that descri
 
 When choosing tools for your operation, ask: "Can an agent use this?" If the answer is no, that tool has an expiration date. Prefer products with CLIs, APIs, and open data formats. Your [Personal Agentic OS](/docs/concepts/personal-agentic-os) can only be as capable as the tools it can access.
 
-This is also why the [Personal Agentic OS architecture](/docs/playbooks/practitioner/mvp-personal-agentic-os) uses plain markdown files instead of proprietary apps. Markdown is the most agent-accessible format there is. Any tool can read it. Any agent can write it. No vendor lock-in. No API key required.
+This is also why the [Personal Agentic OS architecture](/docs/workshops/supersuit-up) uses plain markdown files instead of proprietary apps. Markdown is the most agent-accessible format there is. Any tool can read it. Any agent can write it. No vendor lock-in. No API key required.
 
 ---
 
@@ -120,7 +120,7 @@ This is also why the [Personal Agentic OS architecture](/docs/playbooks/practiti
 - [Harness Engineering](/docs/concepts/harness-engineering): How agents interact with tools through harnesses
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The organizational version of agent-accessibility
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where agent-accessible products lead at the business level
-- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Why plain markdown beats proprietary formats
+- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): Why plain markdown beats proprietary formats
 
 **External:**
 - [CLI Is the New API and MCP: Building Agent-Ready Tools](https://jonnyzzz.com/blog/2026/02/20/cli-tools-for-ai-agents/): Deep dive on CLI design principles for agents

@@ -48,7 +48,7 @@ What Karpathy describes maps directly to [the token economy](/docs/concepts/the-
 
 > "The name of the game now is to increase your leverage. I put in just very few tokens just once in a while and a huge amount of stuff happens on my behalf."
 
-Karpathy built an autonomous research loop ("auto research") that optimizes model training overnight without his involvement. He was surprised it found improvements he missed after two decades of manual tuning. The lesson: if you can define a clear metric and give agents the boundaries to operate within, you can remove yourself from the loop entirely. This is [meta work](/docs/playbooks/practitioner/mvp-personal-agentic-os#phase-8-the-meta-work-shift) taken to its logical conclusion.
+Karpathy built an autonomous research loop ("auto research") that optimizes model training overnight without his involvement. He was surprised it found improvements he missed after two decades of manual tuning. The lesson: if you can define a clear metric and give agents the boundaries to operate within, you can remove yourself from the loop entirely. This is [meta work](/docs/workshops/supersuit-up#phase-8-the-meta-work-shift) taken to its logical conclusion.
 
 > "You basically arrange it once and hit go. The name of the game is how can you get more agents running for longer periods of time without your involvement, doing stuff on your behalf."
 
@@ -62,7 +62,7 @@ This is [legacy](/docs/legacy) described from the frontier. The organization's b
 
 > "I have a claw that takes care of my home. I call him Dobby. It controls all of my lights, my HVAC, my shades, the pool, the spa, and my security system. I used to use six apps. I don't have to use these apps anymore. Dobby controls everything in natural language."
 
-Karpathy built what we call a [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) for his home. Not by buying a product, but by having his agents reverse-engineer the APIs of his smart home devices and build a unified interface. The apps disappeared. The business OS replaced them.
+Karpathy built what we call a [MVP Personal Agentic OS](/docs/workshops/supersuit-up) for his home. Not by buying a product, but by having his agents reverse-engineer the APIs of his smart home devices and build a unified interface. The apps disappeared. The business OS replaced them.
 
 > "Shouldn't it just be APIs, and shouldn't agents be just using them directly? Maybe there's an overproduction of lots of custom bespoke apps that shouldn't exist, because agents kind of crumble them up and everything should be a lot more just exposed API endpoints, and agents are the glue of the intelligence."
 
@@ -164,7 +164,7 @@ This maps to what the Canon calls [soul-requiring work](/docs/philosophy/canon):
 
 > "Humans can be accountable. Machines cannot be accountable."
 
-Six words that capture [Canon IV](/docs/philosophy/canon) (machines serve humans, not the other way around). AI agents can execute. They can reason about options. They can generate solutions. But they cannot bear responsibility for the outcomes. That remains a human function, and it is the reason that [meta work](/docs/playbooks/practitioner/mvp-personal-agentic-os#phase-8-the-meta-work-shift) (defining objectives, setting guardrails, evaluating results) will always require a person in the loop.
+Six words that capture [Canon IV](/docs/philosophy/canon) (machines serve humans, not the other way around). AI agents can execute. They can reason about options. They can generate solutions. But they cannot bear responsibility for the outcomes. That remains a human function, and it is the reason that [meta work](/docs/workshops/supersuit-up#phase-8-the-meta-work-shift) (defining objectives, setting guardrails, evaluating results) will always require a person in the loop.
 
 ### The Applied AI Society vision
 
@@ -212,4 +212,4 @@ But on the things that matter most, they converge:
 
 ---
 
-*See also: [The Applied AI Canon](/docs/philosophy/canon) | [Five Levels of Value](/docs/playbooks/student/five-levels-of-value) | [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) | [The Token Economy](/docs/concepts/the-token-economy)*
+*See also: [The Applied AI Canon](/docs/philosophy/canon) | [Five Levels of Value](/docs/playbooks/student/five-levels-of-value) | [MVP Personal Agentic OS](/docs/workshops/supersuit-up) | [The Token Economy](/docs/concepts/the-token-economy)*

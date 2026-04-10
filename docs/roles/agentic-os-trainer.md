@@ -17,7 +17,7 @@ The Agentic OS Trainer runs workshops that get people from no system to a workin
 
 ### The Activation (Session 1: ~4 hours)
 
-This is the [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) workshop. By the end, every participant has:
+This is the [MVP Personal Agentic OS](/docs/workshops/supersuit-up) workshop. By the end, every participant has:
 
 - All tools installed (voice-to-text, Claude Code, VS Code, Git)
 - A cloned starter workspace with the default folder structure
@@ -81,7 +81,7 @@ The key insight is that the activation is a one-time event, but the progression 
 
 ## Getting Started
 
-1. **Complete the [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os) tutorial yourself.** Use it for at least 2-3 weeks.
+1. **Complete the [MVP Personal Agentic OS](/docs/workshops/supersuit-up) tutorial yourself.** Use it for at least 2-3 weeks.
 2. **Read the [trainer's guide](/docs/playbooks/practitioner/training-the-workshop).** Understand the format, pacing, and common issues.
 3. **Run your first workshop.** Start with friends, colleagues, or your local Applied AI Society chapter. Keep it small (4-6 people) for your first time.
 4. **Contribute back.** Share what you learned. Update the trainer's guide. Drop your notes in the [Discord](https://discord.gg/K7uWJBMFaN).
@@ -90,7 +90,7 @@ The key insight is that the activation is a one-time event, but the progression 
 
 ## Further Reading
 
-- [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): The tutorial you are teaching
+- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The tutorial you are teaching
 - [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): Logistics, pacing, and lessons learned
 - [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The full philosophy behind what participants are building toward
 - [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): Questions for deeper user profile interviews and ongoing coaching
