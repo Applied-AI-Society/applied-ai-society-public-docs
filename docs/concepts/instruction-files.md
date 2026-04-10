@@ -147,3 +147,4 @@ This is [context engineering](/docs/concepts/context-engineering) at its most pr
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that instruction files configure
 - [MVP Personal Agentic OS](/docs/playbooks/practitioner/mvp-personal-agentic-os): Where you write your first instruction files
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): Where skills end and full programs begin
+- [Ramp: Glass](/docs/case-studies/ramp-glass): 350+ shared markdown skill files at corporate scale. Git-backed, versioned, reviewed like code.

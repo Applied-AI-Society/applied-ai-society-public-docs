@@ -88,3 +88,4 @@ All software will be self-evolving software. The question is not whether this ha
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): What gets built on top of harnesses
 - [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The philosophy of owning your own system
 - [The Judgment Line](/docs/concepts/the-judgment-line): The design rule for splitting work between LLMs and code inside a harness
+- [Ramp: Glass](/docs/case-studies/ramp-glass): Corporate case study. "The models are good enough, the harness isn't." Ramp's headline validates harness engineering at 700-person scale.

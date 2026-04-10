@@ -77,3 +77,5 @@ The next level of programming is not that the output is software. It is enterpri
 - [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The role that guides people through the progression
 - [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): How to run the activation session
 - [Always-On Agents](/docs/concepts/always-on-agents): The mechanism by which self-improving enterprises actually operate
+- [Raise the Floor](/docs/concepts/raise-the-floor): The human-level version. One person's breakthrough becomes everyone's baseline through shared skills and infrastructure.
+- [Ramp: Glass](/docs/case-studies/ramp-glass): Corporate case study. 700 employees, 350 shared skills, and the self-improving flywheel in production.

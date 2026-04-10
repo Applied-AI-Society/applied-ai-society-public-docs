@@ -110,3 +110,4 @@ The people who change industries are not the ones who have the most meetings. Th
 - [Agent-Accessible Products](/docs/concepts/agent-accessible-products): Making your knowledge accessible to AI agents, not just humans
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): How your knowledge systems can get better without you
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The AI layer that can serve your permissionless knowledge
+- [Raise the Floor](/docs/concepts/raise-the-floor): The organizational, peer-to-peer version. Permissionless knowledge scales one expert. Raise the Floor compounds an entire group.

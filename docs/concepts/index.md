@@ -44,6 +44,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): The mental model shift from thinking in roles to thinking in workflows, and why it unlocks automation at every level
 - [Robot Mode](/docs/concepts/robot-mode): The dead-end pattern of doing work that does not require your judgment, creativity, or presence. AI does robot mode better than you. Exit it.
 - [Crutching](/docs/concepts/crutching): The anti-pattern of leaning on AI so heavily your own capabilities atrophy. Use AI as a coach, not a replacement.
+- [Raise the Floor](/docs/concepts/raise-the-floor): One person's breakthrough should become everyone's baseline. The organizational flywheel of shared skills and infrastructure.
 
 ### Design Patterns
 
