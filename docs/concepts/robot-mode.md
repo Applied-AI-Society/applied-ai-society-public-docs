@@ -61,3 +61,4 @@ Everyone is doing too much robot-mode work. The tools to stop are here. The only
 - [Hyperagency](/docs/concepts/hyperagency): The split between hyperagents and everyone else. Exiting robot mode is how you suit up.
 - [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): Decomposing roles into workflows is how you find the robot-mode tasks hiding inside "human" jobs.
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): The economic context. Adapt or get sorted out.
+- [Crutching](/docs/concepts/crutching): Robot mode is the wrong type of work. Crutching is the wrong way to use AI. Both need to go.

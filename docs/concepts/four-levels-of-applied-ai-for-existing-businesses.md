@@ -136,6 +136,7 @@ The ladder matters for existing businesses because they have gravity. They have 
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system at the heart of level 4
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): How level 4 systems compound over time
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): The related framework for where you sit in the economy
+- [Crutching](/docs/concepts/crutching): The trap of staying at level 1 by asking AI to do your thinking instead of climbing the ladder.
 
 ---
 

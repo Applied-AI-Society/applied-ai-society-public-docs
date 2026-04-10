@@ -78,3 +78,4 @@ Suit up.
 - [Ignorance Debt](/docs/concepts/ignorance-debt): What happens when high-agency people build without self-knowledge
 - [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): The operational ladder from automation to custom systems. Hyperagents operate at level 4.
 - [Robot Mode](/docs/concepts/robot-mode): The opposite of hyperagency. The dead-end pattern of doing work that does not require your judgment or creativity.
+- [Crutching](/docs/concepts/crutching): The other anti-pattern. Using AI to replace your thinking instead of amplify it. Hyperagents get stronger. Crutchers get weaker.
