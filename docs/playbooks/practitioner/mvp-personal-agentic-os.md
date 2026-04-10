@@ -1,16 +1,20 @@
 ---
-sidebar_label: "The Personal Agentic OS Workshop"
-title: "The Personal Agentic OS Workshop"
-description: "A step-by-step guide to building your Personal Agentic OS for legacy, strategic clarity, and compounding context."
+sidebar_label: "The Supersuit Up Workshop"
+title: "The Supersuit Up Workshop"
+description: "Build your Personal Agentic OS (aka Jarvis Yourself). A step-by-step guide to AI-augmented recall, strategic clarity, and compounding context."
 ---
 
-# The Personal Agentic OS Workshop
+# The Supersuit Up Workshop
 
-*A step-by-step guide to setting up the simplest system that gives you AI-augmented recall, strategic clarity, and compounding context. Some people affectionately call this the "Minimum Viable Jarvis" (a nod to Tony Stark's AI). Whatever you call it, by the end of this guide you will have your own Personal Agentic OS, whose utility you can then compound daily.*
+*Build your Personal Agentic OS. Some people call this "Jarvising Yourself" (a nod to Tony Stark's AI). Whatever you call it, by the end of this guide you will have your own AI system that knows who you are, what you are building, and how you think, and gets smarter every day you use it.*
 
 **Time estimate:** 3.5 to 4 hours to complete everything in this guide, even with some prior technical experience. If you are completely new to the terminal and have never installed developer tools before, expect the upper end.
 
-**The value of an instructor:** This guide is designed to be self-paced, but having someone experienced walk you through it in person makes a significant difference. Every machine is slightly different. You will hit edge cases (a Windows PowerShell permission error, an old Python version conflict, a corporate firewall blocking a download) that are too niche to document here but take 30 seconds for an experienced person to debug. An instructor gets you across the finish line instead of stuck at Step 1B for an hour. If you have access to an [Applied AI Society](https://docs.appliedaisociety.org) workshop or know someone who has done this before, take advantage of that. If not, this guide plus Hermes itself (which can help you debug installation issues) will get you there.
+**The value of in-person help:** This guide is designed to be self-paced, but having a trained applied AI engineer walk you through it in person makes a significant difference. Every machine is slightly different. You will hit edge cases (a Windows PowerShell permission error, an old Python version conflict, a corporate firewall blocking a download) that are too niche to document here but take 30 seconds for an experienced person to debug. An instructor gets you across the finish line instead of stuck at Step 1B for an hour.
+
+The [Applied AI Society](https://appliedaisociety.org) runs Supersuit Up workshops with trained practitioners who have helped hundreds of people through this process. If you want to attend one or request a workshop for your team, school, or community, visit [appliedaisociety.org](https://appliedaisociety.org) or join the [Discord](https://discord.gg/K7uWJBMFaN). A platform for booking and hosting these workshops is coming in Q2 2026. In the meantime, reach out directly and we will connect you with a practitioner in your area.
+
+If neither option is available to you right now, this guide plus Hermes itself (which can help you debug installation issues) will get you there.
 
 ---
 
