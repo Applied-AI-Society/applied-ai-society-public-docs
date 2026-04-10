@@ -1,57 +1,57 @@
 [
   {
-    "title": "Ramp: Glass",
-    "link": "/docs/case-studies/ramp-glass",
+    "title": "CLIPs: The Apps of the Agentic Era",
+    "link": "/docs/concepts/clips",
     "date": "2026-04-10",
-    "summary": "700 employees. 350 shared skills. 6,300% usage growth. 1,500 apps shipped in six weeks. And they're just getting star...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Externalize Your Brain",
-    "link": "/docs/concepts/externalize-your-brain",
-    "date": "2026-04-10",
-    "summary": "The bottleneck is you, not the tools. AI is so abundant and powerful that the human is now the constraint. The fix is...",
+    "summary": "Every major computing wave creates a platform and an ecosystem on top of it. The browser gave us websites. The iPhone...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "See Your Own Thinking",
-    "link": "/docs/concepts/see-your-own-thinking",
+    "title": "Using the Docs with Your Jarvis",
+    "link": "/docs/playbooks/practitioner/using-the-docs-with-your-jarvis",
     "date": "2026-04-10",
-    "summary": "Most people have never seen their own thinking laid out in front of them. When they do, everything changes.",
+    "summary": "How to give your Personal Agentic OS access to the full AAS knowledge base so it can reference concepts, playbooks, a...",
     "tag": "New"
   }
 ,
   {
-    "title": "Hyperagency",
-    "link": "/docs/concepts/hyperagency",
+    "title": "Imagination Economy Infrastructure",
+    "link": "/docs/concepts/imagination-economy-infrastructure",
     "date": "2026-04-10",
-    "summary": "There are going to be two types of people in this world. Hyperagents, and people who live in the world that hyperagen...",
+    "summary": "The distance between thought and creation is collapsing. The infrastructure that makes that collapse possible is the ...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Minimum Viable Infrastructure",
+    "link": "/docs/concepts/minimum-viable-infrastructure",
+    "date": "2026-04-10",
+    "summary": "The baseline requirements to participate in the applied AI economy. They are higher than most people realize, and alm...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Raise the Floor",
-    "link": "/docs/concepts/raise-the-floor",
+    "title": "Agent-Accessible Products",
+    "link": "/docs/concepts/agent-accessible-products",
     "date": "2026-04-10",
-    "summary": "One person's breakthrough should become everyone's baseline. The organizations that figure this out will compound fas...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "The Survivor Economy",
-    "link": "/docs/concepts/the-survivor-economy",
-    "date": "2026-04-10",
-    "summary": "Every person in an existing company is on a game show right now. Most of them do not know it yet.",
+    "summary": "If agents cannot use your product, agents will replace your product.",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Your Two Futures",
-    "link": "/docs/philosophy/your-two-futures",
+    "title": "Always-On Agents",
+    "link": "/docs/concepts/always-on-agents",
     "date": "2026-04-10",
-    "summary": "You are standing at a fork. Not someday. Today. And the two paths lead to radically different lives.",
-    "tag": "New"
+    "summary": "The shift from \"AI that answers when asked\" to \"AI that works for you while you sleep.\"",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Command Centers",
+    "link": "/docs/concepts/command-centers",
+    "date": "2026-04-10",
+    "summary": "The meta-concept. Personal Agentic OS, Sovereign Business OS, custom harnesses for individuals and organizations: the...",
+    "tag": "Updated"
   }
 ]
