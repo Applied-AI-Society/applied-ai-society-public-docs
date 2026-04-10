@@ -93,3 +93,4 @@ The ceiling takes care of itself. Power users will always push the boundaries. T
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where the flywheel leads at the systems level.
 - [The Encounter](/docs/concepts/the-encounter): Why hands-on experience teaches faster than workshops. The product is the enablement.
 - [Compounding Docs](/docs/concepts/compounding-docs): Every shared skill makes every other skill more useful. The knowledge graph compounds.
+- [Your Two Futures](/docs/philosophy/your-two-futures): The fork every person and organization faces. Raising the floor is how organizations choose Future A.

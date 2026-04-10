@@ -79,3 +79,4 @@ Suit up.
 - [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): The operational ladder from automation to custom systems. Hyperagents operate at level 4.
 - [Robot Mode](/docs/concepts/robot-mode): The opposite of hyperagency. The dead-end pattern of doing work that does not require your judgment or creativity.
 - [Crutching](/docs/concepts/crutching): The other anti-pattern. Using AI to replace your thinking instead of amplify it. Hyperagents get stronger. Crutchers get weaker.
+- [Your Two Futures](/docs/philosophy/your-two-futures): The fork every person faces. Future A is hyperagency. Future B is what happens by default.

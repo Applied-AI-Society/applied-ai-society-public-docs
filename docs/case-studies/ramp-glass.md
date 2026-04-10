@@ -127,3 +127,4 @@ The compounding is real. And Ramp is only at the beginning of it.
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where the Dojo flywheel leads. Every skill shared makes the next one more useful.
 - [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Why Ramp built instead of bought. Own your infrastructure, own your moat.
 - [The Encounter](/docs/concepts/the-encounter): Why the product teaches faster than any workshop.
+- [Your Two Futures](/docs/philosophy/your-two-futures): The fork every organization faces. Ramp chose Future A. The question is whether you will.
