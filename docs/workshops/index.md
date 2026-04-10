@@ -13,6 +13,12 @@ A platform for booking and hosting workshops is coming in Q2 2026. In the meanti
 
 ---
 
+## Not Sure If You Are Ready?
+
+Take the [Readiness Quiz](/docs/workshops/readiness-quiz). Eight questions, two minutes. It tells you whether the workshop is right for you, or whether a different starting point makes more sense.
+
+---
+
 ## Available Workshops
 
 | Workshop | What You Build | Time |
