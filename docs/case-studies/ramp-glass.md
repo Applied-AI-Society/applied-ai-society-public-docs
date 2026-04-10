@@ -184,6 +184,7 @@ The Ramp story validates, at corporate scale, nearly every core AAS concept:
 | [Self-Improving Enterprise](/docs/concepts/self-improving-enterprise) | The Dojo flywheel plus creative destruction: tools improve weekly. |
 | [The Encounter](/docs/concepts/the-encounter) | "The product is the enablement." 700-person hackathon as mass encounter. |
 | [Four Levels](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses) | L0-L3 proficiency ladder mirrors the AAS levels framework. |
+| [See Your Own Thinking](/docs/concepts/see-your-own-thinking) | Memory system gives every employee a thinking partner with full context from day one. |
 | [Your Two Futures](/docs/philosophy/your-two-futures) | Ramp chose Future A. The results make the alternative unthinkable. |
 
 ---
@@ -226,7 +227,7 @@ The most important lesson is the simplest one: just get started.
 
 ---
 
-*Glass was built by Seb Goddijn, Shane Buchan, Cameron Leavenworth, Calvin Kipperman, Jay Sobel, and Caroline Horn. The organizational playbook was documented by CPO [Geoff Charles](https://x.com/geoffintech). Original articles published on X on April 9-10, 2026.*
+*Glass was built by [Seb Goddijn](https://x.com/sebgoddijn), Shane Buchan, Cameron Leavenworth, Calvin Kipperman, Jay Sobel, and Caroline Horn. The organizational playbook was documented by CPO [Geoff Charles](https://x.com/geoffintech/status/2042002590758572377). Original articles published on X on April 9-10, 2026.*
 
 ---
 
@@ -239,4 +240,5 @@ The most important lesson is the simplest one: just get started.
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where the Dojo flywheel leads. Every skill shared makes the next one more useful.
 - [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Why Ramp built instead of bought. Own your infrastructure, own your moat.
 - [The Encounter](/docs/concepts/the-encounter): Why the product teaches faster than any workshop. The 700-person hackathon as mass encounter.
+- [See Your Own Thinking](/docs/concepts/see-your-own-thinking): What happens when every employee has a thinking partner with their full context. The metacognition unlock at organizational scale.
 - [Your Two Futures](/docs/philosophy/your-two-futures): The fork every organization faces. Ramp chose Future A. The question is whether you will.
