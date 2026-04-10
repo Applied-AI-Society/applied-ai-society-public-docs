@@ -127,6 +127,22 @@ An agent with a video editing **CLIP** can probe a clip for metadata, transcribe
 
 All while using only 20k tokens, since all the heavy lifting was done by workflow steps and tools.
 
+## The SaaSpocalypse
+
+The timing of CLIPs is not accidental. There is a structural collapse happening in the SaaS economy.
+
+Companies with massive market caps built on subscription-based, seat-based pricing are getting crushed. Not because their products stopped working, but because the economics changed underneath them. When a single person with an agentic harness can build a custom solution in an afternoon that does 80% of what the SaaS product does, the pricing model breaks. Why pay $50/seat/month for a CRM when your agent can manage contacts in plain markdown files that you own? Why pay $200/month for a project management tool when your [Personal Agentic OS](/docs/concepts/personal-agentic-os) already tracks everything?
+
+The stranglehold that SaaS companies have had is loosening because people are realizing something fundamental: they do not need to upload all their contacts, all their documents, all their institutional knowledge to random companies anymore. The data was always the value. The SaaS product was just a wrapper around it. Now the wrapper is commoditized and the [sovereignty](/docs/concepts/the-sovereignty-stack) of the data matters more than ever.
+
+This does not mean every SaaS company dies. The ones with genuine network effects, deep integrations, or regulatory moats will survive. But the long tail of "we put a dashboard on a database" companies is in trouble. The value is shifting to two places:
+
+1. **Open-source CLIPs** that you install locally, connect to your harness, and own completely. These replace the functionality of SaaS products without the subscription, the vendor lock-in, or the data exposure.
+
+2. **Applied AI practitioners** who maintain agentic infrastructure for companies. Instead of paying ten SaaS subscriptions, you pay one practitioner (or build one internal team) to maintain a [sovereign system](/docs/sovereign-agentic-business-os) that does everything those subscriptions did, but better, because it is built around your specific operation. [Ramp proved this at scale](/docs/case-studies/ramp-glass): one internal team, one integrated system, 700 employees activated.
+
+The SaaSpocalypse is the economic context that makes CLIPs not just interesting but inevitable. When the wrapper is free, the domain expertise inside the CLIP is what you are paying for.
+
 ## The Opportunity
 
 Right now, most of the energy in AI tooling is going into harnesses. That makes sense. You need a harness before you can clip in.
