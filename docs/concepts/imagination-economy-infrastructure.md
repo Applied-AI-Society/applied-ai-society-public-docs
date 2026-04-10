@@ -19,7 +19,7 @@ We call this **imagination economy infrastructure**: everything that collapses t
 
 ## The Stack
 
-The imagination economy does not run on a single layer. It runs on a full stack, and every layer matters.
+The imagination economy does not run on a single layer. It runs on a full stack with many layers. Here are some of the most critical ones.
 
 ### Energy
 
