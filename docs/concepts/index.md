@@ -45,6 +45,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Robot Mode](/docs/concepts/robot-mode): The dead-end pattern of doing work that does not require your judgment, creativity, or presence. AI does robot mode better than you. Exit it.
 - [Crutching](/docs/concepts/crutching): The anti-pattern of leaning on AI so heavily your own capabilities atrophy. Use AI as a coach, not a replacement.
 - [Raise the Floor](/docs/concepts/raise-the-floor): One person's breakthrough should become everyone's baseline. The organizational flywheel of shared skills and infrastructure.
+- [See Your Own Thinking](/docs/concepts/see-your-own-thinking): The metacognition unlock. When AI reflects your thinking back to you, you gain self-awareness that most people have never experienced.
 
 ### Design Patterns
 
