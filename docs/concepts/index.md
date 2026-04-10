@@ -42,6 +42,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [AGI Whisperer](/docs/concepts/agi-whisperer): The person who designs, builds, and refines the agentic systems. The new essential technical role.
 - [The Encounter](/docs/concepts/the-encounter): The moment AI stops being theoretical and becomes personal, and why adoption spreads through experience, not education
 - [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): The mental model shift from thinking in roles to thinking in workflows, and why it unlocks automation at every level
+- [Robot Mode](/docs/concepts/robot-mode): The dead-end pattern of doing work that does not require your judgment, creativity, or presence. AI does robot mode better than you. Exit it.
 
 ### Design Patterns
 

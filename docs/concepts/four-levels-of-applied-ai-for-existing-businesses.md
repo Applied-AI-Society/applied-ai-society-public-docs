@@ -129,6 +129,7 @@ The ladder matters for existing businesses because they have gravity. They have 
 
 ## Further Reading
 
+- [Robot Mode](/docs/concepts/robot-mode): The pattern that keeps people stuck at level 1. Automate the robot work so you can be fully human.
 - [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation): Why stopping at level 1 leaves most of the value on the table
 - [Context Engineering](/docs/concepts/context-engineering): The skill that makes level 2 work
 - [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): The mental model that reveals level 3 opportunities

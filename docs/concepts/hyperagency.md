@@ -77,3 +77,4 @@ Suit up.
 - [Effective AGI](/docs/concepts/effective-agi): The claim that AGI is already here for anyone who can wield it
 - [Ignorance Debt](/docs/concepts/ignorance-debt): What happens when high-agency people build without self-knowledge
 - [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): The operational ladder from automation to custom systems. Hyperagents operate at level 4.
+- [Robot Mode](/docs/concepts/robot-mode): The opposite of hyperagency. The dead-end pattern of doing work that does not require your judgment or creativity.
