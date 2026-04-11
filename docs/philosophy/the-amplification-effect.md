@@ -27,6 +27,8 @@ A person with strong communication skills producing 10x more output reaches 10x 
 
 The math is simple and unforgiving. The cost of a B player is not linearly higher than before. It is exponentially higher. Because AI amplifies the gap between what an A player and a B player produce per unit of time, and it does so across every dimension: skill, judgment, integrity, communication, follow-through.
 
+This effect extends beyond team composition. Across the entire economy, power laws are emerging in AI usage. The top 1% of users generate roughly 80% of the economic value, because their systems amplify judgment, expertise, and execution simultaneously. A casual user who treats AI as a chat window gets marginal improvement. A professional who builds persistent systems, compounds context, and layers AI into every workflow gets [exponential improvement](/docs/concepts/hyperagency). The 10x engineer becomes a 1000x engineer. This is the amplification effect applied to the individual: AI does not just make you faster. It multiplies whatever infrastructure you have built around yourself. If that infrastructure is a single chat window, the multiplication is small. If it is a [personal agentic OS](/docs/concepts/personal-agentic-os) with deep context, shared skills, and always-on agents, the multiplication is staggering.
+
 ## What Makes a B Player
 
 A B player is not someone who is 80% as good as an A player. That framing misses the point entirely.

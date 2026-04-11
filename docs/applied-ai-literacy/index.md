@@ -30,6 +30,20 @@ Without applied AI literacy, people can't see the opportunities forming around t
 
 We are committed to building the best open-source applied AI literacy [source material](/docs/applied-ai-literacy/earthshot) in the world, co-created by leading practitioners. Courses, tools, and translations all derive from it.
 
+## Beyond the Chat Window
+
+Applied AI Society does not teach people to use ChatGPT. That is a common misconception about what we do, and it is important to address directly.
+
+Most people's relationship with AI looks like this: open a chat window, type a question, read the answer, close the tab. They use the most powerful technology ever built the same way they use Google. Andrew Chen of a16z calls this being an "AI normie," and the pattern captures almost none of the available value.
+
+Power laws are emerging in AI usage. The top 1% of users generate the vast majority of the economic value, because they are doing something fundamentally different from casual chat. They build persistent systems. They run local models. They create multi-agent workflows, encode their expertise into reusable [skill files](/docs/concepts/instruction-files), and compound their capabilities every day. A professional who sets up this kind of infrastructure does not become 2x more effective. They become 100x or 1000x more effective, because they know how to multiply their output through [AI leverage](/docs/concepts/hyperagency). The gap between casual use and pro use is the defining economic divide of this decade.
+
+The non-technical user who only engages with whatever chat window is in front of them is leaving transformational value on the table. Often the difference between casual use and life-changing use is a single additional step: setting up a [personal agentic OS](/docs/concepts/personal-agentic-os), installing a coding harness, or working with a practitioner who builds a custom system for you.
+
+Applied AI Society exists to get people on the pro side. If you want to learn the systems yourself, we teach you. If you want someone to build a custom system for you, we connect you with a [practitioner](/docs/roles/applied-ai-consultant) who can. Either way, the destination is pro-level AI leverage across your entire operation.
+
+If you are not going to hand people the terminal, you need to hand them something as powerful as the terminal. There has to be a pathway to pro-level capability. The gap between casual users and pro users widens every day. You cannot afford to stay on the wrong side of it.
+
 ## Learning to Apply AI Is the New Learning How to Read
 
 Learning to apply AI is not "the new learning how to code." It is the new learning how to read. It is that foundational. Not knowing how to apply AI to your business, your career, your community is the new illiteracy.

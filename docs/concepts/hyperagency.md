@@ -13,6 +13,8 @@ title: "Hyperagency"
 
 The economy is not declining evenly. It is splitting. Some people are accelerating faster than at any point in human history. Others are watching their skills, their roles, and their relevance erode in real time. This is the elevator economy: some people are going up, and there is no visible ceiling. Everyone else is standing still or sinking.
 
+The numbers make this concrete. Power laws are emerging in AI usage: the top 1% of AI users generate roughly 80% of the value. They are building persistent systems, running multi-agent workflows, encoding their expertise into compounding knowledge bases. Everyone else is using AI as a chat window, the same way they use Google. A 10x engineer who learns to harness AI properly does not become a 20x engineer. They become a 1000x engineer, because the leverage multiplies everything they already bring to the table. The non-technical professional who only uses what is in front of them is leaving orders of magnitude of value untouched, often just one additional step away.
+
 The word for the people going up is **hyperagents**.
 
 A hyperagent is not a robot. It is not an AI. It is a human being who has wrapped themselves in AI systems that amplify their unique capabilities, judgment, and vision. They think faster, execute faster, learn faster, and compound faster than anyone operating without that amplification. They are not replaced by AI. They are augmented by it. The star of the show is still the human. The AI is the suit.
