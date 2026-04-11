@@ -1,5 +1,13 @@
 [
   {
+    "title": "Supersuit Up Readiness Quiz",
+    "link": "/docs/workshops/readiness-quiz",
+    "date": "2026-04-10",
+    "summary": "import ReadinessQuiz from '@site/src/components/ReadinessQuiz';",
+    "tag": "New"
+  }
+,
+  {
     "title": "CLIPs: The Apps of the Agentic Era",
     "link": "/docs/concepts/clips",
     "date": "2026-04-10",
@@ -44,14 +52,6 @@
     "link": "/docs/concepts/always-on-agents",
     "date": "2026-04-10",
     "summary": "The shift from \"AI that answers when asked\" to \"AI that works for you while you sleep.\"",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Command Centers",
-    "link": "/docs/concepts/command-centers",
-    "date": "2026-04-10",
-    "summary": "The meta-concept. Personal Agentic OS, Sovereign Business OS, custom harnesses for individuals and organizations: the...",
     "tag": "Updated"
   }
 ]
