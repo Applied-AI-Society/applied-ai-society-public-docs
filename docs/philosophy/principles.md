@@ -5,7 +5,7 @@ title: Principles
 
 # Principles
 
-The [Canon](/docs/philosophy/canon) defines what we believe. These six principles define how we operate as a community.
+The [Canon](/docs/philosophy/canon) defines what we believe. These seven principles define how we operate as a community.
 
 ---
 
@@ -60,6 +60,18 @@ We use a different model. The Applied AI Society's documentation is a living bod
 The implementation gap closes when technical and non-technical people learn from each other.
 
 We build environments where builders, open source contributors, advocates, and practitioners unlock value the other groups hold. Tacit knowledge (the kind you can only gain through experience) flows when these worlds overlap.
+
+---
+
+## 07. Strategy is the new execution
+
+AI handles more and more of the execution. The quality of your strategic thinking has never mattered more.
+
+The old economy rewarded people who could grind through implementation. The new economy rewards people who can think clearly about what should be built, why, and in what order. [The spec is the product](/docs/concepts/spec-writing). The person who can define the right thing to build is now more valuable than the person who builds it. This is not a demotion of execution. It is a recognition that execution is being commoditized, and the bottleneck has moved upstream to clarity of thought, quality of judgment, and precision of intent.
+
+If you are spending your days in [robot mode](/docs/concepts/robot-mode), you are competing with machines on their terms. If you are spending your days thinking clearly about strategy, you are doing the one thing machines cannot replace: deciding what matters.
+
+[Read the full argument for working smart →](/docs/philosophy/working-smart)
 
 ---
 
