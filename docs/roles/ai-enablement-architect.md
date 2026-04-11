@@ -69,15 +69,15 @@ The demand is massive and the supply is tiny. Every company with more than 50 em
 
 This is high-value, high-leverage work. A single AI Enablement Architect can transform a 200-person company in 90 days. The productivity gains from getting an entire workforce building with AI compound rapidly: Ramp's non-engineers automated workflows worth 16 hours per month, replaced multi-org spreadsheet models in 48 hours, and built training simulators in 15 minutes.
 
-Engagement models:
+Engagement models vary, but the principles are consistent:
 
-| Model | Typical range | Best for |
-|-------|--------------|----------|
-| Full build (3 to 6 months) | $150K to $300K | Companies starting from scratch |
-| Fractional (ongoing, 2 to 3 days/week) | $10K to $20K/month | Companies that need sustained enablement |
-| Sprint (2 to 4 weeks) | $30K to $60K | Companies that have the platform but need the adoption push |
+**Full build (3 to 6 months):** You deploy the entire platform from scratch: integrations, skill marketplace, adoption mechanics, and coaching. This is the most comprehensive engagement and commands the highest fees because the architect is building permanent infrastructure that the company will use for years.
 
-The ROI math from the [Ramp case study](/docs/case-studies/ramp-glass) makes the case: token consumption per employee is a rounding error compared to salary. If AI makes someone 2x productive, spend aggressively on the infrastructure that makes it happen.
+**Fractional (ongoing, 2 to 3 days/week):** You embed part-time to sustain enablement after the initial build. Expanding the skill marketplace, onboarding new teams, adding integrations, and keeping the adoption curve compounding. Pricing scales with the size and complexity of the organization.
+
+**Sprint (2 to 4 weeks):** The company already has AI tools deployed but adoption has stalled. You come in to diagnose friction, design adoption mechanics (leaderboards, hackathons, proficiency ladder), and run the first company-wide push. Shorter engagement, high intensity.
+
+The pricing principle: the value of getting an entire workforce productive with AI far exceeds the cost of the engagement. Token consumption per employee is a rounding error compared to salary. If AI makes someone 2x productive, the company should spend aggressively on the infrastructure that makes it happen. Price accordingly. For detailed pricing frameworks, see the [Practitioner Pricing Guide](/docs/playbooks/practitioner/pricing).
 
 ---
 
