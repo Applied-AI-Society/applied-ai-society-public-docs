@@ -37,9 +37,9 @@ We don't care about the latest model benchmarks. We care about measurable result
 
 ## 04. Vendor-neutral, standards-first
 
-We're loyal to open tools, not vendors.
+We're loyal to open standards, not vendors.
 
-We're not here to promote one company over another. Our loyalty is to open tools and solutions that conform to the best emerging and existing standards, making implementation easier and avoiding lock-in.
+We're not here to promote one company over another. Our loyalty is to open standards and portable foundations that make implementation easier and avoid lock-in. In practice, this means we recommend whatever tool works best right now (often proprietary) while building on formats and architectures that let you switch at any time. We use Claude Code, OpenAI, and other proprietary tools in our own workflows. The principle is portability, not purity.
 
 ---
 
@@ -75,4 +75,4 @@ If you are spending your days in [robot mode](/docs/concepts/robot-mode), you ar
 
 ---
 
-*These principles guide everything we do, starting with the young people at the center of our mission. For what we believe, see the [Canon](/docs/philosophy/canon). For how these ideas are validated by leaders at the frontier, see [Voices from the Applied AI Frontier](/docs/philosophy/voices-from-the-frontier).*
+*These principles guide everything we do, starting with the young people at the center of our mission. For what we believe, see the [Canon](/docs/philosophy/canon). For how these ideas are validated by leaders at the frontier, see [Voices from the Applied AI Frontier](/docs/philosophy/voices-from-the-frontier). For why character matters as much as capability, see [The Amplification Effect](/docs/philosophy/the-amplification-effect).*
