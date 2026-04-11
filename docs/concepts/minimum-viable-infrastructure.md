@@ -13,7 +13,7 @@ title: "Minimum Viable Infrastructure"
 
 We talk about the [elevator economy](/docs/concepts/the-survivor-economy) like everyone has a ticket. They do not.
 
-Before you can build a [Personal Agentic OS](/docs/concepts/personal-agentic-os), before you can set up a [context lake](/docs/concepts/context-lake), before you can even complete the [MVP Personal Agentic OS tutorial](/docs/workshops/supersuit-up), you need a set of baseline infrastructure that most conversations about AI completely take for granted.
+Before you can build a [Personal Agentic OS](/docs/concepts/personal-agentic-os), before you can set up a [context lake](/docs/concepts/context-lake), before you can even complete the [Supersuit Up Workshop](/docs/workshops/supersuit-up), you need a set of baseline infrastructure that most conversations about AI completely take for granted.
 
 The minimum viable infrastructure to be activated in 2026 is not trivial. And in many parts of the world, including large parts of the United States, people do not have it.
 
@@ -98,7 +98,7 @@ The applied AI economy does not need to be a rich person's game. But right now, 
 
 ## Further Reading
 
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The tutorial that assumes this infrastructure exists
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial that assumes this infrastructure exists
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): What happens when the gap widens
 - [Context Lake](/docs/concepts/context-lake): What you are building once you have the infrastructure
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that compounds on top of this foundation

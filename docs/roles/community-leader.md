@@ -104,4 +104,4 @@ This support is optional. The playbooks work without it. But if you want to be p
 - [The Encounter](/docs/concepts/the-encounter): Why in-person experiences matter
 - [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The role that pairs naturally with Community Leader (run Personal Agentic OS workshops at your events)
 - [Signalmaxxing](/docs/concepts/signalmaxxing): What your community should be
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The tutorial your community members will go through
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial your community members will go through

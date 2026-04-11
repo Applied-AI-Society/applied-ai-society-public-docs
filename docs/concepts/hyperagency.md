@@ -57,7 +57,7 @@ One way to understand the [Applied AI Society](https://appliedaisociety.org) is 
 
 The [courses](https://appliedaisociety.org), events, and practitioner network all serve the same goal: activate as many people as possible into hyperagency at a time when it is basically demanded if you want to thrive.
 
-The first step is the [MVP Personal Agentic OS](/docs/workshops/supersuit-up). That is where suiting up begins. The deeper you go (sovereignty, always-on agents, organizational command centers), the more capable you become. Think of it like levels. The first course makes you a Level 1 hyperagent. Each subsequent level of investment and practice takes you further.
+The first step is the [Supersuit Up Workshop](/docs/workshops/supersuit-up). That is where suiting up begins. The deeper you go (sovereignty, always-on agents, organizational command centers), the more capable you become. Think of it like levels. The first course makes you a Level 1 hyperagent. Each subsequent level of investment and practice takes you further.
 
 The people who are already here, already building, already compounding: they are not coming back to explain it to you later. The elevator does not wait.
 

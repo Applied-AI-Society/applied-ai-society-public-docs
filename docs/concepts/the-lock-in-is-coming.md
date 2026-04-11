@@ -81,7 +81,7 @@ The lock-in happens at every layer:
 
 ## The Sovereign Alternative
 
-The entire architecture of the [Personal Agentic OS](/docs/concepts/personal-agentic-os) and the [MVP Personal Agentic OS](/docs/workshops/supersuit-up) is designed to prevent this. Not as a theoretical principle. As a practical reality you can verify today.
+The entire architecture of the [Personal Agentic OS](/docs/concepts/personal-agentic-os) and the [Supersuit Up Workshop](/docs/workshops/supersuit-up) is designed to prevent this. Not as a theoretical principle. As a practical reality you can verify today.
 
 **Own your data.** Your [context lake](/docs/concepts/context-lake) is plain markdown files on your computer. Not on anyone's servers. Not behind anyone's API. Files you can open in any text editor, version-control with git, and back up anywhere you want.
 
@@ -132,5 +132,5 @@ That is what the [Applied AI Society](https://appliedaisociety.org) is building 
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The sovereign AI system
 - [Context Lake](/docs/concepts/context-lake): Your portable, platform-independent knowledge base
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the wrapper matters as much as the model
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The tutorial that builds sovereignty from day one
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial that builds sovereignty from day one
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements, including the ability to run tools independently

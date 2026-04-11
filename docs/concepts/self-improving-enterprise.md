@@ -57,7 +57,7 @@ The test: pick any operational change (renaming a concept, updating a policy, re
 
 ## The North Star
 
-The [MVP Personal Agentic OS](/docs/workshops/supersuit-up) is the starting point. It gets the truth out of your head and into files. The self-improving enterprise is the destination. It is what happens when that truth is structured well enough, connected to enough tools, and governed by clear enough principles that the system can propose its own evolution.
+The [Supersuit Up Workshop](/docs/workshops/supersuit-up) is the starting point. It gets the truth out of your head and into files. The self-improving enterprise is the destination. It is what happens when that truth is structured well enough, connected to enough tools, and governed by clear enough principles that the system can propose its own evolution.
 
 The human's job in a self-improving enterprise is not execution. It is not even strategy in the traditional sense. It is [game design](/docs/concepts/game-design): defining the objectives, rules, guardrails, and scoring by which the system evaluates whether it is getting better. The human defines what "better" means. The system figures out how to get there.
 
@@ -73,7 +73,7 @@ The next level of programming is not that the output is software. It is enterpri
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The architectural prerequisite
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The starting point for the individual
 - [Game Design](/docs/concepts/game-design): Defining the rules your system operates by
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): Where to start
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where to start
 - [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The role that guides people through the progression
 - [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): How to run the activation session
 - [Always-On Agents](/docs/concepts/always-on-agents): The mechanism by which self-improving enterprises actually operate

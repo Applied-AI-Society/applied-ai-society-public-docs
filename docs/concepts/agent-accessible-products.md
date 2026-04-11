@@ -120,7 +120,7 @@ This is also why the [Personal Agentic OS architecture](/docs/workshops/supersui
 - [Harness Engineering](/docs/concepts/harness-engineering): How agents interact with tools through harnesses
 - [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable): The organizational version of agent-accessibility
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where agent-accessible products lead at the business level
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): Why plain markdown beats proprietary formats
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): Why plain markdown beats proprietary formats
 
 **External:**
 - [CLI Is the New API and MCP: Building Agent-Ready Tools](https://jonnyzzz.com/blog/2026/02/20/cli-tools-for-ai-agents/): Deep dive on CLI design principles for agents

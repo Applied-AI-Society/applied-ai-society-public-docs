@@ -130,7 +130,7 @@ This walkthrough is not a software engineering course. It is not a security guid
 
 It is an illustration of higher-level principles: how to think about the process of building an app with AI today. The tools will change. The specific platforms will evolve. The principles (clarity of intent, speed to real usage, substance over activity, honest feedback loops) will not.
 
-If you want to go deeper on the technical side, the [MVP Personal Agentic OS tutorial](/docs/workshops/supersuit-up) walks through a full technical setup step by step. If you want to understand the infrastructure requirements, see [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure).
+If you want to go deeper on the technical side, the [Supersuit Up Workshop](/docs/workshops/supersuit-up) walks through a full technical setup step by step. If you want to understand the infrastructure requirements, see [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure).
 
 ---
 

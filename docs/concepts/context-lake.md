@@ -54,7 +54,7 @@ A context lake is the opposite. It is structured, portable, permanent, and platf
 
 ## Building Your Context Lake
 
-The [MVP Personal Agentic OS](/docs/workshops/supersuit-up) tutorial walks you through building your first context lake from scratch. The default structure is simple:
+The [Supersuit Up Workshop](/docs/workshops/supersuit-up) tutorial walks you through building your first context lake from scratch. The default structure is simple:
 
 - `user/` for your profile and voice
 - `people/` for relationship files
@@ -81,14 +81,14 @@ In April 2025, Andrej Karpathy (founding member of OpenAI, former head of AI at 
 
 This is a context lake. The data ingestion is the [capture](/docs/concepts/capture-process-compound) phase. The LLM-compiled wiki is the process phase. The Q&A and filed outputs are the compound phase. The health checks he describes are [legacy](/docs/legacy). The whole system compounds over time, which is [compounding docs](/docs/concepts/compounding-docs).
 
-The Applied AI Society has been teaching this architecture since early 2026 through the [MVP Personal Agentic OS](/docs/workshops/supersuit-up) tutorial. The fact that one of the world's leading AI researchers independently arrived at the same pattern is strong validation that this is not a niche workflow. It is the future of how humans organize knowledge and work with AI.
+The Applied AI Society has been teaching this architecture since January 2026 through the [Supersuit Up Workshop](/docs/workshops/supersuit-up) tutorial. The fact that one of the world's leading AI researchers independently arrived at the same pattern is strong validation that this is not a niche workflow. It is the future of how humans organize knowledge and work with AI.
 
 ---
 
 ## Further Reading
 
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system your context lake powers
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): Build your first context lake
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): Build your first context lake
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information
 - [Compounding Docs](/docs/concepts/compounding-docs): How your context lake compounds over time
 - [Lossy AI Telephone](/docs/concepts/lossy-ai-telephone): What happens without shared context

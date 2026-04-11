@@ -25,7 +25,7 @@ This is exactly the relationship between a model and its [harness](/docs/concept
 
 ## Jensen Huang's 2-of-3 Rule
 
-In early 2026, NVIDIA CEO Jensen Huang described a security pattern that NVIDIA uses internally for agentic AI systems ([Lex Fridman interview](https://lexfridman.com/jensen-huang-transcript/)). The pattern is deceptively simple.
+In January 2026, NVIDIA CEO Jensen Huang described a security pattern that NVIDIA uses internally for agentic AI systems ([Lex Fridman interview](https://lexfridman.com/jensen-huang-transcript/)). The pattern is deceptively simple.
 
 Every agent has three possible capabilities:
 

@@ -113,4 +113,4 @@ Good consultants build the handoff into the engagement: documentation, training,
 - [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): One of the key assets this role curates
 - [Applied AI Consultant](/docs/roles/applied-ai-consultant): Often the person who builds the business OS before handing it off
 - [Context Engineering](/docs/concepts/context-engineering): The underlying discipline powering the business OS's information architecture
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The entry-point playbook for setting up a business OS from scratch
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): The entry-point playbook for setting up a business OS from scratch

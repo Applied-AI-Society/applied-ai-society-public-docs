@@ -122,5 +122,5 @@ Choose.
 - [Robot Mode](/docs/concepts/robot-mode): The work AI should replace so you can be fully human.
 - [Crutching](/docs/concepts/crutching): The wrong way to use AI. The path that weakens instead of strengthens.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your system. The place to start.
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The tutorial. One afternoon to begin.
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial. One afternoon to begin.
 - [The Encounter](/docs/concepts/the-encounter): Why seeing it in person changes everything.

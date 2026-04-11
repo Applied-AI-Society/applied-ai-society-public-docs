@@ -141,39 +141,46 @@ export function getResult(score: number): Result {
 
 export default function ReadinessQuiz(): React.ReactElement {
   const [currentQ, setCurrentQ] = useState(0);
-  const [selectedLabel, setSelectedLabel] = useState<string | null>(null);
-  const [scores, setScores] = useState<number[]>([]);
+  // Store the selected label for each question index
+  const [answers, setAnswers] = useState<Record<number, string>>({});
   const [finished, setFinished] = useState(false);
 
   const isLast = currentQ === questions.length - 1;
   const q = questions[currentQ];
-  const totalScore = scores.reduce((sum, s) => sum + s, 0);
+  const selectedLabel = answers[currentQ] ?? null;
+
+  // Compute total score from all answered questions
+  const totalScore = Object.entries(answers).reduce((sum, [qi, label]) => {
+    const question = questions[Number(qi)];
+    const opt = question?.options.find((o) => o.label === label);
+    return sum + (opt?.points ?? 0);
+  }, 0);
   const result = getResult(totalScore);
 
   function handleSelect(label: string) {
-    setSelectedLabel(label);
+    const newAnswers = { ...answers, [currentQ]: label };
+    setAnswers(newAnswers);
+
+    // Auto-advance after a short delay so the user sees their selection
+    setTimeout(() => {
+      if (isLast) {
+        setFinished(true);
+      } else {
+        setCurrentQ(currentQ + 1);
+      }
+    }, 300);
   }
 
-  function handleNext() {
-    if (selectedLabel === null) return;
-    const opt = q.options.find((o) => o.label === selectedLabel);
-    if (!opt) return;
-
-    const newScores = [...scores, opt.points];
-    setScores(newScores);
-
-    if (isLast) {
-      setFinished(true);
-    } else {
-      setCurrentQ(currentQ + 1);
-      setSelectedLabel(null);
+  function handleBack() {
+    if (currentQ > 0) {
+      setCurrentQ(currentQ - 1);
+      setFinished(false);
     }
   }
 
   function handleRestart() {
     setCurrentQ(0);
-    setSelectedLabel(null);
-    setScores([]);
+    setAnswers({});
     setFinished(false);
   }
 
@@ -320,29 +327,28 @@ export default function ReadinessQuiz(): React.ReactElement {
         })}
       </div>
 
-      {/* Next button */}
-      <div style={{ textAlign: 'center' }}>
-        <button
-          onClick={handleNext}
-          disabled={selectedLabel === null}
-          data-testid="next-button"
-          style={{
-            padding: '14px 48px',
-            fontSize: '1.1rem',
-            fontWeight: 700,
-            borderRadius: 10,
-            border: 'none',
-            cursor: selectedLabel !== null ? 'pointer' : 'not-allowed',
-            background: selectedLabel !== null
-              ? 'var(--ifm-color-primary)'
-              : 'var(--ifm-color-emphasis-300)',
-            color: selectedLabel !== null ? '#fff' : 'var(--ifm-color-emphasis-600)',
-            transition: 'all 0.2s',
-          }}
-        >
-          {isLast ? 'See My Result' : 'Next'}
-        </button>
-      </div>
+      {/* Back button */}
+      {currentQ > 0 && (
+        <div style={{ textAlign: 'center' }}>
+          <button
+            onClick={handleBack}
+            data-testid="back-button"
+            style={{
+              padding: '10px 32px',
+              fontSize: '0.95rem',
+              fontWeight: 600,
+              borderRadius: 10,
+              border: '1px solid var(--ifm-color-emphasis-400)',
+              background: 'transparent',
+              color: 'var(--ifm-color-emphasis-700)',
+              cursor: 'pointer',
+              transition: 'all 0.2s',
+            }}
+          >
+            &larr; Back
+          </button>
+        </div>
+      )}
     </div>
   );
 }

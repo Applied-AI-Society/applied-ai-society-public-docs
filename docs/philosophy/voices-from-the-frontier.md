@@ -62,7 +62,7 @@ This is [legacy](/docs/legacy) described from the frontier. The organization's b
 
 > "I have a claw that takes care of my home. I call him Dobby. It controls all of my lights, my HVAC, my shades, the pool, the spa, and my security system. I used to use six apps. I don't have to use these apps anymore. Dobby controls everything in natural language."
 
-Karpathy built what we call a [MVP Personal Agentic OS](/docs/workshops/supersuit-up) for his home. Not by buying a product, but by having his agents reverse-engineer the APIs of his smart home devices and build a unified interface. The apps disappeared. The business OS replaced them.
+Karpathy built what we call a [Supersuit Up Workshop](/docs/workshops/supersuit-up) for his home. Not by buying a product, but by having his agents reverse-engineer the APIs of his smart home devices and build a unified interface. The apps disappeared. The business OS replaced them.
 
 > "Shouldn't it just be APIs, and shouldn't agents be just using them directly? Maybe there's an overproduction of lots of custom bespoke apps that shouldn't exist, because agents kind of crumble them up and everything should be a lot more just exposed API endpoints, and agents are the glue of the intelligence."
 
@@ -212,4 +212,4 @@ But on the things that matter most, they converge:
 
 ---
 
-*See also: [The Applied AI Canon](/docs/philosophy/canon) | [Five Levels of Value](/docs/playbooks/student/five-levels-of-value) | [MVP Personal Agentic OS](/docs/workshops/supersuit-up) | [The Token Economy](/docs/concepts/the-token-economy)*
+*See also: [The Applied AI Canon](/docs/philosophy/canon) | [Five Levels of Value](/docs/playbooks/student/five-levels-of-value) | [Supersuit Up Workshop](/docs/workshops/supersuit-up) | [The Token Economy](/docs/concepts/the-token-economy)*

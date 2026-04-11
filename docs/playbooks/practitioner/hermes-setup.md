@@ -1,7 +1,7 @@
 ---
 sidebar_label: "Hermes Setup"
 title: "Setting Up Hermes Agent"
-description: "A detailed guide to installing, configuring, and getting the most out of Hermes Agent, the open source agent that replaces Claude Code and OpenClaw in one tool."
+description: "A detailed guide to installing, configuring, and getting the most out of Hermes Agent, an open source alternative to Claude Code with always-on agent capabilities."
 ---
 
 # Setting Up Hermes Agent
@@ -10,7 +10,7 @@ description: "A detailed guide to installing, configuring, and getting the most 
 
 ## Why Hermes
 
-Hermes is Claude Code and OpenClaw in one tool. It gives you the AI coding agent that reads files, writes files, runs commands, and operates inside your workspace, plus the always-on agent that runs cron jobs, manages messaging platforms, maintains persistent memory, and keeps working when your terminal session is gone.
+Hermes is an open source alternative that combines coding agent and always-on agent capabilities in one tool. It gives you the AI coding agent that reads files, writes files, runs commands, and operates inside your workspace, plus the always-on agent that runs cron jobs, manages messaging platforms, maintains persistent memory, and keeps working when your terminal session is gone.
 
 For context: before Hermes, the Applied AI Society ran on OpenClaw + Claude (~$200/mo in API costs). Cron jobs were timing out. Skills were scattered across three directories, half invisible to the primary agent. Four out of six active cron jobs were failing. The agent was broken and costing $200/month for it to be broken.
 
@@ -151,6 +151,6 @@ curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scri
 
 - [Hermes Agent Documentation](https://hermes-agent.nousresearch.com)
 - [GitHub Repository](https://github.com/NousResearch/hermes-agent)
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): The full workshop guide
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): The full workshop guide
 - [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup): Alternative harness using Anthropic's commercial agent
 - [Codex Setup](/docs/playbooks/practitioner/codex-setup): Alternative harness using OpenAI's open source agent

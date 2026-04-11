@@ -9,7 +9,7 @@ Hands-on sessions where you build real AI systems with trained practitioners. No
 
 Having an experienced applied AI engineer in the room makes a significant difference. Every machine is slightly different, every person's situation is unique, and the edge cases that would stall you for an hour get solved in 30 seconds by someone who has seen them before.
 
-A platform for booking and hosting workshops is coming in Q2 2026. In the meantime, visit [appliedaisociety.org](https://appliedaisociety.org) or join the [Discord](https://discord.gg/K7uWJBMFaN) to request a workshop for your team, school, or community.
+Visit [appliedaisociety.org](https://appliedaisociety.org) or join the [Discord](https://discord.gg/K7uWJBMFaN) to request a workshop for your team, school, or community.
 
 ---
 

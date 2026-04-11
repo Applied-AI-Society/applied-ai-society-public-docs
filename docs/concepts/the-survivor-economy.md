@@ -72,5 +72,5 @@ Start building. Start now. Create from a position of sovereignty, not dependency
 - [Applied AI Literacy](/docs/applied-ai-literacy): The foundational skill for surviving and thriving
 - [Capture, Process, Compound](/docs/concepts/capture-process-compound): The daily practice that builds your edge
 - [Hyperagency](/docs/concepts/hyperagency): The state you are building toward when you suit up
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): Where to start building your harness today
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where to start building your harness today
 - [Your Two Futures](/docs/philosophy/your-two-futures): The full picture. Two concrete futures, side by side. The choice every person and organization faces right now.

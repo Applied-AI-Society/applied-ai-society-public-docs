@@ -25,7 +25,7 @@ This is why two people can use the exact same AI model and get completely differ
 
 ## Claude Code Is a Harness
 
-This is an important framing for anyone going through the [MVP Personal Agentic OS](/docs/workshops/supersuit-up) tutorial. Claude Code is not magic. It is a harness: a well-engineered wrapper around Anthropic's Claude model that gives it file system access, terminal execution, tool calling, and persistent context within a session.
+This is an important framing for anyone going through the [Supersuit Up Workshop](/docs/workshops/supersuit-up) tutorial. Claude Code is not magic. It is a harness: a well-engineered wrapper around Anthropic's Claude model that gives it file system access, terminal execution, tool calling, and persistent context within a session.
 
 It is currently one of the best harnesses for the MVP workflow. But it is not the only harness, and the landscape changes constantly. Other harnesses exist today (OpenCode, Cursor, Aider, and many others), and new ones are being built all the time. When choosing a harness, find the one that maximizes a good balance of **utility, cost, and sovereignty**. Utility means it actually helps you get work done. Cost means it fits your budget. Sovereignty means your data stays yours and you can leave whenever you want. The Personal Agentic OS architecture is designed so that your files are portable across any harness. Your `user/USER.md`, your `people/` directory, your `artifacts/`, your `skills/` are all plain markdown. Any harness that can read files can use them. *[See: [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming) for why sovereignty matters more than most people realize.]*
 
@@ -67,7 +67,7 @@ The [Permission Surface](/docs/concepts/the-permission-surface) article explores
 
 ## What This Means for You
 
-If you are building a [MVP Personal Agentic OS](/docs/workshops/supersuit-up), you are already doing harness engineering. Your `CLAUDE.md` file is harness configuration. Your skill files are harness instructions. Your folder structure is harness architecture. You are telling the model what to store, what to retrieve, and how to present information back to you.
+If you are building a [Supersuit Up Workshop](/docs/workshops/supersuit-up), you are already doing harness engineering. Your `CLAUDE.md` file is harness configuration. Your skill files are harness instructions. Your folder structure is harness architecture. You are telling the model what to store, what to retrieve, and how to present information back to you.
 
 Today, you are writing this by hand (with the agent's help). In the near future, your Personal Agentic OS will propose improvements to its own harness: better skill files, better routing logic, better ways to organize and retrieve your context. The agent will ask you, "I noticed I keep losing track of your client priorities. Can I restructure the artifacts folder to fix this?" And you will say yes, and it will improve itself.
 
@@ -82,7 +82,7 @@ All software will be self-evolving software. The question is not whether this ha
 - [Instruction Files](/docs/concepts/instruction-files): CLAUDE.md, skills, and memory as the user-configurable layer of the harness
 - [MetaHarness Paper](https://arxiv.org/abs/2603.28052) (Stanford, MIT, Krafton, March 2026)
 - [MetaHarness Project Page](https://yoonholee.com/meta-harness/) with interactive demo
-- [MVP Personal Agentic OS](/docs/workshops/supersuit-up): Your first harness
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): Your first harness
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system the harness powers
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where self-improving harnesses lead at the business level
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): What gets built on top of harnesses
