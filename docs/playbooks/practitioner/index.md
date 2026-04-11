@@ -35,6 +35,7 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [Codex Setup](/docs/playbooks/practitioner/codex-setup) | Installing OpenAI Codex (open source, works with ChatGPT subscription) |
 | [First Git Setup](/docs/playbooks/practitioner/first-git-setup) | Version control basics for your workspace |
 | [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop) | Instructor guide for running Personal Agentic OS workshops |
+| [Using the Docs with Your Jarvis](/docs/playbooks/practitioner/using-the-docs-with-your-jarvis) | How to give your Personal Agentic OS access to the full AAS knowledge base |
 
 ## Coming Soon
 

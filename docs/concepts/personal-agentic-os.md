@@ -85,6 +85,7 @@ The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the prog
 - [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The full sovereignty philosophy
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your AI knows
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why the bottleneck is you, not the tools, and how to fix it
+- [Train Your Agent](/docs/concepts/train-your-agent): Train your AI like you would train a human apprentice. Give it context, feedback, and reps.
 - [Game Design](/docs/concepts/game-design): Designing objectives, rules, and guardrails for your agents
 - [Command Centers](/docs/concepts/command-centers): The meta-concept that Personal Agentic OS is an instance of
 - [Hyperagency](/docs/concepts/hyperagency): What becomes possible when your Personal Agentic OS compounds

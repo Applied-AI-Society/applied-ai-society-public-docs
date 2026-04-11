@@ -100,7 +100,7 @@ The best consultants are stack-flexible. They ask the client "what are you runni
 
 ---
 
-## Related Concepts
+## Further Reading
 
 - [Rostam Mahabadi](/docs/case-studies/rostam-mahabadi): A practitioner profile showing this role in action
 - [Context Engineering](/docs/concepts/context-engineering): A core skill for building agent systems that actually work

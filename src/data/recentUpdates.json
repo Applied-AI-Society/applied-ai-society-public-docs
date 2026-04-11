@@ -1,57 +1,65 @@
 [
   {
-    "title": "Supersuit Up Readiness Quiz",
-    "link": "/docs/workshops/readiness-quiz",
-    "date": "2026-04-10",
-    "summary": "import ReadinessQuiz from '@site/src/components/ReadinessQuiz';",
+    "title": "Maintain Coherence",
+    "link": "/docs/legacy/maintain-coherence",
+    "date": "2026-04-11",
+    "summary": "Your truth repository is a living system. Like any living system, it decays by default. Documents go stale. Cross-ref...",
     "tag": "New"
   }
 ,
   {
-    "title": "CLIPs: The Apps of the Agentic Era",
-    "link": "/docs/concepts/clips",
-    "date": "2026-04-10",
-    "summary": "Every major computing wave creates a platform and an ecosystem on top of it. The browser gave us websites. The iPhone...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Using the Docs with Your Jarvis",
-    "link": "/docs/playbooks/practitioner/using-the-docs-with-your-jarvis",
-    "date": "2026-04-10",
-    "summary": "How to give your Personal Agentic OS access to the full AAS knowledge base so it can reference concepts, playbooks, a...",
+    "title": "Personal Software",
+    "link": "/docs/concepts/personal-software",
+    "date": "2026-04-11",
+    "summary": "Most people will never use a terminal. The future of personal AI is not \"learn to code.\" It is software built for one...",
     "tag": "New"
   }
 ,
   {
-    "title": "Imagination Economy Infrastructure",
-    "link": "/docs/concepts/imagination-economy-infrastructure",
-    "date": "2026-04-10",
-    "summary": "The distance between thought and creation is collapsing. The infrastructure that makes that collapse possible is the ...",
+    "title": "Applied AI Streamliner",
+    "link": "/docs/roles/applied-ai-streamliner",
+    "date": "2026-04-11",
+    "summary": "The person who builds hyper-personalized software for individual professionals. They sit with the person, decompose t...",
     "tag": "New"
   }
 ,
   {
-    "title": "Minimum Viable Infrastructure",
-    "link": "/docs/concepts/minimum-viable-infrastructure",
-    "date": "2026-04-10",
-    "summary": "The baseline requirements to participate in the applied AI economy. They are higher than most people realize, and alm...",
+    "title": "The Supersuit Up Workshop",
+    "link": "/docs/workshops/supersuit-up",
+    "date": "2026-04-11",
+    "summary": "Build your Personal Agentic OS. Some people call this \"Jarvising Yourself\" (a nod to Tony Stark's AI). Whatever you c...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Agent-Accessible Products",
-    "link": "/docs/concepts/agent-accessible-products",
-    "date": "2026-04-10",
-    "summary": "If agents cannot use your product, agents will replace your product.",
+    "title": "AI Enablement Architect",
+    "link": "/docs/roles/ai-enablement-architect",
+    "date": "2026-04-11",
+    "summary": "The person who deploys company-wide AI upskilling infrastructure. They build the platform, connect the tools, design ...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Setting Up Claude Code",
+    "link": "/docs/playbooks/practitioner/claude-code-setup",
+    "date": "2026-04-11",
+    "summary": "import Tabs from '@theme/Tabs';",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Principles",
+    "link": "/docs/philosophy/principles",
+    "date": "2026-04-11",
+    "summary": "The Canon defines what we believe. These seven principles define how we operate as a community.",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Always-On Agents",
-    "link": "/docs/concepts/always-on-agents",
-    "date": "2026-04-10",
-    "summary": "The shift from \"AI that answers when asked\" to \"AI that works for you while you sleep.\"",
-    "tag": "Updated"
+    "title": "Working Smart",
+    "link": "/docs/philosophy/working-smart",
+    "date": "2026-04-11",
+    "summary": "The days of getting a pat on the back for working hard are over. The question is whether you are working smart.",
+    "tag": "New"
   }
 ]

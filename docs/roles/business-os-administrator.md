@@ -107,7 +107,7 @@ Good consultants build the handoff into the engagement: documentation, training,
 
 ---
 
-## Related
+## Further Reading
 
 - [Sovereign Agentic Business OS Principles](/docs/sovereign-agentic-business-os/principles): The foundational framework this role maintains
 - [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): One of the key assets this role curates

@@ -98,7 +98,7 @@ People enter this role from multiple directions: former founders, product and en
 
 ---
 
-## Related Concepts
+## Further Reading
 
 - [Intent Engineering](/docs/concepts/intent-engineering): The discipline of encoding organizational purpose into AI systems
 - [Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): The vision this role is building toward

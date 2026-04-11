@@ -89,6 +89,7 @@ The [Applied AI Society](https://docs.appliedaisociety.org) exists to be a signa
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The opposite of signalmaxxing (chasing tools instead of outcomes)
 - [Context Overflow](/docs/concepts/context-overflow): The dark side of being high-signal: when the demand for your attention exceeds your capacity
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): How to serve the people your signal attracts without burning out
+- [Vibe Curation](/docs/concepts/vibe-curation): Fostering environments where high-signal people feel safe contributing their best work
 - [Compounding Docs](/docs/concepts/compounding-docs): Your document library is a signal channel. Every high-signal doc you write makes your AI agent smarter.
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Getting your thinking into plain text so AI can amplify it
 - [Signal Theory: The Architecture of Optimal Intent Encoding](https://zenodo.org/records/18774174) by Roberto H. Luna: The formal framework behind the concepts in this article

@@ -43,7 +43,7 @@ But the people who thrive in the applied AI economy are the ones who let curiosi
 
 The metric is simple: are the skills I am developing leading to people being excited to do deals with me? If the answer is yes, keep going. If the answer is no for too long, you might be under the tinkerer's curse.
 
-## See Also
+## Further Reading
 
 - [Why Making Money Matters](/docs/philosophy/why-making-money-matters): The philosophical case for using revenue as a signal
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): The progression from Spectator to Game Engine Creator
