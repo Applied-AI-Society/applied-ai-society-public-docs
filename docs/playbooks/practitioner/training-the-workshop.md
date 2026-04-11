@@ -88,6 +88,46 @@ The relationship files and decision records (Steps 4C and 4D) are bonuses. The c
 
 ---
 
+## The Speed Run: Get Them to the Aha Moment Fast
+
+The full workshop walks people through installation, configuration, and setup. That is the right approach for a group session where everyone learns the whole stack. But there is a faster path when you are working one-on-one with a client or student and want them talking to their AI as fast as possible.
+
+The principle: **the instructor does all the installation. The student does all the thinking.**
+
+Installation is not where the aha moment lives. The aha moment lives in the user profile interview, where the AI reflects their thinking back to them and they realize this thing actually knows them. Every minute spent debugging Node.js versions is a minute stolen from that moment.
+
+### The Protocol
+
+**Before the session (15-20 min, instructor only):**
+
+1. Install Node.js, Git, and VS Code on their machine (or verify they are installed)
+2. Install Claude Code (or Hermes) and authenticate
+3. Clone the [starter repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis) and open it in VS Code
+4. Set up voice-to-text (Superwhisper or Wispr Flow)
+5. Run one test command in the terminal to confirm everything works
+6. If the student has any existing documents about themselves (LinkedIn, bio, personal website, previous strategic docs), drop them into the `user/` folder
+
+The student's machine should be ready to go before they sit down. When they open their laptop, they see VS Code with the workspace open and an agent ready to talk.
+
+**With the student (30-45 min):**
+
+1. **Explain what they are looking at** (2 min). "This is your workspace. These folders are your brain. The AI reads them. Let me show you."
+2. **Run the user profile interview** (15-20 min). Tell the agent to read the skill file and start the interview. The student talks (voice-to-text). The agent asks questions. The student answers. This is where the magic happens. They are seeing their own thinking reflected back to them by an intelligent system for the first time.
+3. **Generate the strategic blocker plan** (10 min). The agent takes everything from the interview and produces an actionable plan. The student reads it and realizes: "This thing just synthesized my situation better than I could have articulated it myself."
+4. **Show them the daily workflow** (5 min). Open the terminal, brain dump something, show how the agent routes it to the right file. "This is what you do every day. Talk, let it route, review."
+
+**After the session:**
+
+They now have a working system with their actual data in it. The installation barrier is gone. The aha moment happened. From here, they build the habit on their own. You check in a week later to see if they are doing daily brain dumps.
+
+### Why This Works
+
+[Ramp learned the same lesson](/docs/case-studies/ramp-glass): "The people who got the most value were not the ones who attended training sessions. They were the ones who installed a skill on day one and immediately got a result." The speed run is the same insight applied to one-on-one onboarding. Remove every barrier between the person and their first real result. The product teaches faster than any explanation.
+
+The full workshop is still the right format for group sessions where people need to learn the stack. The speed run is for when you have someone's laptop in front of you and 45 minutes to change how they think about AI forever.
+
+---
+
 ## Lessons Learned (From Real Sessions)
 
 *This section is updated after each workshop. Dates indicate when the lesson was added.*
