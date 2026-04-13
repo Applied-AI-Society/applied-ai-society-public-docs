@@ -5,7 +5,7 @@ title: "Build What Big AI Won't"
 
 # Build What Big AI Won't
 
-*The frontier AI labs are coming for every niche that fits inside their chat interface. The next generation of entrepreneurs lives in the work that structurally cannot. Know where the line is, and build on the right side of it.*
+*Frontier labs are coming for every niche that fits inside their chat interface. The work they structurally cannot do is the work that is opinionated. Build opinionated.*
 
 ---
 
@@ -15,26 +15,29 @@ Peter Levels (`@levelsio`) named it clearly in April 2026:
 
 > "BigTech will eventually come for all apps / startups / companies because they can fill the niches now that before could not because they were too small. [...] End game for their survival is simply trying to take every business. It's just capitalism. [...] They won't come at it in how you expect. ChatGPT isn't going to launch Remote OK or Photo AI or MAKE book. But they have and will make it easy in the chat interface to find a remote job, take AI photos, and learn how to build a startup."
 
-The observation is load-bearing and we need to take it seriously.
+Two forces are driving this:
 
-What is happening is that frontier labs (Anthropic, OpenAI, Google, Meta) have two simultaneous pressures:
+1. **Marginal cost of filling a niche has collapsed.** The old economic floor that protected small SaaS (too small for Big Tech to bother) is gone. AI lets frontier labs absorb the $100K-to-$100M-per-year niches that used to belong to independent operators.
+2. **Competitive logic forces absorption.** If one lab leaves a category alone, another will take it. Nobody is choosing to be the one that leaves money on the table.
 
-1. **Marginal cost of filling a niche has collapsed.** AI makes it trivially cheap for them to absorb the $100K/year to $100M/year niches that used to belong to independent operators. The old economic floor that protected small SaaS companies (too small for Big Tech to care) is gone.
-2. **Survival logic forces them to absorb.** If they do not, a competitor will. A model company that leaves money on the table in any adjacent category is handing that category to another model company. Nobody is choosing to leave niches alone.
-
-The recent evidence: Anthropic reportedly testing a Lovable-style full-stack app builder. The pattern is not subtle. It will continue.
+Recent evidence: Anthropic reportedly testing a Lovable-style full-stack app builder. The pattern is not subtle and it will continue.
 
 ---
 
-## The Error Most People Make
+## What Big AI Labs Structurally Cannot Do
 
-Most people respond to this by either panicking ("entrepreneurship is over") or dismissing it ("this always happens and AI is overhyped"). Both are wrong.
+The deepest constraint on frontier labs is not technical. It is that **being opinionated is not the job of a frontier AI lab.**
 
-The correct response is to **relocate the work.** Absorbable work is getting absorbed. Unabsorbable work is getting more valuable by the month. The question every entrepreneur in 2026 needs to be asking is:
+Their business depends on serving the widest possible user base. That structurally forces:
 
-**Am I building something a frontier lab can absorb into a chat interface, or am I building something that structurally cannot fit there?**
+- **Neutral defaults.** Anything that would alienate a meaningful user segment is off the table.
+- **Mean aesthetic.** The product has to feel acceptable to everyone, which means it cannot feel like anything specific to anyone.
+- **Risk aversion.** They cannot ship products whose core value is a contested take, a cultural stance, or a particular worldview. The lawsuit and regulatory exposure alone rules it out.
+- **Scale-first optimization.** Anything that is better at size 50 than at size 50 million is the wrong product for them to build.
 
-If the answer is the first one, you are on a clock. If the answer is the second one, the clock is working for you.
+This is the real line. An opinionated product, an opinionated service, an opinionated community is safe from absorption because **a frontier lab absorbing it would dilute the very thing that makes it work.** They cannot match it without becoming something they are not.
+
+Every category of "unabsorbable" work listed below is a consequence of this single principle.
 
 ---
 
@@ -45,99 +48,110 @@ Things frontier labs will absorb, eagerly, on timelines faster than you expect:
 - Generic productivity tools (note-takers, summarizers, drafting assistants, scheduling helpers)
 - Undifferentiated SaaS whose core value is "this task but with an LLM wrapper"
 - Creative generation in the default aesthetic (image generation, stock-style copy, mid-market video)
-- Data pipelines that involve standard schemas and standard tools
+- Data pipelines over standard schemas and standard tools
 - Coding assistants at the default abstraction level
 - Research / search / summarization over public data
 - Chatbot-shaped customer service for categories where brand intimacy is not load-bearing
 - Standard agentic workflows (email triage, calendar management, meeting prep, CRM updates)
-- Consumer-facing "do X for me" interfaces where X is something a model can reliably do
+- Consumer "do X for me" interfaces where X is something a model can reliably do across most populations
 
-If your business lives in this zone, your competitive surface is **speed of distribution, trust, and taste**, not product. The tool itself will not differentiate you. Only the audience and the brand around it will. See [Heartshare](/docs/concepts/signalmaxxing) for the trust dimension.
+If your business lives here, your competitive surface is **distribution, trust, and audience** rather than product. The tool will not differentiate you. Only the brand around it will.
 
 ---
 
 ## The Unabsorbable Zone
 
-Things frontier labs structurally will not and often cannot build:
+Each of these is a specific form of opinionation that a frontier lab cannot replicate without breaking its own business model:
 
-### 1. Specific human + AI bundles ("my guy")
+### 1. Opinionated taste and aesthetic
 
-Being someone's guy ([see playbook](https://garysheng.com/wiki/being-someones-guy)) is the combination of a specific human presence, taste, accountability, and an AI stack wielded on the client's behalf. Anthropic cannot be your guy. They can ship the tools your guy uses. The relationship is the irreducible value.
+A lab's product is the mean. An opinionated brand is the particular. If your product's defensibility is "this looks and feels and behaves like a specific point of view," no lab can match it without diluting its own mass-market appeal. The soulful indie product is safer than it has ever been.
 
-### 2. In-person, local, embodied work
+### 2. Opinionated values
 
-Frontier labs are distributed software companies. They cannot run an 80-person hyper-curated salon in LA, a church-basement workshop in Austin, a retreat in Joshua Tree, or a networking night on South Congress. Physical presence in a specific room at a specific time with specific people is outside their operating envelope. This is where the Applied AI Society chapter model thrives.
+Any product whose identity is built on a clear values stance (religious, political, cultural, ethical, aesthetic) is outside the lab envelope. Labs cannot ship a product for a specific values community without alienating the others. Values-first products are wide-open territory.
 
-### 3. Values-first and faith-aligned products
+### 3. Opinionated curation
 
-Frontier labs optimize for the broadest possible user base. That structurally produces secular, values-neutral defaults. Explicitly Christian products, Kingdom-economy platforms, faith-aligned coaching, theologically-grounded tools: labs will not build these because it contradicts their scale strategy. The market for these is large, underserved, and growing.
+"These people, not those people" is a labs-cannot-do. They cannot vouch for strangers. They cannot run hyper-curated communities. The hard judgment call of who gets in and who does not is a human act, and the product quality depends on someone with taste making that call repeatedly.
 
-### 4. Idiosyncratic taste and specific aesthetics
+### 4. Specific-human bundles
 
-A frontier lab's product is the mean. Your brand is the particular. If your product's defensibility is "this looks and feels and behaves like a specific human made it with a specific worldview," no lab can match it, because matching it would dilute their mass-market appeal. The soulful indie product is safer than it has ever been. See [The Truth Economy](https://faithwalk.garysheng.com/perspectives/the-truth-economy) for why.
+A specific named human plus an AI stack wielded on the client's behalf. Being someone's person. Taste, accountability, presence, and memory of the specific client's specific situation. A lab can ship the tools. A lab cannot be the specific human.
 
-### 5. Sovereign / self-hosted / un-rug-pullable infrastructure
+### 5. In-person, local, embodied work
 
-Anything that must run on the user's own hardware, infrastructure, or data (not on Big AI's cloud) is outside the lab business model. Open-source sovereign tools, local agents, and self-hosted stacks cannot be absorbed by a chat interface. See [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack) and [Open Source SovWare](https://faithwalk.garysheng.com/perspectives/open-source-sovware).
+Distributed software companies cannot run an 80-person salon in a specific city on a specific night. They cannot run a church-basement workshop, a retreat in the mountains, a dinner at a chef's loft. Physical presence at a specific time with specific people is outside their operating envelope.
 
-### 6. Human-unicorn-led enterprises
+### 6. Sovereign and self-hosted infrastructure
 
--style work: the product is built around a specific cultural leader, artist, or founder whose trust, taste, and network are themselves the asset. A frontier lab cannot acquire that leader or replicate them. They can ship the infrastructure that supports such a leader. They cannot be such a leader. See [The True Hyperagent](https://faithwalk.garysheng.com/perspectives/the-true-hyperagent) for the frame.
+Anything that must run on the user's own hardware, infrastructure, or data (not the lab's cloud) is outside the lab business model. Local agents, self-hosted stacks, and open-source sovereign tools cannot be absorbed into a chat interface.
 
-### 7. High-trust, high-context community and curation
+### 7. Human-unicorn-led enterprises
 
-A frontier lab cannot run the invite-only trust network. It cannot vouch for strangers. It cannot do the hyper-curation work. The contribution graph (who introduced whom, who showed up, who contributed) is a relational artifact that belongs to humans running a specific community. Labs make the tools the curators use.
+Products built around a specific cultural leader, artist, founder, or operator whose trust, taste, and network are themselves the asset. Labs ship the infrastructure; they do not become the leader.
 
 ### 8. Deep custom professional services
 
-"Stand up the entire agentic stack for this specific business, in their industry, with their data, with their people, in a three-week engagement, and transfer ownership" is not a chat interface job. It is a practitioner job. See [AI-Native by Configuration](/docs/playbooks/business-owner/ai-native-by-configuration) and the [Practitioner playbooks](/docs/playbooks/practitioner).
+"Stand up the entire agentic stack for this specific business, in their industry, with their data, with their people, in a defined engagement window, and transfer ownership." That is a practitioner job, not a chat-interface job.
 
-### 9. Missionary, teaching, and shepherding work
+### 9. Teaching, shepherding, and mentoring
 
-Guiding a specific person through the disorienting transition of their own career, one conversation at a time, is not a scalable product. It is a role. It is what the Applied AI Society community leaders, chapter hosts, and coaches do. Labs cannot do it. Only humans can shepherd.
+Guiding a specific person through their specific transition, one conversation at a time, adapted to their actual context. Not a scalable product. A role. Unabsorbable because the leverage is the relationship, not the transcript.
 
-### 10. Anything that requires courage the labs cannot take
+### 10. Courageous or contested positions
 
-A frontier lab will not ship a product that gets them sued, cancelled, or regulated. They will not take positions that alienate large user segments. They will not build for contested or controversial use cases. Independent operators can. The things a lab cannot afford to build are often exactly the things a specific human with conviction can build fastest.
+A frontier lab will not ship a product that gets it sued, cancelled, or regulated. It will not take contested positions. It will not build for uses whose mere existence alienates large user segments. Independent operators can. The things a lab cannot afford to build are often exactly the things a specific human with conviction can build fastest.
 
 ---
 
-## What This Means for You
+## The Test
+
+Audit anything you build against a single question:
+
+**Does this product or service require a specific point of view to work?**
+
+- If the answer is yes, it is probably unabsorbable. The labs cannot ship your opinion.
+- If the answer is no, assume a lab will ship the capability in 12-18 months and plan accordingly.
+
+"Point of view" is the operational definition of opinionation. It includes taste, values, curation choices, a specific human's presence, a specific community's standards, a specific set of principles that exclude alternatives. Wherever a product or service depends on a someone saying "this way, not that way" and standing behind the choice, labs cannot follow.
+
+---
+
+## What This Means in Practice
 
 If you are an entrepreneur building in 2026:
 
-1. **Audit your product against the absorbable-vs-unabsorbable test.** If it lives in the chat interface as a feature, assume a lab will ship that feature within 12-18 months. Plan accordingly.
-2. **Move toward relationship, presence, taste, values, and sovereignty.** Every step toward these is a step into territory frontier labs cannot enter.
-3. **Build audience and community as durable assets.** Levels's own defenses (audience, community, and stock in Big AI) are correct. The first two are unabsorbable. The third is an honest hedge.
-4. **Use the labs' tools against their absorption strategy.** Every frontier capability they ship makes it easier for a specific human with taste to build an unabsorbable product on top of it. The configuration-over-construction move ([see AI-Native by Configuration](/docs/playbooks/business-owner/ai-native-by-configuration)) is exactly this leverage.
+1. **Audit your product against the absorbable-vs-unabsorbable test.** If it lives inside the chat interface as a feature, assume a lab will ship that feature within 12-18 months.
+2. **Move the value toward opinionation.** Every step toward taste, values, curation, presence, or point of view is a step into territory frontier labs cannot enter.
+3. **Build audience and community as durable assets.** Levels's own defenses (audience and community) are correct. These are unabsorbable by definition: an audience is loyalty to a specific point of view, which labs cannot offer.
+4. **Use the labs' own tools against their absorption strategy.** Every primitive they ship makes it easier for a specific human with taste to build an opinionated product on top of it. Configuration-over-construction ([see AI-Native by Configuration](/docs/playbooks/business-owner/ai-native-by-configuration)) is exactly that leverage.
 
 If you are a practitioner building consulting, coaching, or services:
 
 1. **Your value is going up, not down.** Everything on the unabsorbable list needs humans doing the actual work. You are that human.
-2. **Specialize into the unabsorbable zones.** Industry-specific, relationship-heavy, values-aligned, in-person, sovereign-infrastructure engagements are the safest bets for the next five years.
+2. **Specialize into the opinionated zones.** Industry-specific, relationship-heavy, values-aligned, in-person, sovereign-infrastructure engagements are the safest bets for the next five years.
 3. **Package your taste and your track record.** Those are the parts of you that cannot be absorbed.
 
 ---
 
-## The Meta-Move
+## The Meta-Frame
 
-Anthropic and its peers are, to be clear, doing exactly what rational competitors should do. We are not mad about it. We are naming it.
+Frontier labs are doing exactly what rational competitors should do. The absorption strategy is not malicious. It is the only strategy available to them given their incentives.
 
-The meta-move for the Applied AI Society community is to **be explicit about the line** and build confidently on the unabsorbable side of it. That means more chapter events, more practitioner engagements, more community curation, more specific humans being specific humans for specific people. It also means more Kingdom-economy work, more values-first products, more sovereignty infrastructure.
+The correct response is not outrage. It is clarity about where the line is. Labs will keep pulling more and more capability into their chat interfaces. Opinionated humans building opinionated products and running opinionated communities will keep thriving in the territory the labs cannot enter.
 
-This is not a retreat. It is a better position. The work we are moving toward was always the highest-leverage work anyway. Big AI is just finally forcing the clarity.
+The question for every builder in 2026 is not "how do I compete with Anthropic." It is "how do I build something Anthropic cannot build, because they cannot afford to be me."
 
 ---
 
 ## Further Reading
 
-- [Harness Engineering](/docs/concepts/harness-engineering): The harness, not the model, is where the leverage lives. And the harness is human-configurable.
-- [AI-Native by Configuration](/docs/playbooks/business-owner/ai-native-by-configuration): Use the frontier labs' primitives against their absorption strategy.
+- [Harness Engineering](/docs/concepts/harness-engineering): The harness is the leverage, not the model. And the harness is human-configurable.
+- [AI-Native by Configuration](/docs/playbooks/business-owner/ai-native-by-configuration): Use the frontier labs' primitives as your absorption-proof foundation.
 - [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Infrastructure outside the lab cloud.
-- [Signalmaxxing](/docs/concepts/signalmaxxing): The trust-over-reach principle that labs cannot replicate.
-- [Raise the Floor](/docs/concepts/raise-the-floor): Communities that share what they learn stay ahead of platforms that hoard what they learn.
-- [Open Source SovWare](https://faithwalk.garysheng.com/perspectives/open-source-sovware): Why sovereign, openly-owned software is structurally safer.
-- [The True Hyperagent](https://faithwalk.garysheng.com/perspectives/the-true-hyperagent): The human-plus-AI combination that cannot be replicated by AI alone.
+- [Signalmaxxing](/docs/concepts/signalmaxxing): Trust and reach mechanics that labs cannot replicate.
+- [Raise the Floor](/docs/concepts/raise-the-floor): Communities that share what they learn stay ahead of platforms that hoard it.
 
 ---
 
