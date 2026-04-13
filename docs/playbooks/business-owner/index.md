@@ -53,6 +53,8 @@ Before you scope your pilot, look at what the most aggressive companies are alre
 
 The best applied AI engagements don't end at delivery. They get better over time. Before you hire anyone, understand the difference between automation (doing the same thing faster) and continuous improvement (driving better outcomes). Read [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation).
 
+Not sure where AI will create the most leverage across your org? Start with [AI Readiness by Function](/docs/playbooks/business-owner/ai-readiness-by-function), a practical breakdown of which departments are ready for applied AI pilots today and which need more groundwork first.
+
 ---
 
 ## Finding Help
