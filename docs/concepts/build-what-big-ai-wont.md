@@ -26,7 +26,7 @@ Recent evidence: Anthropic reportedly testing a Lovable-style full-stack app bui
 
 ## What Big AI Labs Structurally Cannot Do
 
-The deepest constraint on frontier labs is not technical. It is that **being opinionated is not the job of a frontier AI lab.**
+The deepest constraint on frontier labs is structural. **Being opinionated is not the job of a frontier AI lab.**
 
 Their business depends on serving the widest possible user base. That structurally forces:
 
@@ -35,7 +35,7 @@ Their business depends on serving the widest possible user base. That structural
 - **Risk aversion.** They cannot ship products whose core value is a contested take, a cultural stance, or a particular worldview. The lawsuit and regulatory exposure alone rules it out.
 - **Scale-first optimization.** Anything that is better at size 50 than at size 50 million is the wrong product for them to build.
 
-This is the real line. An opinionated product, an opinionated service, an opinionated community is safe from absorption because **a frontier lab absorbing it would dilute the very thing that makes it work.** They cannot match it without becoming something they are not.
+This is the real line. Opinionated products, opinionated services, and opinionated communities are safe from absorption because **a frontier lab absorbing them would dilute the very thing that makes them work.** Labs cannot match them without becoming something they are not.
 
 Every category of "unabsorbable" work listed below is a consequence of this single principle.
 
@@ -73,7 +73,7 @@ Any product whose identity is built on a clear values stance (religious, politic
 
 ### 3. Opinionated curation
 
-"These people, not those people" is a labs-cannot-do. They cannot vouch for strangers. They cannot run hyper-curated communities. The hard judgment call of who gets in and who does not is a human act, and the product quality depends on someone with taste making that call repeatedly.
+Deciding who belongs in a room and who does not is something labs cannot do. They cannot vouch for strangers. They cannot run hyper-curated communities. The hard judgment call of who gets in and who does not is a human act, and the product quality depends on someone with taste making that call repeatedly.
 
 ### 4. Specific-human bundles
 
@@ -97,7 +97,7 @@ Products built around a specific cultural leader, artist, founder, or operator w
 
 ### 9. Teaching, shepherding, and mentoring
 
-Guiding a specific person through their specific transition, one conversation at a time, adapted to their actual context. Not a scalable product. A role. Unabsorbable because the leverage is the relationship, not the transcript.
+Guiding a specific person through their specific transition, one conversation at a time, adapted to their actual context. This is a role, not a scalable product. Unabsorbable because the leverage lives in the relationship, which the transcript never fully captures.
 
 ### 10. Courageous or contested positions
 
@@ -114,7 +114,7 @@ Audit anything you build against a single question:
 - If the answer is yes, it is probably unabsorbable. The labs cannot ship your opinion.
 - If the answer is no, assume a lab will ship the capability in 12-18 months and plan accordingly.
 
-"Point of view" is the operational definition of opinionation. It includes taste, values, curation choices, a specific human's presence, a specific community's standards, a specific set of principles that exclude alternatives. Wherever a product or service depends on a someone saying "this way, not that way" and standing behind the choice, labs cannot follow.
+"Point of view" is the operational definition of opinionation. It includes taste, values, curation choices, a specific human's presence, a specific community's standards, a specific set of principles that exclude alternatives. Wherever a product or service depends on someone saying "this way, not that way" and standing behind the choice, labs cannot follow.
 
 ---
 
@@ -137,11 +137,11 @@ If you are a practitioner building consulting, coaching, or services:
 
 ## The Meta-Frame
 
-Frontier labs are doing exactly what rational competitors should do. The absorption strategy is not malicious. It is the only strategy available to them given their incentives.
+Frontier labs are doing exactly what rational competitors should do. The absorption strategy is rational; it is the only strategy available to them given their incentives. No outrage required.
 
-The correct response is not outrage. It is clarity about where the line is. Labs will keep pulling more and more capability into their chat interfaces. Opinionated humans building opinionated products and running opinionated communities will keep thriving in the territory the labs cannot enter.
+The correct response is clarity about where the line is. Labs will keep pulling more and more capability into their chat interfaces. Opinionated humans building opinionated products and running opinionated communities will keep thriving in the territory the labs cannot enter.
 
-The question for every builder in 2026 is not "how do I compete with Anthropic." It is "how do I build something Anthropic cannot build, because they cannot afford to be me."
+The question for every builder in 2026 is how to build something Anthropic cannot build, because they cannot afford to be you.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-title: "AI-Native by Configuration, Not Construction"
+title: "AI-Native by Configuration"
 ---
 
-# AI-Native by Configuration, Not Construction
+# AI-Native by Configuration
 
 *You do not have to build Glass to get Glass. The same outcomes are now available as configuration on top of mature agent platforms. One person, a few days, no infrastructure team required.*
 
@@ -26,7 +26,7 @@ Nader Dabit (formerly DevRel at Edge & Node, AWS; now Growth at Cognition) wrote
 | Glass Built | Devin Configures (or equivalent) |
 |---|---|
 | Auto-configured tool integrations | Native connectors + MCP Marketplace (GitHub, Slack, Jira, Linear, Notion, Sentry, Datadog, PostgreSQL, Stripe, HubSpot, Salesforce, BigQuery, and 100+ more via one-click OAuth) |
-| Reusable skills library | `SKILL.md` files in repos (open [Agent Skills standard](https://github.com/anthropics/skills/tree/main/AGENT_SKILLS.md)), auto-indexed across all connected repositories |
+| Reusable skills library | `SKILL.md` files in repos (open Agent Skills standard), auto-indexed across all connected repositories |
 | Persistent organizational memory | Org-wide Knowledge entries with triggers, scoped at org / enterprise / repo level |
 | Playbooks and templates | Org-wide prompt templates with macros (`!investigate`, `!deploy-checklist`, etc.) |
 | Scheduled automations | Cron-based scheduled sessions (Managed Devins for parallel work, notifications to Slack) |
@@ -35,7 +35,7 @@ Nader Dabit (formerly DevRel at Edge & Node, AWS; now Growth at Cognition) wrote
 
 Source: [Nader Dabit, "How to Make a Company AI-Native (without building anything)," X, April 2026](https://x.com/dabit3/status/2043712692536349175).
 
-The point is not that Devin specifically is the only right answer. The point is that this stack is now a commodity: Devin, Claude Code, Cursor, and adjacent platforms all ship increasingly similar primitives. **What took Ramp a dedicated engineering team six months in 2025 is a weekend configuration job for most companies in 2026.**
+Devin is one option among several. The real point is that this stack has become a commodity: Devin, Claude Code, Cursor, and adjacent platforms all ship increasingly similar primitives. **What took Ramp a dedicated engineering team six months in 2025 is a weekend configuration job for most companies in 2026.**
 
 ---
 
@@ -63,15 +63,15 @@ In 2026, the floor moved up. The baseline agent platforms now ship the primitive
 The business implications:
 
 - **Time-to-AI-native went from quarters to days.** If you are not operational by end of month, you are choosing not to be.
-- **The leverage is in the operator, not the platform.** Picking the right person to do the configuration work matters more than picking the right vendor. See [Hiring Practitioners](/docs/playbooks/business-owner/hiring-practitioners).
+- **The leverage is in the operator.** Picking the right person to do the configuration work matters more than picking the right vendor. See [Hiring Practitioners](/docs/playbooks/business-owner/hiring-practitioners).
 - **The compounding is immediate.** Day one you ship one skill. Day seven you have twenty. Day ninety you have a shared knowledge base that makes every new hire productive on their first login.
-- **The cost of delay is measured in organizational capability, not just dollars.** Every month you wait, your competitors who started in April are 60 days further ahead on the compounding curve. See [Your Two Futures](/docs/philosophy/your-two-futures).
+- **The cost of delay is measured in organizational capability as much as dollars.** Every month you wait, your competitors who started in April are 60 days further ahead on the compounding curve. See [Your Two Futures](/docs/philosophy/your-two-futures).
 
 ---
 
 ## The Service Opportunity for Practitioners
 
-Nader's post makes one other point that we want to repeat loudly for the practitioner side of the AAS community: **this is a real service engagement, and a valuable one.**
+Nader's post makes one other point worth repeating loudly for any practitioner, consultant, or agency reading this: **this is a real service engagement, and a valuable one.**
 
 If you are a practitioner, consultant, or agency, you can stand up this entire stack for a client in a defined engagement window:
 - Connect their tools
@@ -93,7 +93,7 @@ Configuration is the right answer for 99% of companies. The exceptions:
 - Companies whose primary product involves an agentic layer that is the product itself, not internal tooling.
 - Industries with regulatory or security constraints that force custom provisioning.
 
-For everyone else, configuration wins on time-to-value, cost, and maintainability. The Ramp case study is worth reading as the north star. It is not worth reading as the mandatory path.
+For everyone else, configuration wins on time-to-value, cost, and maintainability. Read the Ramp case study as the north star of what AI-native can look like. Do not read it as the mandatory path to get there.
 
 ---
 
