@@ -115,14 +115,6 @@ WinGet installations do not auto-update. Run `winget upgrade Anthropic.ClaudeCod
 </TabItem>
 </Tabs>
 
-### Option 3: Desktop app
-
-If you prefer a graphical interface over the terminal, download the Claude Code desktop app for [Mac](https://claude.ai/api/desktop/darwin/universal/dmg/latest/redirect) or [Windows](https://claude.com/download). The desktop app provides the same capabilities in a dedicated window.
-
-### Option 4: Web app (no install)
-
-Try Claude Code instantly at [claude.ai/code](https://claude.ai/code). No installation required. The CLI and desktop app offer deeper integration with your local filesystem, but the web app is the fastest way to start.
-
 ### Verify
 
 ```bash
@@ -179,6 +171,43 @@ Open the workspace in VS Code (works on all platforms):
 ```bash
 code my-jarvis
 ```
+
+---
+
+## Useful Aliases
+
+<Tabs>
+<TabItem value="mac-linux" label="Mac / Linux">
+
+Add these to your `~/.zshrc` or `~/.bashrc`:
+
+```bash
+# Launch Claude Code in dangerous mode (no approval prompts)
+alias clauded="claude --dangerously-skip-permissions"
+
+# Launch Claude Code in your Jarvis workspace from anywhere
+alias jarvis="cd ~/my-jarvis && claude"
+```
+
+</TabItem>
+<TabItem value="windows" label="Windows (PowerShell)">
+
+Add these to your PowerShell profile (`notepad $PROFILE`):
+
+```powershell
+# Launch Claude Code in dangerous mode (no approval prompts)
+function clauded { claude --dangerously-skip-permissions @args }
+
+# Launch Claude Code in your Jarvis workspace from anywhere
+function jarvis { Set-Location "$HOME\my-jarvis"; claude }
+```
+
+If the profile file does not exist yet, create it: `New-Item -Path $PROFILE -ItemType File -Force`
+
+</TabItem>
+</Tabs>
+
+Use `clauded` when you trust the operations (brain dumps, file updates). Use `claude` when working with credentials or production systems.
 
 ---
 
