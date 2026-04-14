@@ -54,6 +54,32 @@ sudo dnf install git    # Fedora
 </TabItem>
 </Tabs>
 
+**GitHub CLI** (`gh`) is also required. It handles the GitHub authentication used by the starter repo's sync script and makes it possible for your agent to create repos, manage collaborators, and push your workspace without prompts.
+
+<Tabs>
+<TabItem value="mac" label="Mac">
+
+```bash
+brew install gh
+gh auth login
+```
+
+</TabItem>
+<TabItem value="windows" label="Windows">
+
+```powershell
+winget install GitHub.cli
+gh auth login
+```
+
+</TabItem>
+<TabItem value="linux" label="Linux">
+
+See the [official install instructions](https://github.com/cli/cli/blob/trunk/docs/install_linux.md) for your distro, then run `gh auth login`.
+
+</TabItem>
+</Tabs>
+
 **VS Code** (recommended, not required): Download from [code.visualstudio.com](https://code.visualstudio.com). Available for Mac, Windows, and Linux. Claude Code runs in any terminal, but VS Code gives you a file explorer and terminal side by side, which makes it easy to see what your agent is doing.
 
 ---
@@ -293,6 +319,15 @@ git add -A
 git commit -m "Initial Jarvis setup"
 gh repo create my-jarvis --private --push
 ```
+
+**Turn on hourly auto-sync.** The starter repo ships with `scripts/sync.sh` (commits local changes, pulls, pushes) and `scripts/install-sync-cron.sh` (registers it as an hourly cron). Run the installer once and you never have to think about backup or keeping collaborators in sync again:
+
+```bash
+cd my-jarvis
+bash scripts/install-sync-cron.sh
+```
+
+Output accumulates in `.jarvis-sync.log`. Remove the cron later with `crontab -l | grep -v scripts/sync.sh | crontab -`. If pushes fail, re-run `gh auth login`.
 
 ---
 
