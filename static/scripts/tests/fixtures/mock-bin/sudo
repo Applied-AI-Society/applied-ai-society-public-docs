@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+echo "sudo $*" >> "${MOCK_CALL_LOG:-/dev/null}"
+if [[ "${MOCK_SUDO_FAIL:-0}" == "1" ]]; then
+  echo "Sorry, user may not run sudo" >&2
+  exit 1
+fi
+# -v just validates; other calls pass through to a no-op.
+exit 0

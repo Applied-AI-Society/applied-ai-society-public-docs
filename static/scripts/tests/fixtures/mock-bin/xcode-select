@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+echo "xcode-select $*" >> "${MOCK_CALL_LOG:-/dev/null}"
+case "${1:-}" in
+  -p)
+    if [[ "${MOCK_XCODE_INSTALLED:-0}" == "1" ]]; then
+      echo "/Library/Developer/CommandLineTools"
+      exit 0
+    fi
+    exit 2
+    ;;
+  --install)
+    exit 0
+    ;;
+esac

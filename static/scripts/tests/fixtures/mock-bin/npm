@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# Mock npm.
+#   MOCK_NPM_CLAUDE_INSTALLED=1    npm list shows @anthropic-ai/claude-code
+echo "npm $*" >> "${MOCK_CALL_LOG:-/dev/null}"
+
+case "${1:-}" in
+  list)
+    if [[ "${MOCK_NPM_CLAUDE_INSTALLED:-0}" == "1" ]]; then
+      echo "/Users/test/.npm-global/lib"
+      echo "├── @anthropic-ai/claude-code@1.0.0"
+    fi
+    exit 0
+    ;;
+  install)
+    exit 0
+    ;;
+  --version)
+    echo "10.5.0"
+    ;;
+  *)
+    exit 0
+    ;;
+esac

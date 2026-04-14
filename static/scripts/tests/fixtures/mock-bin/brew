@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# Mock brew. Behavior controlled by env vars.
+#
+#   MOCK_BREW_INSTALLED=1              brew --version succeeds
+#   MOCK_BREW_FAIL=1                   every call exits 1
+echo "brew $*" >> "${MOCK_CALL_LOG:-/dev/null}"
+
+if [[ "${MOCK_BREW_FAIL:-0}" == "1" ]]; then
+  echo "brew failed (mocked)" >&2
+  exit 1
+fi
+
+case "${1:-}" in
+  --version)
+    echo "Homebrew 4.2.0"
+    ;;
+  shellenv)
+    echo 'export HOMEBREW_PREFIX="/opt/homebrew";'
+    ;;
+  install|list|uninstall|tap|update|upgrade)
+    exit 0
+    ;;
+  *)
+    exit 0
+    ;;
+esac

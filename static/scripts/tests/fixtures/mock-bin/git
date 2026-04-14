@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+echo "git $*" >> "${MOCK_CALL_LOG:-/dev/null}"
+
+case "${1:-}" in
+  --version)
+    echo "git version 2.43.0"
+    ;;
+  clone)
+    # Create a fake cloned directory so subsequent steps work.
+    target="${@: -1}"
+    mkdir -p "$target"
+    cd "$target" || exit 1
+    /usr/bin/env git init -q 2>/dev/null || true
+    exit 0
+    ;;
+  remote)
+    case "${2:-}" in
+      get-url)
+        if [[ "${MOCK_GIT_HAS_UPSTREAM:-0}" == "1" ]]; then
+          echo "https://github.com/Applied-AI-Society/minimum-viable-jarvis.git"
+          exit 0
+        fi
+        exit 1
+        ;;
+      remove)
+        exit 0
+        ;;
+    esac
+    ;;
+  init)
+    exit 0
+    ;;
+  *)
+    exit 0
+    ;;
+esac

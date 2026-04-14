@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+echo "curl $*" >> "${MOCK_CALL_LOG:-/dev/null}"
+if [[ "${MOCK_NETWORK_FAIL:-0}" == "1" ]]; then
+  echo "mock curl: network unreachable" >&2
+  exit 7
+fi
+exit 0

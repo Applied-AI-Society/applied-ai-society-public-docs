@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# MOCK_DISK_GB controls the "Avail" column (column 4).
+echo "df $*" >> "${MOCK_CALL_LOG:-/dev/null}"
+avail="${MOCK_DISK_GB:-100}"
+cat <<EOF
+Filesystem  1G-blocks  Used  Avail  Capacity  iused  ifree  %iused  Mounted on
+/dev/disk1        500   200  ${avail}       40%      1      1      1%   /
+EOF

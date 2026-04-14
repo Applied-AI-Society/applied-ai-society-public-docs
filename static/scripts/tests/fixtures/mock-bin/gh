@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+# Mock gh.
+#   MOCK_GH_AUTHED=1           gh auth status succeeds
+#   MOCK_GH_USER=username      gh api user --jq .login prints this
+#   MOCK_GH_REPO_EXISTS=1      gh repo view succeeds
+echo "gh $*" >> "${MOCK_CALL_LOG:-/dev/null}"
+
+case "${1:-}" in
+  --version)
+    echo "gh version 2.40.0 (2024-01-01)"
+    ;;
+  auth)
+    case "${2:-}" in
+      status)
+        [[ "${MOCK_GH_AUTHED:-0}" == "1" ]] && exit 0 || exit 1
+        ;;
+      login|logout)
+        exit 0
+        ;;
+    esac
+    ;;
+  api)
+    if [[ "$*" == *"user"* ]]; then
+      echo "${MOCK_GH_USER:-testuser}"
+      exit 0
+    fi
+    exit 0
+    ;;
+  repo)
+    case "${2:-}" in
+      view)
+        [[ "${MOCK_GH_REPO_EXISTS:-0}" == "1" ]] && exit 0 || exit 1
+        ;;
+      create)
+        exit 0
+        ;;
+    esac
+    ;;
+  *)
+    exit 0
+    ;;
+esac
