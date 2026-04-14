@@ -82,3 +82,4 @@ Suit up.
 - [Robot Mode](/docs/concepts/robot-mode): The opposite of hyperagency. The dead-end pattern of doing work that does not require your judgment or creativity.
 - [Crutching](/docs/concepts/crutching): The other anti-pattern. Using AI to replace your thinking instead of amplify it. Hyperagents get stronger. Crutchers get weaker.
 - [Your Two Futures](/docs/philosophy/your-two-futures): The fork every person faces. Future A is hyperagency. Future B is what happens by default.
+- [The Self-Improving Human](/docs/concepts/the-self-improving-human): The practice underneath hyperagency. You are already a cyborg. The question is whether you are upgrading yourself on purpose.
