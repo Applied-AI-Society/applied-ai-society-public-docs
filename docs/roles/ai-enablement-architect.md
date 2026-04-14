@@ -65,6 +65,26 @@ The demand is massive and the supply is tiny. Every company with more than 50 em
 
 ---
 
+## The Team-Embedded Variant
+
+Not every version of this role lives at the company level. As the function matures, a second scope is emerging: **one AI Enablement Architect embedded inside each team** rather than a central platform group. Aaron Levie articulated the shape of this in a [2026 post on X](https://x.com/levie/status/2043883641366032638):
+
+> "This person will need to figure out what are the highest leverage set of workflows on a team are (either existing or new ones) where agents can actually drive significantly more value for the team and company... mapping structured and unstructured data flows, figuring out the ideal workflow, getting the agent the context it needs to do the work properly, figuring out where the human interfaces with the agent and at what steps, manages evals and reviews after any major model or data change, and runs and manages the agents on an ongoing basis tracking KPIs."
+
+The team-embedded variant covers the same three functions (deploy, marketplace, adoption), scoped to a single function. The difference is proximity to the work: the embed lives inside sales, support, legal, finance, or operations, and knows that team's workflows at a practitioner's depth. They identify where agents could execute a task 100x faster or 100x more times, wire up the structured and unstructured data flows, place the human-in-the-loop checkpoints, and own the ongoing evals and KPIs after every model or data change.
+
+This pattern looks different from a centralized platform team in three ways:
+
+- **Decentralized by default.** Reports into the function (or dotted-line to a central AI team), not the other way around. Checkpoints with the central function on security, model policy, and shared infrastructure, but day-to-day decisions live with the embed.
+- **Existing operator, repositioned.** Often an existing high-performer from the team who has taken the time to go deep on skills, MCP, and CLIs, not a new hire. Repositioning an operator who already knows the team's work usually outperforms hiring net-new.
+- **Role scales linearly with team count.** A 500-person company with 12 teams likely needs 12 of these people, not a single platform group. Some teams share an embed; no team goes without one.
+
+This variant is a natural first step for next-gen hires who are technical, AI-native, and operationally strong. It is also one of the most obvious redeployments for engineers whose individual-contributor role is being compressed by AI: go from writing the code to designing the workflow the agents run inside.
+
+In large organizations, the centralized platform AI Enablement Architect and the team-embedded variants work in tandem. The central role builds the shared harness, integrations, and skill marketplace. The embeds apply it to their team's specific workflows, feed high-value skills back into the marketplace, and make sure the platform actually lands in day-to-day work.
+
+---
+
 ## The Economics
 
 This is high-value, high-leverage work. A single AI Enablement Architect can transform a 200-person company in 90 days. The productivity gains from getting an entire workforce building with AI compound rapidly: Ramp's non-engineers automated workflows worth 16 hours per month, replaced multi-org spreadsheet models in 48 hours, and built training simulators in 15 minutes.
