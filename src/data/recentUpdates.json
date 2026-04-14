@@ -1,65 +1,65 @@
 [
   {
-    "title": "Maintain Coherence",
-    "link": "/docs/legacy/maintain-coherence",
-    "date": "2026-04-11",
-    "summary": "Your truth repository is a living system. Like any living system, it decays by default. Documents go stale. Cross-ref...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Personal Software",
-    "link": "/docs/concepts/personal-software",
-    "date": "2026-04-11",
-    "summary": "Most people will never use a terminal. The future of personal AI is not \"learn to code.\" It is software built for one...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Applied AI Streamliner",
-    "link": "/docs/roles/applied-ai-streamliner",
-    "date": "2026-04-11",
-    "summary": "The person who builds hyper-personalized software for individual professionals. They sit with the person, decompose t...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "The Supersuit Up Workshop",
-    "link": "/docs/workshops/supersuit-up",
-    "date": "2026-04-11",
-    "summary": "Build your Personal Agentic OS. Some people call this \"Jarvising Yourself\" (a nod to Tony Stark's AI). Whatever you c...",
+    "title": "The Applied AI Canon",
+    "link": "/docs/philosophy/canon",
+    "date": "2026-04-14",
+    "summary": "AI will reshape every profession, every organization, and every community. These ten tenets define the principles we ...",
     "tag": "Updated"
   }
 ,
   {
     "title": "AI Enablement Architect",
     "link": "/docs/roles/ai-enablement-architect",
-    "date": "2026-04-11",
+    "date": "2026-04-14",
     "summary": "The person who deploys company-wide AI upskilling infrastructure. They build the platform, connect the tools, design ...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Hyperagency",
+    "link": "/docs/concepts/hyperagency",
+    "date": "2026-04-13",
+    "summary": "There are going to be two types of people in this world. Hyperagents, and people who live in the world that hyperagen...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "The Self-Improving Human",
+    "link": "/docs/concepts/the-self-improving-human",
+    "date": "2026-04-13",
+    "summary": "You have been a cyborg since the day you bought your first smartphone. The only question is whether you are upgrading...",
     "tag": "New"
+  }
+,
+  {
+    "title": "Creative Congestion",
+    "link": "/docs/concepts/creative-congestion",
+    "date": "2026-04-13",
+    "summary": "The state of having more ideas, relationships, and open loops in your head than any human brain can track. You feel s...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Externalize Your Brain",
+    "link": "/docs/concepts/externalize-your-brain",
+    "date": "2026-04-13",
+    "summary": "The bottleneck is you, not the tools. AI is so abundant and powerful that the human is now the constraint. The fix is...",
+    "tag": "Updated"
   }
 ,
   {
     "title": "Setting Up Claude Code",
     "link": "/docs/playbooks/practitioner/claude-code-setup",
-    "date": "2026-04-11",
+    "date": "2026-04-13",
     "summary": "import Tabs from '@theme/Tabs';",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Principles",
-    "link": "/docs/philosophy/principles",
-    "date": "2026-04-11",
-    "summary": "The Canon defines what we believe. These seven principles define how we operate as a community.",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Working Smart",
-    "link": "/docs/philosophy/working-smart",
-    "date": "2026-04-11",
-    "summary": "The days of getting a pat on the back for working hard are over. The question is whether you are working smart.",
-    "tag": "New"
+    "title": "The Supersuit Up Workshop",
+    "link": "/docs/workshops/supersuit-up",
+    "date": "2026-04-13",
+    "summary": "Build your Personal Agentic OS. Some people call this \"Jarvising Yourself\" (a nod to Tony Stark's AI). Whatever you c...",
+    "tag": "Updated"
   }
 ]

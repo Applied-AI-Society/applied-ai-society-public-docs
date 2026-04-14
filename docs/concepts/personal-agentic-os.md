@@ -72,7 +72,7 @@ This is not a philosophical stance. It is an architectural decision. The [Sovere
 
 ## Getting Started
 
-The [Supersuit Up Workshop](/docs/workshops/supersuit-up) tutorial walks you through setting up your first Personal Agentic OS in about 4 hours. The [starter repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis) gives you the default folder structure to clone.
+The [Supersuit Up Workshop](/docs/workshops/supersuit-up) is the [Applied AI Society](/docs/about)'s flagship hands-on offering (Pillar 1 of our two-pillar mission). The tutorial walks you through setting up your first Personal Agentic OS in about 4 hours. The [starter repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis) gives you the default folder structure to clone.
 
 The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the progression from first setup through increasingly deeper levels of integration.
 

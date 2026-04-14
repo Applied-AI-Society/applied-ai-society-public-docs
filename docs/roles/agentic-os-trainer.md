@@ -5,7 +5,7 @@ title: "Agentic OS Trainer"
 
 # Agentic OS Trainer
 
-*The person who takes someone from zero to a working AI-operated business OS in a single session, then coaches them through progressively deeper levels of integration. Part technician, part strategist, part pastor.*
+*The person who takes someone from zero to a working AI-operated business OS in a single session via the Applied AI Society's [Supersuit Up workshop](/docs/workshops/supersuit-up), then coaches them through progressively deeper levels of integration. Part technician, part strategist, part pastor.*
 
 > **This role rewards the ability to meet people where they are.** Your participants range from "I have never opened a terminal" to "I already use Claude Code but my system is a mess." You need to install software on machines you have never seen, debug errors you have never encountered, and keep a room of 8 people moving forward at different speeds. If you are the person who can explain something technical without making someone feel stupid, and you have a working Personal Agentic OS of your own, this is your role.
 
@@ -17,7 +17,7 @@ The Agentic OS Trainer runs workshops that get people from no system to a workin
 
 ### The Activation (Session 1: ~4 hours)
 
-This is the [Supersuit Up Workshop](/docs/workshops/supersuit-up) workshop. By the end, every participant has:
+This is the [Supersuit Up Workshop](/docs/workshops/supersuit-up). By the end, every participant has:
 
 - All tools installed (voice-to-text, Claude Code, VS Code, Git)
 - A cloned starter workspace with the default folder structure

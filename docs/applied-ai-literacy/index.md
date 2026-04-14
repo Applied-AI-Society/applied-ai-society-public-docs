@@ -74,11 +74,15 @@ Applied AI literacy isn't just for engineers or tech workers. It's for everyone 
 
 ## How Applied AI Society Is Leading This
 
-Applied AI Society isn't waiting for someone else to define what applied AI literacy looks like. We're building it.
+Applied AI Society isn't waiting for someone else to define what applied AI literacy looks like. We're building it, through two core pillars.
+
+**Pillar 1: Jarvis workshops.** The hands-on path. Our [Supersuit Up workshop](/docs/workshops/supersuit-up) (self-paced online courses coming soon) gets you from zero to a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) in a single session. You do not fully understand applied AI until you live with your own Jarvis. The workshop is where literacy goes from abstract to embodied, in your hands, on your laptop.
+
+**Pillar 2: This documentation site.** The base layer. [docs.appliedaisociety.org](/docs/about) is the public knowledge repo for applied AI literacy: a living [field guide](/docs/philosophy/why-field-notes) written by practitioners, continuously updated, free for anyone to read or adapt. [Roles](/docs/roles), [playbooks](/docs/playbooks), [case studies](/docs/case-studies), and [concepts](/docs/concepts) that evolve as the field evolves. Chapter leaders, universities, and communities around the world derive their own programming from this source material. That is how literacy scales without becoming propaganda.
+
+The two pillars reinforce each other. The docs make the workshops legible and scalable. The workshops make the docs real and grounded.
 
 **Through community.** Our hyperlocal chapters create spaces where people learn applied AI by doing it, not by reading about it. Events like [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) put real practitioners on stage sharing exactly how they apply AI to make a living. The audience doesn't just listen. They leave with something they can try on Monday.
-
-**Through open documentation.** The [docs you're reading right now](/docs/about) are a living field guide to the applied AI economy. [Roles](/docs/roles), [playbooks](/docs/playbooks), [case studies](/docs/case-studies), and [concepts](/docs/concepts) that get updated as the field evolves. All open. All free.
 
 **Through partnerships.** We're building a coalition with organizations that share this mission. [OpenTeams](https://www.openteams.com/) connects open-source talent with enterprise needs. Universities want programming that keeps pace with the real economy. City governments need workforce development that actually works. International partners are bringing applied AI literacy to communities around the world. Together, we can reach further than any one organization could alone.
 

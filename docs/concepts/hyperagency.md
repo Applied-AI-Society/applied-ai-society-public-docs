@@ -55,9 +55,9 @@ That is the hyperagent path.
 
 ## The Applied AI Society Connection
 
-One way to understand the [Applied AI Society](https://appliedaisociety.org) is as a community of hyperagents. People who are suiting up, helping each other suit up, and building the infrastructure that makes hyperagency accessible to more people.
+One way to understand the [Applied AI Society](/docs/about) is as a community of hyperagents. People who are suiting up, helping each other suit up, and building the infrastructure that makes hyperagency accessible to more people.
 
-The [courses](https://appliedaisociety.org), events, and practitioner network all serve the same goal: activate as many people as possible into hyperagency at a time when it is basically demanded if you want to thrive.
+The [Supersuit Up workshop](/docs/workshops/supersuit-up) is our flagship hands-on activation into hyperagency (Pillar 1 of AAS). [This documentation site](/docs/about) is the base layer of applied AI literacy that makes hyperagency approachable (Pillar 2). Events, chapters, and the practitioner network all serve the same goal: activate as many people as possible into hyperagency at a time when it is basically demanded if you want to thrive.
 
 The first step is the [Supersuit Up Workshop](/docs/workshops/supersuit-up). That is where suiting up begins. The deeper you go (sovereignty, always-on agents, organizational command centers), the more capable you become. Think of it like levels. The first course makes you a Level 1 hyperagent. Each subsequent level of investment and practice takes you further.
 
