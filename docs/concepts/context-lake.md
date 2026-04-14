@@ -94,3 +94,5 @@ The Applied AI Society has been teaching this architecture since January 2026 th
 - [Lossy AI Telephone](/docs/concepts/lossy-ai-telephone): What happens without shared context
 - [Hypercontext Protocol](/docs/concepts/hypercontext-protocol): Federated context lakes between trusted parties
 - [Legacy](/docs/legacy): The framework for organizing the truth in your lake
+- [Operational Reality](/docs/concepts/operational-reality): What your context lake is meant to hold
+- [Agentic OS Debt](/docs/concepts/agentic-os-debt): What happens when the lake gets stale

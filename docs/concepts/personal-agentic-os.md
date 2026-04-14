@@ -91,3 +91,6 @@ The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the prog
 - [Hyperagency](/docs/concepts/hyperagency): What becomes possible when your Personal Agentic OS compounds
 - [The Slopacalypse](/docs/concepts/slopacalypse): Why hyper-specific command centers are replacing generic apps
 - [Gary Sheng: Running My Entire Life With a Personal Jarvis](/docs/case-studies/gary-sheng-running-life-with-jarvis): 14 months of field testimony on what a Personal Agentic OS actually delivers
+- [Agentic Strategy](/docs/concepts/agentic-strategy): What this system makes possible once it has enough context
+- [Operational Reality](/docs/concepts/operational-reality): The substrate your Personal Agentic OS is meant to hold
+- [Agentic OS Debt](/docs/concepts/agentic-os-debt): The debt that accumulates when your OS drifts from reality
