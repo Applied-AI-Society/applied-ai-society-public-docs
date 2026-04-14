@@ -90,3 +90,4 @@ The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the prog
 - [Command Centers](/docs/concepts/command-centers): The meta-concept that Personal Agentic OS is an instance of
 - [Hyperagency](/docs/concepts/hyperagency): What becomes possible when your Personal Agentic OS compounds
 - [The Slopacalypse](/docs/concepts/slopacalypse): Why hyper-specific command centers are replacing generic apps
+- [Gary Sheng: Running My Entire Life With a Personal Jarvis](/docs/case-studies/gary-sheng-running-life-with-jarvis): 14 months of field testimony on what a Personal Agentic OS actually delivers
