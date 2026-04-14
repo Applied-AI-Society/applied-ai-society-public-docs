@@ -57,6 +57,8 @@ The end state is humans doing the work only humans can do.
 **X. Remember: the tool mirrors the wielder.**
 AI amplifies intent. In wise hands it multiplies good. In careless hands it multiplies harm.
 
+The systems you adopt also carry the intent of whoever built them. Frontier AI platforms are trained on datasets and value judgments shaped by other people, whose worldviews are now embedded in the default answers those systems give. Vet the training as seriously as you vet the output. Before you trust an AI system as an authority in your life or business, ask: who trained this, under what worldview, with what objective? A tool you cannot steward back to a wielder you trust is a tool you do not actually own.
+
 ---
 
 *These beliefs are the foundation. For how they translate into daily practice, and who we serve first, see our [Principles](/docs/philosophy/principles).*
