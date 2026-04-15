@@ -34,6 +34,7 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup) | Installing Claude Code (Anthropic's commercial harness) |
 | [Codex Setup](/docs/playbooks/practitioner/codex-setup) | Installing OpenAI Codex (open source, works with ChatGPT subscription) |
 | [First Git Setup](/docs/playbooks/practitioner/first-git-setup) | Version control basics for your workspace |
+| [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup) | The canonical one-prompt flow: create your private Jarvis from the MVJ template via `gh`, wire upstream, let `onboard` take over |
 | [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop) | Instructor guide for running Personal Agentic OS workshops |
 | [Using the Docs with Your Jarvis](/docs/playbooks/practitioner/using-the-docs-with-your-jarvis) | How to give your Personal Agentic OS access to the full AAS knowledge base |
 

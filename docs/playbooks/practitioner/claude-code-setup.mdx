@@ -180,43 +180,16 @@ WSL is also supported (both WSL 1 and WSL 2). If you use WSL, install Claude Cod
 
 ## Set Up Your Workspace
 
-We maintain the Minimum Viable Jarvis starter as a **GitHub template repository**, so creating your own private copy is one click. Do not clone our repo directly. Do this instead:
+Installing Claude Code gives you the harness. Next, create your private Jarvis workspace.
 
-1. Visit [github.com/Applied-AI-Society/minimum-viable-jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis)
-2. Click **"Use this template"** → **"Create a new repository"**
-3. Name it (e.g., `my-jarvis`), set visibility to **Private**, click Create
-4. Clone your new private repo and set up a safety-disabled upstream remote so you can pull template updates later without ever pushing back:
+**Go to the canonical [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup) doc.** Follow the single-prompt flow there. It is shared across all harnesses and stays in sync with the [Minimum Viable Jarvis template](https://github.com/Applied-AI-Society/minimum-viable-jarvis) so these instructions never drift.
 
-```bash
-cd ~/Documents/github-repos     # or wherever you keep projects
-gh repo clone YOUR-USERNAME/my-jarvis
-cd my-jarvis
+The short version: launch `claude`, paste one prompt, and it uses `gh` to create a private repo from the template on your GitHub account, clones it, and wires the upstream remote with a disabled push URL. Then you launch Claude Code from inside the new workspace and the repo's built-in `onboard` skill handles personalization (profile, AI history import, strategic interview).
 
-# Add upstream for pulling future template updates; disable the push URL as a safety net
-git remote add upstream https://github.com/Applied-AI-Society/minimum-viable-jarvis.git
-git remote set-url --push upstream DISABLED
-```
-
-Future template updates can be pulled anytime by asking your Jarvis to run the `sync-with-upstream` skill that ships in the repo.
-
-This gives you the standard folder structure:
-
-```
-my-jarvis/
-  user/              # Your profile, voice, preferences
-  people/            # One file per person in your life and business
-  artifacts/         # Strategic documents, decision records, plans
-  meeting-transcripts/  # Raw or processed conversation transcripts
-  skills/            # SOPs for your agent (repeatable workflows)
-  CLAUDE.md          # Instructions that tell Claude Code how to operate
-```
-
-The CLAUDE.md file is already configured. It tells Claude Code to act as your Jarvis: route brain dumps to the right folders, maintain cross-references between people and transcripts, and run the user profile interview on first session.
-
-Open the workspace in VS Code (works on all platforms):
+Once your workspace exists, open it in VS Code:
 
 ```bash
-code my-jarvis
+code my-jarvis   # replace with whatever you named the workspace
 ```
 
 ---

@@ -75,26 +75,13 @@ You will be prompted to sign in with your ChatGPT account or enter an OpenAI API
 
 ## Set Up Your Workspace
 
-We maintain the Minimum Viable Jarvis starter as a **GitHub template repository**. Create your own private copy instead of cloning our repo directly:
+Installing Codex gives you the harness. Next, create your private Jarvis workspace.
 
-1. Visit [github.com/Applied-AI-Society/minimum-viable-jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis)
-2. Click **"Use this template"** → **"Create a new repository"**
-3. Name it (e.g., `my-jarvis`), set visibility to **Private**, click Create
-4. Clone your new private repo and wire a safety-disabled upstream remote for pulling template updates later:
+**Go to the canonical [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup) doc.** Follow the single-prompt flow there. Launch `codex`, paste one prompt, and your harness uses `gh` to create a private repo from the template on your GitHub account, clone it, and wire the upstream remote with a disabled push URL. Then launch Codex from inside the new workspace and the repo's built-in `onboard` skill handles personalization.
 
-```bash
-cd ~/Documents/github-repos     # or wherever you keep projects
-gh repo clone YOUR-USERNAME/my-jarvis
-cd my-jarvis
+Codex reads `AGENTS.md`, which the template ships with and configures correctly.
 
-# Add upstream for pulling future template updates; disable the push URL as a safety net
-git remote add upstream https://github.com/Applied-AI-Society/minimum-viable-jarvis.git
-git remote set-url --push upstream DISABLED
-```
-
-Future template updates can be pulled anytime via the `sync-with-upstream` skill shipped in the repo.
-
-This gives you the standard folder structure:
+The workspace you get has this folder structure:
 
 ```
 my-jarvis/
