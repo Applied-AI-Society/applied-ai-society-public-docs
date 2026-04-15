@@ -50,3 +50,4 @@ The metric is simple: are the skills I am developing leading to people being exc
 - [Business Outcomes Over Technology Fascination](/docs/philosophy/principles): Operating principle #3
 - [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app): How to stay grounded when building your first app with AI
 - [The Slopacalypse](/docs/concepts/slopacalypse): The flood of purposeless technology that tinkering without direction feeds into
+- [Pirates and Architects](/docs/concepts/pirates-and-architects): The tinkerer's curse is what happens to a pirate without an architect. Exploration without shipping.

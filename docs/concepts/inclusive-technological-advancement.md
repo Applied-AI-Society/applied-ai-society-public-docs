@@ -66,3 +66,4 @@ AAS's bet is that the people who pass this test will outperform the people who d
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): The adjacent concept about making expertise accessible without gatekeepers
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements to participate in the applied AI economy, and why they are higher than most people realize
 - [AIFOD](https://af.net): The organization whose work named this value for us
+- [Pirates and Architects](/docs/concepts/pirates-and-architects): One of the most common ways the old system left minds behind was by punishing neurotypes that did not fit the cookie cutter. The applied AI era can hold all of them.
