@@ -23,22 +23,41 @@ The user is expected to paste this into a note, find-and-replace every angle-bra
 2. **It breaks on complex variables.** Filling in "customer persona" as a one-liner loses nuance the agent would get from a conversation.
 3. **It assumes the user already knows what's needed.** Often the user doesn't, and the placeholders themselves are the wrong questions.
 
-## The Pattern: Interview Prompts
+## The Pattern: Infer, Then Interview
 
-An **interview prompt** names the variables the agent will need, then instructs the agent to interview the user for those variables before doing the work. The user pastes the prompt as-is. No pre-filling.
+A good interview prompt names the variables the agent will need, then instructs the agent to **infer what it can from context first, and only interview the user for what it truly can't infer**. The user pastes the prompt as-is. No pre-filling, no redundant questions.
+
+The inference sources the agent should check before asking anything:
+
+- **The current working directory.** If the harness is opened in `~/Documents/github-repos/my-wiki/`, the repo path and name are already known. Don't ask.
+- **The repo's `CLAUDE.md` / `AGENTS.md` / `README.md`.** Voice rules, section structure, and conventions are often already documented. Read them before asking.
+- **Existing files.** Package.json, config files, sidebars, existing entries. They reveal the stack, the tone, and the patterns already in use.
+- **Git state.** The current branch, recent commits, and remote URL reveal the GitHub account and visibility.
+- **The user's prior messages in the conversation.** If the user already said something, the agent shouldn't ask again.
+
+After inference, the agent interviews the user **only** for what's genuinely missing: the user's intent, subjective preferences, or variables that exist only in the user's head.
 
 ```
 I want to write a sales pitch.
 
-Before drafting, interview me on:
-1. The company name and a one-sentence description of what it does
-2. The customer persona (ask 2-3 follow-up questions to get specific)
-3. The tone I want (give me 3-4 options if I'm not sure)
-4. Desired length
+Variables you'll need: company name, company description,
+customer persona, tone, length.
 
-Ask one question at a time. Wait for my answers. Once you have enough
-to draft a strong pitch, draft it. Show me the draft before anything
-else.
+First, infer what you can:
+- Check the current working directory. Is there a README or
+  package.json that names the company and describes what it does?
+- Look for existing marketing copy, pitch decks, or prior pitches
+  in the repo. They reveal tone and audience.
+- Check this conversation: have I already told you any of these?
+
+Briefly tell me what you inferred and what's still missing. Then
+interview me for the gaps:
+- Ask one question at a time
+- For the customer persona, ask 2-3 follow-ups to get specific
+- For tone, offer 3-4 options if I'm unsure
+
+Once you have enough to draft a strong pitch, draft it. Show me
+the draft before anything else.
 ```
 
 The agent now owns the context-gathering. The user just says "go."
@@ -55,26 +74,37 @@ The agent now owns the context-gathering. The user just says "go."
 
 ## How to Write One
 
-A good interview prompt has five parts:
+A good interview prompt has six parts:
 
 1. **The job.** "I want to write X" or "I want to build Y." One sentence.
-2. **The interview list.** Explicit variables the agent needs. Not placeholders, but questions the agent should ask.
-3. **Interview behavior rules.** Usually: one question at a time, wait for answers, ask follow-ups when an answer is thin, offer options when the user seems unsure.
-4. **The stopping condition.** What does the agent have before it starts drafting? Usually: "once you have enough to X, do X."
-5. **The deliverable and review gate.** What the agent produces first, and whether it should wait for approval before committing or acting.
+2. **The variable list.** Explicit variables the agent needs to complete the job.
+3. **The inference pass.** An instruction to infer what it can from context (cwd, CLAUDE.md, README, git state, existing files, conversation history) before asking anything.
+4. **Interview behavior rules.** For whatever inference didn't resolve: ask one question at a time, wait for answers, ask follow-ups when an answer is thin, offer options when the user seems unsure.
+5. **The stopping condition.** What does the agent have before it starts drafting? Usually: "once you have enough to X, do X."
+6. **The deliverable and review gate.** What the agent produces first, and whether it should wait for approval before committing or acting.
 
 Template skeleton:
 
 ```
 I want to <JOB>.
 
-Before <ACTION>, interview me on:
-1. <variable 1>
-2. <variable 2, with follow-up guidance>
-3. <variable 3>
+To complete this, you'll need these variables:
+- <variable 1>
+- <variable 2>
+- <variable 3>
 ...
 
-Interview rules:
+First, infer what you can from context:
+- What's the current working directory?
+- Is there a CLAUDE.md / AGENTS.md / README.md that answers any of
+  these?
+- Does git state (branch, remote, recent commits) reveal any of them?
+- Have I already told you any of these in this conversation?
+
+Briefly tell me what you inferred and what's still missing. Then
+interview me for the missing variables only.
+
+Interview rules (for missing variables):
 - Ask one question at a time
 - Follow up when an answer is thin
 - Offer 2-3 options when I seem unsure
