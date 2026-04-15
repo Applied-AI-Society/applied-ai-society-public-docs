@@ -85,15 +85,17 @@ The workspace you get has this folder structure:
 
 ```
 my-jarvis/
-  user/              # Your profile, voice, preferences
-  people/            # One file per person in your life and business
-  artifacts/         # Strategic documents, decision records, plans
-  meeting-transcripts/  # Raw or processed conversation transcripts
-  skills/            # SOPs for your agent (repeatable workflows)
-  CLAUDE.md          # Agent instructions (works with any harness that reads instruction files)
+  user/                   # Your profile, voice, preferences
+  people/                 # One file per person in your life and business
+  artifacts/              # Strategic documents, decision records, plans
+  meeting-transcripts/    # Raw or processed conversation transcripts
+  .agents/skills/         # Skill files — Codex auto-discovers these as /slash commands
+  .claude/skills          # Symlink → ../.agents/skills so Claude Code discovers the same dir
+  AGENTS.md               # Instructions for Codex and any AGENTS.md-aware harness
+  CLAUDE.md               # Instructions for Claude Code (points to AGENTS.md)
 ```
 
-The CLAUDE.md file contains system instructions that tell the agent how to operate as your Jarvis. Codex reads markdown instruction files in your workspace. If Codex uses a different instruction file convention (like AGENTS.md), you can copy the contents over. The instructions are plain text and work across harnesses.
+Codex reads `AGENTS.md` at session start and auto-discovers slash commands from `.agents/skills/`. You can invoke any skill directly with `/skill-name` (e.g. `/onboard`, `/sync-with-upstream`) or use natural language that the AGENTS.md routing table recognizes. The instructions are plain text and work across harnesses.
 
 ---
 
