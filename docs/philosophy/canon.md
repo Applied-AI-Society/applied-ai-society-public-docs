@@ -5,7 +5,7 @@ title: The Applied AI Canon
 
 # The Applied AI Canon
 
-*AI will reshape every profession, every organization, and every community. These eleven tenets define the principles we believe should guide that transformation.*
+*AI will reshape every profession, every organization, and every community. These twelve tenets define the principles we believe should guide that transformation.*
 
 ---
 
@@ -63,6 +63,11 @@ The systems you adopt also carry the intent of whoever built them. Frontier AI p
 
 **XI. Do not advance AI at the planet's expense.**
 AI advancement must not come at the cost of the planet's wellbeing. The energy, land, water, and materials powering the AI economy are shared resources, and its physical footprint (data centers, compute, supply chains) is a real cost, not a hidden externality. Hold AI infrastructure to the same standard of accountability as any other infrastructure a society depends on. What we build must be sustainable in the world that actually hosts it.
+
+---
+
+**XII. Raise the floor, not just the ceiling.**
+At every scale, the worth of AI progress is measured by how fast it lifts the people most likely to be left behind. Inside a team, one person's breakthrough should become everyone's baseline ([Raise the Floor](/docs/concepts/raise-the-floor)). Inside humanity, the benefits of advanced AI should reach every income level, region, ability, and community, not just the already-advantaged ([Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement)). We design, teach, and share for inclusion from day one. Not as an afterthought.
 
 ---
 

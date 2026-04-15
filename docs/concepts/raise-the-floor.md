@@ -94,3 +94,4 @@ The ceiling takes care of itself. Power users will always push the boundaries. T
 - [The Encounter](/docs/concepts/the-encounter): Why hands-on experience teaches faster than workshops. The product is the enablement.
 - [Compounding Docs](/docs/concepts/compounding-docs): Every shared skill makes every other skill more useful. The knowledge graph compounds.
 - [Your Two Futures](/docs/philosophy/your-two-futures): The fork every person and organization faces. Raising the floor is how organizations choose Future A.
+- [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The humanity-scale extension of the same principle. This concept is about teams and organizations; that one is about regions, income levels, abilities, and communities.

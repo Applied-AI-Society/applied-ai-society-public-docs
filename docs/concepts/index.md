@@ -62,6 +62,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Crutching](/docs/concepts/crutching): The anti-pattern of leaning on AI so heavily your own capabilities atrophy. Use AI as a coach, not a replacement.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): Building your identity around playing with tools rather than applying them usefully. The market is the compass.
 - [Raise the Floor](/docs/concepts/raise-the-floor): One person's breakthrough should become everyone's baseline. The organizational flywheel of shared skills and infrastructure.
+- [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The humanity-scale commitment to AI that lifts the people most likely to be left behind, not just the already-advantaged. The global floor, not just the team floor.
 - [See Your Own Thinking](/docs/concepts/see-your-own-thinking): The metacognition unlock. When AI reflects your thinking back to you, you gain self-awareness that most people have never experienced.
 - [Imagination Economy Infrastructure](/docs/concepts/imagination-economy-infrastructure): Everything that collapses the distance between human intention and human flourishing. The stack includes energy, telecom, inference, harnesses, sovereignty, community, logistics, and more.
 - [Always-On Agents](/docs/concepts/always-on-agents): The shift from "AI that answers when asked" to "AI that works for you while you sleep"
