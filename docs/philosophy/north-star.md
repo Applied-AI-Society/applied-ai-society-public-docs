@@ -11,7 +11,7 @@ title: North Star
 
 ## The Promise
 
-Applied AI Society exists to help people transition prosperously into the applied AI economy. We do this through two core offerings: [Jarvis workshops](/docs/workshops/supersuit-up) (the hands-on path) and [this public documentation site](/docs/about) (the base layer of applied AI literacy for humanity). Every event, every playbook, every connection in the network should serve that goal. So the question we keep asking ourselves is simple: **are we actually doing that?**
+Applied AI Society exists to help people, communities, humanity, and the environment thrive as the applied AI economy emerges. We do this through two core offerings: [Jarvis workshops](/docs/workshops/supersuit-up) (the hands-on path) and [this public documentation site](/docs/about) (the base layer of applied AI literacy for humanity). Practitioners and businesses inside the movement prosper. The communities, public interest, and ecological realities surrounding the movement are kept in frame. Every event, every playbook, every connection in the network should serve that mission. So the question we keep asking ourselves is simple: **are we actually doing that?**
 
 ---
 
