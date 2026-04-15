@@ -89,7 +89,7 @@ my-jarvis/
   people/                 # One file per person in your life and business
   artifacts/              # Strategic documents, decision records, plans
   meeting-transcripts/    # Raw or processed conversation transcripts
-  .agents/skills/         # Skill files — Codex auto-discovers these as /slash commands
+  .agents/skills/         # Skill files (Codex auto-discovers these as /slash commands)
   .claude/skills          # Symlink → ../.agents/skills so Claude Code discovers the same dir
   AGENTS.md               # Instructions for Codex and any AGENTS.md-aware harness
   CLAUDE.md               # Instructions for Claude Code (points to AGENTS.md)

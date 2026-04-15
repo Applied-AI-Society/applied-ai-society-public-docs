@@ -62,7 +62,7 @@ cd <your-workspace-path>    # e.g., cd ~/Documents/github-repos/my-jarvis
 claude                       # or: hermes, codex
 ```
 
-If you prefer VS Code: use `code <workspace-path>` (pointing at the workspace folder, not its parent), then open the integrated terminal. Verify with `pwd` (Mac/Linux) or `cd` (Windows) before launching the harness. Then type `/` in the harness session — you should see the built-in skills (`/onboard`, `/sync-with-upstream`, etc.). If you don't, you're in the wrong folder.
+If you prefer VS Code: use `code <workspace-path>` (pointing at the workspace folder, not its parent), then open the integrated terminal. Verify with `pwd` (Mac/Linux) or `cd` (Windows) before launching the harness. Then type `/` in the harness session. You should see the built-in skills (`/onboard`, `/sync-with-upstream`, etc.). If you don't, you're in the wrong folder.
 
 The repo's `AGENTS.md` sees that `user/USER.md` does not yet exist and auto-runs the `onboard` skill on your first session in that workspace. It will:
 
@@ -91,16 +91,16 @@ You cannot accidentally push to the template. The push URL is `DISABLED` and you
 
 ## Troubleshooting
 
-- **`gh: command not found`** — install and authenticate: `brew install gh && gh auth login` (Mac) or `winget install GitHub.cli && gh auth login` (Windows).
-- **`gh auth login` asks a lot of questions** — choose HTTPS, authenticate via browser, the defaults are fine.
-- **Your harness cannot run `gh`** — make sure your harness was launched in a shell that has `gh` on its PATH. Close and reopen the terminal after installing `gh` so the new PATH is picked up.
-- **`onboard` does not auto-run** — make sure you launched your harness **inside** the workspace folder, not from its parent directory. Harnesses read the nearest `AGENTS.md` / `CLAUDE.md` in the current working directory.
-- **Claude Code does not see slash commands like `/onboard` (Windows only)** — the template ships a `.claude/skills` symlink that points at `.agents/skills/`. On Mac/Linux and on modern Git for Windows (with `core.symlinks=true`) this works out of the box. If your clone shows `.claude/skills` as a one-line text file instead of a working link, run the included fallback script from the workspace root:
+- **`gh: command not found`**: install and authenticate: `brew install gh && gh auth login` (Mac) or `winget install GitHub.cli && gh auth login` (Windows).
+- **`gh auth login` asks a lot of questions**: choose HTTPS, authenticate via browser, the defaults are fine.
+- **Your harness cannot run `gh`**: make sure your harness was launched in a shell that has `gh` on its PATH. Close and reopen the terminal after installing `gh` so the new PATH is picked up.
+- **`onboard` does not auto-run**: make sure you launched your harness **inside** the workspace folder, not from its parent directory. Harnesses read the nearest `AGENTS.md` / `CLAUDE.md` in the current working directory.
+- **Claude Code does not see slash commands like `/onboard` (Windows only)**: the template ships a `.claude/skills` symlink that points at `.agents/skills/`. On Mac/Linux and on modern Git for Windows (with `core.symlinks=true`) this works out of the box. If your clone shows `.claude/skills` as a one-line text file instead of a working link, run the included fallback script from the workspace root:
   ```bash
   powershell -ExecutionPolicy Bypass -File scripts/setup-claude-skills-windows.ps1
   ```
   This creates a directory junction from `.claude/skills` to `.agents/skills/` so Claude Code discovers the skills. It does not require admin rights.
-- **Hermes does not auto-register slash commands from your workspace** — that is expected. By default Hermes only auto-registers skills from `~/.hermes/skills/`. See the [Hermes Setup doc](/docs/playbooks/practitioner/hermes-setup) for adding your workspace's `.agents/skills/` to Hermes's `external_dirs` config if you want slash-command discovery. Natural-language triggers (via `AGENTS.md` routing) work regardless.
+- **Hermes does not auto-register slash commands from your workspace**: that is expected. By default Hermes only auto-registers skills from `~/.hermes/skills/`. See the [Hermes Setup doc](/docs/playbooks/practitioner/hermes-setup) for adding your workspace's `.agents/skills/` to Hermes's `external_dirs` config if you want slash-command discovery. Natural-language triggers (via `AGENTS.md` routing) work regardless.
 
 ## What You Now Have
 

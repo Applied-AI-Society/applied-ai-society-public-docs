@@ -78,8 +78,8 @@ Or set up a cron job to pull daily if you want it hands-free.
 
 If you do not want to clone the full repo, the AAS docs site serves machine-readable files at:
 
-- **Index:** [docs.appliedaisociety.org/llms.txt](https://docs.appliedaisociety.org/llms.txt) — titles and descriptions of every page
-- **Full content:** [docs.appliedaisociety.org/llms-full.txt](https://docs.appliedaisociety.org/llms-full.txt) — the complete text of every page concatenated into one file
+- **Index:** [docs.appliedaisociety.org/llms.txt](https://docs.appliedaisociety.org/llms.txt) contains titles and descriptions of every page
+- **Full content:** [docs.appliedaisociety.org/llms-full.txt](https://docs.appliedaisociety.org/llms-full.txt) is the complete text of every page concatenated into one file
 
 You can download `llms-full.txt` and drop it into your workspace as a reference file. It is a single text file containing every doc. Your agent can search it for any concept.
 
