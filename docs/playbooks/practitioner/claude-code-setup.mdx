@@ -237,14 +237,13 @@ The core loop is simple: talk to your Jarvis. Some examples of what to say:
 
 ---
 
-## Useful Aliases
+## Useful Alias
 
-Two aliases make launching Claude Code a lot faster once you are using it daily:
+One alias makes launching Claude Code a lot faster once you are using it daily:
 
 - `clauded` — launches Claude Code with `--dangerously-skip-permissions` so you are not prompted to approve every file operation
-- `jarvis` — cd into your Jarvis workspace and launch Claude Code in one command, from anywhere
 
-**The cleanest way to set these up is to let Claude Code do it for you.**
+**The cleanest way to set this up is to let Claude Code do it for you.**
 
 Open a Claude Code session in any directory (it does not matter which, since you are editing shell config, not workspace files):
 
@@ -254,19 +253,17 @@ claude
 
 Then paste this prompt:
 
-> Please add two shell aliases to my shell config file (detect my shell and use `~/.zshrc`, `~/.bashrc`, or my PowerShell profile as appropriate). Preserve everything already in the file. The aliases:
+> Please add a shell alias to my shell config file (detect my shell and use `~/.zshrc`, `~/.bashrc`, or my PowerShell profile as appropriate). Preserve everything already in the file. The alias:
 >
-> 1. `clauded` should run `claude --dangerously-skip-permissions`
-> 2. `jarvis` should `cd` into `~/my-jarvis` and then launch `claude`
+> `clauded` should run `claude --dangerously-skip-permissions`
 >
-> After you add them, tell me what file you edited and remind me to open a new terminal window for the aliases to take effect.
+> After you add it, tell me what file you edited and remind me to open a new terminal window for the alias to take effect.
 
-Claude Code will detect your shell, find or create the right config file, and append the aliases without touching your existing setup. Open a new terminal window afterward and the aliases are live.
+Claude Code will detect your shell, find or create the right config file, and append the alias without touching your existing setup. Open a new terminal window afterward and the alias is live.
 
 **When to use which:**
 - `clauded` for trusted operations (brain dumps, file updates, content work)
 - `claude` (no flag) when working with credentials or production systems
-- `jarvis` anytime you want to jump straight into your Jarvis from a fresh terminal
 
 ---
 
