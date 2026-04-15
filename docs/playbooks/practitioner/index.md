@@ -38,6 +38,7 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [Export Your AI History](/docs/playbooks/practitioner/export-your-ai-history) | Vendor-confirmed export steps (ChatGPT, Claude, Gemini) + filtered synthesis prompt to bootstrap your `user/USER.md` from years of old conversations |
 | [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop) | Instructor guide for running Personal Agentic OS workshops |
 | [Using the Docs with Your Jarvis](/docs/playbooks/practitioner/using-the-docs-with-your-jarvis) | How to give your Personal Agentic OS access to the full AAS knowledge base |
+| [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki) | Build a personal or organizational wiki: platform choice, the capture loop, cross-linking, and graduating ideas from personal to organizational truth |
 
 ## Coming Soon
 
