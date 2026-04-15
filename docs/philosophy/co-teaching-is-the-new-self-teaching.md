@@ -78,3 +78,9 @@ But you can succeed with the right people around you.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The trap of building without market grounding
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): Where you sit in the AI economy
 - [Starting a Chapter](/docs/playbooks/chapter-leader/starting-a-chapter): How to build a local co-teaching community
+
+---
+
+## See Also
+
+- [Build Your Jarvis In Community](/docs/philosophy/build-your-jarvis-in-community): The practical companion to this doc. Why community is specifically how you cross the daily-commitment curve when building your Personal Agentic OS.

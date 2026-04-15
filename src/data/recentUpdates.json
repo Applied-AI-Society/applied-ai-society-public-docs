@@ -1,5 +1,13 @@
 [
   {
+    "title": "Learn the Harness, Not the Wrapper",
+    "link": "/docs/concepts/learn-the-harness-not-the-wrapper",
+    "date": "2026-04-14",
+    "summary": "Agentic harnesses (Claude Code, Hermes, Codex) are primitives. Vendor wrappers over them (Claude Cowork, opinionated ...",
+    "tag": "New"
+  }
+,
+  {
     "title": "Chat History Is Disposable",
     "link": "/docs/concepts/the-chat-is-not-the-product",
     "date": "2026-04-14",
@@ -45,13 +53,5 @@
     "date": "2026-04-14",
     "summary": "When your agentic OS drifts out of sync with your operational reality. Like technical debt, but for your Jarvis.",
     "tag": "New"
-  }
-,
-  {
-    "title": "Context Lake",
-    "link": "/docs/concepts/context-lake",
-    "date": "2026-04-14",
-    "summary": "The collection of everything your AI knows about you, your operation, and your world.",
-    "tag": "Updated"
   }
 ]

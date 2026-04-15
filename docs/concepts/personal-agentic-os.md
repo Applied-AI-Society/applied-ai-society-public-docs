@@ -94,3 +94,4 @@ The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the prog
 - [Agentic Strategy](/docs/concepts/agentic-strategy): What this system makes possible once it has enough context
 - [Operational Reality](/docs/concepts/operational-reality): The substrate your Personal Agentic OS is meant to hold
 - [Agentic OS Debt](/docs/concepts/agentic-os-debt): The debt that accumulates when your OS drifts from reality
+- [Build Your Jarvis In Community](/docs/philosophy/build-your-jarvis-in-community): Why community is how you actually sustain the daily practice of building one of these
