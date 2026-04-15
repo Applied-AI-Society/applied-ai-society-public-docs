@@ -5,7 +5,7 @@ title: The Applied AI Canon
 
 # The Applied AI Canon
 
-*AI will reshape every profession, every organization, and every community. These ten tenets define the principles we believe should guide that transformation.*
+*AI will reshape every profession, every organization, and every community. These eleven tenets define the principles we believe should guide that transformation.*
 
 ---
 
@@ -58,6 +58,11 @@ The end state is humans doing the work only humans can do.
 AI amplifies intent. In wise hands it multiplies good. In careless hands it multiplies harm.
 
 The systems you adopt also carry the intent of whoever built them. Frontier AI platforms are trained on datasets and value judgments shaped by other people, whose worldviews are now embedded in the default answers those systems give. Vet the training as seriously as you vet the output. Before you trust an AI system as an authority in your life or business, ask: who trained this, under what worldview, with what objective? A tool you cannot steward back to a wielder you trust is a tool you do not actually own.
+
+---
+
+**XI. Do not advance AI at the planet's expense.**
+AI advancement must not come at the cost of the planet's wellbeing. The energy, land, water, and materials powering the AI economy are shared resources, and its physical footprint (data centers, compute, supply chains) is a real cost, not a hidden externality. Hold AI infrastructure to the same standard of accountability as any other infrastructure a society depends on. What we build must be sustainable in the world that actually hosts it.
 
 ---
 
