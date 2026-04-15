@@ -19,6 +19,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Harness Engineering](/docs/concepts/harness-engineering): The code wrapped around an AI model matters as much as the model itself. Choose harnesses that maximize utility, cost, and sovereignty.
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): Lessons from Claude Code's source code, and what they teach practitioners about building their own systems
 - [Instruction Files](/docs/concepts/instruction-files): The persistent directives that configure how your AI agent operates. CLAUDE.md, AGENTS.md, skill files, memory files.
+- [Interview Prompts](/docs/concepts/interview-prompts): A prompt-design pattern where the prompt itself instructs the agent to interview the user for any missing variables, instead of asking the user to Mad Lib placeholders.
 - [Compounding Docs](/docs/concepts/compounding-docs): Documentation as a compounding asset. Every file you add makes every other file more useful.
 - [Context Overflow](/docs/concepts/context-overflow): The most dangerous form of overwhelm is the kind that feels like momentum
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The bottleneck is you, not the tools. Get what is inside your head into plain text so AI can read it and act on it.
