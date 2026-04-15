@@ -1,65 +1,57 @@
 [
   {
-    "title": "The Applied AI Canon",
-    "link": "/docs/philosophy/canon",
+    "title": "Chat History Is Disposable",
+    "link": "/docs/concepts/the-chat-is-not-the-product",
     "date": "2026-04-14",
-    "summary": "AI will reshape every profession, every organization, and every community. These ten tenets define the principles we ...",
+    "summary": "The chat window is an interface, not a destination. The artifacts you create through it are the product. If the chat ...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "AI Enablement Architect",
-    "link": "/docs/roles/ai-enablement-architect",
+    "title": "The Lock-In Is Coming",
+    "link": "/docs/concepts/the-lock-in-is-coming",
     "date": "2026-04-14",
-    "summary": "The person who deploys company-wide AI upskilling infrastructure. They build the platform, connect the tools, design ...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Hyperagency",
-    "link": "/docs/concepts/hyperagency",
-    "date": "2026-04-13",
-    "summary": "There are going to be two types of people in this world. Hyperagents, and people who live in the world that hyperagen...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "The Self-Improving Human",
-    "link": "/docs/concepts/the-self-improving-human",
-    "date": "2026-04-13",
-    "summary": "You have been a cyborg since the day you bought your first smartphone. The only question is whether you are upgrading...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Creative Congestion",
-    "link": "/docs/concepts/creative-congestion",
-    "date": "2026-04-13",
-    "summary": "The state of having more ideas, relationships, and open loops in your head than any human brain can track. You feel s...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Externalize Your Brain",
-    "link": "/docs/concepts/externalize-your-brain",
-    "date": "2026-04-13",
-    "summary": "The bottleneck is you, not the tools. AI is so abundant and powerful that the human is now the constraint. The fix is...",
+    "summary": "Every VC-backed hyperscaler with proprietary models will eventually move to lock you in. This is not a prediction. It...",
     "tag": "Updated"
   }
 ,
   {
     "title": "Setting Up Claude Code",
     "link": "/docs/playbooks/practitioner/claude-code-setup",
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "summary": "import Tabs from '@theme/Tabs';",
     "tag": "Updated"
   }
 ,
   {
-    "title": "The Supersuit Up Workshop",
-    "link": "/docs/workshops/supersuit-up",
-    "date": "2026-04-13",
-    "summary": "Build your Personal Agentic OS. Some people call this \"Jarvising Yourself\" (a nod to Tony Stark's AI). Whatever you c...",
+    "title": "Agentic Strategy",
+    "link": "/docs/concepts/agentic-strategy",
+    "date": "2026-04-14",
+    "summary": "The practice of using a highly-contextualized AI as your co-strategist to make better decisions, more often, under mo...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Gary Sheng: Running My Entire Life With a Personal Jarvis",
+    "link": "/docs/case-studies/gary-sheng-running-life-with-jarvis",
+    "date": "2026-04-14",
+    "summary": "How I use my Personal Agentic OS to run seven life pillars, compound strategy, and reclaim the one resource that actu...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Agentic OS Debt",
+    "link": "/docs/concepts/agentic-os-debt",
+    "date": "2026-04-14",
+    "summary": "When your agentic OS drifts out of sync with your operational reality. Like technical debt, but for your Jarvis.",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Context Lake",
+    "link": "/docs/concepts/context-lake",
+    "date": "2026-04-14",
+    "summary": "The collection of everything your AI knows about you, your operation, and your world.",
     "tag": "Updated"
   }
 ]
