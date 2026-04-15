@@ -147,6 +147,15 @@ WinGet installations do not auto-update. Run `winget upgrade Anthropic.ClaudeCod
 claude --version
 ```
 
+**If you get `command not found: claude`:** Claude Code is installed but its binary is not on your shell's PATH. On Mac and Linux, add it to your shell config and reload:
+
+```bash
+echo 'export PATH="$HOME/.claude/local:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+```
+
+Use `~/.bashrc` instead of `~/.zshrc` if you are on bash. Open a new terminal window and run `claude --version` again. On Windows, WinGet and the official installer handle PATH automatically; if the command still fails, restart PowerShell.
+
 On first launch, Claude Code walks you through authenticating with your Anthropic account. You need a Pro, Max, Team, or Enterprise plan (the free Claude.ai plan does not include Claude Code).
 
 ---
