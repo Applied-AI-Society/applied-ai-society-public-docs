@@ -1,8 +1,8 @@
 ---
-title: "Pirates, Architects, and Others"
+title: "Pirates, Architects, and Archetypes of the Future"
 ---
 
-# Pirates, Architects, and Others
+# Pirates, Architects, and Archetypes of the Future
 
 *Everyone should understand their neurotype to master their destiny. The AI era makes that easier, because it makes more kinds of minds legible as real roles.*
 
@@ -63,37 +63,13 @@ An architect with AI is also a different creature. AI handles the rote parts of 
 
 ## Other Archetypes Of The New Economy
 
-Dan named two because software engineering runs on two. The new economy needs more. Below are five more archetypes we see over and over in the AAS community. None of these is a diagnosis or a box. They are starting points for finding your fit.
+Dan named two because software engineering runs on two. The full landscape of cognitive fits is larger, and we do not claim to have mapped it.
 
-### The Translator
+What is honest to say: there are more shapes than two, most people are blends, and the old economy punished almost every shape that was not architect-adjacent. Anyone confidently selling you a five-type or nine-type taxonomy is probably doing horoscopes with better branding.
 
-Lives between worlds. Hears an architect and can re-say it for a business owner. Hears a client's vague ask and can turn it into a spec a pirate can act on. Often quieter than either of those two, and often underpaid in the old economy because the work was invisible.
+What AAS is building toward instead is a living map, grown from patterns that actually show up in the community. If you recognize a shape in yourself or someone you work with that the pirate-and-architect frame does not capture, tell us. That is how this page will grow.
 
-In the AI era, the translator's instincts become infrastructure. Their skill at turning fuzzy intent into precise instructions is literally what good [spec writing](/docs/concepts/spec-writing) and [instruction files](/docs/concepts/instruction-files) require. They become the human API between domains. Their work scales through the files they write.
-
-### The Connector
-
-Minds moves through people, not problems. Remembers everyone. Sees edges in the social graph that no one else can see. Knows who needs to meet whom three months before anyone else does. Most connectors carry this as a hobby because business has not figured out how to pay for it.
-
-In the AI era, a connector with a real [context lake](/docs/concepts/context-lake) becomes a force. AI-augmented relationship memory turns their instinct into a compounding asset. The [sorting hat](/docs/concepts/the-sorting-hat) pattern is basically a connector's brain, externalized.
-
-### The Storyteller
-
-Feels resonance before most people feel anything. Cares deeply about how a thing lands. Can find the truth of something and say it in one line that makes it click for thousands of people. Often told they are too sensitive, too intense, or too precious about craft.
-
-In the AI era, storytellers stop drowning in production drudgery. The tedious part of their work (cutting clips, reformatting, resizing, publishing, distributing) gets delegated. What is left is the part only they can do: finding what is real and saying it well. Their signal-to-noise ratio goes up by an order of magnitude.
-
-### The Operator
-
-The finisher. Linear, relentless, obsessed with whether the thing actually happened on the date it was supposed to happen. Bad at ambiguity, great at execution. Operators hold the whole machine together while everyone else is inspired.
-
-In the AI era, operators become conductors of agents. They run the orchestration layer: the checklists, the cron jobs, the follow-up loops, the accountability systems. Where a pirate ships a prototype and an architect makes it clean, an operator makes it run every day without melting. Their neurotype does not go away. It gets amplified.
-
-### The Systems Thinker
-
-Zooms way out by default. Sees incentives, feedback loops, and second-order effects before they happen. Often bored by details and slow to act, because acting without seeing the whole feels irresponsible to them.
-
-In the AI era, systems thinkers design the games. [Game design](/docs/concepts/game-design) is literally their native medium. They carry the principles that govern how everyone else's work composes. Their judgment on what should compound and what should not is load-bearing.
+In the meantime, the [AAS roles](/docs/roles) page names some of the economic shapes different minds can grow into: Applied AI Consultant, AI Enablement Architect, Agentic OS Trainer, Community Leader, Chief AI Officer. Those are job shapes, not neurotype shapes. But they are landing spots for different kinds of minds.
 
 ---
 
