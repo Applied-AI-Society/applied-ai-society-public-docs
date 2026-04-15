@@ -1,0 +1,149 @@
+---
+title: "Export Your AI History (and Bootstrap Your Jarvis From It)"
+---
+
+# Export Your AI History (and Bootstrap Your Jarvis From It)
+
+*Years of conversations with ChatGPT, Claude, or Gemini already contain a detailed picture of who you are. Export that history, filter it, and let your new Jarvis read it to bootstrap your `user/USER.md` in minutes instead of an hour-long interview.*
+
+---
+
+This is the canonical reference for exporting your chat history from major LLM vendors and turning it into context your Jarvis can use. It is referenced from the [Supersuit Up Workshop](/docs/workshops/supersuit-up) and from the workspace [onboard flow](/docs/playbooks/practitioner/workspace-setup).
+
+## Why Export?
+
+Your conversation history with ChatGPT, Claude, or Gemini is a rich record of how you think, what you are building, what you care about, and what you are stuck on. Before answering a single profile question from scratch, consider: your old AI tools already know a lot of this. Export what they have, feed it to your new Jarvis, let it synthesize, review, and save. Fifteen minutes instead of an hour, and the result is usually deeper.
+
+## Before You Start: Filter Sensitive Information
+
+:::caution[This is not optional]
+Your chat history probably contains things you would never share with a coworker: health questions, relationship processing, financial details, therapy-style reflections, private venting. Your Jarvis workspace lives on your machine, but you will likely push it to GitHub, share your screen, or collaborate with others at some point.
+
+**Never drop raw exports into your workspace.** Always synthesize with a filtering prompt, review the output, and delete the raw export when you are done.
+:::
+
+## Approach A (Recommended): Full Export + Filtered Synthesis
+
+Export your archive, drop it in a temporary location (Desktop, Downloads, NOT in your Jarvis workspace), and tell your Jarvis to synthesize a filtered profile from it.
+
+### ChatGPT Export (OpenAI)
+
+1. Sign in to [chatgpt.com](https://chatgpt.com)
+2. Click your profile icon (bottom left)
+3. **Settings → Data Controls → Export data → Confirm export**
+4. Wait 20-30 minutes for an email with your download link
+5. Download the ZIP (link expires in 24 hours). It contains `conversations.json` (full history + metadata) and `chat.html` (browser-viewable)
+
+**Not available on ChatGPT Business or Enterprise plans.** On those plans, conversations cannot be bulk-exported; you have to document the useful ones manually.
+
+### Claude Export (Anthropic)
+
+1. Go to [claude.ai](https://claude.ai) on desktop (this flow is not available on iOS or Android)
+2. Click your initials (lower left) → **Settings → Privacy → Export data**
+3. Wait for an email with your download link (link expires in 24 hours)
+4. Download the ZIP containing your conversation history as JSON. As of early 2026, this includes conversations inside Claude Projects
+
+**Claude Memory is not included** in the standard export because memory is tied to your account and is not currently exportable as a standalone file. Don't worry: the conversations themselves contain most of what matters.
+
+### Gemini Export (Google)
+
+Gemini history is exported via [Google Takeout](https://takeout.google.com), not from Gemini's settings directly:
+
+1. Go to [takeout.google.com](https://takeout.google.com)
+2. Deselect all, then scroll to find and select **"My Activity"**
+3. Click **"All activity data included"** → deselect all → re-select only **"Gemini Apps"** (or **"Gemini Apps Activity"**)
+4. Choose JSON format
+5. Create the export. Google emails you a download link when it is ready
+
+Alternative: for a single conversation, use Gemini's built-in **"Share & export"** icon below any response to export to a Google Doc.
+
+### Other Sources (No Export Needed)
+
+LinkedIn profile, personal website, published blog posts, strategic docs, bio blurbs you wrote for a conference, Notion pages about yourself. These are already curated for professional consumption, so they are safe to drop directly into your workspace at `user/` without filtering. The filtering caution applies specifically to raw AI conversation exports.
+
+### The Synthesis Prompt
+
+Once your export is unzipped and sitting somewhere on your machine (Desktop is fine), launch your harness inside your workspace and say something like:
+
+> "I have my ChatGPT (or Claude, or Gemini) export at `/path/to/export`. Read through it and synthesize a `user/USER.md` file about me. Focus on extracting:
+>
+> - My professional skills, expertise, and domain knowledge
+> - Projects I have worked on or am working on
+> - Goals, ambitions, and what I am trying to build
+> - How I make decisions and what I value professionally
+> - Industries, tools, and technologies I am familiar with
+> - My communication style and how I think through problems
+>
+> Do **NOT** include or reference:
+>
+> - Personal health, medical, or mental-health conversations
+> - Relationship, dating, or sexual-orientation details
+> - Financial details (account numbers, salaries, debts)
+> - Private venting, gossip, or complaints about specific people
+> - Anything that would be embarrassing or inappropriate in a professional context
+>
+> If something is borderline, leave it out. I would rather add context later than have sensitive info in my workspace. After synthesizing, show me the full output so I can review before you save it."
+
+Your Jarvis will read the export, apply the filter, and produce a draft `USER.md`. Review it carefully (read every line), remove anything you would not want a collaborator to see, then save it to `user/USER.md`.
+
+**Then delete the raw export from your machine.** You do not need it anymore, and keeping it around is a privacy liability.
+
+---
+
+## Approach B (Quick Alternative): Ask Your Old AI About You
+
+Skip the export entirely. Open ChatGPT (or whichever LLM you have used the longest) in a browser and paste this prompt:
+
+> "Based on everything you know about me from our conversations, write a detailed professional profile. Cover my skills, expertise, projects, goals, decision-making style, interests, and what I am currently working on. Skip anything personal or sensitive."
+
+Copy the output. Paste it into your Jarvis session inside your workspace and tell it:
+
+> "Save this as `user/USER.md`."
+
+This is faster than the full export and avoids touching any raw files. The trade-off: the AI only surfaces what it actively remembers in its current context, not patterns buried across months of conversation. The result will be thinner than Approach A but is still a good starting point. You can deepen it later.
+
+## Approach C (From Scratch): Live Interview
+
+If you have no history to export (or prefer to start clean), the MVJ template ships with a `create-user-profile` skill that interviews you one question at a time. Tell your Jarvis:
+
+> "Read the skill file at `skills/create-user-profile/SKILL.md` and run it."
+
+Use voice-to-text to speak your answers naturally. Do not overthink. If you get stuck, just ask: *"Based on what you already know about me, what do you think?"* The AI will offer its best guess and you confirm or correct. That alone often surfaces things you would not have articulated on your own.
+
+---
+
+## What Good Looks Like
+
+Your resulting `user/USER.md` should feel like the briefing document you would hand to a new chief of staff on their first day. It should cover:
+
+- Who you are (role, background, what you are building)
+- What you value and how you make decisions
+- What you are working on right now across your life's pillars
+- Your style (communication, work rhythm, strong opinions)
+- Your 90-day vision
+
+It should **not** contain:
+
+- Private health, mental-health, or relationship details
+- Financial credentials or sensitive numbers
+- Anything you would be uncomfortable with a future collaborator reading
+
+## After This Step
+
+You have a `USER.md`. Your Jarvis now knows the shape of you. Every future conversation it has with you is informed by this file. From here, the onboard skill (or you, manually) will continue building context: relationship files in `people/`, strategy docs in `artifacts/`, processed transcripts in `meeting-transcripts/`. All compound.
+
+---
+
+## Further Reading
+
+- [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup): The one-prompt flow for creating your private Jarvis workspace
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where this export step fits in the full workshop
+- [Operational Reality](/docs/concepts/operational-reality): Why the file-level truth you give your Jarvis matters so much
+- [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your AI knows
+- [Externalize Your Brain](/docs/concepts/externalize-your-brain): The broader principle behind this move
+
+## Source Links (Vendor-Confirmed)
+
+- [ChatGPT export: OpenAI Help Center](https://help.openai.com/en/articles/7260999-how-do-i-export-my-chatgpt-history-and-data)
+- [Claude export: Anthropic Privacy Center](https://privacy.claude.com/en/articles/9450526-how-can-i-export-my-claude-data)
+- [Gemini export: Google Takeout](https://takeout.google.com)
