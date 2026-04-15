@@ -200,43 +200,6 @@ code my-jarvis
 
 ---
 
-## Useful Aliases
-
-<Tabs>
-<TabItem value="mac-linux" label="Mac / Linux">
-
-Add these to your `~/.zshrc` or `~/.bashrc`:
-
-```bash
-# Launch Claude Code in dangerous mode (no approval prompts)
-alias clauded="claude --dangerously-skip-permissions"
-
-# Launch Claude Code in your Jarvis workspace from anywhere
-alias jarvis="cd ~/my-jarvis && claude"
-```
-
-</TabItem>
-<TabItem value="windows" label="Windows (PowerShell)">
-
-Add these to your PowerShell profile (`notepad $PROFILE`):
-
-```powershell
-# Launch Claude Code in dangerous mode (no approval prompts)
-function clauded { claude --dangerously-skip-permissions @args }
-
-# Launch Claude Code in your Jarvis workspace from anywhere
-function jarvis { Set-Location "$HOME\my-jarvis"; claude }
-```
-
-If the profile file does not exist yet, create it: `New-Item -Path $PROFILE -ItemType File -Force`
-
-</TabItem>
-</Tabs>
-
-Use `clauded` when you trust the operations (brain dumps, file updates). Use `claude` when working with credentials or production systems.
-
----
-
 ## First Session
 
 Open the terminal in VS Code (`` Ctrl+` `` or `` Cmd+` `` on Mac) and launch Claude Code:
@@ -267,38 +230,34 @@ The core loop is simple: talk to your Jarvis. Some examples of what to say:
 
 ## Useful Aliases
 
-<Tabs>
-<TabItem value="mac-linux" label="Mac / Linux">
+Two aliases make launching Claude Code a lot faster once you are using it daily:
 
-Add these to your `~/.zshrc` or `~/.bashrc`:
+- `clauded` — launches Claude Code with `--dangerously-skip-permissions` so you are not prompted to approve every file operation
+- `jarvis` — cd into your Jarvis workspace and launch Claude Code in one command, from anywhere
+
+**The cleanest way to set these up is to let Claude Code do it for you.**
+
+Open a Claude Code session in any directory (it does not matter which, since you are editing shell config, not workspace files):
 
 ```bash
-# Launch Claude Code in dangerous mode (no approval prompts)
-alias clauded="claude --dangerously-skip-permissions"
-
-# Launch Claude Code in your Jarvis workspace from anywhere
-alias jarvis="cd ~/my-jarvis && claude"
+claude
 ```
 
-</TabItem>
-<TabItem value="windows" label="Windows (PowerShell)">
+Then paste this prompt:
 
-Add these to your PowerShell profile (`notepad $PROFILE`):
+> Please add two shell aliases to my shell config file (detect my shell and use `~/.zshrc`, `~/.bashrc`, or my PowerShell profile as appropriate). Preserve everything already in the file. The aliases:
+>
+> 1. `clauded` should run `claude --dangerously-skip-permissions`
+> 2. `jarvis` should `cd` into `~/my-jarvis` and then launch `claude`
+>
+> After you add them, tell me what file you edited and remind me to open a new terminal window for the aliases to take effect.
 
-```powershell
-# Launch Claude Code in dangerous mode (no approval prompts)
-function clauded { claude --dangerously-skip-permissions @args }
+Claude Code will detect your shell, find or create the right config file, and append the aliases without touching your existing setup. Open a new terminal window afterward and the aliases are live.
 
-# Launch Claude Code in your Jarvis workspace from anywhere
-function jarvis { Set-Location "$HOME\my-jarvis"; claude }
-```
-
-If the profile file does not exist yet, create it: `New-Item -Path $PROFILE -ItemType File -Force`
-
-</TabItem>
-</Tabs>
-
-Use `clauded` when you trust the operations (brain dumps, file updates). Use `claude` when working with credentials or production systems.
+**When to use which:**
+- `clauded` for trusted operations (brain dumps, file updates, content work)
+- `claude` (no flag) when working with credentials or production systems
+- `jarvis` anytime you want to jump straight into your Jarvis from a fresh terminal
 
 ---
 
