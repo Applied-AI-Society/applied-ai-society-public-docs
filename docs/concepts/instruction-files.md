@@ -124,7 +124,7 @@ This connects directly to [The Spec Is the Product](/docs/concepts/spec-writing)
 
 A vague CLAUDE.md produces vague behavior. A precise CLAUDE.md produces precise behavior. Same model. Same harness. The only variable is the quality of the instructions you wrote.
 
-This is why instruction file writing is emerging as a core practitioner skill. It is not programming in the traditional sense, but it is the act of telling an intelligent system how to operate. The people who do this well get dramatically better results than the people who do not. And unlike traditional programming, the barrier to entry is literacy, not computer science.
+This is why instruction file writing is emerging as a core practitioner skill. It is the act of telling an intelligent system how to operate: programming-adjacent, but not programming in the traditional sense. The people who do this well get dramatically better results than the people who do not. And unlike traditional programming, the barrier to entry is literacy, not computer science.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 100
 title: "Intent Engineering"
 ---
 
@@ -17,7 +17,7 @@ To understand intent engineering, you have to see where it sits in a progression
 
 **[Context engineering](./context-engineering)** is the discipline the industry is currently grappling with. Anthropic described it in late 2025 as the shift from crafting isolated instructions to crafting the entire information state that an AI system operates within. Building RAG pipelines, wiring up MCP servers, structuring organizational knowledge so agents can access it. Context engineering tells agents what to know.
 
-**Intent engineering** is the third discipline, and it's the one that's mostly unbuilt. If context engineering tells agents what to know, intent engineering tells agents what to want. It is the practice of encoding organizational purpose into infrastructure: not as prose in a system prompt, but as structured, actionable parameters that shape how agents make decisions autonomously.
+**Intent engineering** is the third discipline, and it's the one that's mostly unbuilt. If context engineering tells agents what to know, intent engineering tells agents what to want. It is the practice of encoding organizational purpose into infrastructure as structured, actionable parameters that shape how agents make decisions autonomously, rather than as prose buried in a system prompt.
 
 ---
 

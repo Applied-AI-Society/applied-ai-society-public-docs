@@ -1,65 +1,65 @@
 [
   {
-    "title": "Zero-Question Assessments",
-    "link": "/docs/concepts/zero-question-assessments",
+    "title": "Inclusive Technological Advancement",
+    "link": "/docs/concepts/inclusive-technological-advancement",
     "date": "2026-04-15",
-    "summary": "Your context lake already has the answers. Stop asking questions your files can answer for you.",
+    "summary": "The principle that AI and related technologies must be designed, governed, and deployed so that benefits are shared b...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Raise the Floor",
+    "link": "/docs/concepts/raise-the-floor",
+    "date": "2026-04-15",
+    "summary": "One person's breakthrough should become everyone's baseline. The organizations that figure this out will compound fas...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Setting Up OpenAI Codex",
-    "link": "/docs/playbooks/practitioner/codex-setup",
+    "title": "The Applied AI Canon",
+    "link": "/docs/philosophy/canon",
     "date": "2026-04-15",
-    "summary": "Codex is OpenAI's open source terminal agent. It reads your files, runs commands, and operates inside your workspace....",
+    "summary": "AI will reshape every profession, every organization, and every community. These twelve tenets define the principles ...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "The Supersuit Up Workshop",
-    "link": "/docs/workshops/supersuit-up",
+    "title": "Compound Drift",
+    "link": "/docs/concepts/compound-drift",
     "date": "2026-04-15",
-    "summary": "Build your Personal Agentic OS. Some people call this \"Jarvising Yourself\" (a nod to Tony Stark's AI). Whatever you c...",
+    "summary": "Every stage in an AI chain that is less than provably good compounds with the next. Mediocrity does not average out. ...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Lossy AI Telephone",
+    "link": "/docs/concepts/lossy-ai-telephone",
+    "date": "2026-04-15",
+    "summary": "You are already playing this game. You just haven't named it yet.",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Setting Up Claude Code",
-    "link": "/docs/playbooks/practitioner/claude-code-setup",
+    "title": "Slop Factory",
+    "link": "/docs/concepts/slop-factory",
     "date": "2026-04-15",
-    "summary": "import Tabs from '@theme/Tabs';",
+    "summary": "A business structure optimized for autonomous throughput where the throughput is slop. The trap the \"self-running bus...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "The Slopacalypse",
+    "link": "/docs/concepts/slopacalypse",
+    "date": "2026-04-15",
+    "summary": "When anyone can build anything, only the things built with genuine purpose will survive.",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Export Your AI History (and Bootstrap Your Jarvis From It)",
-    "link": "/docs/playbooks/practitioner/export-your-ai-history",
+    "title": "Don't Scale Slop",
+    "link": "/docs/playbooks/business-owner/dont-scale-slop",
     "date": "2026-04-15",
-    "summary": "Years of conversations with ChatGPT, Claude, or Gemini already contain a detailed picture of who you are. Export that...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Setting Up Hermes Agent",
-    "link": "/docs/playbooks/practitioner/hermes-setup",
-    "date": "2026-04-15",
-    "summary": "Hermes Agent is an open source autonomous AI agent by Nous Research, a research company that builds frontier open sou...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Set Up Your Workspace",
-    "link": "/docs/playbooks/practitioner/workspace-setup",
-    "date": "2026-04-15",
-    "summary": "Create your private Jarvis workspace from the Minimum Viable Jarvis template without ever leaving your harness. One p...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "First Git Setup",
-    "link": "/docs/playbooks/practitioner/first-git-setup",
-    "date": "2026-04-14",
-    "summary": "If you have never used Git or GitHub before, this guide will get you set up in about 10 minutes.",
+    "summary": "The most dangerous thing you can do with AI is automate a broken process. You don't get a better process. You get bro...",
     "tag": "Updated"
   }
 ]

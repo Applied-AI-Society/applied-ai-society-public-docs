@@ -33,7 +33,7 @@ For most people, the answer is surprising. A huge percentage of their week is ro
 
 When you automate the robot-mode portions of your work, something remarkable happens. Your creativity expands. Your energy returns. You become more present, more joyful, more yourself. Not less human. More human.
 
-This is the experience people report when they start building with AI the way we recommend: not as a replacement for their thinking, but as a system that handles the mechanical work so they can focus on what only they can do.
+This is the experience people report when they start building with AI the way we recommend: as a system that handles the mechanical work so they can focus on what only they can do, rather than as a replacement for their thinking.
 
 If you are not experiencing AI as something that expands your creativity and gives you more time for soulful work, you are not applying it in the way we are recommending. You are probably still using it as a slightly faster robot (chat-based Q&A, one-off generations). That is [level 1](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses). Get through level 1 as fast as you can so you can automate your existing workflows and reclaim the time.
 

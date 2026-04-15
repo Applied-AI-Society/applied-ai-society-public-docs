@@ -86,7 +86,7 @@ The vision is a gravitational center: the most trusted, most foundational source
 
 ## The Standard
 
-Whoever defines what applied AI literacy means owns the conversation. We intend to define it, not by declaring ourselves the authority, but by building source material so good, so open, and so well-supported by real practitioners that it becomes the standard because it works.
+Whoever defines what applied AI literacy means owns the conversation. We intend to define it by building source material so good, so open, and so well-supported by real practitioners that it becomes the standard because it works. Not by declaring ourselves the authority.
 
 This is a living body of work. It will evolve as the field evolves. It will be built on the real experiences of real practitioners, not on speculation about what people might need to know.
 

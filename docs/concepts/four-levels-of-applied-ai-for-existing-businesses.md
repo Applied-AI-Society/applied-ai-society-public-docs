@@ -1,5 +1,5 @@
 ---
-sidebar_position: 45
+sidebar_position: 108
 title: "The Four Levels of Applied AI for Existing Businesses"
 ---
 
