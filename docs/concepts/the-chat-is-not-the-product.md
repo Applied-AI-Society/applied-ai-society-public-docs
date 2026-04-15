@@ -78,3 +78,4 @@ An interview or brainstorm is different. Conversation for the sake of exploring 
 
 - [Command Centers](/docs/concepts/command-centers): The meta-concept for the persistent systems that replace disposable chats
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your command center in practice
+- [Why VS Code, Not Chat UIs](/docs/concepts/why-vs-code-not-chat-uis): The practical case for the file-native workspace over vendor chat UIs

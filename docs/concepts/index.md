@@ -39,6 +39,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [The Soul Harness](/docs/concepts/the-soul-harness): The systems wrapped around you that either liberate or extract. Predatory harnesses make you dependent. Liberating harnesses make you free.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building AI-powered layers on top of existing systems to free trapped value, rather than replacing what already works
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements to participate in the applied AI economy. They are higher than most people realize.
+- [Why VS Code, Not Chat UIs](/docs/concepts/why-vs-code-not-chat-uis): The friction of VS Code is real. The upside is uncapped. Why we teach the file-native path instead of letting you stay in Claude.ai or ChatGPT.
 
 ### Collaboration
 

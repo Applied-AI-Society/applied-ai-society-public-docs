@@ -134,3 +134,4 @@ That is what the [Applied AI Society](https://appliedaisociety.org) is building 
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the wrapper matters as much as the model
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial that builds sovereignty from day one
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements, including the ability to run tools independently
+- [Why VS Code, Not Chat UIs](/docs/concepts/why-vs-code-not-chat-uis): Choosing a file-native workspace is one of the most concrete ways to stay un-locked-in today
