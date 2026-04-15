@@ -98,6 +98,8 @@ This is the applied AI economy. Not shipping more slop. Shipping super suits.
 
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The trap of building for the sake of building
 - [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop): Why fixing the process matters before you automate
+- [Compound Drift](/docs/concepts/compound-drift): The pipeline-level mechanism that manufactures slop at scale
+- [Slop Factory](/docs/concepts/slop-factory): What a business becomes if it industrializes compound drift
 - [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app): The practical walkthrough for building with purpose
 - [Command Centers](/docs/concepts/command-centers): The meta-concept: why command centers are replacing apps
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The individual command center

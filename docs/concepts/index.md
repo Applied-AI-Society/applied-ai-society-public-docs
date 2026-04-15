@@ -78,6 +78,8 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Capture, Process, Compound](/docs/concepts/capture-process-compound): The lifecycle of turning raw information into compounding knowledge
 - [CLIPs](/docs/concepts/clips): The apps of the agentic era. Every major computing wave creates a platform and an ecosystem on top of it. Agents are next.
 - [The Slopacalypse](/docs/concepts/slopacalypse): When anyone can build anything, only the things built with genuine purpose will survive
+- [Compound Drift](/docs/concepts/compound-drift): Every stage in an AI chain that is less than provably good compounds with the next. Mediocrity does not average out; it multiplies.
+- [Slop Factory](/docs/concepts/slop-factory): The trap the "self-running business" dream leads to when nobody is watching the output. Profitability is the ground truth test.
 
 ### Frameworks
 
