@@ -147,6 +147,30 @@ curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scri
 
 **General diagnostics:** Run `hermes doctor` to see exactly what is missing and how to fix it.
 
+---
+
+## Set Up Your Workspace
+
+Installing Hermes gives you the harness. You still need a workspace to point it at (the folder of markdown files your Jarvis reads and writes). We maintain the Minimum Viable Jarvis starter as a **GitHub template repository**. Create your own private copy rather than cloning ours directly:
+
+1. Visit [github.com/Applied-AI-Society/minimum-viable-jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis)
+2. Click **"Use this template"** → **"Create a new repository"**
+3. Name it (e.g., `my-jarvis`), set visibility to **Private**, click Create
+4. Clone your new private repo and wire a safety-disabled upstream remote for pulling future template updates:
+
+```bash
+cd ~/Documents/github-repos     # or wherever you keep projects
+gh repo clone YOUR-USERNAME/my-jarvis
+cd my-jarvis
+
+git remote add upstream https://github.com/Applied-AI-Society/minimum-viable-jarvis.git
+git remote set-url --push upstream DISABLED
+```
+
+Launch Hermes from inside the workspace: `hermes`. Hermes reads the `AGENTS.md` file (which the template ships with) to understand how to operate as your Jarvis. Future template updates can be pulled anytime via the `sync-with-upstream` skill that ships in the repo.
+
+---
+
 ## Further Reading
 
 - [Hermes Agent Documentation](https://hermes-agent.nousresearch.com)

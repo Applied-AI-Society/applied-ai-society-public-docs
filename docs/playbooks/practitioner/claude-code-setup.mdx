@@ -180,12 +180,24 @@ WSL is also supported (both WSL 1 and WSL 2). If you use WSL, install Claude Cod
 
 ## Set Up Your Workspace
 
-Clone the starter repo:
+We maintain the Minimum Viable Jarvis starter as a **GitHub template repository**, so creating your own private copy is one click. Do not clone our repo directly. Do this instead:
+
+1. Visit [github.com/Applied-AI-Society/minimum-viable-jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis)
+2. Click **"Use this template"** → **"Create a new repository"**
+3. Name it (e.g., `my-jarvis`), set visibility to **Private**, click Create
+4. Clone your new private repo and set up a safety-disabled upstream remote so you can pull template updates later without ever pushing back:
 
 ```bash
-git clone https://github.com/Applied-AI-Society/minimum-viable-jarvis.git my-jarvis
+cd ~/Documents/github-repos     # or wherever you keep projects
+gh repo clone YOUR-USERNAME/my-jarvis
 cd my-jarvis
+
+# Add upstream for pulling future template updates; disable the push URL as a safety net
+git remote add upstream https://github.com/Applied-AI-Society/minimum-viable-jarvis.git
+git remote set-url --push upstream DISABLED
 ```
+
+Future template updates can be pulled anytime by asking your Jarvis to run the `sync-with-upstream` skill that ships in the repo.
 
 This gives you the standard folder structure:
 
@@ -275,15 +287,7 @@ Claude Code will detect your shell, find or create the right config file, and ap
 
 **Your files are sovereign.** Everything is plain markdown on your computer, version-controlled with Git. If Anthropic changes their pricing or a better harness appears, you take your files and walk. No export wizard. No migration headache. The [Personal Agentic OS architecture](/docs/concepts/personal-agentic-os) is designed for this.
 
-**Push to GitHub.** Initialize a private repo and push regularly. This gives you version history, backup, and the ability to access your workspace from multiple machines.
-
-```bash
-cd my-jarvis
-git init
-git add -A
-git commit -m "Initial Jarvis setup"
-gh repo create my-jarvis --private --push
-```
+**Your GitHub repo is already live.** Because you created your workspace from the template (not a manual clone), it is already a private repo on your GitHub account from the first commit. No need to run `git init` or `gh repo create`.
 
 **Turn on hourly auto-sync.** The starter repo ships with `scripts/sync.sh` (commits local changes, pulls, pushes) and `scripts/install-sync-cron.sh` (registers it as an hourly cron). Run the installer once and you never have to think about backup or keeping collaborators in sync again:
 

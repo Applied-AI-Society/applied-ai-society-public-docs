@@ -75,12 +75,24 @@ You will be prompted to sign in with your ChatGPT account or enter an OpenAI API
 
 ## Set Up Your Workspace
 
-Clone the starter repo:
+We maintain the Minimum Viable Jarvis starter as a **GitHub template repository**. Create your own private copy instead of cloning our repo directly:
+
+1. Visit [github.com/Applied-AI-Society/minimum-viable-jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis)
+2. Click **"Use this template"** → **"Create a new repository"**
+3. Name it (e.g., `my-jarvis`), set visibility to **Private**, click Create
+4. Clone your new private repo and wire a safety-disabled upstream remote for pulling template updates later:
 
 ```bash
-git clone https://github.com/Applied-AI-Society/minimum-viable-jarvis.git my-jarvis
+cd ~/Documents/github-repos     # or wherever you keep projects
+gh repo clone YOUR-USERNAME/my-jarvis
 cd my-jarvis
+
+# Add upstream for pulling future template updates; disable the push URL as a safety net
+git remote add upstream https://github.com/Applied-AI-Society/minimum-viable-jarvis.git
+git remote set-url --push upstream DISABLED
 ```
+
+Future template updates can be pulled anytime via the `sync-with-upstream` skill shipped in the repo.
 
 This gives you the standard folder structure:
 
