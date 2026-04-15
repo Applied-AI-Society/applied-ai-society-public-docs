@@ -37,15 +37,17 @@ Launch your harness in **any directory** (it does not matter which, since the fi
 
 Paste this prompt:
 
-> Set up my private Jarvis workspace. Specifically:
->
-> 1. Ask me what I want to name my workspace. Suggest names like `my-jarvis`, `apex-os`, `<my-name>-command-center`. This becomes both the GitHub repo name and the local folder name.
-> 2. Ensure a sensible projects folder exists on my machine. Mac: `~/Documents/github-repos/`. Windows: `C:\Users\<me>\Documents\github-repos\`. Create it if missing.
-> 3. From inside that projects folder, run: `gh repo create <workspace-name> --template Applied-AI-Society/minimum-viable-jarvis --private --clone`. This creates a new private repo on my GitHub account from the template and clones it locally in one command.
-> 4. `cd` into the new cloned folder. Add an upstream remote with a disabled push URL so I can pull future template updates without ever accidentally pushing back:
->    - `git remote add upstream https://github.com/Applied-AI-Society/minimum-viable-jarvis.git`
->    - `git remote set-url --push upstream DISABLED`
-> 5. Report the final folder path to me.
+```text
+Set up my private Jarvis workspace. Specifically:
+
+1. Ask me what I want to name my workspace. Suggest names like my-jarvis, apex-os, <my-name>-command-center. This becomes both the GitHub repo name and the local folder name.
+2. Ensure a sensible projects folder exists on my machine. Mac: ~/Documents/github-repos/. Windows: C:\Users\<me>\Documents\github-repos\. Create it if missing.
+3. From inside that projects folder, run: gh repo create <workspace-name> --template Applied-AI-Society/minimum-viable-jarvis --private --clone. This creates a new private repo on my GitHub account from the template and clones it locally in one command.
+4. cd into the new cloned folder. Add an upstream remote with a disabled push URL so I can pull future template updates without ever accidentally pushing back:
+   - git remote add upstream https://github.com/Applied-AI-Society/minimum-viable-jarvis.git
+   - git remote set-url --push upstream DISABLED
+5. Report the final folder path to me.
+```
 
 Your harness will execute every step via the GitHub CLI and `git`. You stay in the terminal the whole time.
 
@@ -73,7 +75,9 @@ You did not write any of this logic into the tutorial. It lives in the skill, wh
 
 We will keep shipping new skills, improved scripts, and template refinements. To pull them into your workspace at any time, just ask your harness:
 
-> Sync with upstream.
+```text
+Sync with upstream.
+```
 
 The repo ships with a `sync-with-upstream` skill that:
 - Fetches from the upstream template
@@ -89,6 +93,12 @@ You cannot accidentally push to the template. The push URL is `DISABLED` and you
 - **`gh auth login` asks a lot of questions** — choose HTTPS, authenticate via browser, the defaults are fine.
 - **Your harness cannot run `gh`** — make sure your harness was launched in a shell that has `gh` on its PATH. Close and reopen the terminal after installing `gh` so the new PATH is picked up.
 - **`onboard` does not auto-run** — make sure you launched your harness **inside** the workspace folder, not from its parent directory. Harnesses read the nearest `AGENTS.md` / `CLAUDE.md` in the current working directory.
+- **Claude Code does not see slash commands like `/onboard` (Windows only)** — the template ships a `.claude/skills` symlink that points at `.agents/skills/`. On Mac/Linux and on modern Git for Windows (with `core.symlinks=true`) this works out of the box. If your clone shows `.claude/skills` as a one-line text file instead of a working link, run the included fallback script from the workspace root:
+  ```bash
+  powershell -ExecutionPolicy Bypass -File scripts/setup-claude-skills-windows.ps1
+  ```
+  This creates a directory junction from `.claude/skills` to `.agents/skills/` so Claude Code discovers the skills. It does not require admin rights.
+- **Hermes does not auto-register slash commands from your workspace** — that is expected. By default Hermes only auto-registers skills from `~/.hermes/skills/`. See the [Hermes Setup doc](/docs/playbooks/practitioner/hermes-setup) for adding your workspace's `.agents/skills/` to Hermes's `external_dirs` config if you want slash-command discovery. Natural-language triggers (via `AGENTS.md` routing) work regardless.
 
 ## What You Now Have
 
@@ -96,7 +106,7 @@ You cannot accidentally push to the template. The push URL is `DISABLED` and you
 - A local clone in your projects folder
 - An upstream remote wired for pulling future template updates, with the push URL safety-disabled
 - A `user/USER.md` populated by `onboard` on your first session in the workspace
-- The full set of [built-in skills](https://github.com/Applied-AI-Society/minimum-viable-jarvis/tree/main/skills) ready to use: `onboard`, `create-user-profile`, `think-through-it`, `process-braindump`, `prep-for-meeting`, `process-transcript`, `create-skill`, `sync-with-upstream`
+- The full set of [built-in skills](https://github.com/Applied-AI-Society/minimum-viable-jarvis/tree/main/.agents/skills) ready to use: `onboard`, `create-user-profile`, `think-through-it`, `process-braindump`, `prep-for-meeting`, `process-transcript`, `create-skill`, `sync-with-upstream`
 
 You are ready to build.
 

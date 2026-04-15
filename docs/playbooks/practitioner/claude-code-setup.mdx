@@ -238,11 +238,13 @@ claude
 
 Then paste this prompt:
 
-> Please add a shell alias to my shell config file (detect my shell and use `~/.zshrc`, `~/.bashrc`, or my PowerShell profile as appropriate). Preserve everything already in the file. The alias:
->
-> `clauded` should run `claude --dangerously-skip-permissions`
->
-> After you add it, tell me what file you edited and remind me to open a new terminal window for the alias to take effect.
+```text
+Please add a shell alias to my shell config file (detect my shell and use ~/.zshrc, ~/.bashrc, or my PowerShell profile as appropriate). Preserve everything already in the file. The alias:
+
+  clauded should run: claude --dangerously-skip-permissions
+
+After you add it, tell me what file you edited and remind me to open a new terminal window for the alias to take effect.
+```
 
 Claude Code will detect your shell, find or create the right config file, and append the alias without touching your existing setup. Open a new terminal window afterward and the alias is live.
 

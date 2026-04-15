@@ -155,7 +155,17 @@ Installing Hermes gives you the harness. Next, create your private Jarvis worksp
 
 **Go to the canonical [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup) doc.** Follow the single-prompt flow there. Launch `hermes`, paste one prompt, and your harness uses `gh` to create a private repo from the template on your GitHub account, clone it, and wire the upstream remote with a disabled push URL. Then launch Hermes from inside the new workspace and the repo's built-in `onboard` skill handles personalization.
 
-Hermes reads `AGENTS.md`, which the template ships with and configures correctly.
+Hermes reads `AGENTS.md`, which the template ships with and configures correctly. Your workspace will work immediately with natural-language triggers (e.g., *"onboard me"*, *"sync with upstream"*) routed via AGENTS.md.
+
+**To also get slash-command auto-discovery in Hermes** (e.g., `/onboard`, `/sync-with-upstream`), add your workspace's skill directory to Hermes's external_dirs config. Edit `~/.hermes/config.yaml`:
+
+```yaml
+skills:
+  external_dirs:
+    - /absolute/path/to/your/workspace/.agents/skills
+```
+
+Use the absolute path to *your* workspace (where you cloned the MVJ template). Hermes will scan this directory at startup and register every skill as a slash command. Multiple workspaces? Add a line per workspace.
 
 ---
 

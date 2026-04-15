@@ -63,26 +63,30 @@ LinkedIn profile, personal website, published blog posts, strategic docs, bio bl
 
 ### The Synthesis Prompt
 
-Once your export is unzipped and sitting somewhere on your machine (Desktop is fine), launch your harness inside your workspace and say something like:
+Once your export is unzipped and sitting somewhere on your machine (Desktop is fine), launch your harness inside your workspace. Paste this prompt, then **drag the unzipped export folder (or the `conversations.json` / `chat.html` file) from Finder or File Explorer directly into your terminal**. Dragging auto-appends the full path to the end of your prompt, so you never have to type or guess it. Then hit enter.
 
-> "I have my ChatGPT (or Claude, or Gemini) export at `/path/to/export`. Read through it and synthesize a `user/USER.md` file about me. Focus on extracting:
->
-> - My professional skills, expertise, and domain knowledge
-> - Projects I have worked on or am working on
-> - Goals, ambitions, and what I am trying to build
-> - How I make decisions and what I value professionally
-> - Industries, tools, and technologies I am familiar with
-> - My communication style and how I think through problems
->
-> Do **NOT** include or reference:
->
-> - Personal health, medical, or mental-health conversations
-> - Relationship, dating, or sexual-orientation details
-> - Financial details (account numbers, salaries, debts)
-> - Private venting, gossip, or complaints about specific people
-> - Anything that would be embarrassing or inappropriate in a professional context
->
-> If something is borderline, leave it out. I would rather add context later than have sensitive info in my workspace. After synthesizing, show me the full output so I can review before you save it."
+```text
+Read through my AI export (path at the end of this message) and synthesize a user/USER.md file about me. Focus on extracting:
+
+- My professional skills, expertise, and domain knowledge
+- Projects I have worked on or am working on
+- Goals, ambitions, and what I am trying to build
+- How I make decisions and what I value professionally
+- Industries, tools, and technologies I am familiar with
+- My communication style and how I think through problems
+
+Do NOT include or reference:
+
+- Personal health, medical, or mental-health conversations
+- Relationship, dating, or sexual-orientation details
+- Financial details (account numbers, salaries, debts)
+- Private venting, gossip, or complaints about specific people
+- Anything that would be embarrassing or inappropriate in a professional context
+
+If something is borderline, leave it out. I would rather add context later than have sensitive info in my workspace. After synthesizing, show me the full output so I can review before you save it.
+
+Export path:
+```
 
 Your Jarvis will read the export, apply the filter, and produce a draft `USER.md`. Review it carefully (read every line), remove anything you would not want a collaborator to see, then save it to `user/USER.md`.
 
@@ -94,19 +98,35 @@ Your Jarvis will read the export, apply the filter, and produce a draft `USER.md
 
 Skip the export entirely. Open ChatGPT (or whichever LLM you have used the longest) in a browser and paste this prompt:
 
-> "Based on everything you know about me from our conversations, write a detailed professional profile. Cover my skills, expertise, projects, goals, decision-making style, interests, and what I am currently working on. Skip anything personal or sensitive."
+```text
+Based on everything you know about me from our conversations, write a detailed professional profile. Cover my skills, expertise, projects, goals, decision-making style, interests, and what I am currently working on. Skip anything personal or sensitive.
+```
 
 Copy the output. Paste it into your Jarvis session inside your workspace and tell it:
 
-> "Save this as `user/USER.md`."
+```text
+Save this as user/USER.md.
+```
 
 This is faster than the full export and avoids touching any raw files. The trade-off: the AI only surfaces what it actively remembers in its current context, not patterns buried across months of conversation. The result will be thinner than Approach A but is still a good starting point. You can deepen it later.
 
 ## Approach C (From Scratch): Live Interview
 
-If you have no history to export (or prefer to start clean), the MVJ template ships with a `create-user-profile` skill that interviews you one question at a time. Tell your Jarvis:
+If you have no history to export (or prefer to start clean), the MVJ template ships with a `create-user-profile` skill that interviews you one question at a time.
 
-> "Read the skill file at `skills/create-user-profile/SKILL.md` and run it."
+In Claude Code or Codex, invoke it directly as a slash command:
+
+```text
+/create-user-profile
+```
+
+Or just tell your Jarvis in natural language:
+
+```text
+Interview me to create my user profile.
+```
+
+The `AGENTS.md` routing table will find the skill regardless of which phrasing you use.
 
 Use voice-to-text to speak your answers naturally. Do not overthink. If you get stuck, just ask: *"Based on what you already know about me, what do you think?"* The AI will offer its best guess and you confirm or correct. That alone often surfaces things you would not have articulated on your own.
 

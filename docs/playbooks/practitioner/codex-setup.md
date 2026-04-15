@@ -106,7 +106,7 @@ cd my-jarvis
 codex
 ```
 
-Tell Codex about yourself. The starter repo includes a `skills/create-user-profile.md` skill that walks through building your `user/USER.md` profile. You can reference it directly: "Read the create-user-profile skill and interview me."
+Tell Codex about yourself. The starter repo ships a `create-user-profile` skill (auto-discovered by Codex from `.agents/skills/`) that walks through building your `user/USER.md` profile. Invoke it with `/create-user-profile` or just say: "Interview me to create my user profile."
 
 This profile becomes the foundation. Every future session builds on it.
 
