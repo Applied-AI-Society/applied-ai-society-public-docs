@@ -1,9 +1,9 @@
 [
   {
-    "title": "Setting Up Claude Code",
-    "link": "/docs/playbooks/practitioner/claude-code-setup",
+    "title": "Zero-Question Assessments",
+    "link": "/docs/concepts/zero-question-assessments",
     "date": "2026-04-15",
-    "summary": "import Tabs from '@theme/Tabs';",
+    "summary": "Your context lake already has the answers. Stop asking questions your files can answer for you.",
     "tag": "Updated"
   }
 ,
@@ -12,6 +12,22 @@
     "link": "/docs/playbooks/practitioner/codex-setup",
     "date": "2026-04-15",
     "summary": "Codex is OpenAI's open source terminal agent. It reads your files, runs commands, and operates inside your workspace....",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "The Supersuit Up Workshop",
+    "link": "/docs/workshops/supersuit-up",
+    "date": "2026-04-15",
+    "summary": "Build your Personal Agentic OS. Some people call this \"Jarvising Yourself\" (a nod to Tony Stark's AI). Whatever you c...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Setting Up Claude Code",
+    "link": "/docs/playbooks/practitioner/claude-code-setup",
+    "date": "2026-04-15",
+    "summary": "import Tabs from '@theme/Tabs';",
     "tag": "Updated"
   }
 ,
@@ -40,26 +56,10 @@
   }
 ,
   {
-    "title": "The Supersuit Up Workshop",
-    "link": "/docs/workshops/supersuit-up",
-    "date": "2026-04-15",
-    "summary": "Build your Personal Agentic OS. Some people call this \"Jarvising Yourself\" (a nod to Tony Stark's AI). Whatever you c...",
-    "tag": "Updated"
-  }
-,
-  {
     "title": "First Git Setup",
     "link": "/docs/playbooks/practitioner/first-git-setup",
     "date": "2026-04-14",
     "summary": "If you have never used Git or GitHub before, this guide will get you set up in about 10 minutes.",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Hyperagency",
-    "link": "/docs/concepts/hyperagency",
-    "date": "2026-04-14",
-    "summary": "There are going to be two types of people in this world. Hyperagents, and people who live in the world that hyperagen...",
     "tag": "Updated"
   }
 ]

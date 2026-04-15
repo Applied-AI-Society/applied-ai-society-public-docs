@@ -55,12 +55,14 @@ Your harness will execute every step via the GitHub CLI and `git`. You stay in t
 
 **Do not personalize the files yourself.** The template ships with an `onboard` skill that does this for you, and it will evolve over time as we improve the flow.
 
-Exit your current session (`/exit` or Ctrl+D) and launch your harness again **from inside the new workspace folder**:
+Exit your current session (`/exit` or Ctrl+D) and launch your harness again **from inside the new workspace folder** (not its parent). Skill auto-discovery and `AGENTS.md` routing only work when the current working directory is the workspace root.
 
 ```bash
-cd <your-workspace-path>
-claude   # or: hermes, codex
+cd <your-workspace-path>    # e.g., cd ~/Documents/github-repos/my-jarvis
+claude                       # or: hermes, codex
 ```
+
+If you prefer VS Code: use `code <workspace-path>` (pointing at the workspace folder, not its parent), then open the integrated terminal. Verify with `pwd` (Mac/Linux) or `cd` (Windows) before launching the harness. Then type `/` in the harness session — you should see the built-in skills (`/onboard`, `/sync-with-upstream`, etc.). If you don't, you're in the wrong folder.
 
 The repo's `AGENTS.md` sees that `user/USER.md` does not yet exist and auto-runs the `onboard` skill on your first session in that workspace. It will:
 

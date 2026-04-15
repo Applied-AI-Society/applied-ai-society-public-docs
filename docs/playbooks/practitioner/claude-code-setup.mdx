@@ -186,11 +186,14 @@ Installing Claude Code gives you the harness. Next, create your private Jarvis w
 
 The short version: launch `claude`, paste one prompt, and it uses `gh` to create a private repo from the template on your GitHub account, clones it, and wires the upstream remote with a disabled push URL. Then you launch Claude Code from inside the new workspace and the repo's built-in `onboard` skill handles personalization (profile, AI history import, strategic interview).
 
-Once your workspace exists, open it in VS Code:
+Once your workspace exists, open the **workspace folder itself** in VS Code. Do not open its parent (e.g., `~/Documents/github-repos/`). The `.agents/skills/` directory Claude Code auto-discovers is only found when VS Code has the workspace folder as its root.
 
 ```bash
-code my-jarvis   # replace with whatever you named the workspace
+cd ~/Documents/github-repos    # wherever your workspace lives
+code my-jarvis                  # passes the workspace folder directly to VS Code
 ```
+
+**Sanity check.** Once VS Code is open, launch `claude` in the integrated terminal and type `/`. You should see the built-in skills (`/onboard`, `/sync-with-upstream`, etc.) in the slash-command menu. If you only see Claude's bundled commands, you opened the parent folder. Close and re-open with the workspace folder directly.
 
 ---
 
