@@ -74,15 +74,17 @@ Applied AI literacy isn't just for engineers or tech workers. It's for everyone 
 
 ## How Applied AI Society Is Leading This
 
-Applied AI Society isn't waiting for someone else to define what applied AI literacy looks like. We're building it, through two core pillars.
+Applied AI Society isn't waiting for someone else to define what applied AI literacy looks like. We're building it, through three core pillars.
 
 **Pillar 1: Jarvis workshops.** The hands-on path. Our [Supersuit Up workshop](/docs/workshops/supersuit-up) (self-paced online courses coming soon) gets you from zero to a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) in a single session. You do not fully understand applied AI until you live with your own Jarvis. The workshop is where literacy goes from abstract to embodied, in your hands, on your laptop.
 
 **Pillar 2: This documentation site.** The base layer. [docs.appliedaisociety.org](/docs/about) is the public knowledge repo for applied AI literacy: a living [field guide](/docs/philosophy/why-field-notes) written by practitioners, continuously updated, free for anyone to read or adapt. [Roles](/docs/roles), [playbooks](/docs/playbooks), [case studies](/docs/case-studies), and [concepts](/docs/concepts) that evolve as the field evolves. Chapter leaders, universities, and communities around the world derive their own programming from this source material. That is how literacy scales without becoming propaganda.
 
-The two pillars reinforce each other. The docs make the workshops legible and scalable. The workshops make the docs real and grounded.
+**Pillar 3: [Local community chapters](/docs/playbooks/chapter-leader).** AI fluency and mastery are built in community. You can read every doc and watch every tutorial and still not become fluent. Real fluency comes from practicing the work next to other people who are doing it. Chapters are the hyperlocal spaces where that happens: cities and campuses where people learn applied AI together through [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) events, Supersuit Up workshops, [office hours](/docs/playbooks/chapter-leader/event-formats#applied-ai-office-hours), and hackathons.
 
-**Through community.** Our hyperlocal chapters create spaces where people learn applied AI by doing it, not by reading about it. Events like [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) put real practitioners on stage sharing exactly how they apply AI to make a living. The audience doesn't just listen. They leave with something they can try on Monday.
+The three pillars reinforce each other. The docs make the workshops legible and scalable. The workshops make the docs real and grounded. The chapters give both a living home where practice compounds across people and over time.
+
+Beyond the three pillars, we extend reach through partnerships and shared standards:
 
 **Through partnerships.** We're building a coalition with organizations that share this mission. [OpenTeams](https://www.openteams.com/) connects open-source talent with enterprise needs. Universities want programming that keeps pace with the real economy. City governments need workforce development that actually works. International partners are bringing applied AI literacy to communities around the world. Together, we can reach further than any one organization could alone.
 

@@ -7,7 +7,7 @@ title: Philosophy
 
 Why we exist and how we operate.
 
-The work of AAS runs on two pillars: [Jarvis workshops](/docs/workshops/supersuit-up) (the hands-on path that puts applied AI literacy in your hands) and [this documentation site](/docs/about) (the base layer of applied AI literacy for humanity). The philosophy docs below explain the deeper commitments that shape both.
+The work of AAS runs on three pillars: [Jarvis workshops](/docs/workshops/supersuit-up) (the hands-on path that puts applied AI literacy in your hands), [this documentation site](/docs/about) (the base layer of applied AI literacy for humanity), and [local community chapters](/docs/playbooks/chapter-leader) (the hyperlocal spaces where fluency compounds, because AI fluency and mastery are built in community). The philosophy docs below explain the deeper commitments that shape all three.
 
 The [Canon](/docs/philosophy/canon) defines what we believe. The [Principles](/docs/philosophy/principles) translate those beliefs into operational commitments. The [North Star](/docs/philosophy/north-star) defines how we hold ourselves accountable. [Voices from the Applied AI Frontier](/docs/philosophy/voices-from-the-frontier) collects the words of researchers, builders, and leaders who validate these ideas from the front lines.
 
