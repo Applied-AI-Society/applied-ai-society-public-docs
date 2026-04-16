@@ -67,7 +67,7 @@ VS Code is the vehicle. The harness is the engine. Your files are the cargo. The
 
 ---
 
-## "But Cowork (or the Claude Code Desktop App) Is So Much Friendlier"
+## "But &lt;Insert Desktop App Version of Some CLI&gt; Is So Much Friendlier"
 
 Sometimes. Sometimes not.
 
