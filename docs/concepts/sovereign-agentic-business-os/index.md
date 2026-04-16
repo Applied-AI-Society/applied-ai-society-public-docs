@@ -17,7 +17,7 @@ We call this a **Sovereign Agentic Business OS**.
 
 The north star: **increasingly autonomous businesses that respect human attention and energy.** Not automation that creates more work for humans to supervise. Not dashboards that demand more screen time. An operating system that handles the operational weight so that humans can focus on the things only humans can do: building relationships, making judgment calls, creating meaning, and leading with vision.
 
-The goal is a [self-improving organization](/docs/sovereign-agentic-business-os/principles): the founder sets direction, the AI handles operations, and the humans do the work only humans can do. The business compounds its own capabilities over time. And every improvement to the OS means *less* demand on human attention, not more.
+The goal is a [self-improving organization](/docs/concepts/sovereign-agentic-business-os/principles): the founder sets direction, the AI handles operations, and the humans do the work only humans can do. The business compounds its own capabilities over time. And every improvement to the OS means *less* demand on human attention, not more.
 
 ## The Shift: From Scattered Tools to a Business That Runs Itself
 
@@ -101,14 +101,14 @@ The Sovereign Agentic Business OS is not just a technical architecture. It's a s
 
 ## What's Here
 
-- [Principles](/docs/sovereign-agentic-business-os/principles): The foundational ideas behind sovereign agentic business operating systems. What sovereignty means, why it matters, and what to look for when evaluating your own setup.
-- [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): The highest-leverage thing a business OS can do is ask you better questions than you'd ask yourself. A starter set of questions worth programming into yours.
+- [Principles](/docs/concepts/sovereign-agentic-business-os/principles): The foundational ideas behind sovereign agentic business operating systems. What sovereignty means, why it matters, and what to look for when evaluating your own setup.
+- [The Question Bank](/docs/concepts/sovereign-agentic-business-os/question-bank): The highest-leverage thing a business OS can do is ask you better questions than you'd ask yourself. A starter set of questions worth programming into yours.
 
 ## Further Reading
 
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): How to start with a personal AI operating system today
 - [Business OS Administrator](/docs/roles/business-os-administrator): The emerging role responsible for maintaining organizational AI operating systems
-- [Legacy](/docs/legacy): The discipline of documenting the knowledge that powers your business OS
+- [Legacy](/docs/concepts/legacy): The discipline of documenting the knowledge that powers your business OS
 - [Context Engineering](/docs/concepts/context-engineering): The skill of curating the right information for AI systems
 - [Command Centers](/docs/concepts/command-centers): The meta-concept that connects the personal and organizational scales
 - [The Writing on the Wall](https://digitalcommons.humboldt.edu/digitallab/13/): Why the urgency is real and the window is closing

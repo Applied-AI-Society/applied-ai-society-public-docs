@@ -39,7 +39,7 @@ The activation is the beginning. How deep someone goes depends on their needs an
 
 **Level 4: Skill Writer.** The participant starts co-writing skill files with their agent. Repeatable workflows become documented SOPs that the agent can execute. The system starts doing real work, not just storing information.
 
-**Level 5: System Architect.** The participant is designing their business as a system. They are defining objectives, rules, guardrails, and scoring for their agents. They are thinking about access controls, organizational expansion, and the [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) principles. Their Personal Agentic OS is not a tool they use. It is infrastructure they operate.
+**Level 5: System Architect.** The participant is designing their business as a system. They are defining objectives, rules, guardrails, and scoring for their agents. They are thinking about access controls, organizational expansion, and the [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) principles. Their Personal Agentic OS is not a tool they use. It is infrastructure they operate.
 
 The trainer does not need to teach all five levels. Most people will stay at Level 1-2 for months and get enormous value. The levels exist so the trainer can meet each participant where they are and show them what is next.
 
@@ -92,5 +92,5 @@ The key insight is that the activation is a one-time event, but the progression 
 
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial you are teaching
 - [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): Logistics, pacing, and lessons learned
-- [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The full philosophy behind what participants are building toward
-- [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): Questions for deeper user profile interviews and ongoing coaching
+- [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The full philosophy behind what participants are building toward
+- [The Question Bank](/docs/concepts/sovereign-agentic-business-os/question-bank): Questions for deeper user profile interviews and ongoing coaching

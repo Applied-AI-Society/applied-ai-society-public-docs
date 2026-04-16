@@ -109,4 +109,4 @@ That's the bar worth aiming for.
 ## Further Reading
 
 - [ICP Clarity](/docs/playbooks/practitioner/icp-clarity): Get clear on who you're serving before you optimize anything
-- [Legacy](/docs/legacy): The framework for making your AI systems operate from accurate, current organizational data
+- [Legacy](/docs/concepts/legacy): The framework for making your AI systems operate from accurate, current organizational data

@@ -23,7 +23,7 @@ We have written about this concept at two scales. They are the same architecture
 
 **For individuals:** the [Personal Agentic OS](/docs/concepts/personal-agentic-os). A folder on your computer with markdown files about your goals, relationships, projects, principles, and decision history. An AI agent reads all of it and operates from that context. It compounds daily. At 90 days, it knows your operation well enough to draft emails in your voice, prepare meeting agendas from relationship history, and generate strategic briefs that reflect your actual priorities. It is your Jarvis.
 
-**For organizations:** the [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os). The same principle, scaled up. Every department, every workflow, every piece of institutional knowledge consolidated into one sovereign system. AI agents coordinate across functions because they see the whole picture. The founder sets direction. The OS handles operations. The humans do the work only humans can do.
+**For organizations:** the [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os). The same principle, scaled up. Every department, every workflow, every piece of institutional knowledge consolidated into one sovereign system. AI agents coordinate across functions because they see the whole picture. The founder sets direction. The OS handles operations. The humans do the work only humans can do.
 
 Both are command centers. Both replace scattered tools with unified context. Both compound over time. The individual version is where you start. The organizational version is where it leads.
 
@@ -48,7 +48,7 @@ If you are an applied AI practitioner, building command centers is the work.
 Not generic SaaS. Not another AI wrapper. Custom, high-fidelity command centers for specific people and organizations. The work looks like:
 
 - **For individuals:** setting up a Personal Agentic OS, importing their existing knowledge, training them to maintain it, and refining it over time as their operation evolves. This is what the [Supersuit Up Workshop](/docs/workshops/supersuit-up) teaches.
-- **For businesses:** building a Sovereign Agentic Business OS that consolidates scattered tools into unified context. This is deeper, longer-term engagement that requires [trust](/docs/sovereign-agentic-business-os) at the level of a business partner, not a vendor.
+- **For businesses:** building a Sovereign Agentic Business OS that consolidates scattered tools into unified context. This is deeper, longer-term engagement that requires [trust](/docs/concepts/sovereign-agentic-business-os) at the level of a business partner, not a vendor.
 - **For verticals:** creating [CLIPs](/docs/concepts/clips) and domain-specific [skill files](/docs/concepts/instruction-files) that plug into command centers and give them specialized capabilities.
 
 The interface someone has with the digital world is the product now. Creating that interface, custom-fitted to a specific human being or a specific organization, is the new app building.
@@ -59,7 +59,7 @@ Super suits for all.
 
 If you do not have a command center yet, start with the personal version. The [Supersuit Up Workshop](/docs/workshops/supersuit-up) walks you through the full setup in about four hours. You will not go back.
 
-If you already have one and want to understand the organizational version, read the [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) section.
+If you already have one and want to understand the organizational version, read the [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) section.
 
 If you are a business owner exploring whether you need a custom app or a command center, read [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app) for the practical walkthrough.
 
@@ -68,7 +68,7 @@ If you are a business owner exploring whether you need a custom app or a command
 ## Further Reading
 
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The individual command center
-- [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The organizational command center
+- [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The organizational command center
 - [Harness Engineering](/docs/concepts/harness-engineering): The engine that powers every command center
 - [The Slopacalypse](/docs/concepts/slopacalypse): Why generic apps are dying and command centers survive
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): Specialized capabilities that plug into command centers

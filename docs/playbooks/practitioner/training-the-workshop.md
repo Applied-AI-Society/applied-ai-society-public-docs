@@ -185,6 +185,6 @@ If you run a workshop, share what you learned. Update this playbook by contribut
 - [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The role description and progression framework
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The concept you are teaching
 - [Harness Engineering](/docs/concepts/harness-engineering): Why Claude Code is a harness, not the only option
-- [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): High-leverage questions for deeper user profile interviews
+- [The Question Bank](/docs/concepts/sovereign-agentic-business-os/question-bank): High-leverage questions for deeper user profile interviews
 - [Game Design](/docs/concepts/game-design): The framing for how humans define objectives for their agents
 - [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): How to run Applied AI events (the workshop fits as a format)

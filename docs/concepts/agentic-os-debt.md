@@ -57,7 +57,7 @@ Concrete moves:
 4. **Log decisions when you make them.** One paragraph. What you chose, why, what you said no to.
 5. **Run a periodic coherence check.** A skill file or prompt that scans your OS for staleness and surfaces docs that need review.
 
-This is [legacy](/docs/legacy) in practice. It is not exciting. It is load-bearing. See [maintain coherence](/docs/legacy/maintain-coherence) for the deeper discipline.
+This is [legacy](/docs/concepts/legacy) in practice. It is not exciting. It is load-bearing. See [maintain coherence](/docs/concepts/legacy/maintain-coherence) for the deeper discipline.
 
 ## The Payoff
 
@@ -76,8 +76,8 @@ This is the foundation of [agentic strategy](/docs/concepts/agentic-strategy) wo
 
 - [Operational Reality](/docs/concepts/operational-reality): What your OS is supposed to be tracking
 - [Agentic Strategy](/docs/concepts/agentic-strategy): What becomes possible when debt is near zero
-- [Legacy](/docs/legacy): The deeper practice
+- [Legacy](/docs/concepts/legacy): The deeper practice
 - [Capture, Process, Compound](/docs/concepts/capture-process-compound): The daily ingestion loop
-- [Maintain Coherence](/docs/legacy/maintain-coherence): Gardening your truth
+- [Maintain Coherence](/docs/concepts/legacy/maintain-coherence): Gardening your truth
 - [Context Lake](/docs/concepts/context-lake): What you are actually maintaining
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system this debt accumulates in

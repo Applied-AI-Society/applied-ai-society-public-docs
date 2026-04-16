@@ -1,65 +1,65 @@
 [
   {
-    "title": "Inclusive Technological Advancement",
-    "link": "/docs/concepts/inclusive-technological-advancement",
-    "date": "2026-04-15",
-    "summary": "The principle that AI and related technologies must be designed, governed, and deployed so that benefits are shared b...",
+    "title": "The Supersuit Up Workshop",
+    "link": "/docs/workshops/supersuit-up",
+    "date": "2026-04-16",
+    "summary": "Build your Personal Agentic OS. Some people call this \"Jarvising Yourself\" (a nod to Tony Stark's AI). Whatever you c...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Agent-Accessible Products",
+    "link": "/docs/concepts/agent-accessible-products",
+    "date": "2026-04-16",
+    "summary": "If agents cannot use your product, agents will replace your product.",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "llms.txt and llms-full.txt",
+    "link": "/docs/concepts/llms-txt",
+    "date": "2026-04-16",
+    "summary": "Two plain-text files that turn your wiki into something every LLM can read at full fidelity, without you having to ho...",
     "tag": "New"
   }
 ,
   {
-    "title": "Raise the Floor",
-    "link": "/docs/concepts/raise-the-floor",
-    "date": "2026-04-15",
-    "summary": "One person's breakthrough should become everyone's baseline. The organizations that figure this out will compound fas...",
+    "title": "Start Your Wiki",
+    "link": "/docs/playbooks/practitioner/start-your-wiki",
+    "date": "2026-04-16",
+    "summary": "The practitioner playbook for building a personal or organizational wiki that sharpens your thinking, stops the \"sayi...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "The Applied AI Canon",
-    "link": "/docs/philosophy/canon",
-    "date": "2026-04-15",
-    "summary": "AI will reshape every profession, every organization, and every community. These twelve tenets define the principles ...",
+    "title": "Using the Docs with Your Jarvis",
+    "link": "/docs/playbooks/practitioner/using-the-docs-with-your-jarvis",
+    "date": "2026-04-16",
+    "summary": "How to give your Personal Agentic OS access to the full AAS knowledge base so it can reference concepts, playbooks, a...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Compound Drift",
-    "link": "/docs/concepts/compound-drift",
+    "title": "Learn the Harness, Not the Wrapper",
+    "link": "/docs/concepts/learn-the-harness-not-the-wrapper",
+    "date": "2026-04-16",
+    "summary": "Agentic harnesses (Claude Code, Hermes, Codex) are primitives. Vendor wrappers over them (Claude Cowork, opinionated ...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "The Hyperagency Gap",
+    "link": "/docs/concepts/the-hyperagency-gap",
     "date": "2026-04-15",
-    "summary": "Every stage in an AI chain that is less than provably good compounds with the next. Mediocrity does not average out. ...",
+    "summary": "The distance between people experiencing hyperagency and everyone else is the defining inequality of the AI age. It i...",
     "tag": "New"
   }
 ,
   {
-    "title": "Lossy AI Telephone",
-    "link": "/docs/concepts/lossy-ai-telephone",
+    "title": "Hyperagency",
+    "link": "/docs/concepts/hyperagency",
     "date": "2026-04-15",
-    "summary": "You are already playing this game. You just haven't named it yet.",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Slop Factory",
-    "link": "/docs/concepts/slop-factory",
-    "date": "2026-04-15",
-    "summary": "A business structure optimized for autonomous throughput where the throughput is slop. The trap the \"self-running bus...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "The Slopacalypse",
-    "link": "/docs/concepts/slopacalypse",
-    "date": "2026-04-15",
-    "summary": "When anyone can build anything, only the things built with genuine purpose will survive.",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Don't Scale Slop",
-    "link": "/docs/playbooks/business-owner/dont-scale-slop",
-    "date": "2026-04-15",
-    "summary": "The most dangerous thing you can do with AI is automate a broken process. You don't get a better process. You get bro...",
+    "summary": "There are going to be two types of people in this world. Hyperagents, and people who live in the world that hyperagen...",
     "tag": "Updated"
   }
 ]

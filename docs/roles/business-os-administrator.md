@@ -11,7 +11,7 @@ title: "Business OS Administrator"
 
 ## What They Do
 
-The Command Center Administrator maintains and evolves an organization's [sovereign agentic business OS](/docs/sovereign-agentic-business-os/principles). They oversee the AI agents, context architecture, access controls, and information flows that power the operation.
+The Command Center Administrator maintains and evolves an organization's [sovereign agentic business OS](/docs/concepts/sovereign-agentic-business-os/principles). They oversee the AI agents, context architecture, access controls, and information flows that power the operation.
 
 In practice, this means:
 
@@ -19,7 +19,7 @@ In practice, this means:
 - Monitoring agent behavior, reviewing audit trails, and catching anomalies before they become problems
 - Maintaining the context architecture: keeping the knowledge base current, structured, and properly scoped across teams
 - Managing identity and access for AI context: who sees what, which agents can access which data, onboarding and offboarding people from the system
-- Tuning the [question bank](/docs/sovereign-agentic-business-os/question-bank) and proactive intelligence features so the business OS stays sharp as the organization evolves
+- Tuning the [question bank](/docs/concepts/sovereign-agentic-business-os/question-bank) and proactive intelligence features so the business OS stays sharp as the organization evolves
 - Coordinating with executives to ensure the business OS reflects current strategic priorities, not last quarter's
 
 This is not a sysadmin role with a new name. Traditional IT administration manages servers, networks, and permissions for human users. A Command Center Administrator manages context, agent behavior, and the information architecture that makes AI genuinely useful to the organization. The assets being managed are fundamentally different: strategic context, decision history, relationship data, and operational intelligence.
@@ -109,8 +109,8 @@ Good consultants build the handoff into the engagement: documentation, training,
 
 ## Further Reading
 
-- [Sovereign Agentic Business OS Principles](/docs/sovereign-agentic-business-os/principles): The foundational framework this role maintains
-- [The Question Bank](/docs/sovereign-agentic-business-os/question-bank): One of the key assets this role curates
+- [Sovereign Agentic Business OS Principles](/docs/concepts/sovereign-agentic-business-os/principles): The foundational framework this role maintains
+- [The Question Bank](/docs/concepts/sovereign-agentic-business-os/question-bank): One of the key assets this role curates
 - [Applied AI Consultant](/docs/roles/applied-ai-consultant): Often the person who builds the business OS before handing it off
 - [Context Engineering](/docs/concepts/context-engineering): The underlying discipline powering the business OS's information architecture
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The entry-point playbook for setting up a business OS from scratch

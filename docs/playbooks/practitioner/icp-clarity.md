@@ -43,7 +43,7 @@ When you're defining your own ICP as a practitioner, prioritize domain experts w
 
 ## Connect AI to Your ICP Truth
 
-Once the ICP is clear and validated, the next step is connecting your AI systems to everything they need to serve that ICP effectively. This is where [Legacy](/docs/legacy) becomes practical.
+Once the ICP is clear and validated, the next step is connecting your AI systems to everything they need to serve that ICP effectively. This is where [Legacy](/docs/concepts/legacy) becomes practical.
 
 Your AI agents need access to:
 
@@ -51,7 +51,7 @@ Your AI agents need access to:
 - **Organizational context.** Your brand positioning, competitive landscape, pricing model, team structure, capital constraints. All the context a smart human would need to make good decisions.
 - **Operational knowledge.** Codebases, documentation, internal processes, historical decisions and why they were made.
 
-The more context AI has about your business and your ICP, the more useful its actions become. This is the argument laid out in [Truth as Context](/docs/legacy/truth-as-context) and [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable).
+The more context AI has about your business and your ICP, the more useful its actions become. This is the argument laid out in [Truth as Context](/docs/concepts/legacy/truth-as-context) and [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable).
 
 ## The Human's Evolving Role
 
@@ -93,7 +93,7 @@ The bottleneck is almost never the model or the tooling. It's clarity and contex
 
 ## Further Reading
 
-- [Legacy](/docs/legacy) for the full framework on documenting and organizing organizational truth
-- [Start Your Company Bible](/docs/legacy/start-your-company-bible) for the practical process of building comprehensive documentation
-- [Truth as Context](/docs/legacy/truth-as-context) for ensuring AI agents operate with full organizational understanding
-- [Make Your Company Refactorable](/docs/legacy/make-your-company-refactorable) for making your entire organization accessible to AI agents
+- [Legacy](/docs/concepts/legacy) for the full framework on documenting and organizing organizational truth
+- [Start Your Company Bible](/docs/concepts/legacy/start-your-company-bible) for the practical process of building comprehensive documentation
+- [Truth as Context](/docs/concepts/legacy/truth-as-context) for ensuring AI agents operate with full organizational understanding
+- [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable) for making your entire organization accessible to AI agents

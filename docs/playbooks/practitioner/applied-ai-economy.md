@@ -131,7 +131,7 @@ The work looks like: auditing an existing SaaS product for agentic opportunities
 
 ## Business OS Setup
 
-A new category of work is emerging around setting up [sovereign agentic business operating systems](/docs/sovereign-agentic-business-os) for individuals and organizations. These are centralized systems where AI agents, data sources, and workflows come together in one place, under the user's control.
+A new category of work is emerging around setting up [sovereign agentic business operating systems](/docs/concepts/sovereign-agentic-business-os) for individuals and organizations. These are centralized systems where AI agents, data sources, and workflows come together in one place, under the user's control.
 
 [OpenClaw](https://openclaw.ai/) is one example of business OS infrastructure at the personal scale. [OpenTeams' Nebari OS](https://nebari.dev) serves corporate and government environments. The infrastructure for business operating systems is maturing fast: open-source agentic OS frameworks, enterprise-grade security and policy layers, and interoperable agent standards are making it possible to stand up systems that are both powerful and sovereign. The specific tools keep changing. The pattern (your AI, your data, your infrastructure) does not.
 

@@ -56,7 +56,7 @@ Karpathy built an autonomous research loop ("auto research") that optimizes mode
 
 > "Every research organization is described by program MD. You can imagine having a better research organization. One organization can have fewer stand-ups. One can be very risk-taking, one can be less. And so you can definitely imagine that you have multiple research orgs, and they all have code, and once you have code, you can imagine tuning the code."
 
-This is [legacy](/docs/legacy) described from the frontier. The organization's behavior, priorities, and culture are encoded in markdown documents that AI agents read and act on. The quality of those documents determines the quality of the output. This is why [making your company refactorable](/docs/legacy/make-your-company-refactorable) matters: your organization's truth is now executable code.
+This is [legacy](/docs/concepts/legacy) described from the frontier. The organization's behavior, priorities, and culture are encoded in markdown documents that AI agents read and act on. The quality of those documents determines the quality of the output. This is why [making your company refactorable](/docs/concepts/legacy/make-your-company-refactorable) matters: your organization's truth is now executable code.
 
 ### Dobby the house elf: a business OS in action
 
@@ -102,7 +102,7 @@ Jensen pushes back on the fear narrative directly. The problem is not that AI re
 
 > "The IT department of every company is going to be the HR department of AI agents."
 
-Jensen describes a future where companies do not just use software tools. They manage fleets of AI agents the way they currently manage human teams. IT becomes the department that onboards, configures, and oversees digital workers. This is the [business OS](/docs/sovereign-agentic-business-os) thesis at enterprise scale.
+Jensen describes a future where companies do not just use software tools. They manage fleets of AI agents the way they currently manage human teams. IT becomes the department that onboards, configures, and oversees digital workers. This is the [business OS](/docs/concepts/sovereign-agentic-business-os) thesis at enterprise scale.
 
 ### Tokens as compensation
 
@@ -124,7 +124,7 @@ The shift from writing code to writing specifications is the shift from executio
 
 > "In 10 years, we will hopefully have 75,000 employees, as small as possible, as big as necessary. Those 75,000 employees will be working with 7.5 million agents. They'll be working around the clock. So hopefully our people don't have to keep up with them."
 
-A 100:1 agent-to-human ratio. Each human becomes the Coach of a team of 100 AI Players. The human's job: define the objectives, set the guardrails, evaluate the output. The agents handle execution. This is the organizational structure the [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) is built to support.
+A 100:1 agent-to-human ratio. Each human becomes the Coach of a team of 100 AI Players. The human's job: define the objectives, set the guardrails, evaluate the output. The agents handle execution. This is the organizational structure the [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) is built to support.
 
 ### The superhuman feeling
 
@@ -152,7 +152,7 @@ This is [Canon V](/docs/philosophy/canon) (own your AI) stated in the strongest 
 
 > "What is my AI vendor doing with my data? I would ask that question over and over again."
 
-Travis's one-line advice to every business owner considering AI adoption. The convenience of a hosted model is real. The cost (your data flowing into systems you do not control, your operations becoming dependent on decisions made by others) is also real. The [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) architecture exists to give organizations a third option: the convenience of powerful AI with the sovereignty of ownership.
+Travis's one-line advice to every business owner considering AI adoption. The convenience of a hosted model is real. The cost (your data flowing into systems you do not control, your operations becoming dependent on decisions made by others) is also real. The [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) architecture exists to give organizations a third option: the convenience of powerful AI with the sovereignty of ownership.
 
 ### Your uniqueness is the oil of the future
 

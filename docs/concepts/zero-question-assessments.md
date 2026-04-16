@@ -88,7 +88,7 @@ Zero-question assessments are a killer application for the [context lake](/docs/
 
 This is also a powerful demonstration tool for [workshops](/docs/playbooks/practitioner/training-the-workshop). After someone sets up their first context lake and populates it with a user profile, a few relationship files, and a strategic document, you run the Bible character assessment. They get a personalized, surprisingly accurate result derived from their own data. That is the moment they understand what a context lake is actually for.
 
-Traditional assessments ask you questions to learn about you. Zero-question assessments read what you have already told the truth about. The second approach is better in every way, as long as you have been honest in your files. And that is the point: [legacy](/docs/legacy) is the foundation. The quality of your assessments is directly proportional to the quality of the truth in your context lake.
+Traditional assessments ask you questions to learn about you. Zero-question assessments read what you have already told the truth about. The second approach is better in every way, as long as you have been honest in your files. And that is the point: [legacy](/docs/concepts/legacy) is the foundation. The quality of your assessments is directly proportional to the quality of the truth in your context lake.
 
 > **The best personality quiz is the one you never have to take. Your files already know who you are.**
 
@@ -156,5 +156,5 @@ To run it, save the skill file to your workspace's `.agents/skills/bible-charact
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that runs the assessments
 - [Instruction Files](/docs/concepts/instruction-files): How to build assessment skills
 - [Compounding Docs](/docs/concepts/compounding-docs): Why the assessments get better over time
-- [Legacy](/docs/legacy): The quality of the input determines the quality of the output
+- [Legacy](/docs/concepts/legacy): The quality of the input determines the quality of the output
 - [Capture, Process, Compound](/docs/concepts/capture-process-compound): The lifecycle that feeds the assessment

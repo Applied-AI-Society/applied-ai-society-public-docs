@@ -84,7 +84,7 @@ There are hundreds of AI tools, skills, and plugins on GitHub right now. Most of
 
 Your business has specific data, specific workflows, specific edge cases, specific integrations, specific terminology, specific decision criteria that no generic tool will ever cover. The people building custom tools around their own problems are the ones pulling ahead.
 
-This is the [Personal Agentic OS](/docs/concepts/personal-agentic-os) at the organizational level. It is the [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) in practice. You are not configuring someone else's product. You are building systems that encode your judgment, your context, your institutional knowledge into tools that compound over time.
+This is the [Personal Agentic OS](/docs/concepts/personal-agentic-os) at the organizational level. It is the [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) in practice. You are not configuring someone else's product. You are building systems that encode your judgment, your context, your institutional knowledge into tools that compound over time.
 
 A custom system that knows your pricing model, your client history, your approval workflows, and your brand voice is worth more than a hundred generic tools stitched together. Because it gets better every day you use it. It is a [self-improving system](/docs/concepts/self-improving-systems) built around the specific problem only you have.
 
@@ -111,7 +111,7 @@ Level 1 saves time. Level 2 improves thinking. Level 3 creates new work. Level 4
 
 This ladder describes the progression for existing operations. If you are starting a business from scratch, you do not need to climb one level at a time. You can architect for all four levels from day one.
 
-New businesses have no legacy workflows weighing them down. No teams doing things the old way. The smartest move is to build a [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) from the start: custom tools, sovereign data, compounding systems designed around your specific problem. You still benefit from level 2 thinking (AI as sparring partner) and level 3 awareness (what work is now worth doing that never was before). But you get to wire it all in from the foundation instead of retrofitting.
+New businesses have no legacy workflows weighing them down. No teams doing things the old way. The smartest move is to build a [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) from the start: custom tools, sovereign data, compounding systems designed around your specific problem. You still benefit from level 2 thinking (AI as sparring partner) and level 3 awareness (what work is now worth doing that never was before). But you get to wire it all in from the foundation instead of retrofitting.
 
 The ladder matters for existing businesses because they have gravity. They have workflows that predate AI. The progression from level 1 to level 4 is the path to modernizing an operation that already exists. New businesses get to skip the retrofit.
 

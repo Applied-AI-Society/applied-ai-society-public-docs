@@ -90,6 +90,6 @@ Reach out via the [contact page](/docs/contact) or join the [Discord](https://di
 - [Compounding Docs](/docs/concepts/compounding-docs): Why every document contributed to the commons makes the whole system smarter
 - [Signalmaxxing](/docs/concepts/signalmaxxing): Keeping the knowledge base high-signal
 - [Why Field Notes](/docs/philosophy/why-field-notes): Why living field notes beat static textbooks
-- [Legacy](/docs/legacy): The discipline of maintaining shared truth
+- [Legacy](/docs/concepts/legacy): The discipline of maintaining shared truth
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Making expertise accessible without requiring anyone's calendar
 - [The Mission Harness](/docs/concepts/mission-harness): The infrastructure of shared purpose that co-stewardship enables

@@ -68,7 +68,7 @@ At a year, it is a second brain that remembers everything, never drops a ball, a
 
 Your Personal Agentic OS is sovereign by design. Your files are plain markdown on your computer. They are version-controlled with Git. They can be read by any AI tool. If the AI company you are using today triples their price, shuts down, or gets worse, you take your files and walk. No export wizard. No migration headache. No data hostage situation.
 
-This is not a philosophical stance. It is an architectural decision. The [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os) principles go deeper on why this matters and how to think about it as your system grows.
+This is not a philosophical stance. It is an architectural decision. The [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) principles go deeper on why this matters and how to think about it as your system grows.
 
 ## Getting Started
 
@@ -82,7 +82,7 @@ The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the prog
 
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The setup tutorial
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the code around the model matters as much as the model
-- [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The full sovereignty philosophy
+- [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The full sovereignty philosophy
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your AI knows
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why the bottleneck is you, not the tools, and how to fix it
 - [Train Your Agent](/docs/concepts/train-your-agent): Train your AI like you would train a human apprentice. Give it context, feedback, and reps.

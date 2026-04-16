@@ -139,7 +139,7 @@ This does not mean every SaaS company dies. The ones with genuine network effect
 
 1. **Open-source CLIPs** that you install locally, connect to your harness, and own completely. These replace the functionality of SaaS products without the subscription, the vendor lock-in, or the data exposure.
 
-2. **Applied AI practitioners** who maintain agentic infrastructure for companies. Instead of paying ten SaaS subscriptions, you pay one practitioner (or build one internal team) to maintain a [sovereign system](/docs/sovereign-agentic-business-os) that does everything those subscriptions did, but better, because it is built around your specific operation. [Ramp proved this at scale](/docs/case-studies/ramp-glass): one internal team, one integrated system, 700 employees activated.
+2. **Applied AI practitioners** who maintain agentic infrastructure for companies. Instead of paying ten SaaS subscriptions, you pay one practitioner (or build one internal team) to maintain a [sovereign system](/docs/concepts/sovereign-agentic-business-os) that does everything those subscriptions did, but better, because it is built around your specific operation. [Ramp proved this at scale](/docs/case-studies/ramp-glass): one internal team, one integrated system, 700 employees activated.
 
 The SaaSpocalypse is the economic context that makes CLIPs not just interesting but inevitable. When the wrapper is free, the domain expertise inside the CLIP is what you are paying for.
 

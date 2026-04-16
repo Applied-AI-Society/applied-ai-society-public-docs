@@ -53,4 +53,4 @@ The token economy is not a future abstraction. It's the pricing layer of every A
 
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): A sampler of ways to make money applying AI, including how token costs factor into practitioner pricing
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information state for AI systems. Better context means fewer wasted tokens.
-- [Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): Your AI, your data, your infrastructure. Token costs are a key factor in business OS architecture decisions.
+- [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): Your AI, your data, your infrastructure. Token costs are a key factor in business OS architecture decisions.

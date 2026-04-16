@@ -94,7 +94,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 
 ### Practical
 
-- [Why Your Business Needs a Sovereign Agentic Business OS](/docs/sovereign-agentic-business-os): The shift from scattered SaaS to a sovereign operating system
+- [Why Your Business Needs a Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The shift from scattered SaaS to a sovereign operating system
 - [Ignorance Debt](/docs/concepts/ignorance-debt): The gap between what you know and what you need to know, and why starting where your debt is lowest is smartest
 - [The Token Economy](/docs/concepts/the-token-economy): Tokens as the atomic unit of AI economics
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Treating every friction point as a feature request
