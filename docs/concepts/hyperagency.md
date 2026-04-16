@@ -69,6 +69,7 @@ Suit up.
 
 ## Further Reading
 
+- [The Hyperagency Gap](/docs/concepts/the-hyperagency-gap): The distance between hyperagents and everyone else, and how to close it
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): The economic reality that makes hyperagency urgent
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that makes you a hyperagent
 - [Command Centers](/docs/concepts/command-centers): The meta-architecture behind every hyperagent's operation
