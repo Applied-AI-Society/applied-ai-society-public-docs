@@ -8,11 +8,15 @@ description: "Applied AI Society champions applied AI literacy: the ability to u
 
 ## What It Is
 
-Applied AI literacy is the ability to understand what AI can do and to put it to work on real problems.
+Applied AI literacy is the ability to **wield the supercomputational power of AI to advance your will in the world**. Whatever your will is.
 
-It's not about knowing that AI exists. Everyone knows that. It's not about being able to define "large language model" or "neural network." Applied AI literacy means you can look at a business process, a community need, or a career challenge and see where AI fits. You can evaluate tools, scope projects, ask the right questions, and build (or commission) real solutions.
+That includes business: scoping projects, evaluating tools, building or commissioning real solutions for real organizations. It also includes everything else. Your creative practice. Your relationships. Your parenting. Your fitness. Your spiritual life. Your community. Your learning. Your craft. Your unfinished personal projects. The vision you have been carrying that nobody else can pursue for you.
 
-Think of it this way: knowing that electricity exists didn't change anyone's life. Knowing how to wire a building, run a factory, or light a hospital did. Applied AI literacy is the wiring knowledge of the AI age.
+Applied AI literacy is the ability to look at any of those domains and see where AI fits, then to actually deploy it. The most leveraged version of that deployment is the **[Personal Agentic OS](/docs/concepts/personal-agentic-os) (also called your Jarvis)**: a system that lives on your computer, knows you, and helps you execute on your will every day. See [Get Jarvised](/docs/get-jarvised) for the on-ramp.
+
+It is not about knowing that AI exists. Everyone knows that. It's not about being able to define "large language model" or "neural network." Applied AI literacy means you can look at any domain of your life and see where AI fits, then build (or commission) the system that puts it there.
+
+Think of it this way: knowing that electricity exists didn't change anyone's life. Knowing how to wire a building, run a factory, or light a hospital did. **Applied AI literacy is the wiring knowledge of the AI age. It is also personal supercomputer literacy.**
 
 ## Why It Matters Now
 
@@ -56,7 +60,7 @@ Inference is becoming commoditized. LLMs are becoming interchangeable. But trust
 
 ## Who It's For
 
-Applied AI literacy isn't just for engineers or tech workers. It's for everyone whose work and life are being reshaped by AI (which is everyone).
+Applied AI literacy isn't just for engineers, tech workers, or business operators. **It's for anyone with a will to advance in the world.** Which is everyone, even if they have not put words on the will yet.
 
 **Business owners** who need to know which AI tools are worth investing in and which are hype. Who need to scope AI projects, hire practitioners, and measure results.
 
@@ -67,6 +71,18 @@ Applied AI literacy isn't just for engineers or tech workers. It's for everyone 
 **Government leaders and policymakers** who need to make decisions about AI adoption, regulation, and workforce development. Who can't afford to get this wrong for their communities.
 
 **International communities** where the AI economy is arriving fast but the infrastructure, education, and support systems haven't caught up yet.
+
+**Creatives and artists** who want a thinking partner for the work, not a replacement. Who want to spend more of their time on the soul of the craft and less on the busywork around it.
+
+**Parents** who want to model serious learning for their kids, manage the operational chaos of family life, and stay present for the moments that matter.
+
+**Pastors, faith leaders, and spiritually serious people** who want their AI to honor the fullness of who they are, including the parts that do not show up in a quarterly business review.
+
+**Athletes, coaches, and performers** who want to externalize their training data, their game film, and their evolving theory of their craft into a system that compounds.
+
+**Lifelong learners** who want a [Jarvis](/docs/concepts/personal-agentic-os) that knows what they have already studied and what they are reaching toward next.
+
+If your will is real, applied AI literacy is for you. The domain does not matter. What matters is that you stop using AI as a search engine substitute and start using it to advance the specific work only you can do in the world.
 
 ## Further Reading
 

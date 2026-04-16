@@ -8,6 +8,14 @@
   }
 ,
   {
+    "title": "Being Someone's Go-To Person",
+    "link": "/docs/concepts/being-someones-go-to-person",
+    "date": "2026-04-16",
+    "summary": "The role that has no name yet. The serious operator's go-to person is a six-jobs-in-one partner, and naming it honest...",
+    "tag": "New"
+  }
+,
+  {
     "title": "Applied AI Consultant",
     "link": "/docs/roles/applied-ai-consultant",
     "date": "2026-04-16",
@@ -44,14 +52,6 @@
     "link": "/docs/about/co-stewardship",
     "date": "2026-04-16",
     "summary": "The most powerful way to partner with the Applied AI Society is to co-maintain the truth.",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "The Applied AI Literacy Earthshot",
-    "link": "/docs/applied-ai-literacy/earthshot",
-    "date": "2026-04-16",
-    "summary": "Applied AI Society is building the best open-source applied AI literacy source material in the world, co-created by t...",
     "tag": "Updated"
   }
 ]
