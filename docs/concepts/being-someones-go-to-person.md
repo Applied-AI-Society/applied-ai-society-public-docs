@@ -1,11 +1,11 @@
 ---
 sidebar_position: 112
-title: "Being Someone's Guy"
+title: "Being Someone's Go-To Person"
 ---
 
-# Being Someone's Guy
+# Being Someone's Go-To Person
 
-*The role that has no name yet. The serious operator's "my guy" is a six-jobs-in-one partner, and naming it honestly is the first step to pricing it honestly.*
+*The role that has no name yet. The serious operator's go-to person is a six-jobs-in-one partner, and naming it honestly is the first step to pricing it honestly.*
 
 ---
 
@@ -13,11 +13,9 @@ title: "Being Someone's Guy"
 
 There is a role emerging right now that the language has not caught up to.
 
-It is what happens when a serious operator introduces you as **"my guy."** The one they text at 11 PM when something clicks. The one they fly in for the day when the stakes are high. The one they would not make a meaningful decision without calling first.
+It is what happens when a serious operator introduces you as **"my person."** The one they text at 11 PM when something clicks. The one they fly in for the day when the stakes are high. The one they would not make a meaningful decision without calling first.
 
 The world keeps calling this role "AI consultant." That label is wrong. Technical and transactional when the actual relationship is neither. If you are doing this work well, you are stepping into a role that has not existed before. You have to name it honestly before you can price it honestly.
-
-(The colloquial "guy" here is gender-neutral. The role is for anyone who can stand in it.)
 
 ---
 
@@ -50,7 +48,7 @@ No single profession has ever existed that blends all six. That is the role. **A
 
 ---
 
-## What Being Their Guy Actually Unlocks
+## What Being Their Go-To Person Actually Unlocks
 
 You are accelerating the person across every dimension that compounds:
 
@@ -85,7 +83,7 @@ Three things to internalize if you want to do this for a living. (See the [prici
 
 **This is life transformation.** It is helping someone fulfill goals they had not said out loud. It is unchaining the part of their brain that had been held by bad defaults. It is the best form of executive coaching this era has, and most executive coaching does not include somebody who can also build.
 
-**The pricing follows the framing.** "I do Claude Code automations" gets you priced like a wrapper. "I am your guy for this new world" gets you priced like a partner. Both are technically true descriptions of the same work. Only one tells the truth about the value.
+**The pricing follows the framing.** "I do Claude Code automations" gets you priced like a wrapper. "I am your go-to person for this new world" gets you priced like a partner. Both are technically true descriptions of the same work. Only one tells the truth about the value.
 
 ---
 
@@ -101,7 +99,7 @@ All technically true. All radically underprice you.
 
 The honest description sounds more like:
 
-> **I am your guy for this new world. I know you. I know your business. I know what you are trying to build. I know where you are stuck. I hold the rope while you cross the chasm. I am available when you text at 11 PM because something clicked. I come to your house. I break bread with you.**
+> **I am your go-to person for this new world. I know you. I know your business. I know what you are trying to build. I know where you are stuck. I hold the rope while you cross the chasm. I am available when you text at 11 PM because something clicked. I come to your house. I break bread with you.**
 
 That is what people pay unlimited money for. That is what gets called priceless because it actually is.
 
@@ -125,7 +123,7 @@ This is what the [Applied AI economy](/docs/playbooks/practitioner/applied-ai-ec
 
 ## The Bar To Step Into This Role
 
-You earn the right to be someone's guy by:
+You earn the right to be someone's go-to person by:
 
 1. **Being Jarvised yourself** first. You cannot give what you do not have. Your own [Personal Agentic OS](/docs/concepts/personal-agentic-os) has to be running daily.
 2. **Doing the work in the open** so people can see your taste and your judgment. (See [the field-notes practice](/docs/philosophy/why-field-notes).)
@@ -148,7 +146,7 @@ If those four are real, the demand for you will be larger than your capacity. Ch
 - [Get Jarvised](/docs/get-jarvised): The on-ramp you walk people through
 - [Hyperagency](/docs/concepts/hyperagency): What you are helping them become
 - [Pricing Playbook](/docs/playbooks/practitioner/pricing): The operational pricing companion
-- [Finding Clients](/docs/playbooks/practitioner/finding-clients): How to find the people who need a "guy"
+- [Finding Clients](/docs/playbooks/practitioner/finding-clients): How to find the people who need a go-to person
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The bigger market frame
 - [Compounding Docs](/docs/concepts/compounding-docs): What you help the people you serve build
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The first thing you teach

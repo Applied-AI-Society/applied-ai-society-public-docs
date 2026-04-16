@@ -106,4 +106,4 @@ The best consultants are stack-flexible. They ask the client "what are you runni
 - [Context Engineering](/docs/concepts/context-engineering): A core skill for building agent systems that actually work
 - [Intent Engineering](/docs/concepts/intent-engineering): The discipline of encoding organizational purpose into AI systems
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The broader landscape of practitioner paths
-- [Being Someone's Guy](/docs/concepts/being-someones-guy): The full six-jobs-in-one framing for the deepest version of this role
+- [Being Someone's Go-To Person](/docs/concepts/being-someones-go-to-person): The full six-jobs-in-one framing for the deepest version of this role

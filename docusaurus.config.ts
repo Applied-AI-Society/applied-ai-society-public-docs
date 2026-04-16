@@ -72,6 +72,8 @@ const config: Config = {
           { from: '/docs/legacy/maintain-coherence', to: '/docs/concepts/legacy/maintain-coherence' },
           { from: '/docs/legacy/source-controller', to: '/docs/concepts/legacy/source-controller' },
           { from: '/docs/legacy/voice-transcriber', to: '/docs/concepts/legacy/voice-transcriber' },
+          // Renamed from "Being Someone's Guy" to "Being Someone's Go-To Person" (more inclusive language)
+          { from: '/docs/concepts/being-someones-guy', to: '/docs/concepts/being-someones-go-to-person' },
         ],
       },
     ],

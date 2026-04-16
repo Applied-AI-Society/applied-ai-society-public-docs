@@ -1,5 +1,21 @@
 [
   {
+    "title": "The AGI Whisperer",
+    "link": "/docs/concepts/agi-whisperer",
+    "date": "2026-04-16",
+    "summary": "AGI is already here. It's just not evenly wielded.",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Applied AI Consultant",
+    "link": "/docs/roles/applied-ai-consultant",
+    "date": "2026-04-16",
+    "summary": "The client-facing builder who designs, builds, and deploys AI systems for businesses. Part architect, part engineer, ...",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "Progressive Sovereignty",
     "link": "/docs/concepts/progressive-sovereignty",
     "date": "2026-04-16",
@@ -36,30 +52,6 @@
     "link": "/docs/applied-ai-literacy/earthshot",
     "date": "2026-04-16",
     "summary": "Applied AI Society is building the best open-source applied AI literacy source material in the world, co-created by t...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Agent-Accessible Products",
-    "link": "/docs/concepts/agent-accessible-products",
-    "date": "2026-04-16",
-    "summary": "If agents cannot use your product, agents will replace your product.",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Agentic OS Debt",
-    "link": "/docs/concepts/agentic-os-debt",
-    "date": "2026-04-16",
-    "summary": "When your agentic OS drifts out of sync with your operational reality. Like technical debt, but for your Jarvis.",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Always-On Agents",
-    "link": "/docs/concepts/always-on-agents",
-    "date": "2026-04-16",
-    "summary": "The shift from \"AI that answers when asked\" to \"AI that works for you while you sleep.\"",
     "tag": "Updated"
   }
 ]
