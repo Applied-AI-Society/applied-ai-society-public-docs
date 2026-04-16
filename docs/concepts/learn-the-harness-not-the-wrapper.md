@@ -69,7 +69,9 @@ VS Code is the vehicle. The harness is the engine. Your files are the cargo. The
 
 ## "But &lt;Insert Desktop App Version of Some CLI&gt; Is So Much Friendlier"
 
-Sometimes. Sometimes not.
+This applies to any vendor desktop wrapper: Claude Desktop, Claude Code Desktop App (Cowork), ChatGPT Desktop, Codex Desktop, Gemini Desktop, Copilot Desktop, and every one that ships next. The pattern is the same: a polished-looking wrapper over a CLI or model that the vendor controls end-to-end.
+
+Sometimes they are great. Sometimes they are not.
 
 Here is what the developer Theo wrote after spending an hour in the new Claude Code desktop app:
 
