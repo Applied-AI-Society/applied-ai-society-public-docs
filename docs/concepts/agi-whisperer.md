@@ -85,4 +85,5 @@ That's what we're building here.
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose into agent infrastructure
 - [Effective AGI](/docs/concepts/effective-agi): The philosophical claim that AGI is functionally here now
 - [Hyperagency](/docs/concepts/hyperagency): The state you reach when you wield effective AGI with self-knowledge
+- [Being Someone's Guy](/docs/concepts/being-someones-guy): The relational role that often grows up around the technical AGI Whisperer work
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The broader landscape of practitioner roles

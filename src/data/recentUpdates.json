@@ -1,5 +1,21 @@
 [
   {
+    "title": "Progressive Sovereignty",
+    "link": "/docs/concepts/progressive-sovereignty",
+    "date": "2026-04-16",
+    "summary": "Sovereignty in the AI era is not a state you achieve. It is a frontier you keep moving.",
+    "tag": "New"
+  }
+,
+  {
+    "title": "The Sovereignty Stack",
+    "link": "/docs/concepts/the-sovereignty-stack",
+    "date": "2026-04-16",
+    "summary": "Own your future. Every layer of your life has a default version controlled by someone who is not you. Here is the ful...",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "Gary Sheng: Running My Entire Life With a Personal Jarvis",
     "link": "/docs/case-studies/gary-sheng-running-life-with-jarvis",
     "date": "2026-04-16",
@@ -44,22 +60,6 @@
     "link": "/docs/concepts/always-on-agents",
     "date": "2026-04-16",
     "summary": "The shift from \"AI that answers when asked\" to \"AI that works for you while you sleep.\"",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Capture, Process, Compound",
-    "link": "/docs/concepts/capture-process-compound",
-    "date": "2026-04-16",
-    "summary": "The practitioners who win are the ones who turn every conversation, every meeting, every insight into a permanent upg...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "CLIPs: The Apps of the Agentic Era",
-    "link": "/docs/concepts/clips",
-    "date": "2026-04-16",
-    "summary": "Every major computing wave creates a platform and an ecosystem on top of it. The browser gave us websites. The iPhone...",
     "tag": "Updated"
   }
 ]

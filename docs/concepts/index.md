@@ -55,6 +55,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Effective AGI](/docs/concepts/effective-agi): AGI is not coming. It is here, for the people who know how to wield it. The bottleneck is the human, not the technology.
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): Every legacy company is playing a game of Survivor right now. AI is sorting people into adapters and everyone else.
 - [AGI Whisperer](/docs/concepts/agi-whisperer): The person who designs, builds, and refines the agentic systems. The new essential technical role.
+- [Being Someone's Guy](/docs/concepts/being-someones-guy): The relational role that has no name yet. Six jobs in one. Name it honestly to price it honestly.
 - [The Encounter](/docs/concepts/the-encounter): The moment AI stops being theoretical and becomes personal, and why adoption spreads through experience, not education
 - [Activation](/docs/concepts/activation): Getting someone to the aha moment where they realize what this can actually do for them. The most important lever in any product, consultancy, or engagement.
 - [Build What Big AI Won't](/docs/concepts/build-what-big-ai-wont): Frontier labs are coming for every niche that fits inside their chat interface. The next generation of entrepreneurs lives in the work that structurally cannot. The absorbable-vs-unabsorbable test.
