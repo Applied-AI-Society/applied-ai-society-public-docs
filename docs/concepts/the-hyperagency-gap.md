@@ -43,7 +43,7 @@ The hyperagency gap is not inevitable. It is a literacy problem, and literacy pr
 
 The first step is [activation](/docs/concepts/activation): getting someone from "I have heard about AI" to "I am using it and it is changing how I work." This is what the [Supersuit Up Workshop](/docs/workshops/supersuit-up) is designed to do. People walk in with a laptop and walk out with a working [personal agentic OS](/docs/concepts/personal-agentic-os). That single experience shifts something fundamental. They feel what hyperagency feels like, and they cannot unfeel it.
 
-The second step is the course: a self-paced path that anyone can take regardless of technical background. Workshops activate. The course scales activation.
+The second step is Hyperagency 101: a self-paced course that teaches anyone, regardless of technical background, to become a 10x operator by creating their own personal Jarvis system. Workshops activate. The course scales activation.
 
 The third step is community. People who are [building their Jarvis in community](/docs/philosophy/build-your-jarvis-in-community) learn faster, stay motivated, and compound together. Chapters, co-working sessions, and peer support are not nice-to-haves. They are how the gap actually closes at population scale.
 
