@@ -8,7 +8,7 @@ title: Standards
 The AI coding agent ecosystem has quietly developed its own set of file conventions. Each one solves a different problem:
 
 - **CLAUDE.md / AGENTS.md** tell an agent how to behave inside a repo. Conventions, rules, patterns.
-- **llms.txt** helps an agent learn about a project. What it does, how it works, where to look.
+- **[llms.txt](/docs/concepts/llms-txt)** helps an agent learn about a project. What it does, how it works, where to look. (See the AAS explainer for what these files are and why a wiki should publish them.)
 - **SKILL.md** teaches an agent a specific capability. A recipe it can execute on demand.
 - **install.md** walks an agent through installing a tool. Dependencies, binaries, config.
 

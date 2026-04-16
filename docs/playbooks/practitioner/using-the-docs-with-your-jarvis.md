@@ -76,7 +76,7 @@ Or set up a cron job to pull daily if you want it hands-free.
 
 ## Option 2: Use llms.txt (Quick and Lightweight)
 
-If you do not want to clone the full repo, the AAS docs site serves machine-readable files at:
+If you do not want to clone the full repo, the AAS docs site serves machine-readable files following the [llms.txt convention](/docs/concepts/llms-txt):
 
 - **Index:** [docs.appliedaisociety.org/llms.txt](https://docs.appliedaisociety.org/llms.txt) contains titles and descriptions of every page
 - **Full content:** [docs.appliedaisociety.org/llms-full.txt](https://docs.appliedaisociety.org/llms-full.txt) is the complete text of every page concatenated into one file
@@ -131,3 +131,4 @@ The docs are the community's shared brain. Every contribution [raises the floor]
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information state for your AI.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): The philosophy behind making the docs free and open.
 - [Instruction Files](/docs/concepts/instruction-files): How to configure your agent to use reference material effectively.
+- [llms.txt and llms-full.txt](/docs/concepts/llms-txt): What these files are, why we publish them, and how to publish your own from your wiki.

@@ -68,6 +68,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Imagination Economy Infrastructure](/docs/concepts/imagination-economy-infrastructure): Everything that collapses the distance between human intention and human flourishing. The stack includes energy, telecom, inference, harnesses, sovereignty, community, logistics, and more.
 - [Always-On Agents](/docs/concepts/always-on-agents): The shift from "AI that answers when asked" to "AI that works for you while you sleep"
 - [Agent-Accessible Products](/docs/concepts/agent-accessible-products): If agents cannot use your product, agents will replace your product
+- [llms.txt and llms-full.txt](/docs/concepts/llms-txt): Two plain-text files that let any LLM consume your wiki at full fidelity, without you hosting a chatbot
 - [Personal Software](/docs/concepts/personal-software): Software built for one person's exact workflow. The future of personal AI for non-technical professionals.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): If people need a meeting with you to access what you know, your knowledge is in a bottleneck. And that bottleneck is you.
 

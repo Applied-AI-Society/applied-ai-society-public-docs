@@ -83,7 +83,11 @@ Every action should be available as an HTTP endpoint. Document it. Make it consi
 
 JSON by default. Markdown for human-readable content. Never trap data inside proprietary formats that agents cannot parse.
 
-### 4. Publish an MCP server
+### 4. Publish llms.txt and llms-full.txt (if you have a docs site or wiki)
+
+If your product has documentation, a wiki, or any meaningful body of public text, publish both files at the root of your site. `llms.txt` indexes every page; `llms-full.txt` concatenates the full corpus. Any reader can paste either URL into the LLM they already use and ground their conversation in your actual content. This is the cheapest form of agent SEO available: a static text file that gets regenerated on build. See [llms.txt and llms-full.txt](/docs/concepts/llms-txt) for the full pattern.
+
+### 5. Publish an MCP server
 
 [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) is the emerging standard for agents to discover and use tools. Originally created by Anthropic, it was donated to the Linux Foundation's Agentic AI Foundation in late 2025 (co-founded with Block and OpenAI). The ecosystem has grown to over 10,000 active servers with 97 million monthly SDK downloads.
 
@@ -96,11 +100,11 @@ Best practices for MCP servers (from the [MCP Best Practice Guide](https://mcp-b
 - **Secrets in secret stores.** Never inline credentials. Never rely on the model to keep secrets private.
 - **Observability.** Structured logging of who, what, when, why. Track success rates, latency, and policy violations.
 
-### 5. Design for composability
+### 6. Design for composability
 
 The output of your tool should be parseable as input by another tool. Agents chain tools together. If your tool's output is a pretty-printed table that cannot be piped, you are breaking the chain.
 
-### 6. Write an AGENTS.md
+### 7. Write an AGENTS.md
 
 Add a section to your documentation (or a standalone AGENTS.md file) that describes your product's available tools, preferred output formats, authentication flows, and usage rules. This is the "onboarding doc" for agents. One file can be the difference between an agent figuring out your tool in seconds versus burning tokens in confusion.
 
@@ -115,6 +119,7 @@ This is also why the [Personal Agentic OS architecture](/docs/workshops/supersui
 ## Further Reading
 
 **Internal:**
+- [llms.txt and llms-full.txt](/docs/concepts/llms-txt): The cheapest form of agent accessibility for anyone with a docs site or wiki
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): The next evolution of agent-accessible software
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that uses agent-accessible tools
 - [Harness Engineering](/docs/concepts/harness-engineering): How agents interact with tools through harnesses
