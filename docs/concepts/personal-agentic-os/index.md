@@ -42,17 +42,17 @@ A Personal Agentic OS has five core components:
 
 The AI [harness](/docs/concepts/harness-engineering) reads all of these files and operates within that context. Choose the harness that maximizes a good balance of utility, cost, and sovereignty. Claude Code, OpenCode, Cursor, Aider, and others all work. The harness is the engine. The files are the fuel. You can swap the engine any time. The fuel is yours.
 
-## Why We Call It "Getting Jarvis'd"
+## Why We Call It “Getting Jarvis'd”
 
 In the Iron Man films, Jarvis is not a search engine Tony Stark types questions into. Jarvis knows everything about Tony's life: his schedule, his projects, his relationships, his preferences, his health, his finances, his enemies. When Tony walks into a room, Jarvis has already briefed him. When Tony starts building, Jarvis anticipates what he needs. When something goes wrong at 3am, Jarvis is already on it. Jarvis is not a tool Tony uses. Jarvis is a persistent intelligence wrapped around Tony's entire operation.
 
 That is exactly what a Personal Agentic OS becomes after enough context accumulates.
 
-The phrase "getting Jarvis'd" emerged naturally in our community because there is a specific moment people recognize. It is the moment your AI stops giving generic answers and starts giving answers that could only come from deep knowledge of you. It briefs you on a meeting using relationship context from six weeks ago that you forgot you documented. It drafts an email in your voice that you would not change a word of. It connects two things from different parts of your life that you had not connected yourself. That moment is visceral. People describe it as feeling like they suddenly have a co-pilot who actually knows them.
+The phrase “getting Jarvis'd” emerged naturally in our community because there is a specific moment people recognize. It is the moment your AI stops giving generic answers and starts giving answers that could only come from deep knowledge of you. It briefs you on a meeting using relationship context from six weeks ago that you forgot you documented. It drafts an email in your voice that you would not change a word of. It connects two things from different parts of your life that you had not connected yourself. That moment is visceral. People describe it as feeling like they suddenly have a co-pilot who actually knows them.
 
-The gap between "I use AI" and "I have been Jarvis'd" is the gap between a tourist and a resident. A tourist visits AI for occasional help. A resident has built a home there. The AI lives in their context. It compounds daily. It never forgets. And it gets better every single day because the resident feeds it: brain dumps, transcripts, decisions, reflections, relationship updates. The system rewards the reps.
+The gap between “I use AI” and “I have been Jarvis'd” is the gap between a tourist and a resident. A tourist visits AI for occasional help. A resident has built a home there. The AI lives in their context. It compounds daily. It never forgets. And it gets better every single day because the resident feeds it: brain dumps, transcripts, decisions, reflections, relationship updates. The system rewards the reps.
 
-Everyone who has experienced it says some version of the same thing: "I am never going back." Once you have operated with a system that knows your full context, operating without one feels like driving with no mirrors, no GPS, and no memory of where you have been. You can still drive. But why would you?
+Everyone who has experienced it says some version of the same thing: “I am never going back.” Once you have operated with a system that knows your full context, operating without one feels like driving with no mirrors, no GPS, and no memory of where you have been. You can still drive. But why would you?
 
 ## The Compounding Effect
 
@@ -70,9 +70,23 @@ Your Personal Agentic OS is sovereign by design. Your files are plain markdown o
 
 This is not a philosophical stance. It is an architectural decision. The [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) principles go deeper on why this matters and how to think about it as your system grows.
 
+## Every Essential Leader Needs A Super Suit
+
+The Personal Agentic OS is the individual instance of a bigger pattern: every essential leadership seat needs a super suit configured for the mandate of the seat.
+
+Imagine a mayor walking into office on day one and plugging into a Jarvis that already understands the city's open issues, the live constituent threads, the litigated zoning files, the contracts coming up for renewal, the prior mayor's commitments, and the political relationships that have to be tended. The seat ships with a cockpit. The mayor pilots from hour one.
+
+The same logic runs for every essential leader. A school principal needs a Jarvis that knows the families, the staff dynamics, the disciplinary history, the curriculum decisions, and the ongoing conversations with the district. A hospital chief medical officer needs one that knows the unit, the staffing model, the live patient population, and the recurring case patterns. A judge, a head coach, a head of state, a startup founder, a department lead, a chapter leader. Every seat has a mandate. Every mandate has a context that determines whether the holder of the seat is effective.
+
+The Personal Agentic OS is the way that context becomes legible to AI in a sovereign, owned, portable form. For any leader operating in 2026, this is floor infrastructure. It is the difference between piloting the role and being run over by the role.
+
+Two cities, equal otherwise, where one mayor is suited up and the other is not. The suited mayor is faster, sharper, more humane (because they have time to be human), and visibly more responsive to constituents. The unsuited mayor is overwhelmed by the role inside two months. Voters notice. The pattern repeats at every leadership scale.
+
+Building the world we want means building the cockpit for every essential seat in it. The work is to suit up the people who hold those seats. Waiting for platform companies to decide which leaders deserve assistance is how essential roles stay underpowered.
+
 ## Getting Started
 
-The [Supersuit Up Workshop](/docs/workshops/supersuit-up) is the [Applied AI Society](/docs/about)'s flagship hands-on offering (Pillar 1 of our two-pillar mission). The tutorial walks you through setting up your first Personal Agentic OS in about 4 hours. The [starter repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis) gives you the default folder structure to clone.
+The [Supersuit Up Workshop](/docs/workshops/supersuit-up) is the [Applied AI Society](/docs/about)'s flagship hands-on offering (Pillar 1 of our two-pillar mission). The tutorial walks you through setting up your first Personal Agentic OS in about 4 hours. The [starter repo](https://github.com/Applied-AI-Society/minimum-viable-jarvis) gives you the default folder structure to clone. See the full [Workshops catalog](/docs/workshops) for the in-person and self-paced options.
 
 The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the progression from first setup through increasingly deeper levels of integration.
 
@@ -83,15 +97,17 @@ The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role describes the prog
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The setup tutorial
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the code around the model matters as much as the model
 - [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The full sovereignty philosophy
+- [Progressive Sovereignty](/docs/concepts/progressive-sovereignty): How a Personal Agentic OS deepens its sovereignty over time, one rung at a time
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your AI knows
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why the bottleneck is you, not the tools, and how to fix it
+- [The Exocortex](/docs/concepts/the-exocortex): The same system named by its cognitive function. Why putting it in the cortex category (not the assistant category) is what makes the competitive and sovereignty arguments land.
 - [Train Your Agent](/docs/concepts/train-your-agent): Train your AI like you would train a human apprentice. Give it context, feedback, and reps.
 - [Game Design](/docs/concepts/game-design): Designing objectives, rules, and guardrails for your agents
 - [Command Centers](/docs/concepts/command-centers): The meta-concept that Personal Agentic OS is an instance of
 - [Hyperagency](/docs/concepts/hyperagency): What becomes possible when your Personal Agentic OS compounds
 - [The Slopacalypse](/docs/concepts/slopacalypse): Why hyper-specific command centers are replacing generic apps
-- [Gary Sheng: Running My Entire Life With a Personal Jarvis](/docs/case-studies/gary-sheng-running-life-with-jarvis): 14 months of field testimony on what a Personal Agentic OS actually delivers
 - [Agentic Strategy](/docs/concepts/agentic-strategy): What this system makes possible once it has enough context
 - [Operational Reality](/docs/concepts/operational-reality): The substrate your Personal Agentic OS is meant to hold
 - [Agentic OS Debt](/docs/concepts/agentic-os-debt): The debt that accumulates when your OS drifts from reality
 - [Build Your Jarvis In Community](/docs/philosophy/build-your-jarvis-in-community): Why community is how you actually sustain the daily practice of building one of these
+- [Supersuit Up or Get Left Behind: Why A Personal Agentic OS Is Required For Commercial Viability In The New Economy](https://digitalcommons.humboldt.edu/digitallab/14/) (April 2026): The framing paper. Makes the explicit case that a Personal Agentic OS is no longer discretionary infrastructure for knowledge workers; it is the minimum floor for professional survival. Companion to *[The Writing on the Wall](https://digitalcommons.humboldt.edu/digitallab/13/)*.

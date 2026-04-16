@@ -1,9 +1,25 @@
 [
   {
-    "title": "The Supersuit Up Workshop",
-    "link": "/docs/workshops/supersuit-up",
+    "title": "Gary Sheng: Running My Entire Life With a Personal Jarvis",
+    "link": "/docs/case-studies/gary-sheng-running-life-with-jarvis",
     "date": "2026-04-16",
-    "summary": "Build your Personal Agentic OS. Some people call this \"Jarvising Yourself\" (a nod to Tony Stark's AI). Whatever you c...",
+    "summary": "How I use my Personal Agentic OS to run seven life pillars, compound strategy, and reclaim the one resource that actu...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Co-Steward With Us",
+    "link": "/docs/about/co-stewardship",
+    "date": "2026-04-16",
+    "summary": "The most powerful way to partner with the Applied AI Society is to co-maintain the truth.",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "The Applied AI Literacy Earthshot",
+    "link": "/docs/applied-ai-literacy/earthshot",
+    "date": "2026-04-16",
+    "summary": "Applied AI Society is building the best open-source applied AI literacy source material in the world, co-created by t...",
     "tag": "Updated"
   }
 ,
@@ -16,50 +32,34 @@
   }
 ,
   {
-    "title": "llms.txt and llms-full.txt",
-    "link": "/docs/concepts/llms-txt",
+    "title": "Agentic OS Debt",
+    "link": "/docs/concepts/agentic-os-debt",
     "date": "2026-04-16",
-    "summary": "Two plain-text files that turn your wiki into something every LLM can read at full fidelity, without you having to ho...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Start Your Wiki",
-    "link": "/docs/playbooks/practitioner/start-your-wiki",
-    "date": "2026-04-16",
-    "summary": "The practitioner playbook for building a personal or organizational wiki that sharpens your thinking, stops the \"sayi...",
+    "summary": "When your agentic OS drifts out of sync with your operational reality. Like technical debt, but for your Jarvis.",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Using the Docs with Your Jarvis",
-    "link": "/docs/playbooks/practitioner/using-the-docs-with-your-jarvis",
+    "title": "Always-On Agents",
+    "link": "/docs/concepts/always-on-agents",
     "date": "2026-04-16",
-    "summary": "How to give your Personal Agentic OS access to the full AAS knowledge base so it can reference concepts, playbooks, a...",
+    "summary": "The shift from \"AI that answers when asked\" to \"AI that works for you while you sleep.\"",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Learn the Harness, Not the Wrapper",
-    "link": "/docs/concepts/learn-the-harness-not-the-wrapper",
+    "title": "Capture, Process, Compound",
+    "link": "/docs/concepts/capture-process-compound",
     "date": "2026-04-16",
-    "summary": "Agentic harnesses (Claude Code, Hermes, Codex) are primitives. Vendor wrappers over them (Claude Cowork, opinionated ...",
+    "summary": "The practitioners who win are the ones who turn every conversation, every meeting, every insight into a permanent upg...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "The Hyperagency Gap",
-    "link": "/docs/concepts/the-hyperagency-gap",
-    "date": "2026-04-15",
-    "summary": "The distance between people experiencing hyperagency and everyone else is the defining inequality of the AI age. It i...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Hyperagency",
-    "link": "/docs/concepts/hyperagency",
-    "date": "2026-04-15",
-    "summary": "There are going to be two types of people in this world. Hyperagents, and people who live in the world that hyperagen...",
+    "title": "CLIPs: The Apps of the Agentic Era",
+    "link": "/docs/concepts/clips",
+    "date": "2026-04-16",
+    "summary": "Every major computing wave creates a platform and an ecosystem on top of it. The browser gave us websites. The iPhone...",
     "tag": "Updated"
   }
 ]
