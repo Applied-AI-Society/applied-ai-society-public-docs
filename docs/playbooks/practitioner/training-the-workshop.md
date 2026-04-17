@@ -30,7 +30,7 @@ This playbook captures what we are learning in real time about how to run these 
 
 - **Big TV or monitor** at the front where you can screen share. Everyone should be huddled close enough to read code on the screen.
 - **Your own laptop** connected to the TV, running your own Personal Agentic OS in Claude Code. You will be demoing live throughout.
-- **A mix of in-person and online is fine.** Use a video call with screen share for remote participants. Have them unmute to ask questions.
+- **A mix of in-person and online is fine.** Use a video call with screen share for remote participants. Have them unmute to ask questions. For remote sessions, **Zoom is recommended**: its remote control feature lets you take over a participant's screen for 10 seconds to click the right button or navigate the right menu, then hand it back. One limitation is that you cannot copy-paste onto their machine through remote control. Send snippets to paste via WhatsApp, Telegram, or the Zoom chat instead.
 
 ### Duration
 
@@ -149,6 +149,26 @@ The full workshop is still the right format for group sessions where people need
 **One participant canceled ChatGPT during the workshop.** The vendor lock-in framing (your files are yours, you can walk away any time) resonated strongly. People care about sovereignty once you frame it clearly.
 
 **The “ask Claude to guess” moment is powerful.** During the user profile interview, when someone does not know the answer to a question, telling them to ask Claude “what do you think, based on what you already know about me?” produces genuine insight. The agent reflects their own thinking back to them in a way they did not expect.
+
+### March 31, 2026: Remote 1-on-1 Session with a Non-Technical Participant
+
+*Lessons from Tim Dort-Golts (Bordeaux chapter), from a session with someone who had never used a terminal and primarily uses a computer for basic office tasks. Conducted entirely over Zoom.*
+
+**Start with Cursor, not the terminal.** For someone who has never opened a terminal, jumping straight into Claude Code is too much. Start with [Cursor](https://cursor.com) instead: it is free for the first few prompts, has a visual file tree, and has a built-in AI chat. The familiar interface builds confidence. Once they grasp that they are talking to AI and it is modifying files, transitioning to the terminal is a much smaller leap.
+
+**Guide every click, then step back.** In the beginning, narrate everything: “Click this folder. Now type this command. See that output? That means it worked.” Do not assume anything is obvious. This phase feels slow, but it is the foundation. The goal is to reach the moment they understand they are supposed to talk to the agent, not to you. Once that clicks, they start asking the agent instead of asking you. You are no longer the teacher. The agent is. You are just there to make sure they do not get lost.
+
+**Three demo exercises that work.** Before diving into the full Personal Agentic OS setup (user profile, strategic blocker, etc.), run three quick practical demos to build confidence and show what is possible:
+
+1. **An email.** Ask the agent to draft a professional email for something real in their life. The simplest demo, the most immediately practical. They see it produce something they would actually use, in seconds.
+2. **A report.** Ask the agent to create a formatted document: a summary, an analysis, meeting notes. Shows it can handle structure, not just short messages.
+3. **A website.** Ask the agent to create a simple webpage and open it in the browser. The biggest “wow” moment. For someone who thinks websites require a professional developer and hundreds of dollars, watching the agent build one in 60 seconds is paradigm-shifting.
+
+**Use problems as teaching moments.** Consider intentionally setting up a demo that you know will hit a missing dependency. When something breaks, the workflow is: encounter the error, paste it into the agent, ask it to explain and fix it. The real skill you are teaching is not “how to build a website” but “when something breaks, talk to the agent.” That is the inflection point.
+
+**Zoom remote control makes online sessions dramatically easier.** When a participant cannot find the right button or navigate a menu, taking control of their screen for 10 seconds is faster and clearer than any verbal instruction. Strongly recommended for remote sessions with non-technical participants. See the Setup section above for the copy-paste workaround.
+
+**The real metric is whether they grasped the method.** The demos are means, not ends. Success is when the participant understands the loop: prototype idea, encounter a problem, ask the agent, follow the steps, iterate.
 
 ## Testimonials
 
