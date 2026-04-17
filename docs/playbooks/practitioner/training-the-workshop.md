@@ -36,7 +36,7 @@ This playbook captures what we are learning in real time about how to run these 
     1. [Download and install the Zoom desktop app](https://zoom.us/download) (not the browser version) on the computer they will use during the workshop.
     2. On macOS, open **System Settings → Privacy & Security → Accessibility** and enable Zoom. macOS requires this for any app that controls the mouse and keyboard. Without it, Zoom's remote control silently does nothing.
     3. Sign in to the Zoom app before the workshop starts so there is no last-minute account friction.
-  - **During the session**, the participant screen-shares and then you click **View Options → Request Remote Control** on your side. They see a prompt and click Approve. You can only control them while they are actively screen sharing, and they can revoke at any time by pressing Escape or stopping the share. Full flow: <https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065790>.
+  - **During the session**, the participant screen-shares and then you click **View Options → Request Remote Control** on your side. They see a prompt and click Approve. You can only control them while they are actively screen sharing, and they can revoke at any time by pressing Escape or stopping the share. Full flow: [Zoom support article on remote control](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065790).
   - **One limitation:** you cannot copy-paste *onto* the participant's machine through remote control. Send snippets to paste via WhatsApp, Telegram, or the Zoom chat instead, and let them copy from there.
 
 ### Duration
