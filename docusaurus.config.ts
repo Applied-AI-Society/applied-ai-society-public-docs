@@ -131,11 +131,6 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: '',
-          items: [
-            {
-            },
-          ],
         },
       ],
       copyright: `© 2026 Applied AI Society`,
