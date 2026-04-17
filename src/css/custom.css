@@ -314,3 +314,97 @@ blockquote {
 .aas-footer-sep {
   opacity: 0.5;
 }
+
+/* ------------------------------------------------------------------ */
+/* Contact page                                                        */
+/* ------------------------------------------------------------------ */
+.aas-contact-hero {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  margin: 1.5rem 0 2rem;
+  padding: 1.5rem 1.75rem;
+  background: linear-gradient(135deg, rgba(230, 123, 53, 0.08), rgba(255, 193, 77, 0.08));
+  border-left: 4px solid var(--aas-orange, #E67B35);
+  border-radius: 0 12px 12px 0;
+}
+
+.aas-contact-buttons {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin: 0 0 3rem;
+}
+
+.aas-contact-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 32px;
+  font-size: 17px;
+  font-weight: 700;
+  border-radius: 12px;
+  text-decoration: none !important;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+.aas-contact-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.15);
+}
+.aas-contact-btn--primary {
+  color: white !important;
+  background: var(--aas-orange, #E67B35);
+}
+.aas-contact-btn--secondary {
+  color: white !important;
+  background: #1A1A1A;
+}
+.aas-contact-btn-arrow {
+  transition: transform 0.15s ease;
+}
+.aas-contact-btn:hover .aas-contact-btn-arrow {
+  transform: translateX(4px);
+}
+
+.aas-contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 18px;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.aas-contact-card {
+  padding: 1.5rem 1.75rem;
+  background: var(--ifm-card-background-color, white);
+  border: 1px solid rgba(230, 123, 53, 0.25);
+  border-radius: 14px;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.aas-contact-card:hover {
+  border-color: var(--aas-orange, #E67B35);
+  transform: translateY(-2px);
+}
+.aas-contact-card h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.15rem;
+}
+.aas-contact-card p {
+  margin: 0 0 0.5rem;
+  line-height: 1.55;
+  color: var(--ifm-color-emphasis-700);
+}
+.aas-contact-card a {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+[data-theme='dark'] .aas-contact-card {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(230, 123, 53, 0.35);
+}
+
+.aas-contact-substack {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem 0 2rem;
+}
