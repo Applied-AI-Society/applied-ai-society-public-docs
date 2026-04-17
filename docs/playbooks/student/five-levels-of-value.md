@@ -39,15 +39,19 @@ This is meta-work: working on the business (or the project, or the team), not in
 
 You invent new games entirely. Not just a better version of an existing business, but a new category of value creation that Coaches can build systems around and Players can execute within. You're expanding the economic pie, not just taking a bigger slice.
 
+Every great CEO is a game designer. They create the rules, the incentive structures, and the conditions that make the game worth playing. Jeff Bezos did this inside Amazon: he had teams compete with each other internally to generate more revenue. Capitalism within capitalism. That's why Amazon crushed: they didn't just play the market game, they built their own game inside it. Really American did something similar by incentivizing content creators via performance-based pay: if your video went viral, you got paid more. That's game design.
+
 This is the founder who sees that AI collapsed the cost of operations in their industry and builds a completely new business model around that reality. A new type of agency. A new type of media company. A new model for talent development. A new approach to education that couldn't exist before the tools existed.
 
 You don't get here by optimizing. You get here by seeing what's now possible that wasn't possible before and building for that reality.
 
 ## Level 4: Game Engine Creator
 
-You build the engine that powers many games. You're not creating one business or one category. You're building the methodology, the infrastructure, the enabling layer that makes it possible for Game Creators to create and Coaches to coach and Players to play.
+You build the engine that powers many games. You're not creating one business or one category. You're building the methodology, the infrastructure, the worldview that makes it possible for Game Creators to create, Coaches to coach, and Players to play.
 
-This is extremely rare. But it's the highest leverage position in the economy.
+Game Engine Creators operate in the realm of imagination. They expand what people even believe is possible. They give people new goals, new ways of seeing what's valuable in the first place. The American founding fathers were Game Engine Creators: they didn't start a business or even an industry. They created a system of self-governance (democracy) that defined the rules within which all future games would be played. Every CEO, every startup, every community organization in America operates inside the engine they built.
+
+This is extremely rare. But it's the highest leverage position in the economy. If you're making people aware that an entirely new way of living, working, or organizing is possible, you're not just creating a game. You're creating the engine.
 
 ## The Compression Effect
 
