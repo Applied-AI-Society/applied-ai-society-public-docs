@@ -286,3 +286,31 @@ blockquote {
 }
 
 
+
+/* ------------------------------------------------------------------ */
+/* Footer: top border + single-line CTA + copyright                    */
+/* ------------------------------------------------------------------ */
+.footer {
+  border-top: 2px solid var(--aas-orange, #E67B35);
+}
+.aas-footer-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.aas-footer-cta {
+  color: var(--aas-orange, #E67B35) !important;
+  font-weight: 700;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  transition: opacity 0.15s ease;
+}
+.aas-footer-cta:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+.aas-footer-sep {
+  opacity: 0.5;
+}

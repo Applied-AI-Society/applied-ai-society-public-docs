@@ -129,11 +129,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-        },
-      ],
-      copyright: `© 2026 Applied AI Society`,
+      copyright: `<span class="aas-footer-inline"><span>© 2026 Applied AI Society</span></span>`,
     },
     prism: {
       theme: prismThemes.github,
