@@ -73,6 +73,8 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [llms.txt and llms-full.txt](/docs/concepts/llms-txt): Two plain-text files that let any LLM consume your wiki at full fidelity, without you hosting a chatbot
 - [Personal Software](/docs/concepts/personal-software): Software built for one person's exact workflow. The future of personal AI for non-technical professionals.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): If people need a meeting with you to access what you know, your knowledge is in a bottleneck. And that bottleneck is you.
+- [Community of Practice](/docs/concepts/community-of-practice): A living people-centered organism that compounds. Not a meetup, not a Discord. People actively applying a craft, sharing field notes, making each other better.
+- [Soul of a Scene](/docs/concepts/soul-of-a-scene): Every scene exists because a person, or a small group of people, decided it would. The scene does not exist in cities where nobody has.
 
 ### Design Patterns
 

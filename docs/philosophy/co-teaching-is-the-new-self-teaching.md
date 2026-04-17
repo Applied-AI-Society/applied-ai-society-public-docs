@@ -84,3 +84,5 @@ But you can succeed with the right people around you.
 ## See Also
 
 - [Build Your Jarvis In Community](/docs/philosophy/build-your-jarvis-in-community): The practical companion to this doc. Why community is specifically how you cross the daily-commitment curve when building your Personal Agentic OS.
+- [Community of Practice](/docs/concepts/community-of-practice): The structure that makes co-teaching sustainable. A living people-centered organism that compounds.
+- [Soul of a Scene](/docs/concepts/soul-of-a-scene): Who holds a community of practice together.
