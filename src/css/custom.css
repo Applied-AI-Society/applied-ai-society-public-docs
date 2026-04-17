@@ -408,3 +408,52 @@ blockquote {
   justify-content: center;
   margin: 1.5rem 0 2rem;
 }
+
+/* AAS socials grid on Contact page */
+.aas-socials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px;
+  margin: 1.5rem 0 2.5rem;
+}
+.aas-social-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 1rem 1.25rem;
+  background: var(--ifm-card-background-color, white);
+  border: 1px solid rgba(230, 123, 53, 0.25);
+  border-radius: 12px;
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.aas-social-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--aas-orange, #E67B35);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+}
+.aas-social-emoji {
+  font-size: 1.75rem;
+  line-height: 1;
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(230, 123, 53, 0.12), rgba(255, 193, 77, 0.12));
+}
+.aas-social-title {
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: 2px;
+}
+.aas-social-sub {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-700);
+}
+[data-theme='dark'] .aas-social-card {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(230, 123, 53, 0.3);
+}
