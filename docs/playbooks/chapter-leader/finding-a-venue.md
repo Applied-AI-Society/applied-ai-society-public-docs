@@ -83,6 +83,20 @@ Ideas for finding partner venues:
 
 ---
 
+## Dealing With Bureaucracy
+
+When approaching potential venue partners, specifically legacy businesses or institutional partners like universities, be aware of bureaucracy. Be ready that the approval process might not be as fast as you'd expect.
+
+Our chapter in Bordeaux faced this firsthand: a local university had four layers of administrative checks just to book a room. The first layer alone took around ten days and a couple run-ins with unexcited administrators. Meanwhile, a local coworking space said yes in a single conversation.
+
+If you find yourself in a bureaucratic approval process, keep in mind:
+
+- **Find a local "benevolent dictator."** Look for one person inside the institution who actually has decision-making power and believes in what you're doing. A single champion who can cut through layers is worth more than following the official process.
+- **Explore multiple alternatives in parallel.** Do not settle on one venue until it is 100% secured. While you're waiting on a slow institution, be actively talking to coworking spaces, coding bootcamps, startup offices, or any other partner that can move fast.
+- **Know when to course correct.** If there is no benevolent dictator and no path to a fast decision, redirect your energy to other options. The event matters more than the venue. A smaller coworking space that says yes today beats a prestigious university that says maybe next month.
+
+---
+
 ## Start With Your Network
 
 Cold outreach is not the move. Warm introductions work better.
