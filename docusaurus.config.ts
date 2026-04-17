@@ -129,6 +129,15 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
+      links: [
+        {
+          title: '',
+          items: [
+            {
+            },
+          ],
+        },
+      ],
       copyright: `© 2026 Applied AI Society`,
     },
     prism: {
