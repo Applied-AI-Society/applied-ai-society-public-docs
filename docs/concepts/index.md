@@ -68,7 +68,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The humanity-scale commitment to AI that lifts the people most likely to be left behind, not just the already-advantaged. The global floor, not just the team floor.
 - [See Your Own Thinking](/docs/concepts/see-your-own-thinking): The metacognition unlock. When AI reflects your thinking back to you, you gain self-awareness that most people have never experienced.
 - [Imagination Economy Infrastructure](/docs/concepts/imagination-economy-infrastructure): Everything that collapses the distance between human intention and human flourishing. The stack includes energy, telecom, inference, harnesses, sovereignty, community, logistics, and more.
-- [Always-On Agents](/docs/concepts/always-on-agents): The shift from "AI that answers when asked" to "AI that works for you while you sleep"
+- [Always-On Agents](/docs/concepts/always-on-agents): The shift from “AI that answers when asked” to “AI that works for you while you sleep”
 - [Agent-Accessible Products](/docs/concepts/agent-accessible-products): If agents cannot use your product, agents will replace your product
 - [llms.txt and llms-full.txt](/docs/concepts/llms-txt): Two plain-text files that let any LLM consume your wiki at full fidelity, without you hosting a chatbot
 - [Personal Software](/docs/concepts/personal-software): Software built for one person's exact workflow. The future of personal AI for non-technical professionals.
@@ -84,7 +84,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [CLIPs](/docs/concepts/clips): The apps of the agentic era. Every major computing wave creates a platform and an ecosystem on top of it. Agents are next.
 - [The Slopacalypse](/docs/concepts/slopacalypse): When anyone can build anything, only the things built with genuine purpose will survive
 - [Compound Drift](/docs/concepts/compound-drift): Every stage in an AI chain that is less than provably good compounds with the next. Mediocrity does not average out; it multiplies.
-- [Slop Factory](/docs/concepts/slop-factory): The trap the "self-running business" dream leads to when nobody is watching the output. Profitability is the ground truth test.
+- [Slop Factory](/docs/concepts/slop-factory): The trap the “self-running business” dream leads to when nobody is watching the output. Profitability is the ground truth test.
 
 ### Frameworks
 

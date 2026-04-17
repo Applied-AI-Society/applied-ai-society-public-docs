@@ -37,9 +37,9 @@ Instead of asking AI to do the work for you, ask it to make you better at doing 
 
 Here is what this looks like in practice:
 
-**Use AI as a coach, not a ghostwriter.** When you are writing something important, do not ask the AI to rewrite it for you. Ask it to critique what you wrote. Tell it: "Make suggestions and annotations, but do not rewrite this for me. Interrogate me on why I made these choices." The AI will analyze your writing with more precision than any human editor. You will become a better writer. Not because it wrote for you, but because it trained you.
+**Use AI as a coach, not a ghostwriter.** When you are writing something important, do not ask the AI to rewrite it for you. Ask it to critique what you wrote. Tell it: “Make suggestions and annotations, but do not rewrite this for me. Interrogate me on why I made these choices.” The AI will analyze your writing with more precision than any human editor. You will become a better writer. Not because it wrote for you, but because it trained you.
 
-**Use AI as a sparring partner, not a decision-maker.** When you are facing a strategic decision, do not ask "what should I do?" Ask: "Here is my situation, here is what I am considering, what am I missing? Where are my blind spots? Steelman the opposing view." Now you are exercising your judgment, not outsourcing it. This is what [Level 2](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses) of applied AI actually looks like.
+**Use AI as a sparring partner, not a decision-maker.** When you are facing a strategic decision, do not ask “what should I do?” Ask: “Here is my situation, here is what I am considering, what am I missing? Where are my blind spots? Steelman the opposing view.” Now you are exercising your judgment, not outsourcing it. This is what [Level 2](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses) of applied AI actually looks like.
 
 **Use AI for the robot work, stay human for the human work.** There is a clear line between tasks that require your judgment and tasks that do not. Data entry, scheduling, formatting, repetitive administrative work: that is [robot mode](/docs/concepts/robot-mode). Automate all of it. But the creative decisions, the relationship building, the strategic thinking, the writing that carries your voice: that is where you need to stay in the driver's seat.
 
@@ -49,7 +49,7 @@ The principle is simple: **strategy is the new execution.** AI is handling more 
 
 How do you know if you are crutching? Ask yourself:
 
-1. **Could I do this without AI?** If the answer is "not anymore," you have a problem. AI should make you faster, not dependent.
+1. **Could I do this without AI?** If the answer is “not anymore,” you have a problem. AI should make you faster, not dependent.
 2. **Am I getting better at this skill, or worse?** If your writing, thinking, or decision-making has declined since you started using AI, you are crutching.
 3. **Do I review and challenge the output, or just accept it?** If you copy-paste what the AI gives you without critical evaluation, you are crutching.
 4. **Am I using AI to avoid the hard part?** The hard part (the wrestling, the thinking, the discomfort of not knowing the answer yet) is where growth happens. Skipping it is comfortable. It is also where atrophy starts.

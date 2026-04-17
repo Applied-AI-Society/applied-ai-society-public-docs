@@ -13,7 +13,7 @@ title: "Compound Drift"
 
 You chain transformations. Transcript goes into summarizer. Summary goes into blog draft. Draft goes into scheduler. Scheduler auto-publishes.
 
-Each stage looks fine in isolation. The summary "captures the gist." The draft "reads okay." The schedule "fires on time." You inspect the output at launch, approve it, and move on.
+Each stage looks fine in isolation. The summary “captures the gist.” The draft “reads okay.” The schedule “fires on time.” You inspect the output at launch, approve it, and move on.
 
 Then it runs a thousand times.
 
@@ -33,9 +33,9 @@ Compound drift is native to chained AI. Not a bug in a specific pipeline. A prop
 
 **Each step in your AI chain should be clearly provably good.**
 
-If you cannot point at any stage and say "here is how I know this stage produces correct output, on the full distribution of inputs this stage sees," then that stage is probably drifting. The chain is drifting faster.
+If you cannot point at any stage and say “here is how I know this stage produces correct output, on the full distribution of inputs this stage sees,” then that stage is probably drifting. The chain is drifting faster.
 
-Provably good does not mean "looks fine when I spot-checked a few outputs." It means a real evaluation harness, a real distribution of test cases, a real pass rate you would bet money on.
+Provably good does not mean “looks fine when I spot-checked a few outputs.” It means a real evaluation harness, a real distribution of test cases, a real pass rate you would bet money on.
 
 ## Examples you have probably seen
 
@@ -56,7 +56,7 @@ Provably good does not mean "looks fine when I spot-checked a few outputs." It m
 - **Version every stage.** When a model or prompt changes, re-evaluate downstream. Drift does not always come from your end.
 - **Keep humans close to the outputs that ship externally.** The final output is where your reputation lives.
 
-Compound drift is not solved by "trust the AI more." It is solved by engineering each stage with the rigor you would apply to any other probabilistic system.
+Compound drift is not solved by “trust the AI more.” It is solved by engineering each stage with the rigor you would apply to any other probabilistic system.
 
 ## The connection to Slop Factory
 

@@ -11,7 +11,7 @@ title: "The Self-Improving Human"
 
 ## You Are Already a Cyborg
 
-The word "cyborg" gets loaded up with neural implants and sci-fi paranoia. Strip that away. A cyborg is a human whose capability is extended by technology. By that definition, almost every adult reading this has been a cyborg for fifteen years. The smartphone is the implant. It is just non-invasive.
+The word “cyborg” gets loaded up with neural implants and sci-fi paranoia. Strip that away. A cyborg is a human whose capability is extended by technology. By that definition, almost every adult reading this has been a cyborg for fifteen years. The smartphone is the implant. It is just non-invasive.
 
 The same device that can 100x your ability to think, communicate, and build is sitting in your pocket right now. Most people use it to doomscroll. That is still cyborg behavior. It is degraded cyborg behavior. The augmentation is happening either way. The only question is the direction.
 
@@ -39,7 +39,7 @@ The Empowered Cyborg is what [hyperagency](/docs/concepts/hyperagency) looks lik
 
 A self-improving human is not a better human. It is a human who has accepted that the suit is part of the system and has decided to upgrade it on purpose. The practice is simple and boring. It is also the thing almost no one actually does.
 
-- **Externalize your brain.** Get what is in your head into plain markdown your AI can read. This is the [externalization move](/docs/concepts/externalize-your-brain). Without it, every upgrade hits a ceiling of "the AI does not know who I am."
+- **Externalize your brain.** Get what is in your head into plain markdown your AI can read. This is the [externalization move](/docs/concepts/externalize-your-brain). Without it, every upgrade hits a ceiling of “the AI does not know who I am.”
 - **Keep a wish list of upgrades.** Anything you wish your system could do, write it down. A running list. Revisit it when you have 30 minutes to spend on tooling. Most people try to wire up everything at once, burn out, and quit. The wish list spreads the load across months and makes the work additive.
 - **Run a daily brain dump.** Ten minutes of voice-to-text into your [personal agentic OS](/docs/concepts/personal-agentic-os). The raw material of your life goes in. Over weeks, the system thickens into a thinking partner that actually knows you.
 - **Evaluate your stack every month.** What is degrading you. What is multiplying you. Cut the first. Upgrade the second. Treat your apps, subscriptions, and notification settings the way a mechanic treats a car. You get what you maintain.

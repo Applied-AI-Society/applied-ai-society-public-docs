@@ -21,7 +21,7 @@ Without the harness, the model is brilliant but isolated. It cannot reach into t
 
 Humans have the same architecture.
 
-You were born with raw capability: intelligence, creativity, intuition, judgment, empathy, taste. These are your "model weights." They are extraordinary. But they are also, on their own, not enough.
+You were born with raw capability: intelligence, creativity, intuition, judgment, empathy, taste. These are your “model weights.” They are extraordinary. But they are also, on their own, not enough.
 
 Without a harness, your raw talent sits isolated. You have brilliant ideas but no way to execute them at scale. You have deep knowledge but no network to leverage it through. You have ambition but no tools to translate it into output. You are Claude Opus in a chat window: powerful, underutilized, and slowly forgetting what matters because nothing is persisting.
 

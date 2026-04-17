@@ -16,7 +16,7 @@ These conventions emerged organically. Different teams, different tools, differe
 
 ## What's Missing
 
-Nobody has standardized the answer to: "How do I wire this library's capabilities into my project?"
+Nobody has standardized the answer to: “How do I wire this library's capabilities into my project?”
 
 That's not installation (getting the tool on your machine). It's not documentation (understanding what it does). It's integration: the concrete steps an agent needs to take to make a library work inside an existing, unknown codebase.
 
@@ -27,6 +27,6 @@ Applied AI Society identifies emerging patterns in the agent tooling ecosystem a
 Our standards so far:
 
 1. [INTEGRATE.md](/docs/standards/integrate-md): a file format for teaching AI agents how to wire a library into any codebase.
-2. [ALIGN.md](/docs/standards/align-md): a file format for teaching AI agents how to evaluate alignment between organizations, people, or entities. It answers the question: "Are we aligned? Should we work together?"
+2. [ALIGN.md](/docs/standards/align-md): a file format for teaching AI agents how to evaluate alignment between organizations, people, or entities. It answers the question: “Are we aligned? Should we work together?”
 
 INTEGRATE.md is technical (how to wire things in). ALIGN.md is relational (whether to work together at all). Together, they cover two of the most common questions agents face when operating across organizational boundaries.

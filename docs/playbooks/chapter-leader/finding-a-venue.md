@@ -102,13 +102,13 @@ When you're chatting with a friend who might know a venue owner, keep it natural
 
 **What to cover:**
 
-- **What it is**: "I'm starting a monthly meetup called Applied AI Live. It's for engineers who help businesses implement AI, and business owners who want to understand what's possible."
+- **What it is**: “I'm starting a monthly meetup called Applied AI Live. It's for engineers who help businesses implement AI, and business owners who want to understand what's possible.”
 
-- **What happens**: "Each event has a practitioner sharing a real case study and a live session where an engineer solves a real business problem on the spot. It's hands-on, not a lecture."
+- **What happens**: “Each event has a practitioner sharing a real case study and a live session where an engineer solves a real business problem on the spot. It's hands-on, not a lecture.”
 
-- **Who shows up**: "The audience is technical, entrepreneurial. Engineers, founders, business owners. People building things."
+- **Who shows up**: “The audience is technical, entrepreneurial. Engineers, founders, business owners. People building things.”
 
-- **The win-win**: "We're looking for a recurring venue. For the right space, it's a good deal. They get 50-75 smart, professional people in their building every month. Great for incubators, coworking spaces, VCs. Anyone who wants to be in front of builders."
+- **The win-win**: “We're looking for a recurring venue. For the right space, it's a good deal. They get 50-75 smart, professional people in their building every month. Great for incubators, coworking spaces, VCs. Anyone who wants to be in front of builders.”
 
 If your friend knows someone, they'll offer to connect you. If it makes sense, they might just mention it to the venue person themselves. Either way, it feels organic because it is.
 

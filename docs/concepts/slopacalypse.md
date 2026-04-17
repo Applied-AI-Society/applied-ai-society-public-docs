@@ -17,7 +17,7 @@ Apps that solve problems nobody has. Content that says nothing new. Features tha
 
 This is the slopacalypse. Not a future risk. The present reality.
 
-The tools keep getting better. The cost keeps going down. And the percentage of what gets built that actually matters to anyone keeps shrinking. We are drowning in software that was born from "I wonder if I could build this" rather than "someone needs this and I am the right person to build it."
+The tools keep getting better. The cost keeps going down. And the percentage of what gets built that actually matters to anyone keeps shrinking. We are drowning in software that was born from “I wonder if I could build this” rather than “someone needs this and I am the right person to build it.”
 
 Consider Y Combinator CEO Garry Tan, who posted in March 2026 about shipping ~37,000 lines of code per day using AI tools. The tech community quickly dissected one of the resulting sites and found bloated server requests, rookie architectural mistakes, and the kind of code that optimizes for volume over substance. This is not a criticism of Tan specifically. It is a perfect illustration of the slopacalypse's central trap: the activity of building feels like progress. Lines of code feel like progress. Token spend feels like progress. None of it is progress until a real human being's life is measurably better. If the head of the world's most prestigious startup accelerator can confuse output with outcome, the trap is real for all of us.
 
@@ -51,7 +51,7 @@ Think about what Tony Stark's Jarvis actually is. It is not a general-purpose ch
 
 This is the direction things are heading.
 
-You can now model your customers in high fidelity. Not "customer segments" or "personas." Actual individual people. Their business, their workflows, their pain points, their communication style, their goals. AI makes it possible to build systems that feel (or are) custom-made for specific individuals.
+You can now model your customers in high fidelity. Not “customer segments” or “personas.” Actual individual people. Their business, their workflows, their pain points, their communication style, their goals. AI makes it possible to build systems that feel (or are) custom-made for specific individuals.
 
 This is the new luxury. This is the new bar for technology. Not another dashboard that looks like every other dashboard. A system that knows you and adapts to you.
 

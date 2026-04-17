@@ -19,13 +19,13 @@ This is the most common state for people who have not yet [externalized their br
 
 The shift happens when you see your own thinking.
 
-## What "Seeing Your Thinking" Means
+## What “Seeing Your Thinking” Means
 
 When you brain dump into a system that has your full context (your goals, your values, your projects, your relationships, your history) and an intelligent agent responds back to you, something specific happens that cannot happen in your own head alone.
 
 The agent reflects your thinking back to you. Not as a mirror that shows you what you already know, but as an intelligent system that can identify the patterns, the contradictions, the priorities you are avoiding, the connections between problems you thought were separate.
 
-You say: "I feel stuck." The agent, operating from months of your context, says: "You have mentioned this three times in the last two weeks. The blocker appears to be X. You have not addressed it because Y. Based on your stated priorities, here is what resolving it would unlock."
+You say: “I feel stuck.” The agent, operating from months of your context, says: “You have mentioned this three times in the last two weeks. The blocker appears to be X. You have not addressed it because Y. Based on your stated priorities, here is what resolving it would unlock.”
 
 That is not a generic chatbot response. That is a system that knows you well enough to hold you accountable to your own goals. It can do this because you [externalized your brain](/docs/concepts/externalize-your-brain) into a [context lake](/docs/concepts/context-lake) that gives the agent real knowledge of your situation.
 
@@ -41,11 +41,11 @@ Your life should work the same way. The problems, bottlenecks, decisions, and go
 
 When you externalize your brain and give your AI full context, it can start filing issues against your life. Not because you asked it to look for problems, but because it has enough context to notice them.
 
-"You committed to reaching out to three potential partners this quarter. It is April and you have reached out to zero."
+“You committed to reaching out to three potential partners this quarter. It is April and you have reached out to zero.”
 
-"You described this project as your top priority, but your calendar shows you spent twelve hours on it last month and forty hours on something you described as 'low priority.'"
+“You described this project as your top priority, but your calendar shows you spent twelve hours on it last month and forty hours on something you described as 'low priority.'”
 
-"You have been complaining about this bottleneck for six weeks. Here is a concrete plan to address it. Do you want to start today?"
+“You have been complaining about this bottleneck for six weeks. Here is a concrete plan to address it. Do you want to start today?”
 
 That is not nagging. That is an intelligent system doing what a great advisor does: reflecting your own stated intentions back to you so you can see the gap between what you say matters and what you are actually doing. The difference is that this advisor has your full context, never forgets, and is available every day.
 
@@ -65,7 +65,7 @@ Most people have never had all three at once. They journal but do not review. Th
 
 If you are a practitioner helping someone set up their [Personal Agentic OS](/docs/concepts/personal-agentic-os), this is the most important transformation to facilitate.
 
-The technical setup matters. The skill files matter. But the moment that changes everything is when your client sees their own thinking reflected back to them for the first time and realizes: "I did not know that about myself."
+The technical setup matters. The skill files matter. But the moment that changes everything is when your client sees their own thinking reflected back to them for the first time and realizes: “I did not know that about myself.”
 
 Getting someone to that moment requires:
 
@@ -73,7 +73,7 @@ Getting someone to that moment requires:
 2. **Prime the AI to drive progress.** Configure their system prompt so the AI does not just answer questions. It proactively identifies bottlenecks, challenges inconsistencies, and holds the user accountable to their stated goals. The AI should treat their life like an important repository where issues get filed and worked on.
 3. **Get them a result on day one.** The metacognition unlock does not happen through explanation. It happens through experience. When their AI says something about their situation that they had not consciously articulated, something true and useful and specific, that is [the encounter](/docs/concepts/the-encounter). After that, they get it.
 
-Many people have never had a thinking partner that could hold all their context. They have never had someone (or something) that remembers what they said three weeks ago and connects it to what they are saying today. When they experience that for the first time, the shift from "this is a tool" to "this is how I operate" happens fast.
+Many people have never had a thinking partner that could hold all their context. They have never had someone (or something) that remembers what they said three weeks ago and connects it to what they are saying today. When they experience that for the first time, the shift from “this is a tool” to “this is how I operate” happens fast.
 
 ## The Difference Between Complaining and Addressing
 

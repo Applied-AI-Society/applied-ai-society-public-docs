@@ -17,7 +17,7 @@ This page walks through what makes it effective.
 # Add CESP Sound Pack Support to This CLI
 ```
 
-States exactly what the agent is building. Not "CESP Integration" or "Sound Pack Setup." The title names the library (CESP), the capability (sound pack support), and the target (this CLI).
+States exactly what the agent is building. Not “CESP Integration” or “Sound Pack Setup.” The title names the library (CESP), the capability (sound pack support), and the target (this CLI).
 
 ## The Opening Paragraph
 
@@ -46,7 +46,7 @@ callbacks, event emitters -- whatever this CLI uses). Understand how
 events flow through the system before writing any integration code.
 ```
 
-This gets its own section so the agent treats it as a distinct step, not something buried in the intro. The parenthetical list ("command lifecycle, hooks, callbacks, event emitters") gives the agent multiple patterns to search for. It doesn't assume the target codebase uses any specific pattern.
+This gets its own section so the agent treats it as a distinct step, not something buried in the intro. The parenthetical list (“command lifecycle, hooks, callbacks, event emitters”) gives the agent multiple patterns to search for. It doesn't assume the target codebase uses any specific pattern.
 
 ## The Concept Mapping Table
 
@@ -59,9 +59,9 @@ This gets its own section so the agent treats it as a distinct step, not somethi
 | input.required | Blocked waiting for user input or approval |
 ```
 
-This is the core of the integration. CESP has categories. The target CLI has events. The table tells the agent how to bridge them. The "When to emit" column uses language that applies to any CLI, not CESP-specific terminology.
+This is the core of the integration. CESP has categories. The target CLI has events. The table tells the agent how to bridge them. The “When to emit” column uses language that applies to any CLI, not CESP-specific terminology.
 
-The file splits categories into "Core" (implement all 6) and "Extended" (optional). This gives the agent clear priorities.
+The file splits categories into “Core” (implement all 6) and “Extended” (optional). This gives the agent clear priorities.
 
 ## The Data Format Section
 
@@ -148,4 +148,4 @@ The CESP INTEGRATE.md does not include:
 - Changelog or version history
 - Comparisons to other sound systems
 
-Everything in the file serves one purpose: getting the agent from "codebase with no sound support" to "codebase with working CESP integration."
+Everything in the file serves one purpose: getting the agent from “codebase with no sound support” to “codebase with working CESP integration.”

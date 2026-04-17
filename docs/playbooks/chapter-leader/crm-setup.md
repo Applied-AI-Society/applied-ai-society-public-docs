@@ -69,7 +69,7 @@ Airtable is the go-to CRM for this system because:
    - **Build an app with Omni:** Airtable's AI assistant
    - **Build an app on your own**
 
-**Recommendation:** Click **"Build an app on your own"**. Omni usually creates some unnecessary tables/interfaces you'll likely need to customize or delete later.
+**Recommendation:** Click **“Build an app on your own”**. Omni usually creates some unnecessary tables/interfaces you'll likely need to customize or delete later.
 
 A new base will be created with default fields.
 
@@ -79,11 +79,11 @@ Set up these core fields first.
 
 > **Tip:** Use camelCase for field names (e.g., `firstName` not `First Name`), it may be useful for automations later on.
 
-**Rename the default "Name" field:**
+**Rename the default “Name” field:**
 
 | Field | Type | Notes |
 |-------|------|-------|
-| `firstName` | Single line text | Primary field. Rename from default "Name" so you can use it as variable in outreach automations. |
+| `firstName` | Single line text | Primary field. Rename from default “Name” so you can use it as variable in outreach automations. |
 
 **Create these additional fields:**
 

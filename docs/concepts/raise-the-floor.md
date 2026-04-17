@@ -41,9 +41,9 @@ The Applied AI Society does the same thing at the community level. Every concept
 
 ### Propagated Best Practices
 
-Beyond explicit skills, raising the floor means propagating the implicit knowledge that makes people effective. What does "good" look like? What questions should you ask before starting a project? What mistakes do people commonly make?
+Beyond explicit skills, raising the floor means propagating the implicit knowledge that makes people effective. What does “good” look like? What questions should you ask before starting a project? What mistakes do people commonly make?
 
-This is why Virgil Abloh's "Free Game" was revolutionary. He was not just sharing techniques. He was sharing the operating system behind his creative process: how he sourced materials, how he thought about design, how he built brands. The details that people normally gatekeep because they feel like competitive advantage. Virgil understood that in a world where knowledge flows freely, the advantage goes to the community that shares best, not the individual who hoards most.
+This is why Virgil Abloh's “Free Game” was revolutionary. He was not just sharing techniques. He was sharing the operating system behind his creative process: how he sourced materials, how he thought about design, how he built brands. The details that people normally gatekeep because they feel like competitive advantage. Virgil understood that in a world where knowledge flows freely, the advantage goes to the community that shares best, not the individual who hoards most.
 
 The same logic applies to AI adoption. The companies where one person's configuration discovery becomes a company-wide default will outpace companies where everyone reinvents the wheel.
 
@@ -71,7 +71,7 @@ Each cycle raises the floor higher. The organization's capability compounds not 
 **If you are a team lead or manager:**
 1. Create a shared folder (or repo) for skill files. Even a Google Drive with markdown files works to start.
 2. When someone on your team discovers a useful AI workflow, ask them to write it down as a skill file. Ten minutes of documentation saves dozens of hours across the team.
-3. Make skill sharing part of team rituals. A five-minute "skill of the week" in your standup goes further than a quarterly AI training session.
+3. Make skill sharing part of team rituals. A five-minute “skill of the week” in your standup goes further than a quarterly AI training session.
 
 **If you are a practitioner working with clients:**
 1. Every engagement should produce at least one reusable skill file. The client's specific workflow encoded as an [instruction file](/docs/concepts/instruction-files).

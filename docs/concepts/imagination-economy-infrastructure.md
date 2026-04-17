@@ -65,7 +65,7 @@ This framing carries an implicit moral claim: the imagination economy should ser
 
 The infrastructure itself is neutral. The question is who builds it, who controls it, and what values they encode into it. This is one of the reasons [sovereignty](/docs/concepts/the-sovereignty-stack) matters so much: if the infrastructure is controlled by entities that do not share your values, your imagination is constrained by their agenda. Owning your stack is not just a technical decision. It is a moral one.
 
-We do not pretend to have a universal answer for what "good" means. We have our own convictions, shaped by our faith and our experience. What we can say with confidence: infrastructure that concentrates power and removes human agency is not imagination economy infrastructure. It is a prison with better UX. The test is simple. Does this make people more capable, more free, more able to create? Or does it make them more dependent?
+We do not pretend to have a universal answer for what “good” means. We have our own convictions, shaped by our faith and our experience. What we can say with confidence: infrastructure that concentrates power and removes human agency is not imagination economy infrastructure. It is a prison with better UX. The test is simple. Does this make people more capable, more free, more able to create? Or does it make them more dependent?
 
 ---
 

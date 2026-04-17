@@ -12,7 +12,7 @@ title: "Learn the Harness, Not the Wrapper"
 
 Somewhere in almost every [Supersuit Up workshop](/docs/workshops/supersuit-up), an attendee asks some version of this:
 
-> "I'm having a hard time with this whole VS Code plus terminal thing. Claude Cowork is just friendlier. Isn't that the same thing, basically?"
+> “I'm having a hard time with this whole VS Code plus terminal thing. Claude Cowork is just friendlier. Isn't that the same thing, basically?”
 
 It is a great question. The friction is real. Here is the honest answer.
 
@@ -26,7 +26,7 @@ Two terms to keep straight.
 
 **An agentic harness** is the actual engine that reads your files, runs skills, calls models, and executes tool calls. [Claude Code](/docs/playbooks/practitioner/claude-code-setup) is a harness. [Hermes](/docs/playbooks/practitioner/hermes-setup) is a harness. [Codex](/docs/playbooks/practitioner/codex-setup) is a harness. Cursor's agent is a harness. These run in the terminal (or an IDE) and give you direct access to the full agentic loop: context, files, skills, commands, tools.
 
-**A wrapper** is a friendlier UI built on top of a specific harness, usually by the vendor that makes the harness. Claude Cowork is a wrapper: it is [Anthropic's Desktop-app layer over Claude Code](https://claude.com/product/cowork), billed as "Claude Code without the code." You point it at a folder, it reads and writes files in that folder, and you interact through a chat window. It is the same underlying harness, with the primitives hidden behind an opinionated interface.
+**A wrapper** is a friendlier UI built on top of a specific harness, usually by the vendor that makes the harness. Claude Cowork is a wrapper: it is [Anthropic's Desktop-app layer over Claude Code](https://claude.com/product/cowork), billed as “Claude Code without the code.” You point it at a folder, it reads and writes files in that folder, and you interact through a chat window. It is the same underlying harness, with the primitives hidden behind an opinionated interface.
 
 Wrappers look like a shortcut. They are a trap.
 
@@ -67,7 +67,7 @@ VS Code is the vehicle. The harness is the engine. Your files are the cargo. The
 
 ---
 
-## "But &lt;Insert Desktop App Version of Some CLI&gt; Is So Much Friendlier"
+## “But &lt;Insert Desktop App Version of Some CLI&gt; Is So Much Friendlier”
 
 This applies to any vendor desktop wrapper: Claude Desktop, Claude Code Desktop App (Cowork), ChatGPT Desktop, Codex Desktop, Gemini Desktop, Copilot Desktop, and every one that ships next. The pattern is the same: a polished-looking wrapper over a CLI or model that the vendor controls end-to-end.
 
@@ -75,11 +75,11 @@ Sometimes they are great. Sometimes they are not.
 
 Here is what the developer Theo wrote after spending an hour in the new Claude Code desktop app:
 
-> "I feel bad dunking on them so much but it's genuinely absurd how bad the new Claude Code desktop app is. You can feel the vibe code leaking everywhere. Every 'feature' is barely integrated and full of edge cases that weren't considered. Every menu feels barren, stuffed in last second for some random toggle. Every hotkey breaks as soon as you try to do anything else. I've lost track of how many bugs I've encountered. I found at least 40 in under an hour... Any one of these issues would have been enough for me to do a massive post-mortem and likely fire someone. A $400b company shipping this is absurd."
+> “I feel bad dunking on them so much but it's genuinely absurd how bad the new Claude Code desktop app is. You can feel the vibe code leaking everywhere. Every 'feature' is barely integrated and full of edge cases that weren't considered. Every menu feels barren, stuffed in last second for some random toggle. Every hotkey breaks as soon as you try to do anything else. I've lost track of how many bugs I've encountered. I found at least 40 in under an hour... Any one of these issues would have been enough for me to do a massive post-mortem and likely fire someone. A $400b company shipping this is absurd.”
 
 [Full thread](https://x.com/theo/status/2044680030706663726). He came back the same day with a sharper line:
 
-> "The Claude Code Desktop app is an affront on software. As developers, we should be offended that they chose to ship something this awful."
+> “The Claude Code Desktop app is an affront on software. As developers, we should be offended that they chose to ship something this awful.”
 
 [Follow-up](https://x.com/theo/status/2044697225666929151).
 
@@ -97,7 +97,7 @@ People who learn the harness directly can use Cowork whenever they want. People 
 
 ---
 
-## "But VS Code Is Ugly"
+## “But VS Code Is Ugly”
 
 Fair. It is an IDE. Lots going on.
 
@@ -136,7 +136,7 @@ The reason the [Applied AI Society](/docs/about) exists is to help you build you
 
 What we are actually teaching you: **how to own your operational reality in a format that outlives any single vendor, any single harness, and any single wrapper.**
 
-That is a different product than "how to be a great Cowork user." The first is portable. The second is rented.
+That is a different product than “how to be a great Cowork user.” The first is portable. The second is rented.
 
 ---
 

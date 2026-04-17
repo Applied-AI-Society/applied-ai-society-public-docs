@@ -54,13 +54,13 @@ This is observable in Claude Code's architecture (see [Anatomy of a Harness](/do
 
 This mirrors what we see in human performance. A writer with a blank page and unlimited time produces worse work than a writer with a word count and a deadline. A chef with 200 ingredients makes a worse meal than a chef with 5. Constraints force prioritization, and prioritization forces quality.
 
-The [Game Design](/docs/concepts/game-design) article calls these "rules" and "guardrails." The permission surface is where you implement them in code.
+The [Game Design](/docs/concepts/game-design) article calls these “rules” and “guardrails.” The permission surface is where you implement them in code.
 
 ---
 
 ## What Is a Permission Surface?
 
-The permission surface is the total set of actions an agent is authorized to take. It is analogous to "attack surface" in security: the larger it is, the more things can go wrong.
+The permission surface is the total set of actions an agent is authorized to take. It is analogous to “attack surface” in security: the larger it is, the more things can go wrong.
 
 A minimal permission surface means:
 - The agent has exactly the tools it needs for its task, and no others
@@ -73,7 +73,7 @@ A maximal permission surface means:
 - It is maximally capable and maximally dangerous
 - A single failure mode cascades into every connected system
 
-Most people default to maximal permission surfaces because they want the agent to be "flexible." This is the same instinct that leads organizations to give every employee admin access because it is easier than designing proper roles. It works until it does not.
+Most people default to maximal permission surfaces because they want the agent to be “flexible.” This is the same instinct that leads organizations to give every employee admin access because it is easier than designing proper roles. It works until it does not.
 
 ---
 
@@ -83,12 +83,12 @@ The [Intent Engineering](/docs/concepts/intent-engineering) article describes th
 
 When you configure permissions, you are answering intent questions:
 
-- "What is this agent for?" (defines which tools it needs)
-- "What should it never do?" (defines the deny rules)
-- "What requires human judgment?" (defines the ask rules)
-- "What can it do freely?" (defines the allow rules)
+- “What is this agent for?” (defines which tools it needs)
+- “What should it never do?” (defines the deny rules)
+- “What requires human judgment?” (defines the ask rules)
+- “What can it do freely?” (defines the allow rules)
 
-These are not security questions. They are business design questions. "The agent can draft proposals but cannot send them" is a statement about organizational trust, delegation boundaries, and the current stage of the agent's maturity. It is intent, expressed as configuration.
+These are not security questions. They are business design questions. “The agent can draft proposals but cannot send them” is a statement about organizational trust, delegation boundaries, and the current stage of the agent's maturity. It is intent, expressed as configuration.
 
 And like all intent engineering, it evolves. An agent that starts with narrow permissions earns broader ones as trust is established. The permission surface grows deliberately, not by default.
 
@@ -107,13 +107,13 @@ Everything is denied unless explicitly allowed. Slow to set up, but predictable 
 ### 3. Graduated (Growth Mode)
 Agents start closed and earn permissions through demonstrated reliability. This is the most sophisticated approach and the one that scales best. It maps to how humans earn trust in organizations: new employees have limited access, and scope grows with demonstrated competence.
 
-Claude Code uses a version of graduated permissions: the user starts by approving each action, then sets "always allow" rules for actions they trust. The permission surface grows organically from observed behavior, not from upfront configuration.
+Claude Code uses a version of graduated permissions: the user starts by approving each action, then sets “always allow” rules for actions they trust. The permission surface grows organically from observed behavior, not from upfront configuration.
 
 ---
 
 ## For Practitioners
 
-When you deploy an agent for a client, the permission surface is one of the first things you design. It is tempting to skip this step and give the agent full access so it can "do its job." Resist that temptation.
+When you deploy an agent for a client, the permission surface is one of the first things you design. It is tempting to skip this step and give the agent full access so it can “do its job.” Resist that temptation.
 
 **Start with the minimum viable permission surface.** What is the smallest set of capabilities the agent needs to accomplish its core task? Start there. Expand only when a real need emerges, not a hypothetical one.
 
@@ -121,7 +121,7 @@ When you deploy an agent for a client, the permission surface is one of the firs
 
 **Make permissions auditable.** The client should be able to look at a configuration file and understand exactly what the agent can and cannot do. If the permission model is too complex to explain in a paragraph, it is too complex.
 
-**Document the "why" behind each deny rule.** "Never allow the agent to delete customer records" is a rule. "Because a false positive in our churn prediction model could trigger mass deletion, and we have no undo mechanism" is the intent behind the rule. Document both.
+**Document the “why” behind each deny rule.** “Never allow the agent to delete customer records” is a rule. “Because a false positive in our churn prediction model could trigger mass deletion, and we have no undo mechanism” is the intent behind the rule. Document both.
 
 ---
 

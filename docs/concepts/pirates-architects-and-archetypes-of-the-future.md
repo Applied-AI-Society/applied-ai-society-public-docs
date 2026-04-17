@@ -42,9 +42,9 @@ AI changes that. The architect's work, the scaffolding, the structure, the clean
 - Intuits what people want before they can articulate it.
 - Builds fast, iterates faster, throws out work easily.
 - Struggles with rigid structure but thrives in rough terrain.
-- Often diagnosed ADHD, often not diagnosed anything, often told they are "all over the place."
+- Often diagnosed ADHD, often not diagnosed anything, often told they are “all over the place.”
 
-A pirate with AI is a different creature than a pirate without AI. One of our community members, diagnosed with ADHD early, described using his Jarvis as feeling "completely limitless." Not because the AI replaced his thinking, because it finally gave his imagination a channel to reach reality.
+A pirate with AI is a different creature than a pirate without AI. One of our community members, diagnosed with ADHD early, described using his Jarvis as feeling “completely limitless.” Not because the AI replaced his thinking, because it finally gave his imagination a channel to reach reality.
 
 ---
 
@@ -77,7 +77,7 @@ In the meantime, the [AAS roles](/docs/roles) page names some of the economic sh
 
 There are more archetypes than these, and most people are a blend rather than a pure type. The point is to stop pretending the cookie cutter fits you, and start building around what you actually are.
 
-The hidden cost of the old economy was that most people never learned what their own fit was. They got routed through a generic pipeline that rewarded a narrow band of neurotypes and silently filed everyone else under "underachiever." Talented minds spent years grinding against roles that were never theirs.
+The hidden cost of the old economy was that most people never learned what their own fit was. They got routed through a generic pipeline that rewarded a narrow band of neurotypes and silently filed everyone else under “underachiever.” Talented minds spent years grinding against roles that were never theirs.
 
 In the applied AI economy, self-knowledge about your neurotype becomes a primary lever of agency. If you know you are a pirate, you build partnerships and tooling that let you explore without drowning. If you know you are an architect, you find pirates whose raw material is worth shaping. If you know you are neither (synthesizer, connector, storyteller, something else), you optimize for that instead of pretending you are one of the two archetypes in the room.
 

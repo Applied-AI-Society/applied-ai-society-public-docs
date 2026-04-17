@@ -15,13 +15,13 @@ Tokens are not a metaphor. They are the literal product of AI infrastructure. Ev
 
 ## Why This Matters for the Applied AI Economy
 
-The shift from "AI as a tool" to "AI as a worker" means tokens are no longer just a billing unit on your OpenAI invoice. They are becoming a core economic input, like electricity or bandwidth.
+The shift from “AI as a tool” to “AI as a worker” means tokens are no longer just a billing unit on your OpenAI invoice. They are becoming a core economic input, like electricity or bandwidth.
 
-The scale is real. At NVIDIA's GTC 2026 keynote, Jensen Huang described at least [$1 trillion in AI infrastructure](https://blogs.nvidia.com/blog/gtc-2026-news/) being built through 2027, much of it dedicated to token production. He called data centers "token factories" and framed token throughput per watt as the metric that will define AI infrastructure economics for the next decade. Computing demand for AI has increased roughly one million times in the last two years, driven by the shift from training to inference: every time an AI thinks, reasons, or acts, it generates tokens.
+The scale is real. At NVIDIA's GTC 2026 keynote, Jensen Huang described at least [$1 trillion in AI infrastructure](https://blogs.nvidia.com/blog/gtc-2026-news/) being built through 2027, much of it dedicated to token production. He called data centers “token factories” and framed token throughput per watt as the metric that will define AI infrastructure economics for the next decade. Computing demand for AI has increased roughly one million times in the last two years, driven by the shift from training to inference: every time an AI thinks, reasons, or acts, it generates tokens.
 
 ### Tokens as compensation
 
-AI-forward companies are starting to allocate token budgets alongside salary. As Huang put it at GTC 2026: "Every single engineer in our company will need an annual token budget. They're going to make a few hundred thousand a year in base pay. I'm going to give them probably half of that on top of it as tokens so that they could be amplified 10x." Token access is becoming a recruiting tool and a multiplier on human capability.
+AI-forward companies are starting to allocate token budgets alongside salary. As Huang put it at GTC 2026: “Every single engineer in our company will need an annual token budget. They're going to make a few hundred thousand a year in base pay. I'm going to give them probably half of that on top of it as tokens so that they could be amplified 10x.” Token access is becoming a recruiting tool and a multiplier on human capability.
 
 For practitioners, this means understanding token economics is no longer optional. When you scope a project for a client, you need to think about: how many tokens will this agent consume daily? What's the cost per task? How does the token cost compare to the human labor it replaces?
 

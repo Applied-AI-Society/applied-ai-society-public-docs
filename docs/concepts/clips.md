@@ -25,7 +25,7 @@ The answer is emerging: agent-native software that plugs into harnesses, carries
 
 ## Start With the Harness
 
-Over the last year, the term "AI harness" has become shorthand for the software layer that turns a raw model into an agent.
+Over the last year, the term “AI harness” has become shorthand for the software layer that turns a raw model into an agent.
 
 **Agent = AI Model + Harness**
 
@@ -103,7 +103,7 @@ It exposes functions and discrete capabilities that an agent can call. An MCP co
 
 ### A CLIP is all of it, and more
 
-**Opinionated but flexible.** CLIPs tell agents: "Here is the strongly suggested order, here are the dependencies, here is when to parallelize, here is when to deviate." It does not take away the agent's reasoning. It bounds the stochastic cloud of potential outputs into a proven workflow.
+**Opinionated but flexible.** CLIPs tell agents: “Here is the strongly suggested order, here are the dependencies, here is when to parallelize, here is when to deviate.” It does not take away the agent's reasoning. It bounds the stochastic cloud of potential outputs into a proven workflow.
 
 **Work-stateful.** A CLIP tracks work: a project file, a state machine, a DB entry, a progression from raw input to finished output. It knows what has been done and what is left.
 
@@ -119,7 +119,7 @@ And the agent has a new domain. CLIPs are full programs with a CLI for native ag
 
 ## An Example
 
-An agent with video editing **skills** knows it should "transcribe first, then remove filler words and dead air."
+An agent with video editing **skills** knows it should “transcribe first, then remove filler words and dead air.”
 
 An agent with a trim **MCP tool** can cut a clip at a given timestamp.
 
@@ -135,7 +135,7 @@ Companies with massive market caps built on subscription-based, seat-based prici
 
 The stranglehold that SaaS companies have had is loosening because people are realizing something fundamental: they do not need to upload all their contacts, all their documents, all their institutional knowledge to random companies anymore. The data was always the value. The SaaS product was just a wrapper around it. Now the wrapper is commoditized and the [sovereignty](/docs/concepts/the-sovereignty-stack) of the data matters more than ever.
 
-This does not mean every SaaS company dies. The ones with genuine network effects, deep integrations, or regulatory moats will survive. But the long tail of "we put a dashboard on a database" companies is in trouble. The value is shifting to two places:
+This does not mean every SaaS company dies. The ones with genuine network effects, deep integrations, or regulatory moats will survive. But the long tail of “we put a dashboard on a database” companies is in trouble. The value is shifting to two places:
 
 1. **Open-source CLIPs** that you install locally, connect to your harness, and own completely. These replace the functionality of SaaS products without the subscription, the vendor lock-in, or the data exposure.
 

@@ -11,7 +11,7 @@ title: "Effective AGI"
 
 ## The Debate That Does Not Matter
 
-People argue about when AGI will arrive. They debate benchmarks, capabilities, whether current systems "really" qualify. Whole conferences are organized around timeline predictions. Meanwhile, a growing number of people have quietly stopped debating and started building. They are using current AI tools to accomplish things that would have been considered science fiction three years ago, and they are compounding their advantage every day.
+People argue about when AGI will arrive. They debate benchmarks, capabilities, whether current systems “really” qualify. Whole conferences are organized around timeline predictions. Meanwhile, a growing number of people have quietly stopped debating and started building. They are using current AI tools to accomplish things that would have been considered science fiction three years ago, and they are compounding their advantage every day.
 
 Here is the claim: **AGI is already effective for anyone who knows how to harness it.** Not perfect. Not sentient. Not the Hollywood version. But functionally capable of executing whatever you can clearly specify, given the right [context](/docs/concepts/context-engineering), the right [harness](/docs/concepts/harness-engineering), and the right human at the controls.
 
@@ -38,7 +38,7 @@ If you believe AGI is five or ten years away, you plan accordingly. You wait. Yo
 
 If you understand that effective AGI is here now, the calculus changes completely. Every month you wait is a month where someone else is compounding their advantage with tools that already work. The [elevator economy](/docs/concepts/the-survivor-economy) is not a future scenario. It is the current reality. The divergence between people who have harnessed effective AGI and people who have not is already dramatic, and it is accelerating.
 
-This is what makes [hyperagency](/docs/concepts/hyperagency) urgent. A hyperagent is not waiting for better tools. They have taken what exists today and built a system around themselves that multiplies their unique capabilities. They are operating at a level that looks like magic to people who are still debating whether AI is "ready."
+This is what makes [hyperagency](/docs/concepts/hyperagency) urgent. A hyperagent is not waiting for better tools. They have taken what exists today and built a system around themselves that multiplies their unique capabilities. They are operating at a level that looks like magic to people who are still debating whether AI is “ready.”
 
 It is ready. The question is whether you are.
 

@@ -5,7 +5,7 @@ title: "Always-On Agents"
 
 # Always-On Agents
 
-*The shift from "AI that answers when asked" to "AI that works for you while you sleep."*
+*The shift from “AI that answers when asked” to “AI that works for you while you sleep.”*
 
 ---
 
@@ -21,14 +21,14 @@ On March 31, 2026, [a deep analysis of Claude Code's source code](https://x.com/
 
 KAIROS is a proactive Claude that runs 24/7. Here is how it works:
 
-**The heartbeat loop.** Every few seconds, the agent receives a pulse. A prompt that essentially asks: "Anything worth doing right now?" It looks at the current state of your workspace, your files, your notifications, and makes a call: act or stay quiet.
+**The heartbeat loop.** Every few seconds, the agent receives a pulse. A prompt that essentially asks: “Anything worth doing right now?” It looks at the current state of your workspace, your files, your notifications, and makes a call: act or stay quiet.
 
 **Exclusive capabilities.** Always-on agents need things that regular prompt-response agents do not:
 - **Push notifications.** The agent can reach you on your phone or desktop even when you are not in the terminal. It taps you on the shoulder when something matters.
 - **File delivery.** The agent can create things and send them to you without you asking.
 - **Subscription to external events.** The agent watches your GitHub, your email, your systems, and reacts to changes on its own.
 
-**Daily logs and memory consolidation.** The agent keeps append-only logs of what it noticed, what it decided, and what it did. It cannot erase its own history. At night, it runs what the code calls "autoDream": consolidating what it learned during the day and reorganizing its memory while you sleep.
+**Daily logs and memory consolidation.** The agent keeps append-only logs of what it noticed, what it decided, and what it did. It cannot erase its own history. At night, it runs what the code calls “autoDream”: consolidating what it learned during the day and reorganizing its memory while you sleep.
 
 **Persistence across sessions.** Close your laptop on Friday. Open it on Monday. The agent has been working the whole time.
 
@@ -52,7 +52,7 @@ A skill file has a step that consistently fails. The agent notices the pattern, 
 
 A relationship file has not been updated in 60 days despite three meetings logged in transcripts. The agent drafts the update and flags it for your review.
 
-This is what it means for a business to improve itself. Not a human doing the improving. The system doing the improving, with the human defining what "better" means and reviewing the results.
+This is what it means for a business to improve itself. Not a human doing the improving. The system doing the improving, with the human defining what “better” means and reviewing the results.
 
 ## What You Should Do Now
 

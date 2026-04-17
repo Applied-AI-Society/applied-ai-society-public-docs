@@ -61,7 +61,7 @@ Voice AI is very close. Text-based AI is production-ready. Voice has occasional 
 - Agent-based CRM (talk to your data instead of clicking through dashboards)
 - Natural language business intelligence
 
-> The mouse brought computers into mainstream. The next phase shift is that traditional UX disappears. You just have an agent you talk to. "What did we do in cash flow last month?" and it just answers.
+> The mouse brought computers into mainstream. The next phase shift is that traditional UX disappears. You just have an agent you talk to. “What did we do in cash flow last month?” and it just answers.
 
 ### 🔴 Not Yet (Watch and Wait)
 
@@ -75,10 +75,10 @@ The skeleton key for the physical world is the generalized humanoid robot. The w
 
 ## How to Use This Guide
 
-1. **Start with 🟢.** Identify which "Ready Now" categories apply to your business. Pick the one with the highest volume of repetitive work.
+1. **Start with 🟢.** Identify which “Ready Now” categories apply to your business. Pick the one with the highest volume of repetitive work.
 2. **Decompose it.** Use the [Workflow Decomposition Guide](/docs/playbooks/business-owner/workflow-decomposition) to map the specific actions.
 3. **Automate the irreducible steps.** Build or buy solutions for the atomic actions.
-4. **Monitor 🟡.** Set calendar reminders to re-evaluate "Almost There" categories every 90 days. The gap is closing fast.
+4. **Monitor 🟡.** Set calendar reminders to re-evaluate “Almost There” categories every 90 days. The gap is closing fast.
 5. **Ignore 🔴 for now.** Unless you're in R&D or have a long time horizon, don't invest here yet.
 
 ## The Data Behind This

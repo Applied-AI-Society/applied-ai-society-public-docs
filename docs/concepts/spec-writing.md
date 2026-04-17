@@ -29,7 +29,7 @@ Here is the chain that governs outcomes in an AI-native workflow:
 
 **Spec quality → System quality → Outcome quality.**
 
-Each link constrains the next. A brilliant AI model operating on a mediocre spec will produce mediocre results. A modest model operating on an extraordinary spec will often outperform it. The bottleneck has moved. It is no longer "can AI do this?" It is "can you describe what you actually want with enough precision that AI can deliver it?"
+Each link constrains the next. A brilliant AI model operating on a mediocre spec will produce mediocre results. A modest model operating on an extraordinary spec will often outperform it. The bottleneck has moved. It is no longer “can AI do this?” It is “can you describe what you actually want with enough precision that AI can deliver it?”
 
 When you write a spec, you are defining what success looks like. You are setting the rules of the game. You are telling the AI: here is what good looks like, here is what bad looks like, here are the boundaries, here are the goals. The spec is the rubric. Without it, the AI has no way to distinguish a great outcome from a mediocre one.
 
@@ -53,7 +53,7 @@ A spec is not a wish list. It is not a paragraph of vibes. A good spec is an eng
 
 At minimum, a strong spec defines:
 
-1. **The outcome.** Not "make it better" but what specifically looks different when this is done. Measurable where possible. Observable always.
+1. **The outcome.** Not “make it better” but what specifically looks different when this is done. Measurable where possible. Observable always.
 2. **The constraints.** What must be true? What must never happen? What trade-offs are acceptable and which are not?
 3. **The context.** What does the builder need to know about the environment, the users, the existing systems, the organizational values that should shape decisions?
 4. **The success criteria.** How will you know it worked? What does the feedback loop look like?
@@ -66,13 +66,13 @@ This maps directly to the [game design](./game-design) framework: objectives, ru
 
 There is a mistake that even rigorous spec writers make: they jump to implementation before they have established the principle.
 
-"I want to use zero-knowledge proofs for member privacy" is an implementation. "I want to maximally protect the privacy of my members" is a principle. ZK proofs are one possible way to realize that principle. Maybe the right way. Maybe not. Maybe today, maybe in two years when the tooling matures.
+“I want to use zero-knowledge proofs for member privacy” is an implementation. “I want to maximally protect the privacy of my members” is a principle. ZK proofs are one possible way to realize that principle. Maybe the right way. Maybe not. Maybe today, maybe in two years when the tooling matures.
 
 When a spec leads with implementations, it locks the builder into a technical path before the actual requirement is understood. Teams start debating ZK vs. encryption vs. on-device processing when the real question is simpler: do the people in this system feel protected? The implementation is the how. The principle is the what. The what must come first. The how must stay flexible.
 
-This is where most specs go wrong. A document full of feature requirements ("we need end-to-end encryption, we need invite trees, we need reputation scores") looks rigorous. It is a house built from the roof down. The features are disconnected from the purpose they serve, so they drift, get gamed, or solve the wrong problem entirely.
+This is where most specs go wrong. A document full of feature requirements (“we need end-to-end encryption, we need invite trees, we need reputation scores”) looks rigorous. It is a house built from the roof down. The features are disconnected from the purpose they serve, so they drift, get gamed, or solve the wrong problem entirely.
 
-A spec built from principles looks different. It says: "This system exists to protect the dignity and privacy of every member. Every design choice must serve that principle. Here are some ways that might work today." The principle constrains the design space. The implementation stays open to whatever best serves the principle as technology evolves.
+A spec built from principles looks different. It says: “This system exists to protect the dignity and privacy of every member. Every design choice must serve that principle. Here are some ways that might work today.” The principle constrains the design space. The implementation stays open to whatever best serves the principle as technology evolves.
 
 **Practically, this means a good spec has a section most specs skip: the design principles.** Three to five statements about what the system values, stated plainly, before a single feature is mentioned. Every feature in the spec should trace back to at least one principle. If a feature serves no principle, cut it. If a principle has no feature serving it, that is a gap worth investigating.
 
@@ -96,7 +96,7 @@ Both disciplines are valuable. But the first one, the ability to define what nee
 
 Here is a prediction: we will see the emergence of spec-specific languages.
 
-The reason is simple. Natural language is ambiguous by design. The word "event" could mean a conference, a webhook, a calendar entry, or a life milestone. The word "server" could mean a waiter or a rack-mounted computer. When you're writing a spec that an AI will interpret literally, ambiguity is not a feature. It is a failure mode.
+The reason is simple. Natural language is ambiguous by design. The word “event” could mean a conference, a webhook, a calendar entry, or a life milestone. The word “server” could mean a waiter or a rack-mounted computer. When you're writing a spec that an AI will interpret literally, ambiguity is not a feature. It is a failure mode.
 
 Today, practitioners manage this ambiguity through careful writing, defined terms, and iterative refinement. Tomorrow, there will be structured formats and domain-specific languages purpose-built for encoding human intent with machine-level precision. Not programming languages in the traditional sense, but specification languages: ways to describe desired outcomes, constraints, and success criteria with the precision that AI requires and natural language struggles to provide.
 
@@ -118,9 +118,9 @@ If you are not practicing this skill, you are leaving value on the table. And th
 
 ## For Practitioners
 
-When you sit down with a client who says "I want to use AI in my business," the first question is not "which model should we use?" The first question is: can this client articulate what they actually want?
+When you sit down with a client who says “I want to use AI in my business,” the first question is not “which model should we use?” The first question is: can this client articulate what they actually want?
 
-Most cannot. Not because they lack intelligence, but because they have never been asked to be this precise. Their goals live in their heads as feelings, intuitions, vague aspirations. "I want to be more efficient." "I want better customer service." "I want to grow."
+Most cannot. Not because they lack intelligence, but because they have never been asked to be this precise. Their goals live in their heads as feelings, intuitions, vague aspirations. “I want to be more efficient.” “I want better customer service.” “I want to grow.”
 
 Your job is to take those feelings and turn them into specs. Perform the analysis. Ask the hard questions. Map the situation. Decompose the workflows. Define what success looks like in terms that a machine can act on. Then tranche the work by complexity: what requires simple automation, what requires orchestration across systems, what requires judgment calls that need human oversight.
 
@@ -131,8 +131,8 @@ This is the work. This is where practitioners in the applied AI economy create r
 ## Further Reading
 
 - [Game Design](./game-design): The meta-skill framework that spec writing feeds into directly
-- [Intent Engineering](./intent-engineering): Encoding organizational purpose into infrastructure, the "why" behind the spec
-- [Context Engineering](./context-engineering): Curating the information state that agents operate within, the "what" the spec references
+- [Intent Engineering](./intent-engineering): Encoding organizational purpose into infrastructure, the “why” behind the spec
+- [Context Engineering](./context-engineering): Curating the information state that agents operate within, the “what” the spec references
 - [Don't Scale Slop](../playbooks/business-owner/dont-scale-slop): Why clarity matters before you automate anything
 - [Building the App of Your Dreams](../playbooks/business-owner/building-your-app): A practical walkthrough that puts spec writing at the center of building with AI
 - [The Judgment Line](./the-judgment-line): The design rule for splitting work between judgment and deterministic execution, a principle that should appear in every agentic system spec

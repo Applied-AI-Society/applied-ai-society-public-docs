@@ -13,9 +13,9 @@ title: "Being Someone's Go-To Person"
 
 There is a role emerging right now that the language has not caught up to.
 
-It is what happens when a serious operator introduces you as **"my person."** The one they text at 11 PM when something clicks. The one they fly in for the day when the stakes are high. The one they would not make a meaningful decision without calling first.
+It is what happens when a serious operator introduces you as **“my person.”** The one they text at 11 PM when something clicks. The one they fly in for the day when the stakes are high. The one they would not make a meaningful decision without calling first.
 
-The world keeps calling this role "AI consultant." That label is wrong. Technical and transactional when the actual relationship is neither. If you are doing this work well, you are stepping into a role that has not existed before. You have to name it honestly before you can price it honestly.
+The world keeps calling this role “AI consultant.” That label is wrong. Technical and transactional when the actual relationship is neither. If you are doing this work well, you are stepping into a role that has not existed before. You have to name it honestly before you can price it honestly.
 
 ---
 
@@ -83,7 +83,7 @@ Three things to internalize if you want to do this for a living. (See the [prici
 
 **This is life transformation.** It is helping someone fulfill goals they had not said out loud. It is unchaining the part of their brain that had been held by bad defaults. It is the best form of executive coaching this era has, and most executive coaching does not include somebody who can also build.
 
-**The pricing follows the framing.** "I do Claude Code automations" gets you priced like a wrapper. "I am your go-to person for this new world" gets you priced like a partner. Both are technically true descriptions of the same work. Only one tells the truth about the value.
+**The pricing follows the framing.** “I do Claude Code automations” gets you priced like a wrapper. “I am your go-to person for this new world” gets you priced like a partner. Both are technically true descriptions of the same work. Only one tells the truth about the value.
 
 ---
 
@@ -91,9 +91,9 @@ Three things to internalize if you want to do this for a living. (See the [prici
 
 The biggest trap is positioning yourself as a tool vendor:
 
-- *"I do Claude Code automations."*
-- *"I help you adopt AI."*
-- *"I write your prompts."*
+- *“I do Claude Code automations.”*
+- *“I help you adopt AI.”*
+- *“I write your prompts.”*
 
 All technically true. All radically underprice you.
 
@@ -134,7 +134,7 @@ If those four are real, the demand for you will be larger than your capacity. Ch
 
 ---
 
-> **You are a partner in a role the language has not caught up to yet. "AI consultant" is the costume the world hands you until a better name arrives. Name it. Price it. Protect it. The value is real. The scarcity is you. Act accordingly.**
+> **You are a partner in a role the language has not caught up to yet. “AI consultant” is the costume the world hands you until a better name arrives. Name it. Price it. Protect it. The value is real. The scarcity is you. Act accordingly.**
 
 ---
 

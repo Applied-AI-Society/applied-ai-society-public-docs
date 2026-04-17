@@ -15,7 +15,7 @@ Liberation architecture is the practice of building AI-powered layers on top of 
 
 The term crystallizes a pattern that applied AI practitioners see constantly in the field: the biggest opportunity is not building new systems. It is unlocking the potential already buried inside systems that organizations depend on but struggle to use well.
 
-This idea was given its sharpest articulation in a16z's March 2026 analysis of enterprise software, "[Why the World Still Runs on SAP](https://www.a16z.news/p/why-the-world-still-runs-on-sap)" by Eric and Seema Amble. Their core insight: platforms like SAP, Salesforce, and ServiceNow persist not because they are superior, but because they are deeply embedded. Switching costs are enormous. One enterprise estimated a migration at $700 million over three years. Lidl abandoned a $500 million SAP transition entirely.
+This idea was given its sharpest articulation in a16z's March 2026 analysis of enterprise software, “[Why the World Still Runs on SAP](https://www.a16z.news/p/why-the-world-still-runs-on-sap)” by Eric and Seema Amble. Their core insight: platforms like SAP, Salesforce, and ServiceNow persist not because they are superior, but because they are deeply embedded. Switching costs are enormous. One enterprise estimated a migration at $700 million over three years. Lidl abandoned a $500 million SAP transition entirely.
 
 The opportunity is not to compete with these systems. It is to liberate the people and data trapped inside them.
 
@@ -57,7 +57,7 @@ AI accelerates implementation by:
 After implementation, day-to-day friction dominates. Users navigate complex legacy UIs, manually mirror data between systems, and wait for operations teams to run reports.
 
 AI wraps the legacy system with a friendlier, more capable layer:
-- **Conversational access:** Users ask "Where can I find X?" or "How do I do Y?" instead of memorizing transaction codes
+- **Conversational access:** Users ask “Where can I find X?” or “How do I do Y?” instead of memorizing transaction codes
 - **Safe action execution:** Create cases, post journal entries, update terms, with human approval steps and audit trails
 - **Cross-system workflows:** Chain actions across multiple applications, triggered by events, with built-in validation
 
@@ -73,8 +73,8 @@ AI enables a third path: thin, governed applications that sit on top of the syst
 
 Examples:
 - **Vendor Onboarding:** A single app that gathers documents, checks for duplicates, routes approvals, and posts to the underlying ERP
-- **Frontline Command Palette:** A unified interface for "create return," "extend credit," "open ticket" across multiple backend systems
-- **Event-Driven Automation:** "If invoice posted AND variance exceeds 3%, draft an explanation and route for approval"
+- **Frontline Command Palette:** A unified interface for “create return,” “extend credit,” “open ticket” across multiple backend systems
+- **Event-Driven Automation:** “If invoice posted AND variance exceeds 3%, draft an explanation and route for approval”
 
 Over time, successful deployments encode not just what to do, but how to do it safely in a specific environment. These become reusable building blocks.
 
@@ -103,7 +103,7 @@ This is the same pattern at every scale:
 
 If you are doing applied AI work with businesses, liberation architecture should shape how you think about every engagement.
 
-**Reframe the conversation.** Most business owners think they need to buy something new. Show them that the systems they already own contain enormous untapped value. The win is not "adopt this new platform." The win is "your team can finally use the tools you already paid for."
+**Reframe the conversation.** Most business owners think they need to buy something new. Show them that the systems they already own contain enormous untapped value. The win is not “adopt this new platform.” The win is “your team can finally use the tools you already paid for.”
 
 **Start with what hurts.** Find the workflows where people spend the most time toggling between screens, re-entering data, or waiting for someone else to run a report. Those are your Phase 2 opportunities. They are quick wins with visible impact.
 
@@ -118,7 +118,7 @@ If you are doing applied AI work with businesses, liberation architecture should
 ## Further Reading
 
 - [Why the World Still Runs on SAP](https://www.a16z.news/p/why-the-world-still-runs-on-sap) (Eric and Seema Amble, a16z): The analysis that crystallized liberation architecture as a framework. Essential reading for any practitioner working with enterprise clients.
-- [Context Engineering](/docs/concepts/context-engineering): The discipline that powers the "system of action" layer. Good context architecture is what makes liberation architecture work in practice.
+- [Context Engineering](/docs/concepts/context-engineering): The discipline that powers the “system of action” layer. Good context architecture is what makes liberation architecture work in practice.
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose so AI agents operating on top of legacy systems optimize for what actually matters.
 - [The Applied AI Canon](/docs/philosophy/canon): The philosophical foundation. Liberation architecture is Canon VIII in practice.
 - [Pilot Scope](/docs/playbooks/business-owner/pilot-scope): How to scope a first engagement, directly applicable to Phase 1 and Phase 2 liberation projects.

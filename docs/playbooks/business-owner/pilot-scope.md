@@ -13,7 +13,7 @@ Before filling this out, complete the [Quick Check](/docs/playbooks/business-own
 
 A well-scoped pilot is the most important thing a business owner needs to start their applied AI journey. It's not a proposal. It's not a wishlist. It's a concrete, bounded experiment that proves (or disproves) whether AI can deliver real value for a specific part of your business.
 
-Without a scoped pilot, you're either paralyzed ("where do we even start?") or reckless ("let's just try AI on everything"). Both waste time and money. A pilot gives you a focused first step with clear success criteria so you know whether to keep going.
+Without a scoped pilot, you're either paralyzed (“where do we even start?”) or reckless (“let's just try AI on everything”). Both waste time and money. A pilot gives you a focused first step with clear success criteria so you know whether to keep going.
 
 ### The Honesty Filter
 
@@ -30,7 +30,7 @@ This document is the output of that scoping work. Once complete, it does three t
 
 1. **Gives you clarity.** You'll know exactly what you're testing, what success looks like, and what resources it requires.
 2. **Makes you ready for a practitioner.** Any skilled practitioner can read this and immediately assess whether they can help and how.
-3. **Sets shared expectations.** Both sides have a common reference point from day one. No ambiguity about scope, timeline, or what "done" means.
+3. **Sets shared expectations.** Both sides have a common reference point from day one. No ambiguity about scope, timeline, or what “done” means.
 
 ---
 
@@ -63,7 +63,7 @@ This document is the output of that scoping work. Once complete, it does three t
 
 *You identified the area with the most pain and mapped the current workflow in your [Situation Map](/docs/playbooks/business-owner/situation-map). Now be specific about what the pilot will address.*
 
-**What is the specific problem this pilot will solve?** (Not "we want to use AI." What's not working, what's too slow, or what's costing you the most?)
+**What is the specific problem this pilot will solve?** (Not “we want to use AI.” What's not working, what's too slow, or what's costing you the most?)
 
 **What does this problem cost you today?** (Time per week, dollars lost, errors made, delays caused. Even rough estimates help.)
 
@@ -103,7 +103,7 @@ This document is the output of that scoping work. Once complete, it does three t
 
 **Who will be most affected if the workflow changes?** Any concerns about adoption or resistance?
 
-**How much time can your team realistically spend on this per week?** (Be honest. If the answer is "very little," that shapes what's feasible.)
+**How much time can your team realistically spend on this per week?** (Be honest. If the answer is “very little,” that shapes what's feasible.)
 
 ---
 

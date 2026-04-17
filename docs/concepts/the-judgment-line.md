@@ -47,7 +47,7 @@ The pattern is always the same: code assembles the inputs, the LLM applies judgm
 
 ## The Common Mistake
 
-Most people building agentic systems make the same error: they give the LLM a broad instruction ("check my email and handle anything important") and let it figure out the mechanics. The LLM then has to handle both the judgment ("is this important?") and the plumbing ("connect to Gmail, parse MIME, extract attachments"). It will get the judgment right most of the time and the plumbing wrong some of the time, and you will not know which failures are which.
+Most people building agentic systems make the same error: they give the LLM a broad instruction (“check my email and handle anything important”) and let it figure out the mechanics. The LLM then has to handle both the judgment (“is this important?”) and the plumbing (“connect to Gmail, parse MIME, extract attachments”). It will get the judgment right most of the time and the plumbing wrong some of the time, and you will not know which failures are which.
 
 The fix is not to constrain the LLM. It is to give it less to do. Write the plumbing in code. Hand the LLM clean inputs. Let it do what it is actually good at.
 

@@ -77,7 +77,7 @@ The logo appears next to the Applied AI Society stacked logo at the top of the f
 | `coHostName` | `string` | `""` | Co-host organization name (currently unused visually, reserved for future use) |
 | `coHostLogo` | `string` | `"aitx.png"` | Filename of co-host logo in `public/`. Set to `""` to hide. |
 | `coHostCircleCrop` | `boolean` | `true` | Whether to circle-crop the co-host logo |
-| `eventTitle` | `string` | _(none)_ | Custom title text. If omitted, the "Applied AI Live" SVG logo is used. |
+| `eventTitle` | `string` | _(none)_ | Custom title text. If omitted, the “Applied AI Live” SVG logo is used. |
 | `agendaItems` | `AgendaItem[]` | _(see below)_ | Array of agenda items to display |
 | `dateLine` | `string` | `"Thursday, Feb 26th at 5:30 PM"` | Date/time shown in the orange pill |
 | `venueLine` | `string` | `"Antler VC HQ, Austin, TX"` | Venue shown in the orange pill |
@@ -95,5 +95,5 @@ The logo appears next to the Applied AI Society stacked logo at the top of the f
 
 - **Preview first.** Run `npm start` to open Remotion Studio and see your flyer before rendering.
 - **Bold text.** Wrap words in `**double asterisks**` inside `text` fields to render them bold.
-- **No event title?** Omit `eventTitle` to use the default "Applied AI Live" SVG branding.
+- **No event title?** Omit `eventTitle` to use the default “Applied AI Live” SVG branding.
 - **Custom event?** Set `eventTitle` to any string for non-Live events.

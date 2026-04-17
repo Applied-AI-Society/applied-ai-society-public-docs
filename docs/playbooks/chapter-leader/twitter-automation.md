@@ -42,7 +42,7 @@ Last Updated: January 26, 2026
 
 ## Flow
 
-1. A list of contacts with Twitter Profile URLs stored in a filtered **"To Message (Twitter)"** view in Airtable
+1. A list of contacts with Twitter Profile URLs stored in a filtered **“To Message (Twitter)”** view in Airtable
 2. Google Apps Script Sequence runs every hour:
     - pushing the Airtable view onto a Google sheet
     - pulling results from PhantomBuster back to sheet
@@ -117,7 +117,7 @@ Your table needs these fields:
 
 **Create a filtered view:**
 
-1. Create a new view named **"To Message (Twitter)"**
+1. Create a new view named **“To Message (Twitter)”**
 2. Add filter: `Outreach Status` = `To Message`
 
 This view feeds contacts to PhantomBuster. Only contacts in this view will be messaged.
@@ -126,14 +126,14 @@ This view feeds contacts to PhantomBuster. Only contacts in this view will be me
 
 1. Create a new Google Sheet
 2. Create two tabs:
-   - **"Airtable Sync (For Twitter Messages Automation)":** receives contacts from Airtable
-   - **"Phantom Output":** receives results from PhantomBuster
+   - **“Airtable Sync (For Twitter Messages Automation)”:** receives contacts from Airtable
+   - **“Phantom Output”:** receives results from PhantomBuster
 
 **Make the sheet accessible to PhantomBuster:**
 
 1. Click **Share** (top right)
-2. Under "General access", select **"Anyone with the link"**
-3. Set permission to **"Viewer"**
+2. Under “General access”, select **“Anyone with the link”**
+3. Set permission to **“Viewer”**
 4. Copy the sheet URL for Step 3
 
 ### Step 3: Configure PhantomBuster
@@ -142,15 +142,15 @@ This view feeds contacts to PhantomBuster. Only contacts in this view will be me
 
 1. Go to your PhantomBuster dashboard
 2. Click **Browse Phantoms**
-3. Search for **"Twitter DM Sender"** (or "X DM Sender")
+3. Search for **“Twitter DM Sender”** (or “X DM Sender”)
 4. Click **Use Now**
 
 **Configure Profile URLs:**
 
-1. Under "Choose your profile URLs", select **"A URL"**
+1. Under “Choose your profile URLs”, select **“A URL”**
 2. Paste your Google Sheet link
 3. Open **Spreadsheet Settings** dropdown
-4. For "Column containing profile URLs": leave empty for now (configure in Step 5)
+4. For “Column containing profile URLs”: leave empty for now (configure in Step 5)
 
 **Connect Twitter:**
 
@@ -160,8 +160,8 @@ This view feeds contacts to PhantomBuster. Only contacts in this view will be me
 
 **Set Up Your Message:**
 
-1. Leave "Condition for sending messages" empty (optional)
-2. In "Your message" field, write your message
+1. Leave “Condition for sending messages” empty (optional)
+2. In “Your message” field, write your message
 3. Use tags for personalization (e.g., `#twitterUsername#` for the contact's @handle)
 
 **Configure Behavior:**
@@ -171,9 +171,9 @@ This view feeds contacts to PhantomBuster. Only contacts in this view will be me
 
 **Configure Launch Settings:**
 
-1. Select **"Repeatedly"**
-2. Choose **"Once every other working hour (9 to 5)"** as a starting point
-3. Click **"Advanced"** to customize:
+1. Select **“Repeatedly”**
+2. Choose **“Once every other working hour (9 to 5)”** as a starting point
+3. Click **“Advanced”** to customize:
    - Remove Saturday/Sunday if needed
    - Adjust hours to match your schedule
 4. Click **Save**
@@ -189,7 +189,7 @@ This view feeds contacts to PhantomBuster. Only contacts in this view will be me
 
 1. Open your Google Sheet from Step 2
 2. Go to **Extensions → Apps Script**
-3. Name your project (e.g., "Twitter Outreach Automation")
+3. Name your project (e.g., “Twitter Outreach Automation”)
 
 **Copy the Script:**
 
@@ -661,14 +661,14 @@ runPipelineHourly()
 
 1. In Apps Script, select `syncAirtableToSheet` from the dropdown
 2. Click **Run**
-3. Open your Google Sheet and check the **"Airtable Sync (For Twitter Messages Automation)"** tab
+3. Open your Google Sheet and check the **“Airtable Sync (For Twitter Messages Automation)”** tab
 4. Verify your contacts and all fields are exported correctly
 
 **5.2: Finalize PhantomBuster Configuration:**
 
 1. Return to your PhantomBuster Phantom settings
 2. Go to **Spreadsheet Settings** dropdown
-3. Click **"Name of column containing profile URLs"**
+3. Click **“Name of column containing profile URLs”**
 4. Select the column with your Twitter URLs (now visible after export)
 
 **5.3: Update Your Message Template (Optional):**
@@ -693,7 +693,7 @@ Hey @#twitterUsername#, saw your tweets about AI and wanted to reach out...
 
 1. After the Phantom finishes, return to Apps Script
 2. Run `fetchPhantomOutputToSheet`
-3. Check the **"Phantom Output"** tab in Google Sheets
+3. Check the **“Phantom Output”** tab in Google Sheets
 4. Verify message results are imported (profileUrl, message, timestamp, etc.)
 
 **5.6: Test Airtable Sync Back:**
@@ -701,7 +701,7 @@ Hey @#twitterUsername#, saw your tweets about AI and wanted to reach out...
 1. In Apps Script, run `syncPhantomSheetToAirtable`
 2. Open your Airtable table
 3. Verify these fields are updated for messaged contacts:
-   - `Outreach Status` → "Message Sent" or "Message Failed"
+   - `Outreach Status` → “Message Sent” or “Message Failed”
    - `Last Attempt` → timestamp
    - `Message Sent` → the message content or error
 
@@ -709,7 +709,7 @@ Hey @#twitterUsername#, saw your tweets about AI and wanted to reach out...
 
 Option A: Run the function:
 1. In Apps Script, run `setupHourlyTrigger`
-2. Check **View → Logs** for "Hourly trigger created"
+2. Check **View → Logs** for “Hourly trigger created”
 
 Option B: Manual setup:
 1. In Apps Script, click **Triggers** (clock icon, left sidebar)
@@ -758,7 +758,7 @@ Your Airtable stays up-to-date with who was messaged, when, and what was sent.
 
    **Resume later:**
     1. Run `setupHourlyTrigger()` in Apps Script
-    2. Set PhantomBuster back to "Repeatedly" with your schedule
+    2. Set PhantomBuster back to “Repeatedly” with your schedule
 
 2. **Disable PhantomBuster:**
    - Go to your PhantomBuster dashboard and toggle off the Phantom that you want to stop
@@ -771,7 +771,7 @@ Your Airtable stays up-to-date with who was messaged, when, and what was sent.
 | Issue | Solution |
 |-------|----------|
 | No records exported | Check Airtable view has records with `Outreach Status = To Message` |
-| Messaged contacts still appearing | Verify `Outreach Status` is updating to "Message Sent" |
+| Messaged contacts still appearing | Verify `Outreach Status` is updating to “Message Sent” |
 | Status not updating | Check Twitter URL format matches between PhantomBuster output and Airtable |
 | Variables not working in message | Remove spaces from Airtable field names (use camelCase) |
 | API errors | Run `testScriptProperties()` to verify all 4 credentials |

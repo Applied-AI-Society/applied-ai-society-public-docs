@@ -50,12 +50,12 @@ Export your archive, drop it in a temporary location (Desktop, Downloads, NOT in
 Gemini history is exported via [Google Takeout](https://takeout.google.com), not from Gemini's settings directly:
 
 1. Go to [takeout.google.com](https://takeout.google.com)
-2. Deselect all, then scroll to find and select **"My Activity"**
-3. Click **"All activity data included"** → deselect all → re-select only **"Gemini Apps"** (or **"Gemini Apps Activity"**)
+2. Deselect all, then scroll to find and select **“My Activity”**
+3. Click **“All activity data included”** → deselect all → re-select only **“Gemini Apps”** (or **“Gemini Apps Activity”**)
 4. Choose JSON format
 5. Create the export. Google emails you a download link when it is ready
 
-Alternative: for a single conversation, use Gemini's built-in **"Share & export"** icon below any response to export to a Google Doc.
+Alternative: for a single conversation, use Gemini's built-in **“Share & export”** icon below any response to export to a Google Doc.
 
 ### Other Sources (No Export Needed)
 
@@ -128,7 +128,7 @@ Interview me to create my user profile.
 
 The `AGENTS.md` routing table will find the skill regardless of which phrasing you use.
 
-Use voice-to-text to speak your answers naturally. Do not overthink. If you get stuck, just ask: *"Based on what you already know about me, what do you think?"* The AI will offer its best guess and you confirm or correct. That alone often surfaces things you would not have articulated on your own.
+Use voice-to-text to speak your answers naturally. Do not overthink. If you get stuck, just ask: *“Based on what you already know about me, what do you think?”* The AI will offer its best guess and you confirm or correct. That alone often surfaces things you would not have articulated on your own.
 
 ---
 

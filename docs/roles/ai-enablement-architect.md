@@ -5,7 +5,7 @@ title: "AI Enablement Architect"
 
 # AI Enablement Architect
 
-*The person who deploys company-wide AI upskilling infrastructure. They build the platform, connect the tools, design the skill marketplace, and get every employee from "I've heard of ChatGPT" to "I shipped an app that saves my team 10 hours a week."*
+*The person who deploys company-wide AI upskilling infrastructure. They build the platform, connect the tools, design the skill marketplace, and get every employee from “I've heard of ChatGPT” to “I shipped an app that saves my team 10 hours a week.”*
 
 ---
 
@@ -19,7 +19,7 @@ Three core functions:
 
 **1. Deploy the platform.** Stand up the internal AI environment: SSO authentication, pre-connected integrations (CRM, data warehouse, communication tools, document systems), and a workspace where every employee can use AI agents with full organizational context from day one. The principle: if someone has to file a ticket, configure a tool, or debug an install before they can use AI, you have already lost them. The platform should work on first login.
 
-**2. Build the skill marketplace.** This is where compounding happens. When a sales rep discovers the best way to analyze call recordings, they write it up as a [skill file](/docs/concepts/instruction-files) and share it. Overnight, every rep on the team has that capability. The AI Enablement Architect designs the marketplace (Ramp calls theirs "the Dojo"), sets up the review and versioning process, and seeds it with high-value skills that demonstrate what good looks like. Over time, the marketplace becomes self-sustaining: employees contribute skills faster than the architect creates them.
+**2. Build the skill marketplace.** This is where compounding happens. When a sales rep discovers the best way to analyze call recordings, they write it up as a [skill file](/docs/concepts/instruction-files) and share it. Overnight, every rep on the team has that capability. The AI Enablement Architect designs the marketplace (Ramp calls theirs “the Dojo”), sets up the review and versioning process, and seeds it with high-value skills that demonstrate what good looks like. Over time, the marketplace becomes self-sustaining: employees contribute skills faster than the architect creates them.
 
 **3. Drive adoption from zero to compound.** Infrastructure without adoption is expensive furniture. The AI Enablement Architect designs the proficiency ladder (what does L0, L1, L2, L3 look like at this company?), builds leaderboards and visibility mechanics, runs hackathons, coaches teams through their first builds, and works with leadership to make AI proficiency part of hiring and performance conversations. The goal is not 100% adoption of AI tools. The goal is 100% adoption of AI as a way of working.
 
@@ -31,7 +31,7 @@ This role sits in a specific lane. The boundaries matter.
 
 **vs. [Applied AI Consultant](/docs/roles/applied-ai-consultant):** The consultant builds specific AI solutions for specific business problems (automate this workflow, build this agent, integrate these systems). The Enablement Architect builds the platform that enables everyone in the company to build their own solutions. The consultant delivers fish. The Enablement Architect teaches a company to fish by building the fishing infrastructure.
 
-**vs. [Chief AI Officer](/docs/roles/chief-ai-officer):** The CAIO is the strategic leader who sets the transformation vision, leads identity shifts, and designs the self-improving organization at the executive level. The Enablement Architect reports to (or works alongside) the CAIO and handles the implementation: the platform, the integrations, the skill marketplace, the adoption mechanics. The CAIO says "we will become the most productive company in the world." The Enablement Architect builds the infrastructure that makes it possible.
+**vs. [Chief AI Officer](/docs/roles/chief-ai-officer):** The CAIO is the strategic leader who sets the transformation vision, leads identity shifts, and designs the self-improving organization at the executive level. The Enablement Architect reports to (or works alongside) the CAIO and handles the implementation: the platform, the integrations, the skill marketplace, the adoption mechanics. The CAIO says “we will become the most productive company in the world.” The Enablement Architect builds the infrastructure that makes it possible.
 
 **vs. [Business OS Administrator](/docs/roles/business-os-administrator):** The BOS Admin maintains the ongoing sovereign business OS: agent orchestration, context curation, access governance. The Enablement Architect focuses specifically on the upskilling and adoption layer: getting every employee productive with AI, building the skill-sharing infrastructure, and driving the cultural transformation. In mature organizations, these roles work in tandem. The Enablement Architect builds the platform. The BOS Admin keeps it running.
 
@@ -69,7 +69,7 @@ The demand is massive and the supply is tiny. Every company with more than 50 em
 
 Not every version of this role lives at the company level. As the function matures, a second scope is emerging: **one AI Enablement Architect embedded inside each team** rather than a central platform group. Aaron Levie articulated the shape of this in a [2026 post on X](https://x.com/levie/status/2043883641366032638):
 
-> "This person will need to figure out what are the highest leverage set of workflows on a team are (either existing or new ones) where agents can actually drive significantly more value for the team and company... mapping structured and unstructured data flows, figuring out the ideal workflow, getting the agent the context it needs to do the work properly, figuring out where the human interfaces with the agent and at what steps, manages evals and reviews after any major model or data change, and runs and manages the agents on an ongoing basis tracking KPIs."
+> “This person will need to figure out what are the highest leverage set of workflows on a team are (either existing or new ones) where agents can actually drive significantly more value for the team and company... mapping structured and unstructured data flows, figuring out the ideal workflow, getting the agent the context it needs to do the work properly, figuring out where the human interfaces with the agent and at what steps, manages evals and reviews after any major model or data change, and runs and manages the agents on an ongoing basis tracking KPIs.”
 
 The team-embedded variant covers the same three functions (deploy, marketplace, adoption), scoped to a single function. The difference is proximity to the work: the embed lives inside sales, support, legal, finance, or operations, and knows that team's workflows at a practitioner's depth. They identify where agents could execute a task 100x faster or 100x more times, wire up the structured and unstructured data flows, place the human-in-the-loop checkpoints, and own the ongoing evals and KPIs after every model or data change.
 

@@ -54,21 +54,21 @@ Just as software has a stack (operating system, runtime, framework, application)
 ### Layer 1: Global Instructions
 **File:** `~/.claude/CLAUDE.md` or `~/.agents/AGENTS.md`
 
-Your personal defaults that apply to every project. Your preferences, your communication style, your non-negotiable rules. "Never use em dashes." "Always ask before making destructive changes." "I am a senior engineer, do not over-explain."
+Your personal defaults that apply to every project. Your preferences, your communication style, your non-negotiable rules. “Never use em dashes.” “Always ask before making destructive changes.” “I am a senior engineer, do not over-explain.”
 
 This is the equivalent of your shell profile (`.zshrc`, `.bashrc`). It configures the environment before any project-specific context loads.
 
 ### Layer 2: Project Instructions
 **File:** `CLAUDE.md` or `AGENTS.md` at the project root
 
-Project-specific context and rules. Coding conventions, architecture decisions, deployment procedures, team norms. "This is a Next.js 16 app." "We use Neon for the database." "Run tests before committing."
+Project-specific context and rules. Coding conventions, architecture decisions, deployment procedures, team norms. “This is a Next.js 16 app.” “We use Neon for the database.” “Run tests before committing.”
 
 This is the equivalent of a project's `package.json` or `Makefile`. It defines how work is done in this specific codebase.
 
 ### Layer 3: Directory Instructions
 **File:** `CLAUDE.md` in any subdirectory
 
-Nested context for specific parts of the project. "This directory contains API routes. Always validate input schemas." "These are test files. Use the mock database, never production."
+Nested context for specific parts of the project. “This directory contains API routes. Always validate input schemas.” “These are test files. Use the mock database, never production.”
 
 This is the equivalent of a `.eslintrc` that overrides rules for a specific directory. Scope narrows as you go deeper.
 
@@ -106,13 +106,13 @@ After studying Claude Code's architecture and working with practitioners buildin
 
 **Be specific, not comprehensive.** A CLAUDE.md that tries to cover every possible situation is too long and too vague. A CLAUDE.md that covers the three most important conventions for this project is short, clear, and followed consistently.
 
-**Use imperative voice.** "Always run tests before committing" works. "It would be nice if tests were run before commits" does not. The agent follows instructions more reliably when they are stated as directives.
+**Use imperative voice.** “Always run tests before committing” works. “It would be nice if tests were run before commits” does not. The agent follows instructions more reliably when they are stated as directives.
 
-**State constraints, not just goals.** "Build a REST API" is a goal. "Build a REST API. Never expose internal IDs in responses. Always validate request bodies against Zod schemas. Return 404 for missing resources, never 500" is a goal with constraints. The constraints matter more than the goal, because the agent can figure out what to build but cannot intuit what you consider unacceptable.
+**State constraints, not just goals.** “Build a REST API” is a goal. “Build a REST API. Never expose internal IDs in responses. Always validate request bodies against Zod schemas. Return 404 for missing resources, never 500” is a goal with constraints. The constraints matter more than the goal, because the agent can figure out what to build but cannot intuit what you consider unacceptable.
 
 **Separate the human-written from the agent-written.** Your CLAUDE.md is yours. Memory files are the agent's. Skill files can be co-authored. Keeping these boundaries clear prevents the agent from overwriting your intent with its own patterns.
 
-**Update when behavior drifts.** If you keep correcting the agent on the same issue, the fix is not a better prompt. The fix is a new line in your instruction file. "Do not add docstrings to functions I did not modify." Once it is in the file, you never correct it again.
+**Update when behavior drifts.** If you keep correcting the agent on the same issue, the fix is not a better prompt. The fix is a new line in your instruction file. “Do not add docstrings to functions I did not modify.” Once it is in the file, you never correct it again.
 
 ---
 
@@ -132,7 +132,7 @@ This is why instruction file writing is emerging as a core practitioner skill. I
 
 When you set up a [Supersuit Up Workshop](/docs/workshops/supersuit-up) for a client, the instruction files are the foundation. The USER.md is an instruction file (it tells the agent who it is working for). The skill files are instruction files (they tell the agent how to execute workflows). The CLAUDE.md is an instruction file (it tells the agent how to behave in this workspace).
 
-**Your job is to write these well.** Not the client's job. Most clients have never written instructions for a machine that interprets them with judgment. They will write vague aspirations ("be helpful") or rigid scripts ("always do X then Y then Z"). Neither works well. The practitioner's skill is translating the client's actual intent into instructions that an agent can follow with appropriate judgment.
+**Your job is to write these well.** Not the client's job. Most clients have never written instructions for a machine that interprets them with judgment. They will write vague aspirations (“be helpful”) or rigid scripts (“always do X then Y then Z”). Neither works well. The practitioner's skill is translating the client's actual intent into instructions that an agent can follow with appropriate judgment.
 
 This is [context engineering](/docs/concepts/context-engineering) at its most practical: curating the exact information state that makes the agent useful for this specific person, in this specific context, with these specific constraints.
 

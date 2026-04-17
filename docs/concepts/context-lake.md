@@ -13,7 +13,7 @@ title: "Context Lake"
 
 Your context lake is the structured collection of markdown files that your [Personal Agentic OS](/docs/concepts/personal-agentic-os) draws on to represent you, think alongside you, and act on your behalf. It is the persistent memory layer that makes the difference between a generic chatbot and a deeply contextualized AI chief of staff.
 
-The term borrows from "data lake" in enterprise software (a centralized repository of raw and structured data), but applied to the personal and organizational scale. Your context lake contains:
+The term borrows from “data lake” in enterprise software (a centralized repository of raw and structured data), but applied to the personal and organizational scale. Your context lake contains:
 
 - **Who you are.** Your user profile, values, decision-making style, communication preferences, voice.
 - **Who you know.** Relationship files for the people in your life and business. How you met, what you are working on together, what you want to remember.
@@ -43,7 +43,7 @@ This is what [compounding docs](/docs/concepts/compounding-docs) looks like in p
 
 ## Context Lake vs. Chat History
 
-Most AI platforms store "conversation history," which is the accumulated text of your chat sessions. This is not a context lake. Chat history is:
+Most AI platforms store “conversation history,” which is the accumulated text of your chat sessions. This is not a context lake. Chat history is:
 
 - **Unstructured.** It is a chronological stream of messages, not organized by topic or purpose.
 - **Locked in.** It lives on the platform's servers. You cannot export it meaningfully, version-control it, or run a different AI on top of it.
@@ -70,14 +70,14 @@ A context lake starts personal but can scale to teams and organizations:
 
 - **Personal context lake:** Your Personal Agentic OS workspace. Everything about you and your operation.
 - **Shared context lake:** An [agentic project OS](/docs/concepts/lossy-ai-telephone) where a team collaborates from the same source of truth, eliminating [lossy AI telephone](/docs/concepts/lossy-ai-telephone).
-- **Organizational context lake:** The "company bible" ([start yours here](/docs/concepts/legacy/start-your-company-bible)). The living, version-controlled single source of truth for how the organization works.
+- **Organizational context lake:** The “company bible” ([start yours here](/docs/concepts/legacy/start-your-company-bible)). The living, version-controlled single source of truth for how the organization works.
 - **Federated context lakes:** The [Hypercontext Protocol](/docs/concepts/hypercontext-protocol) vision, where trusted agents query each other's context lakes directly.
 
 Each level builds on the one before it. Start with yours.
 
 ## The World Is Catching Up
 
-In April 2025, Andrej Karpathy (founding member of OpenAI, former head of AI at Tesla, one of the most respected researchers in the field) [described his workflow](https://x.com/karpathy/status/2039805659525644595): indexing source documents into a raw directory, using an LLM to compile a wiki of markdown files, running Q&A against the accumulated knowledge, and filing outputs back into the wiki to enhance it for further queries. He noted: "You rarely ever write or edit the wiki manually, it's the domain of the LLM."
+In April 2025, Andrej Karpathy (founding member of OpenAI, former head of AI at Tesla, one of the most respected researchers in the field) [described his workflow](https://x.com/karpathy/status/2039805659525644595): indexing source documents into a raw directory, using an LLM to compile a wiki of markdown files, running Q&A against the accumulated knowledge, and filing outputs back into the wiki to enhance it for further queries. He noted: “You rarely ever write or edit the wiki manually, it's the domain of the LLM.”
 
 This is a context lake. The data ingestion is the [capture](/docs/concepts/capture-process-compound) phase. The LLM-compiled wiki is the process phase. The Q&A and filed outputs are the compound phase. The health checks he describes are [legacy](/docs/concepts/legacy). The whole system compounds over time, which is [compounding docs](/docs/concepts/compounding-docs).
 

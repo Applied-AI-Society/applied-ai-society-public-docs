@@ -11,39 +11,39 @@ title: "Train Your AI Like You Would Train a Human Apprentice"
 
 ## The Problem
 
-You ask your agent to write an email. It comes back sounding like generic internet slop. You conclude: "AI writing is bad."
+You ask your agent to write an email. It comes back sounding like generic internet slop. You conclude: “AI writing is bad.”
 
-You ask your agent to draft a strategy. It comes back vague and surface-level. You conclude: "AI cannot think strategically."
+You ask your agent to draft a strategy. It comes back vague and surface-level. You conclude: “AI cannot think strategically.”
 
-You ask your agent to do research. It hallucinated two facts. You conclude: "AI is unreliable."
+You ask your agent to do research. It hallucinated two facts. You conclude: “AI is unreliable.”
 
 In every case, the conclusion is wrong. The agent did exactly what you trained it to do, which was nothing. You gave it no rules, no examples, no context about what good looks like. You expected it to guess, and it guessed wrong. This is not an AI problem. This is a training problem.
 
 ## The Apprentice Mental Model
 
-If you hired a new apprentice and said "write me an email," and they wrote something mediocre, you would not fire them. You would say: "Here is how I write. Here are 10 examples of emails I have sent. Never use these words. Always open with the key ask. Keep it under 5 sentences." And the next email would be better.
+If you hired a new apprentice and said “write me an email,” and they wrote something mediocre, you would not fire them. You would say: “Here is how I write. Here are 10 examples of emails I have sent. Never use these words. Always open with the key ask. Keep it under 5 sentences.” And the next email would be better.
 
 AI works the same way. The difference is speed. With a human apprentice, 100 feedback cycles might take a year. With an agent, 100 feedback cycles take 100 minutes. The training methodology is identical. The clock speed is different.
 
 ## Define What Good Looks Like
 
-The single most important thing you can do to improve your agent's output is to define what good looks like in terms of [observable behaviors](/docs/concepts/observable-behavior-engineering). Not vibes. Not "make it better." Observable, concrete, verifiable criteria.
+The single most important thing you can do to improve your agent's output is to define what good looks like in terms of [observable behaviors](/docs/concepts/observable-behavior-engineering). Not vibes. Not “make it better.” Observable, concrete, verifiable criteria.
 
-Bad: "Write with more personality."
-Good: "Never use the words 'delve,' 'leverage,' or 'utilize.' Start every email with the action item, not the context. Write at a 6th grade reading level. Here are 5 examples of emails I wrote that I consider excellent."
+Bad: “Write with more personality.”
+Good: “Never use the words 'delve,' 'leverage,' or 'utilize.' Start every email with the action item, not the context. Write at a 6th grade reading level. Here are 5 examples of emails I wrote that I consider excellent.”
 
-Bad: "Make the strategy more concrete."
-Good: "Every strategy section must include: what we are doing, why, what success looks like in 30 days, and the first three steps. No section should be longer than 4 sentences."
+Bad: “Make the strategy more concrete.”
+Good: “Every strategy section must include: what we are doing, why, what success looks like in 30 days, and the first three steps. No section should be longer than 4 sentences.”
 
-The agent does not know what you want until you tell it. And "tell it" means rules and examples, not adjectives.
+The agent does not know what you want until you tell it. And “tell it” means rules and examples, not adjectives.
 
 ## The Reinforcement Loop
 
-Humans learn through reinforcement. You do a thing, get an outcome, good or bad. If good, do more. If bad, do less. You get better at recognizing patterns. You develop "taste."
+Humans learn through reinforcement. You do a thing, get an outcome, good or bad. If good, do more. If bad, do less. You get better at recognizing patterns. You develop “taste.”
 
 Agents learn the same way, except the feedback is explicit, not implicit. Every time you correct an agent's output, that correction should become a permanent rule. Not a one-time fix. A rule that prevents the mistake from ever happening again.
 
-This is what [skill files](/docs/concepts/instruction-files) are. Every correction, every refinement, every "no, do it like this" becomes a line in a skill file or a rule in your `CLAUDE.md`. The agent never forgets a rule. It never has a bad day. It never needs to be told twice, if you actually write it down.
+This is what [skill files](/docs/concepts/instruction-files) are. Every correction, every refinement, every “no, do it like this” becomes a line in a skill file or a rule in your `CLAUDE.md`. The agent never forgets a rule. It never has a bad day. It never needs to be told twice, if you actually write it down.
 
 The loop:
 
@@ -63,7 +63,7 @@ The most powerful thing you can put in a skill file is not a rule. It is an exam
 
 If you want your agent to write emails that sound like you, do not write 20 rules about your email style. Give it 10 emails you actually sent that you consider excellent. The agent will extract the patterns better than you could articulate them.
 
-If you want your agent to produce strategic documents in your format, do not describe the format. Give it 3 documents that are exactly what you want. "Make the next one look like these."
+If you want your agent to produce strategic documents in your format, do not describe the format. Give it 3 documents that are exactly what you want. “Make the next one look like these.”
 
 Rules constrain. Examples teach. Use both, but when in doubt, add another example.
 
@@ -73,7 +73,7 @@ The same reason most people are bad managers. They do not define what good looks
 
 The people who get the most out of AI are the same people who were already good at training humans: clear communicators who think in terms of observable outcomes rather than feelings. If you have ever written a great SOP, you can write a great skill file. If you have ever onboarded an employee well, you can onboard an agent well.
 
-The meta-skill of the applied AI economy is not prompt engineering. It is the ability to define what you want with enough precision that a system (human or machine) can reliably deliver it. That is the skill that separates "AI is okay" from "AI changed my life."
+The meta-skill of the applied AI economy is not prompt engineering. It is the ability to define what you want with enough precision that a system (human or machine) can reliably deliver it. That is the skill that separates “AI is okay” from “AI changed my life.”
 
 ## The Compounding Effect
 

@@ -13,7 +13,7 @@ This guide is a framework for thinking through pricing on any AI consulting proj
 
 **Price by the transformation, not by the hour.**
 
-When you say "20 hours at $100/hour," the client focuses on the 20 hours. When you say "this system will save your team $240,000/year and the investment is $8,000," the client focuses on the ROI. The second conversation closes. The first one invites haggling.
+When you say “20 hours at $100/hour,” the client focuses on the 20 hours. When you say “this system will save your team $240,000/year and the investment is $8,000,” the client focuses on the ROI. The second conversation closes. The first one invites haggling.
 
 ## Growth Center, Not Cost Center
 
@@ -42,7 +42,7 @@ Every AI engagement maps to at least one of these:
 | **Time recovered** | Hours/week saved x loaded hourly cost of the people freed up |
 | **Risk mitigated** | Cost of compliance failures, data loss, competitive displacement |
 
-**The formula:** Estimate the annual impact in dollars. Your price should be 10-20% of Year 1 value. Position this as: "You keep 80-90% of the value. I take 10-20% for making it happen."
+**The formula:** Estimate the annual impact in dollars. Your price should be 10-20% of Year 1 value. Position this as: “You keep 80-90% of the value. I take 10-20% for making it happen.”
 
 ### Step 2: Assess the Client Variables
 
@@ -50,7 +50,7 @@ Every AI engagement maps to at least one of these:
 |---|---|---|
 | **Client revenue** | Pre-revenue or small | $10M+ established |
 | **Decision-maker access** | Talking to a manager | Talking to the CEO/CTO |
-| **Urgency** | "Exploring AI someday" | "We are losing to competitors NOW" |
+| **Urgency** | “Exploring AI someday” | “We are losing to competitors NOW” |
 | **Complexity** | Single workflow | Multi-system transformation |
 | **Duration** | One-off build | 4-6+ month engagement |
 | **Strategic value** | Internal convenience | Core business IP or competitive moat |
@@ -90,7 +90,7 @@ Best for ongoing relationships where the system needs tuning and the client need
 - For time-saving systems: 15-20% of monthly time value saved
 - Always itemize what the retainer includes: monitoring, optimization, coaching, priority support, monthly impact reports
 
-**Why retainers work:** A monthly impact report showing "47 leads contacted, 13 deals closed, $52,000 estimated revenue impact" turns a $1,000/month retainer into the most obvious investment the client makes.
+**Why retainers work:** A monthly impact report showing “47 leads contacted, 13 deals closed, $52,000 estimated revenue impact” turns a $1,000/month retainer into the most obvious investment the client makes.
 
 ### Model C: Hybrid (Setup Fee + Retainer)
 
@@ -103,7 +103,7 @@ Best for most engagements. Gives you upfront cash flow and recurring revenue.
 - $2,000-5,000/month retainer for ongoing coaching, optimization, evolution
 - Total Year 1 value to you: $39,000-85,000
 
-The hybrid model works psychologically too. The upfront fee makes the client take the engagement seriously. The monthly retainer keeps you engaged and prevents the "build it and ghost it" dynamic that kills one-time projects.
+The hybrid model works psychologically too. The upfront fee makes the client take the engagement seriously. The monthly retainer keeps you engaged and prevents the “build it and ghost it” dynamic that kills one-time projects.
 
 ### Model D: Equity or Revenue Share
 
@@ -125,7 +125,7 @@ The [Business Owner playbooks](/docs/playbooks/business-owner) walk your prospec
 
 | Client Stage | What They've Done | Pricing Implication |
 |---|---|---|
-| [AI Quick Check](/docs/playbooks/business-owner/quick-check) | Assessed their own readiness with six yes/no questions | If they scored "early," they need coaching before building. Price for discovery and education, not implementation. |
+| [AI Quick Check](/docs/playbooks/business-owner/quick-check) | Assessed their own readiness with six yes/no questions | If they scored “early,” they need coaching before building. Price for discovery and education, not implementation. |
 | [Situation Map](/docs/playbooks/business-owner/situation-map) | Mapped their workflows, data, team, and gaps | You can skip weeks of discovery. Their gaps are documented. Price the build, not the diagnosis. |
 | [Pilot Scope](/docs/playbooks/business-owner/pilot-scope) | Scoped a concrete pilot with problem, success metric, constraints, and budget | This is a client who has done the work. They know what they want, what it costs them, and what they can spend. You can price with confidence because the scope is clear. |
 
@@ -155,19 +155,19 @@ You do not lead with the price. You lead with the diagnosis. If the client has a
 
 Ask questions that reveal the cost of the problem:
 
-- "Walk me through what happens when [problem] occurs today."
-- "How many hours per week does your team spend on [manual process]?"
-- "What does that cost you in loaded salary?"
-- "What happens to deals when [bottleneck] slows things down?"
-- "How many opportunities have you lost because of this?"
+- “Walk me through what happens when [problem] occurs today.”
+- “How many hours per week does your team spend on [manual process]?”
+- “What does that cost you in loaded salary?”
+- “What happens to deals when [bottleneck] slows things down?”
+- “How many opportunities have you lost because of this?”
 
 ### Step 2: Quantify the Gap
 
 Reflect the cost back:
 
-- "So you're spending roughly $X/year on this problem today."
-- "And the opportunity cost of not solving it is another $Y."
-- "That means this problem is costing you about $Z per year."
+- “So you're spending roughly $X/year on this problem today.”
+- “And the opportunity cost of not solving it is another $Y.”
+- “That means this problem is costing you about $Z per year.”
 
 At this point, the client is not thinking about your hourly rate. They are thinking about the $Z they are losing.
 
@@ -175,24 +175,24 @@ At this point, the client is not thinking about your hourly rate. They are think
 
 Frame your price as a fraction of the value:
 
-- "I can solve this for [price], which is roughly [X]% of what it's costing you annually."
-- "You keep 80-90% of the value. I take 10-20% for making it happen."
-- "The system pays for itself within [timeframe]."
+- “I can solve this for [price], which is roughly [X]% of what it's costing you annually.”
+- “You keep 80-90% of the value. I take 10-20% for making it happen.”
+- “The system pays for itself within [timeframe].”
 
 ### Step 4: Justify with Proof
 
 If you have them, reference comparable results:
 
-- "I built a similar system for [anonymized client] that saved them [X hours/week]."
-- "Organizations I've worked with typically see [X] ROI in the first quarter."
+- “I built a similar system for [anonymized client] that saved them [X hours/week].”
+- “Organizations I've worked with typically see [X] ROI in the first quarter.”
 
-If you don't have case studies yet, start with a lower price to get one. Then double it on the next engagement. Keep doubling until you start hearing "no." If your close rate is 100%, your prices are too low.
+If you don't have case studies yet, start with a lower price to get one. Then double it on the next engagement. Keep doubling until you start hearing “no.” If your close rate is 100%, your prices are too low.
 
 ---
 
 ## Close Rate as Pricing Diagnostic
 
-Your close rate tells you exactly how mispriced you are. If almost everyone says yes, you are leaving money on the table. The right price produces some "no"s.
+Your close rate tells you exactly how mispriced you are. If almost everyone says yes, you are leaving money on the table. The right price produces some “no”s.
 
 | Your Close Rate | What It Means | Action |
 |---|---|---|
@@ -211,14 +211,14 @@ Test it: raise your price by 50% on the next three proposals and track what happ
 
 The most common pricing mistake practitioners make: pricing based on what *you* would pay, not what the *client* values.
 
-This is called "selling out of your own wallet." It happens because you know how to do the work, so the work feels easy to you. A mechanic would never pay someone to change their oil because they know how to change oil. But if your car is broken and you do not know how to change oil, you would pay a lot.
+This is called “selling out of your own wallet.” It happens because you know how to do the work, so the work feels easy to you. A mechanic would never pay someone to change their oil because they know how to change oil. But if your car is broken and you do not know how to change oil, you would pay a lot.
 
-The same dynamic applies to applied AI work. You know how to build the system, so it feels like "just a few days of work." But the client is not buying your days. They are buying the outcome: leads responded to, hours recovered, revenue unlocked. The value of that outcome has nothing to do with how easy it was for you.
+The same dynamic applies to applied AI work. You know how to build the system, so it feels like “just a few days of work.” But the client is not buying your days. They are buying the outcome: leads responded to, hours recovered, revenue unlocked. The value of that outcome has nothing to do with how easy it was for you.
 
 **Signs you are selling out of your own wallet:**
 - You feel embarrassed quoting your price
 - You preemptively offer discounts before the client pushes back
-- You think "that is a lot of money" when calculating your fee
+- You think “that is a lot of money” when calculating your fee
 - You have friends in the room making 10x your revenue and you are surprised
 
 **The fix:** Price based on the client's world, not yours. If you save a company $300,000/year, charging $30,000 is not expensive. It is 10% of the value. The client's CFO will approve that without a second meeting.
@@ -251,7 +251,7 @@ Set a base fee that covers your cost to serve, no matter what. Then add incremen
 
 ## Price Floors
 
-These exist because anything below them signals "cheap labor" and attracts the wrong clients.
+These exist because anything below them signals “cheap labor” and attracts the wrong clients.
 
 | Engagement Type | Minimum |
 |---|---|
@@ -265,7 +265,7 @@ These exist because anything below them signals "cheap labor" and attracts the w
 
 - They ask for your hourly rate before understanding the scope
 - They compare you to freelancers or Upwork contractors
-- "Can you just build me a chatbot?"
+- “Can you just build me a chatbot?”
 - They want to pay per feature, not per transformation
 - No executive sponsor (a middle manager cannot authorize real spend)
 - They want to own everything with no ongoing relationship
@@ -305,7 +305,7 @@ These exist because anything below them signals "cheap labor" and attracts the w
 
 **Priya's price:** $50,000 project fee (4-month build) + $5,000/month ongoing retainer. That is 10% of conservative Year 1 value for the project fee. The client's VP of Engineering approves it in one meeting.
 
-**How she frames it:** "This isn't a software build. It's a strategic intelligence layer for your engineering team. The knowledge system becomes institutional memory that compounds over time. The agents turn that memory into action. The question isn't what this costs. It's what it costs you to NOT have it for another year."
+**How she frames it:** “This isn't a software build. It's a strategic intelligence layer for your engineering team. The knowledge system becomes institutional memory that compounds over time. The agents turn that memory into action. The question isn't what this costs. It's what it costs you to NOT have it for another year.”
 
 ### Example 3: Equity Play for an Early-Stage Company
 

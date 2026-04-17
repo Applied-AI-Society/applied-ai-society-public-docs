@@ -17,9 +17,9 @@ The deeper issue is structural. The textbook industry is not controlled by the m
 
 ## Why Static Curricula Can't Keep Up
 
-It is tempting to think the answer is "better textbooks, updated more frequently." It is not.
+It is tempting to think the answer is “better textbooks, updated more frequently.” It is not.
 
-The problem is the format itself. Any educational material that is frozen at the point of publication is making an implicit promise: "this was true when we wrote it, and it will remain true long enough to be worth learning." In applied AI, that promise has a shelf life measured in weeks, not years.
+The problem is the format itself. Any educational material that is frozen at the point of publication is making an implicit promise: “this was true when we wrote it, and it will remain true long enough to be worth learning.” In applied AI, that promise has a shelf life measured in weeks, not years.
 
 Consider what has changed in just the last six months of applied AI practice:
 - New roles have emerged that did not exist before
@@ -37,8 +37,8 @@ Instead of textbooks, we use field notes.
 Field notes are observations recorded by practitioners who are actively doing the work: implementing AI systems for real businesses, closing real deals, running real events, building real communities. They are timestamped, context-rich, and honest about what worked and what didn't.
 
 The distinction matters:
-- A **textbook** says: "Here is how to build an AI agent." It presents knowledge as settled.
-- A **field note** says: "Here is how we built an AI agent for a logistics company in February 2026, what went wrong, and what we would do differently." It presents knowledge as evolving.
+- A **textbook** says: “Here is how to build an AI agent.” It presents knowledge as settled.
+- A **field note** says: “Here is how we built an AI agent for a logistics company in February 2026, what went wrong, and what we would do differently.” It presents knowledge as evolving.
 
 Field notes respect the reader by being transparent about their own limitations. They carry a built-in expiration signal: the date, the context, the practitioner's own uncertainty. The reader can evaluate whether the note still applies to their situation. A textbook offers no such affordance.
 
@@ -48,7 +48,7 @@ This matters as much as the format.
 
 Field notes must come from practitioners who are doing the work and making money providing genuine value for real people. Not commentators. Not analysts. Not people who talk about AI on social media for engagement. People who are in the room with a business owner, understanding their problems, building the system, and measuring whether it actually helped.
 
-The reason is simple: applied AI is a practice, not a theory. The gap between "what sounds good in a blog post" and "what actually works when you implement it" is enormous. Only people who have crossed that gap repeatedly can produce source material worth learning from.
+The reason is simple: applied AI is a practice, not a theory. The gap between “what sounds good in a blog post” and “what actually works when you implement it” is enormous. Only people who have crossed that gap repeatedly can produce source material worth learning from.
 
 This is why the Applied AI Society's documentation is written and updated by the community's own practitioners. We are not aggregating secondhand knowledge. We are documenting firsthand experience as it happens.
 
@@ -56,7 +56,7 @@ This is why the Applied AI Society's documentation is written and updated by the
 
 Think about who the most beloved people in AI actually are. Not the loudest voices. Not the best marketers. The people who share honest, practitioner-level field notes about where things actually stand.
 
-[Andrej Karpathy](https://karpathy.ai/) is the clearest example. He coined "vibe coding." He named "auto research" as a category. He builds reference implementations and tutorials that become canonical not because anyone assigned them, but because they are truthful, useful, and created by someone who is genuinely doing the work. When Karpathy shares an observation about where a technology is at, people trust it because he has no incentive to exaggerate. He is sharing field notes from someone who has been at the frontier for years.
+[Andrej Karpathy](https://karpathy.ai/) is the clearest example. He coined “vibe coding.” He named “auto research” as a category. He builds reference implementations and tutorials that become canonical not because anyone assigned them, but because they are truthful, useful, and created by someone who is genuinely doing the work. When Karpathy shares an observation about where a technology is at, people trust it because he has no incentive to exaggerate. He is sharing field notes from someone who has been at the frontier for years.
 
 That is the energy we want in every piece of source material the Applied AI Society produces. Not content for engagement. Field notes from people who care about getting it right.
 
@@ -64,7 +64,7 @@ That is the energy we want in every piece of source material the Applied AI Soci
 
 There is a harder truth underneath all of this.
 
-We live in an age of embellishment. Social media algorithms optimize for engagement, not accuracy. Content is designed for clicks, not clarity. Hype outperforms honesty. "10x your revenue with AI" outperforms "here is a realistic assessment of what AI can do for your specific business."
+We live in an age of embellishment. Social media algorithms optimize for engagement, not accuracy. Content is designed for clicks, not clarity. Hype outperforms honesty. “10x your revenue with AI” outperforms “here is a realistic assessment of what AI can do for your specific business.”
 
 The incentive structures of modern media are antithetical to truth. When the algorithm rewards exaggeration, the information ecosystem fills with exaggeration. When people learn from that ecosystem, they learn exaggerated things. And when they try to apply what they learned, they fail, because reality does not bend to hype.
 
@@ -79,8 +79,8 @@ Social media is almost entirely noise and falsehood. The Applied AI Society's do
 That means:
 - **Source-controlled and versioned.** Every change is tracked. You can see what changed, when, and why. No quiet edits. No memory-holing of mistakes. [Legacy](/docs/concepts/legacy) is the discipline that makes this rigorous.
 - **Written by practitioners, not performers.** The people contributing to these docs are the same people closing deals, building systems, and running events. Their incentive is to get it right, because their reputation and livelihood depend on it.
-- **Updated continuously.** This is not a quarterly publication cycle. When something changes, the docs change. When a practice is falsified, the docs reflect that. The goal is to keep the gap between "what we know" and "what the docs say" as close to zero as possible.
-- **Honest about uncertainty.** Not everything is figured out. The docs say so explicitly. "Nobody has this figured out. Let's share notes" is not a tagline. It is the operating principle.
+- **Updated continuously.** This is not a quarterly publication cycle. When something changes, the docs change. When a practice is falsified, the docs reflect that. The goal is to keep the gap between “what we know” and “what the docs say” as close to zero as possible.
+- **Honest about uncertainty.** Not everything is figured out. The docs say so explicitly. “Nobody has this figured out. Let's share notes” is not a tagline. It is the operating principle.
 
 ## Derivative Courses, Not a Single Curriculum
 

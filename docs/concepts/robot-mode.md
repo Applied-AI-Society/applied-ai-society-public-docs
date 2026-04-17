@@ -5,7 +5,7 @@ title: "Robot Mode"
 
 # Robot Mode
 
-*If the job description is "be a robot," a robot will take your job. The question is what you do with the time you get back.*
+*If the job description is “be a robot,” a robot will take your job. The question is what you do with the time you get back.*
 
 ---
 
@@ -25,7 +25,7 @@ AI and automation now perform robot-mode work better than humans can. Faster, ch
 
 This is not a threat. It is a liberation.
 
-The question is not "will AI take my job?" The question is: "How much of my current role is robot mode, and what happens when I automate that part?"
+The question is not “will AI take my job?” The question is: “How much of my current role is robot mode, and what happens when I automate that part?”
 
 For most people, the answer is surprising. A huge percentage of their week is robot mode. Not because they are incapable of creative, soulful work, but because the system never asked them for that. The job description was: be a robot. So they were.
 
@@ -59,6 +59,6 @@ Everyone is doing too much robot-mode work. The tools to stop are here. The only
 - [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): The diagnostic ladder. Robot mode automation is level 1. Get through it fast.
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Every friction point is a feature request. Build the infrastructure that keeps you in creative flow.
 - [Hyperagency](/docs/concepts/hyperagency): The split between hyperagents and everyone else. Exiting robot mode is how you suit up.
-- [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): Decomposing roles into workflows is how you find the robot-mode tasks hiding inside "human" jobs.
+- [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): Decomposing roles into workflows is how you find the robot-mode tasks hiding inside “human” jobs.
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): The economic context. Adapt or get sorted out.
 - [Crutching](/docs/concepts/crutching): Robot mode is the wrong type of work. Crutching is the wrong way to use AI. Both need to go.

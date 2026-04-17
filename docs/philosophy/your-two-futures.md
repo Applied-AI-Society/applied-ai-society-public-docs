@@ -101,7 +101,7 @@ Show up. Come to an [event](https://appliedaisociety.org). Join the [community](
 
 ## The Flood Is Here
 
-We use the word "flood" deliberately. Not to create panic. To create clarity.
+We use the word “flood” deliberately. Not to create panic. To create clarity.
 
 When the water is rising, you do not need a five-year plan. You need to get on the ark. The ark is not a single tool or a subscription. It is the practice of suiting up: building your context, sharing your skills, compounding your capability, and helping the people around you do the same.
 

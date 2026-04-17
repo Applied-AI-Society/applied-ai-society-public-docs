@@ -7,7 +7,7 @@ title: Example - Fictional
 
 This is a fictional ALIGN.md for a person who operates across multiple organizations. It demonstrates the [union principle](/docs/standards/align-md#the-union-principle): synthesizing multiple org-level alignments into one coherent personal file.
 
-Notice what makes this effective: specific dealbreakers (not platitudes), concrete capabilities (not aspirational ones), a clear hierarchy of commitments, and the "NOT currently focused on" line that prevents wasted outreach. This is not a resume. It is a compatibility document.
+Notice what makes this effective: specific dealbreakers (not platitudes), concrete capabilities (not aspirational ones), a clear hierarchy of commitments, and the “NOT currently focused on” line that prevents wasted outreach. This is not a resume. It is a compatibility document.
 
 ---
 
@@ -182,26 +182,26 @@ so we can do bilateral evaluation: https://docs.appliedaisociety.org/docs/standa
 
 ### The Spiritual Disclosure
 
-The Spiritual Values section states plainly: "I am a follower of Christ." It doesn't apologize. It doesn't minimize. It doesn't over-explain. It states the fact and then explains the practical implications (Sabbath practice, tithing, prayer before board meetings, willingness to walk away).
+The Spiritual Values section states plainly: “I am a follower of Christ.” It doesn't apologize. It doesn't minimize. It doesn't over-explain. It states the fact and then explains the practical implications (Sabbath practice, tithing, prayer before board meetings, willingness to walk away).
 
 A partner who reads this knows exactly what they're working with. They can decide whether that's compatible before anyone takes a call. No surprises at month three.
 
 ### The Dealbreakers
 
-Five specific, testable dealbreakers. Not "we prefer aligned partners" but "we have walked away from six-figure grants over curriculum control." An agent can check whether a potential partner triggers any of these.
+Five specific, testable dealbreakers. Not “we prefer aligned partners” but “we have walked away from six-figure grants over curriculum control.” An agent can check whether a potential partner triggers any of these.
 
-The last dealbreaker ("disrespect for faith") is relational rather than structural. That's fine. Not everything can be mechanically evaluated. Including it tells the agent: even if all objective criteria pass, there's a cultural compatibility requirement. This is honest and useful.
+The last dealbreaker (“disrespect for faith”) is relational rather than structural. That's fine. Not everything can be mechanically evaluated. Including it tells the agent: even if all objective criteria pass, there's a cultural compatibility requirement. This is honest and useful.
 
 ### The Union Principle in Action
 
-The file synthesizes three organizations (Rootstock, Verdant, Grace Fellowship) into one coherent identity. The Identity section shows how they connect ("the same mission from different angles"). The Capabilities section separates them clearly. The Dealbreakers apply across all of them.
+The file synthesizes three organizations (Rootstock, Verdant, Grace Fellowship) into one coherent identity. The Identity section shows how they connect (“the same mission from different angles”). The Capabilities section separates them clearly. The Dealbreakers apply across all of them.
 
 A potential community college partner reads this and knows: Maya's education work is shaped by her faith and connected to a software sovereignty project. That's the full picture. No surprises.
 
-### The "NOT Currently Focused On" Line
+### The “NOT Currently Focused On” Line
 
 The Current Priorities section includes what's out of scope. This prevents wasted outreach. If you're a K-12 edtech company or a VC, the ALIGN.md tells you upfront: not right now. This saves everyone time.
 
 ### Concrete Over Aspirational
 
-The Capabilities section says "47 certified instructors across 8 states" instead of "growing network of educators." It says "3 community college systems" instead of "partnerships with higher education institutions." Specificity lets an agent assess fit. Vagueness wastes tokens.
+The Capabilities section says “47 certified instructors across 8 states” instead of “growing network of educators.” It says “3 community college systems” instead of “partnerships with higher education institutions.” Specificity lets an agent assess fit. Vagueness wastes tokens.

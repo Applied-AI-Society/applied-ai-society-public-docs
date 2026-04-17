@@ -21,7 +21,7 @@ And every single one of them feels exciting.
 
 The velocity makes it worse. When you are operating at a high level, life moves fast. Every conversation is rich. Every person you meet is also moving at speed. You are cooking. The people around you are cooking. The richness of what is happening feels like evidence that you should keep saying yes. But that very velocity is what makes the overflow dangerous: by the time you notice the weight of all those commitments, you are already buried.
 
-That is the trap. Context overflow for humans does not feel like drowning. It feels like flying. You are high on life. You have so much value to give. You want to serve. Someone pitches an idea and you think, "Yeah, I can figure that out." Someone else brings a project and you think, "This could be exponential." The hopium is real: each new thing looks like it could be the big one.
+That is the trap. Context overflow for humans does not feel like drowning. It feels like flying. You are high on life. You have so much value to give. You want to serve. Someone pitches an idea and you think, “Yeah, I can figure that out.” Someone else brings a project and you think, “This could be exponential.” The hopium is real: each new thing looks like it could be the big one.
 
 But you are over-promising. You are saying yes to things that pull you away from the work that made you high-signal in the first place. And it sneaks up on you, because the vibes are good the whole way down.
 
@@ -41,7 +41,7 @@ Every commitment you make costs energy. Not just the time in the meeting or the 
 
 Return on energy asks: for this unit of energy I am about to spend, what do I get back? Not in theory. Not in the best case. In the realistic case, given everything else on my plate.
 
-Most things that feel exciting in the moment have terrible return on energy. The coffee chat that turns into a vague partnership discussion. The "quick favor" that balloons into a multi-week commitment. The collaboration that sounds amazing but has no clear scope, timeline, or mutual accountability.
+Most things that feel exciting in the moment have terrible return on energy. The coffee chat that turns into a vague partnership discussion. The “quick favor” that balloons into a multi-week commitment. The collaboration that sounds amazing but has no clear scope, timeline, or mutual accountability.
 
 High return on energy looks like: deep work on your core thing. Systems that compound. Relationships that are genuinely bilateral. Things that are already working and need more fuel.
 

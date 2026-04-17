@@ -27,21 +27,21 @@ The single most powerful tool for scaling expertise. A self-paced course takes e
 
 The course is not just a delivery mechanism. It is a *filter*.
 
-When someone asks for a meeting with you, the question becomes: "What module are you on?" This tells you everything:
+When someone asks for a meeting with you, the question becomes: “What module are you on?” This tells you everything:
 
 - **They have not started the course.** They are not serious yet. Point them to Module 1.
 - **They are on Module 3 and have a specific question.** Now you have a focused, high-value conversation. Their question is grounded in context they already built. Your answer lands harder because they have the foundation to understand it.
 - **They finished the course and want to go deeper.** This is someone worth your time. They did the work. They respected your energy. They earned the meeting.
 
-The boundary can and should be stated plainly: "If you're trying to learn from me, go to my course. I don't have time if you didn't go through my course. It's that simple." That is not arrogance. That is someone who has learned, the hard way, that unfiltered access to their calendar will destroy the very thing that makes them worth talking to.
+The boundary can and should be stated plainly: “If you're trying to learn from me, go to my course. I don't have time if you didn't go through my course. It's that simple.” That is not arrogance. That is someone who has learned, the hard way, that unfiltered access to their calendar will destroy the very thing that makes them worth talking to.
 
-The course turns an open-ended request ("Can I pick your brain?") into a structured progression that respects both your time and theirs.
+The course turns an open-ended request (“Can I pick your brain?”) into a structured progression that respects both your time and theirs.
 
 ### Public Documentation
 
 Not everything needs to be a course. Some expertise is better served by living documentation: articles, guides, FAQs, and reference material that anyone can access at any time.
 
-The [Applied AI Society docs](https://docs.appliedaisociety.org) are an example of this pattern. Instead of explaining the same concepts in every conversation, practitioners can share a link. "Here is what we mean by [harness engineering](/docs/concepts/harness-engineering)." "Here is the [Supersuit Up Workshop](/docs/workshops/supersuit-up)." The conversation starts at a higher level because the basics are already covered.
+The [Applied AI Society docs](https://docs.appliedaisociety.org) are an example of this pattern. Instead of explaining the same concepts in every conversation, practitioners can share a link. “Here is what we mean by [harness engineering](/docs/concepts/harness-engineering).” “Here is the [Supersuit Up Workshop](/docs/workshops/supersuit-up).” The conversation starts at a higher level because the basics are already covered.
 
 Good permissionless documentation has a few properties:
 
@@ -83,7 +83,7 @@ If you are an expert in any field and people regularly want your help, here is a
 
 **3. Build a structured course.** Take your most common engagement (the thing you do with every new client/student/collaborator) and turn it into a self-paced experience. It does not need to be polished. It needs to be complete enough that someone can make real progress without you.
 
-**4. Create the filter.** When someone requests your time, point them to the course first. "Start here, and when you have questions about a specific module, I am happy to chat." This is not dismissive. It is respectful of both parties.
+**4. Create the filter.** When someone requests your time, point them to the course first. “Start here, and when you have questions about a specific module, I am happy to chat.” This is not dismissive. It is respectful of both parties.
 
 **5. Automate the delivery.** Use [agent-accessible](/docs/concepts/agent-accessible-products) tools to deliver your knowledge. A Personal Agentic OS that can answer questions about your course content. An email sequence that drip-feeds the material. A community where graduates help newcomers.
 

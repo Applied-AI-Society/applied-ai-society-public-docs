@@ -47,7 +47,7 @@ An A player is not perfect. They have gaps too. The difference is that an A play
 
 Here is the part most people miss.
 
-In the pre-AI economy, the opportunity cost of working with a B player was "we shipped a little slower" or "the quality was a little lower." Annoying but survivable.
+In the pre-AI economy, the opportunity cost of working with a B player was “we shipped a little slower” or “the quality was a little lower.” Annoying but survivable.
 
 In the AI economy, the opportunity cost of working with a B player is: while you were compensating for their deficiencies, your competitor's team of 3 A players shipped the thing that made your product irrelevant.
 
@@ -61,7 +61,7 @@ If you are building a team in the AI economy:
 
 **Screen for the dimensions AI amplifies.** Technical skill matters, but it is the easiest thing to augment with AI. Screen harder for judgment, integrity, communication, and self-awareness. These are the dimensions that AI cannot fix and will amplify in whichever direction they lean.
 
-**Cut faster.** The cost of carrying a B player on a small team is not "suboptimal." It is existential. If someone is not working, the compassionate and responsible thing is to address it immediately, not to hope it improves while the team absorbs the damage.
+**Cut faster.** The cost of carrying a B player on a small team is not “suboptimal.” It is existential. If someone is not working, the compassionate and responsible thing is to address it immediately, not to hope it improves while the team absorbs the damage.
 
 ## For Practitioners and Team Members
 

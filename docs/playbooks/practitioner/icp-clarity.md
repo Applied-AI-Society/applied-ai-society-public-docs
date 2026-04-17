@@ -25,7 +25,7 @@ When working with a client (or on your own business), run this diagnostic:
 2. **Is it validated?** Have they talked to enough people in this profile to confirm the pain points are real? Or are they building for who they imagine their customer to be?
 3. **Is it the right ICP?** Sometimes the initial definition worked for early traction but doesn't hold up at scale. Are they serving who's convenient or who's ideal?
 
-If the answer to any of these is "no" or "I'm not sure," that's where the work starts. Not with AI tooling.
+If the answer to any of these is “no” or “I'm not sure,” that's where the work starts. Not with AI tooling.
 
 ### For Practitioners: Your Own ICP
 

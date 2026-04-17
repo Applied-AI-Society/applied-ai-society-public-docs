@@ -25,7 +25,7 @@ The question you should keep asking yourself: are the skills I am developing lea
 
 If the answer is yes, your curiosity is grounded. You are exploring in a direction that the market is confirming. Keep going.
 
-If the answer is no, that does not mean stop exploring. It means redirect. Use the market as a compass. Let the signal of "someone will pay for this" guide where your curiosity goes next.
+If the answer is no, that does not mean stop exploring. It means redirect. Use the market as a compass. Let the signal of “someone will pay for this” guide where your curiosity goes next.
 
 ## Why This Is the Focus
 
@@ -37,7 +37,7 @@ This does not mean money is the only thing that matters. It means money is the m
 
 ## The Alternative
 
-The alternative is what most people do: read newsletters, attend conferences, build side projects nobody uses, and call it "staying current." That is not applied AI. That is spectating. (See: [Five Levels of Value](/docs/playbooks/student/five-levels-of-value))
+The alternative is what most people do: read newsletters, attend conferences, build side projects nobody uses, and call it “staying current.” That is not applied AI. That is spectating. (See: [Five Levels of Value](/docs/playbooks/student/five-levels-of-value))
 
 We would rather you build something useful, get paid for it, learn from the experience, and compound from there. That is the path. Everything else is preparation for the path, and preparation has diminishing returns if it never converts to action.
 

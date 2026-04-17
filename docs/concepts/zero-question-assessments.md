@@ -15,9 +15,9 @@ You want to know what kind of leader you are. So you take a Myers-Briggs test. O
 
 The problems with this are well-documented:
 
-**Self-report bias.** People answer how they want to be seen, not how they actually are. You say you are "open to feedback." Your transcripts show you get defensive every time someone pushes back on your strategy.
+**Self-report bias.** People answer how they want to be seen, not how they actually are. You say you are “open to feedback.” Your transcripts show you get defensive every time someone pushes back on your strategy.
 
-**Decontextualized questions.** "On a scale of 1 to 5, how comfortable are you with risk?" Comfortable with what kind of risk? Financial? Social? Spiritual? The question strips away the context that makes the answer meaningful.
+**Decontextualized questions.** “On a scale of 1 to 5, how comfortable are you with risk?” Comfortable with what kind of risk? Financial? Social? Spiritual? The question strips away the context that makes the answer meaningful.
 
 **Snapshot in time.** You took the test on a Tuesday after a good meeting. You would have answered differently on a Thursday after a fight with your co-founder. The result is a frozen moment, not a living picture.
 
@@ -47,7 +47,7 @@ A zero-question assessment is a [skill file](/docs/concepts/instruction-files) t
 
 No questions asked. No quiz taken. The assessment emerges from the truth that is already documented.
 
-## Example: "Which Bible Character Are You?"
+## Example: “Which Bible Character Are You?”
 
 This is the assessment that makes the pattern click for people.
 
@@ -59,7 +59,7 @@ The skill reads your context lake and maps you to a Bible character archetype ba
 - **Paul.** The converted zealot. Brilliant mind, radical transformation, tireless builder of infrastructure.
 - **Daniel.** The faithful exile. Thrives in enemy territory without compromising. Political savvy combined with spiritual purity.
 - **Nehemiah.** The builder-organizer. Sees broken walls, mobilizes people, rebuilds. The project manager of God.
-- **Esther.** The positioned one. Placed in a position of influence for a specific divine purpose. "For such a time as this."
+- **Esther.** The positioned one. Placed in a position of influence for a specific divine purpose. “For such a time as this.”
 - **Abraham.** The faith pioneer. Leaves everything on a promise. Walks by faith, not sight.
 - **Peter.** The impulsive loyalist. Bold, messy, passionate. Fails publicly. Gets back up. Becomes the rock.
 - **Elijah.** The confronter. Takes on the establishment. Dramatic spiritual power. Also gets burned out.

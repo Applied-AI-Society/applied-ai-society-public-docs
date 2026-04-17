@@ -15,7 +15,7 @@ That era is over.
 
 AI-generated content has flooded every channel. The noise of the internet is now astronomical. Search results are polluted with slop. Tutorials are outdated within weeks. The signal-to-noise ratio has collapsed. And the pace of change in AI has accelerated to the point where by the time a course is published, the landscape it describes has already shifted.
 
-Self-teaching in this environment is not just inefficient. It is dangerous. Because the cost of acting on bad information is no longer "I wasted a weekend." It is "my business made the wrong bet and my competitor did not."
+Self-teaching in this environment is not just inefficient. It is dangerous. Because the cost of acting on bad information is no longer “I wasted a weekend.” It is “my business made the wrong bet and my competitor did not.”
 
 ## Credibility Does Not Transfer
 
@@ -27,7 +27,7 @@ None of that automatically transfers to applied AI.
 
 The person who can tell you exactly how to implement AI in your specific business, with your specific constraints, in this specific moment, is almost never the person with the biggest audience. They are too busy doing the work to build a content empire. They are in the trenches, helping real businesses, learning what actually works through direct experience.
 
-This is the problem with transferring credibility across domains. Just because someone made money in crypto, or built a successful SaaS company in 2015, or has a million followers posting about "the future," does not mean they know how to help you apply AI to your business today. The applied AI economy rewards practitioners with current, hands-on experience. Not pundits with old wins and big platforms.
+This is the problem with transferring credibility across domains. Just because someone made money in crypto, or built a successful SaaS company in 2015, or has a million followers posting about “the future,” does not mean they know how to help you apply AI to your business today. The applied AI economy rewards practitioners with current, hands-on experience. Not pundits with old wins and big platforms.
 
 ## Why Community Is Existential
 
@@ -55,7 +55,7 @@ The difference between survival and extinction is not intelligence. It is not ca
 
 Co-teaching is not a classroom. It is a practice.
 
-It is a group of practitioners who meet regularly (in person or virtually) and share what they are learning in real time. It is a group chat where someone posts "I just tried this approach with a client and here is what happened." It is a co-working session where you bring a real project and get unstuck with help from people who have solved similar problems.
+It is a group of practitioners who meet regularly (in person or virtually) and share what they are learning in real time. It is a group chat where someone posts “I just tried this approach with a client and here is what happened.” It is a co-working session where you bring a real project and get unstuck with help from people who have solved similar problems.
 
 The teaching flows in every direction. The person who figured out a pricing model last week teaches the person struggling with pricing this week. The person who just landed a new kind of client shares how they positioned themselves. The person who hit a technical wall shares the workaround they found.
 

@@ -108,7 +108,7 @@ cd my-jarvis
 codex
 ```
 
-Tell Codex about yourself. The starter repo ships a `create-user-profile` skill (auto-discovered by Codex from `.agents/skills/`) that walks through building your `user/USER.md` profile. Invoke it with `/create-user-profile` or just say: "Interview me to create my user profile."
+Tell Codex about yourself. The starter repo ships a `create-user-profile` skill (auto-discovered by Codex from `.agents/skills/`) that walks through building your `user/USER.md` profile. Invoke it with `/create-user-profile` or just say: “Interview me to create my user profile.”
 
 This profile becomes the foundation. Every future session builds on it.
 
@@ -118,10 +118,10 @@ This profile becomes the foundation. Every future session builds on it.
 
 Same patterns as any harness. Talk to your agent:
 
-- **Brain dump.** "I just had coffee with Marcus. He runs a construction company in Dallas, 40 employees. Interested in AI for project management." Codex creates or updates `people/marcus.md`.
-- **Strategic thinking.** "Help me think through whether to take on this client." Codex pulls from your user profile, principles, and current situation.
-- **Process a transcript.** Paste a meeting transcript and say "process this." Codex saves it, extracts participants, updates relationship files.
-- **Build a skill.** "I want to standardize how I prep for client calls." Codex helps you write a skill file in `skills/`.
+- **Brain dump.** “I just had coffee with Marcus. He runs a construction company in Dallas, 40 employees. Interested in AI for project management.” Codex creates or updates `people/marcus.md`.
+- **Strategic thinking.** “Help me think through whether to take on this client.” Codex pulls from your user profile, principles, and current situation.
+- **Process a transcript.** Paste a meeting transcript and say “process this.” Codex saves it, extracts participants, updates relationship files.
+- **Build a skill.** “I want to standardize how I prep for client calls.” Codex helps you write a skill file in `skills/`.
 
 ---
 

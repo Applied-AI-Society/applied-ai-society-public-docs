@@ -92,15 +92,15 @@ Clients who see continuous, measurable improvement don't churn. You stop being t
 
 The experimental infrastructure also justifies ongoing engagement. There is always a next iteration. Always a next test. Always something to refine. The data you're collecting is the roadmap for the next six months of work (and the reason the client keeps you around).
 
-A consultant who can point at a chart and say "here's how outcomes have improved since we started working together, and here's what we're going to improve next" is a very different animal from one who hands over a finished deliverable and moves on.
+A consultant who can point at a chart and say “here's how outcomes have improved since we started working together, and here's what we're going to improve next” is a very different animal from one who hands over a finished deliverable and moves on.
 
 ---
 
 ## The Broader Frame
 
-The emerging role in this space is sometimes called "applied AI scientist": someone who combines the practitioner's ability to build and deploy with a scientist's discipline around hypothesis, measurement, and iteration.
+The emerging role in this space is sometimes called “applied AI scientist”: someone who combines the practitioner's ability to build and deploy with a scientist's discipline around hypothesis, measurement, and iteration.
 
-It's a higher bar than "can you build an AI workflow?" It's "can you build a workflow that provably improves over time, and can you show your work?"
+It's a higher bar than “can you build an AI workflow?” It's “can you build a workflow that provably improves over time, and can you show your work?”
 
 That's the bar worth aiming for.
 

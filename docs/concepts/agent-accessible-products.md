@@ -17,7 +17,7 @@ AI agents live in the command line. They operate by reading text, executing comm
 
 The companies that survive the agentic transition are the ones making their products usable by agents, not just humans. The ones that do not will watch agents route around them entirely.
 
-## What "Agent-Accessible" Means
+## What “Agent-Accessible” Means
 
 An agent-accessible product exposes its core functionality through interfaces that agents can use programmatically:
 
@@ -31,7 +31,7 @@ An agent-accessible product exposes its core functionality through interfaces th
 
 ## Why This Is Urgent
 
-Agents are increasingly the ones deciding which tools get used. When a human tells their [Personal Agentic OS](/docs/concepts/personal-agentic-os) "schedule a meeting with Sarah next Tuesday," the agent picks the tool. If your calendar product has a CLI or API, the agent uses it. If your calendar product is a web-only GUI with no programmatic access, the agent uses a competitor that does have one.
+Agents are increasingly the ones deciding which tools get used. When a human tells their [Personal Agentic OS](/docs/concepts/personal-agentic-os) “schedule a meeting with Sarah next Tuesday,” the agent picks the tool. If your calendar product has a CLI or API, the agent uses it. If your calendar product is a web-only GUI with no programmatic access, the agent uses a competitor that does have one.
 
 This is already happening:
 
@@ -40,7 +40,7 @@ This is already happening:
 - GitHub won over alternatives partly because the `gh` CLI makes every operation scriptable
 - Anthropic built Claude Code as a CLI first, not a desktop app, because that is where agents live
 
-The pattern is clear: the products that win in the agentic economy are the ones that treat CLI and API access as first-class, not as an afterthought bolted on for "power users."
+The pattern is clear: the products that win in the agentic economy are the ones that treat CLI and API access as first-class, not as an afterthought bolted on for “power users.”
 
 ## Agent SEO
 
@@ -58,7 +58,7 @@ The lesson: if your product already has an API (and it should), making it agent-
 
 After a decade of IDEs getting heavier and browser-based editors trying to replace local development, the command line has re-emerged as the center of gravity. Existing CLI tools are gaining entirely new utility when paired with AI agents, without requiring any modification.
 
-GitHub's `gh` CLI is the canonical example. It was designed for human developers, but agents discovered it, configured authentication, and started operating autonomously. Nobody had to build an "agent integration." The CLI was already agent-accessible by virtue of being a well-designed CLI. Polymarket shipped a Rust-based CLI and within days agents were building terminal dashboards, querying markets, and automating trading logic.
+GitHub's `gh` CLI is the canonical example. It was designed for human developers, but agents discovered it, configured authentication, and started operating autonomously. Nobody had to build an “agent integration.” The CLI was already agent-accessible by virtue of being a well-designed CLI. Polymarket shipped a Rust-based CLI and within days agents were building terminal dashboards, querying markets, and automating trading logic.
 
 The lesson: a good CLI is often the fastest way to make your product usable by agents. You do not need to build a custom integration. You need to build a good CLI.
 
@@ -106,11 +106,11 @@ The output of your tool should be parseable as input by another tool. Agents cha
 
 ### 7. Write an AGENTS.md
 
-Add a section to your documentation (or a standalone AGENTS.md file) that describes your product's available tools, preferred output formats, authentication flows, and usage rules. This is the "onboarding doc" for agents. One file can be the difference between an agent figuring out your tool in seconds versus burning tokens in confusion.
+Add a section to your documentation (or a standalone AGENTS.md file) that describes your product's available tools, preferred output formats, authentication flows, and usage rules. This is the “onboarding doc” for agents. One file can be the difference between an agent figuring out your tool in seconds versus burning tokens in confusion.
 
 ## What to Do If You Use a Product
 
-When choosing tools for your operation, ask: "Can an agent use this?" If the answer is no, that tool has an expiration date. Prefer products with CLIs, APIs, and open data formats. Your [Personal Agentic OS](/docs/concepts/personal-agentic-os) can only be as capable as the tools it can access.
+When choosing tools for your operation, ask: “Can an agent use this?” If the answer is no, that tool has an expiration date. Prefer products with CLIs, APIs, and open data formats. Your [Personal Agentic OS](/docs/concepts/personal-agentic-os) can only be as capable as the tools it can access.
 
 This is also why the [Personal Agentic OS architecture](/docs/workshops/supersuit-up) uses plain markdown files instead of proprietary apps. Markdown is the most agent-accessible format there is. Any tool can read it. Any agent can write it. No vendor lock-in. No API key required.
 

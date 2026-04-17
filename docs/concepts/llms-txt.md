@@ -68,7 +68,7 @@ plugins: [
 ],
 ```
 
-Other static site generators have similar plugins (search "llms.txt + your SSG"). And if you cannot find one, the format is simple enough to generate with a shell script: walk your `docs/` folder, write the index to one file, concatenate all the Markdown to the other. The AAS docs site does it that way ([scripts/generate-llms-txt.sh](https://github.com/Applied-AI-Society/applied-ai-society-public-docs/blob/main/scripts/generate-llms-txt.sh)).
+Other static site generators have similar plugins (search “llms.txt + your SSG”). And if you cannot find one, the format is simple enough to generate with a shell script: walk your `docs/` folder, write the index to one file, concatenate all the Markdown to the other. The AAS docs site does it that way ([scripts/generate-llms-txt.sh](https://github.com/Applied-AI-Society/applied-ai-society-public-docs/blob/main/scripts/generate-llms-txt.sh)).
 
 The point is not which tool you use. The point is that on every build, two static text files end up at the root of your site.
 
@@ -76,9 +76,9 @@ The point is not which tool you use. The point is that on every build, two stati
 
 ## Why Not Just Host Your Own Chat?
 
-This is a real choice every wiki owner faces. A bolted-on chat widget feels like the obvious move, especially circa 2023–2024 when "Ask my docs anything" was the trendy demo. By 2026 the calculus has flipped, and most wiki authors should not host a chat. The honest tradeoffs:
+This is a real choice every wiki owner faces. A bolted-on chat widget feels like the obvious move, especially circa 2023–2024 when “Ask my docs anything” was the trendy demo. By 2026 the calculus has flipped, and most wiki authors should not host a chat. The honest tradeoffs:
 
-**The puck has moved to the reader's LLM, not yours.** Almost every reader who would meaningfully engage with an "Ask my wiki" feature already has Claude, ChatGPT, Gemini, or a local model open in another tab. The skate-where-the-puck-is-going move is to make your corpus easy to drop into the LLM they already trust, not to compete for their attention with your own. A wiki author who insists on hosting their own chat in 2026 is solving last year's problem.
+**The puck has moved to the reader's LLM, not yours.** Almost every reader who would meaningfully engage with an “Ask my wiki” feature already has Claude, ChatGPT, Gemini, or a local model open in another tab. The skate-where-the-puck-is-going move is to make your corpus easy to drop into the LLM they already trust, not to compete for their attention with your own. A wiki author who insists on hosting their own chat in 2026 is solving last year's problem.
 
 **A hosted chat is an inference bill anyone can run up.** The moment your site exposes an LLM endpoint, every spam bot, every curious tinkerer, every malicious actor on the open web can hammer it. You will pay for those tokens. Rate-limiting helps but does not eliminate the attack surface. A static `llms-full.txt` cannot be abused into a financial event. It is just bytes on a CDN.
 
@@ -94,14 +94,14 @@ For most wikis serving most audiences in 2026, publishing the files and pointing
 
 A well-published llms.txt has:
 
-- **A real description.** "Documentation for our docs site" tells the LLM nothing. State what your site is actually about in one sentence.
+- **A real description.** “Documentation for our docs site” tells the LLM nothing. State what your site is actually about in one sentence.
 - **Per-page summaries that aren't just the page title.** The summary is what an agent uses to decide whether to read the page. Make it earn its line.
 - **Stable URLs.** If you reorganize the site, regenerate the file. Agents and bookmarks both depend on the links resolving.
 - **A regenerate-on-build pipeline.** A stale llms.txt is worse than no llms.txt. Wire it into your build so it cannot drift.
 
 A well-published llms-full.txt has:
 
-- **The actual text.** No navigation chrome, no UI strings, no "click here for more." Just the substance.
+- **The actual text.** No navigation chrome, no UI strings, no “click here for more.” Just the substance.
 - **Section headers preserved.** An agent reading a 15,000-line file relies on `##` markers to navigate.
 - **A reasonable size.** If your full corpus is genuinely huge (millions of tokens), consider segmenting by section and publishing multiple files (`llms-philosophy.txt`, `llms-playbooks.txt`).
 
@@ -113,7 +113,7 @@ Faith Walk OS ([faithwalk.garysheng.com](https://faithwalk.garysheng.com)) is a 
 
 In April 2026 it was rebuilt around llms.txt. The chat got removed. The embeddings got removed. The OpenAI dependency got removed. In its place, two static files: [/llms.txt](https://faithwalk.garysheng.com/llms.txt) (143 lines indexing every entry) and [/llms-full.txt](https://faithwalk.garysheng.com/llms-full.txt) (about 15,000 lines of the full corpus). Anyone who wants to ask the wiki a question now drops the URL into the LLM they already use.
 
-Net result: 83 npm packages removed, ongoing inference costs dropped to zero, the surface area for "the chat misrepresented what I believe" went to zero, and the wiki became more useful to power-readers, not less.
+Net result: 83 npm packages removed, ongoing inference costs dropped to zero, the surface area for “the chat misrepresented what I believe” went to zero, and the wiki became more useful to power-readers, not less.
 
 ---
 

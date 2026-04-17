@@ -103,7 +103,7 @@ This applies to individuals too. The more dependent you are on a single platform
 
 **Build on files, not platforms.** Markdown files are the universal format. Every AI tool can read them. No AI tool owns them. Your [context lake](/docs/concepts/context-lake) should be a folder on your computer, not a conversation history on someone else's server.
 
-**Stay portable.** Before adopting any AI tool, ask: what happens if this company doubles its price next month? What happens if it shuts down third-party access? What happens if it gets acquired? If the answer to any of these is "I lose my work," do not adopt it. Or adopt it with an exit plan.
+**Stay portable.** Before adopting any AI tool, ask: what happens if this company doubles its price next month? What happens if it shuts down third-party access? What happens if it gets acquired? If the answer to any of these is “I lose my work,” do not adopt it. Or adopt it with an exit plan.
 
 **Support open source.** Open source models, open source harnesses, open source tools. Not because proprietary tools are bad. Because competition is good. Because the threat of switching is the only thing that keeps platforms honest. Because [liberation architecture](/docs/concepts/liberation-architecture) is how you build systems that serve people instead of extracting from them.
 

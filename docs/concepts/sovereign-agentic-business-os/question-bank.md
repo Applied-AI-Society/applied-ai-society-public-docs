@@ -27,53 +27,53 @@ These are high-leverage questions that have proven valuable across executive coa
 
 ### Strategic Clarity
 
-**"What is the biggest restraint you're facing right now, and how do you remove it?"**
+**“What is the biggest restraint you're facing right now, and how do you remove it?”**
 
-This question comes from constraint theory and great coaching practice. Most people work around their bottlenecks instead of naming and removing them. A business OS that knows your active projects and recent progress can ask this with specificity: "You've spent 12 hours this week on X but made no progress on Y, which you said was your top priority. What's the restraint?"
+This question comes from constraint theory and great coaching practice. Most people work around their bottlenecks instead of naming and removing them. A business OS that knows your active projects and recent progress can ask this with specificity: “You've spent 12 hours this week on X but made no progress on Y, which you said was your top priority. What's the restraint?”
 
-**"If you could only accomplish one thing this week, what would it be?"**
+**“If you could only accomplish one thing this week, what would it be?”**
 
-Forces prioritization. When your business OS knows your full task list, it can follow up: "You said the one thing was Z, but you've scheduled 6 hours of meetings that don't relate to it. What gives?"
+Forces prioritization. When your business OS knows your full task list, it can follow up: “You said the one thing was Z, but you've scheduled 6 hours of meetings that don't relate to it. What gives?”
 
-**"What are you doing right now that you should stop doing?"**
+**“What are you doing right now that you should stop doing?”**
 
 Subtraction is harder than addition for most people. This question surfaces the commitments, habits, and projects that are consuming resources without producing results.
 
 ### Honesty and Self-Awareness
 
-**"What's the scariest thing you aren't saying right now, or won't admit to yourself?"**
+**“What's the scariest thing you aren't saying right now, or won't admit to yourself?”**
 
 This is a breakthrough question. It bypasses the defense mechanisms that prevent people from confronting what they already know. A business OS can ask this regularly without the social risk that makes it hard to hear from another person.
 
-**"What decision are you avoiding, and what would happen if you made it today?"**
+**“What decision are you avoiding, and what would happen if you made it today?”**
 
 Delayed decisions compound. They consume mental bandwidth, block downstream work, and often get harder the longer you wait. This question identifies the ones you're sitting on.
 
-**"Where are you being dishonest with yourself about your capacity?"**
+**“Where are you being dishonest with yourself about your capacity?”**
 
 Overcommitment is the default state for ambitious people. This question forces a reckoning between what you've said yes to and what you can actually deliver.
 
 ### Relationships and People
 
-**"Who have you been meaning to reach out to but haven't?"**
+**“Who have you been meaning to reach out to but haven't?”**
 
 Relationships decay through neglect, not through conflict. A business OS that tracks your relationships can surface the ones going cold before the window closes.
 
-**"Who in your network could help with the problem you're currently stuck on?"**
+**“Who in your network could help with the problem you're currently stuck on?”**
 
 Most people underuse their network, not out of reluctance but out of forgetfulness. When your business OS knows both your problems and your people, it can make connections you'd miss.
 
-**"Is there anyone you owe a follow-up to?"**
+**“Is there anyone you owe a follow-up to?”**
 
 Simple but powerful. Broken commitments erode trust. A business OS that tracks your communications can catch dropped threads.
 
 ### Time and Energy
 
-**"How did your time allocation this week match your stated priorities?"**
+**“How did your time allocation this week match your stated priorities?”**
 
 This is the accountability question. Most people are surprised by the gap between what they say matters and where their hours actually go. A business OS with calendar access can show you the data.
 
-**"What would your ideal day look like tomorrow, and what needs to change to make that happen?"**
+**“What would your ideal day look like tomorrow, and what needs to change to make that happen?”**
 
 Proactive scheduling instead of reactive. Forces you to design your time rather than letting it happen to you.
 

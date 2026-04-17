@@ -23,7 +23,7 @@ The competitive pressure is simple: any process that can be automated will be au
 
 This is already playing out at scale. Major tech companies have deployed internal agentic systems that learn individual employee workflows and begin automating them. The pattern is consistent: the harness learns what you do, you become the supervisor instead of the operator, and over time the amount of human input required decreases. The employees who built or adopted these systems early became indispensable. The ones who resisted became the roles that got consolidated.
 
-One practitioner at a Fortune 500 company described it this way: his R&D manager saw a demo of an agent harness he built internally. Within a week, the entire 60-person R&D department was ordered to go "AI first" with Claude Code. Not as an experiment. As the new default. The engineer who built the harness went from regular team member to the person training the entire department. He did not just survive. He became the most valuable person on the floor.
+One practitioner at a Fortune 500 company described it this way: his R&D manager saw a demo of an agent harness he built internally. Within a week, the entire 60-person R&D department was ordered to go “AI first” with Claude Code. Not as an experiment. As the new default. The engineer who built the harness went from regular team member to the person training the entire department. He did not just survive. He became the most valuable person on the floor.
 
 That is the pattern. The people who learn to harness AI do not merely keep their jobs. They become the people everyone else depends on.
 
@@ -51,7 +51,7 @@ As automation consolidates existing roles, new roles are emerging. They do not h
 
 ## The Humane Response
 
-The Survivor Economy framing can sound bleak if you stop at "adapt or die." But the point is not to celebrate ruthless optimization. The point is to be honest about what is happening so that people can make informed choices.
+The Survivor Economy framing can sound bleak if you stop at “adapt or die.” But the point is not to celebrate ruthless optimization. The point is to be honest about what is happening so that people can make informed choices.
 
 The humane response is activation, not fear. Get people the [tools](/docs/workshops/supersuit-up), the [knowledge](/docs/concepts/compounding-docs), and the [community](/docs/about/co-stewardship) they need to make the transition on their own terms. Not everyone will become an AGI Whisperer. But everyone deserves the opportunity to understand what is changing and to choose their path deliberately rather than having it chosen for them.
 

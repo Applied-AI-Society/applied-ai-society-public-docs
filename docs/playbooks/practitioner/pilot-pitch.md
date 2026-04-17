@@ -19,7 +19,7 @@ The goal is not to land a massive contract. The goal is to prove you can deliver
 
 ## The Three Rules of a Good Pilot
 
-**1. One problem.** Not "transform your operations with AI." One specific, painful, measurable problem. "Your team spends 8 hours a week manually reformatting content for different platforms. I'll build a tool that does it in minutes."
+**1. One problem.** Not “transform your operations with AI.” One specific, painful, measurable problem. “Your team spends 8 hours a week manually reformatting content for different platforms. I'll build a tool that does it in minutes.”
 
 **2. One deliverable.** The client should know exactly what they're getting. A working tool. A documented workflow. A prototype they can test. Not a report. Not a strategy deck. Something they can use.
 
@@ -39,7 +39,7 @@ For you: you learn how this client communicates, what their real constraints are
 
 ## What Happens After the Pilot
 
-When you deliver well, the conversation changes. The client stops seeing you as "someone who helped with one thing" and starts seeing you as "the person who understands our business and can solve problems with AI."
+When you deliver well, the conversation changes. The client stops seeing you as “someone who helped with one thing” and starts seeing you as “the person who understands our business and can solve problems with AI.”
 
 At that point, they have ten other problems they want your help with. And they start telling their friends about you. That's how a practice grows.
 
@@ -66,7 +66,7 @@ Keep it short. Send it in an email or a text message. Don't over-produce this. T
 ## Common Mistakes
 
 - **Proposing too much.** A pilot is not a roadmap. It's one step. Save the roadmap for after you've earned it.
-- **Under-pricing to "get in the door."** Your time has value. Price fairly for the scope. Clients who won't pay a reasonable amount for a 2-week pilot are not clients you want.
+- **Under-pricing to “get in the door.”** Your time has value. Price fairly for the scope. Clients who won't pay a reasonable amount for a 2-week pilot are not clients you want.
 - **Skipping the pilot and going straight to a retainer.** Retainers are earned, not sold. The pilot is how you earn them.
 
 ---

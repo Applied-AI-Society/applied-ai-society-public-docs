@@ -13,7 +13,7 @@ title: "Intent Engineering"
 
 To understand intent engineering, you have to see where it sits in a progression.
 
-**Prompt engineering** was the first discipline. It was individual, synchronous, and session-based. You sat in front of a chat window, crafted an instruction, and iterated the output. The value was personal. The skill lived in the person, not the organization. This is the era that produced a thousand "how to write the perfect prompt" blog posts.
+**Prompt engineering** was the first discipline. It was individual, synchronous, and session-based. You sat in front of a chat window, crafted an instruction, and iterated the output. The value was personal. The skill lived in the person, not the organization. This is the era that produced a thousand “how to write the perfect prompt” blog posts.
 
 **[Context engineering](./context-engineering)** is the discipline the industry is currently grappling with. Anthropic described it in late 2025 as the shift from crafting isolated instructions to crafting the entire information state that an AI system operates within. Building RAG pipelines, wiring up MCP servers, structuring organizational knowledge so agents can access it. Context engineering tells agents what to know.
 
@@ -31,7 +31,7 @@ Then customers started complaining: generic answers, robotic tone, no ability to
 
 The standard reading of this story is that AI can't handle nuance. A more useful reading: the AI agent was extraordinarily good at resolving tickets fast, and that was the wrong goal to give the agent.
 
-Klarna's organizational intent wasn't "resolve tickets fast." It was "build lasting customer relationships that drive lifetime value in a very competitive fintech market." Those are profoundly different goals, and they require profoundly different decision-making at the point of interaction.
+Klarna's organizational intent wasn't “resolve tickets fast.” It was “build lasting customer relationships that drive lifetime value in a very competitive fintech market.” Those are profoundly different goals, and they require profoundly different decision-making at the point of interaction.
 
 A human agent with five years at the company knows this difference intuitively. She knows when to bend a policy, when to spend three extra minutes because the customer's tone suggests they're about to churn, when efficiency is the right move versus when generosity is. She knows because she absorbed Klarna's real values through months of osmosis: the decisions managers made every day, the stories veterans told new hires, the unwritten rules about which metrics leadership actually cared about when things got hard.
 
@@ -45,9 +45,9 @@ Making organizational intent machine-readable is genuinely hard. Most organizati
 
 Agents can't absorb it. They need it explicit, before they start working.
 
-At the top level, intent engineering requires goal structures that agents can interpret and act on. Not "increase customer satisfaction" (a human-readable aspiration) but an agent-actionable objective: what signals indicate customer satisfaction in this context? What data sources contain those signals? What actions is the agent authorized to take? What trade-offs is it empowered to make, and where are the hard limits?
+At the top level, intent engineering requires goal structures that agents can interpret and act on. Not “increase customer satisfaction” (a human-readable aspiration) but an agent-actionable objective: what signals indicate customer satisfaction in this context? What data sources contain those signals? What actions is the agent authorized to take? What trade-offs is it empowered to make, and where are the hard limits?
 
-Below that, you need delegation frameworks: organizational values translated into decision boundaries. Amazon's "customer obsession" leadership principle works for humans because humans can interpret it through contextual judgment. An agent needs it decomposed: when a customer request conflicts with a policy, here is the resolution hierarchy. When data suggests one action but the customer expressed a different preference, here is the decision logic.
+Below that, you need delegation frameworks: organizational values translated into decision boundaries. Amazon's “customer obsession” leadership principle works for humans because humans can interpret it through contextual judgment. An agent needs it decomposed: when a customer request conflicts with a policy, here is the resolution hierarchy. When data suggests one action but the customer expressed a different preference, here is the decision logic.
 
 At the base, you need feedback mechanisms that close the loop. When an agent makes a decision, was it aligned with organizational intent? How do you know? How do you correct drift over time?
 
@@ -67,7 +67,7 @@ Third, it's hard. Making organizational intent explicit and structured is diffic
 
 ## Why It's Urgent
 
-Organizations have solved "can AI do this task?" They have not solved "can AI do this task in a way that serves our organizational goals, at scale, with appropriate judgment?"
+Organizations have solved “can AI do this task?” They have not solved “can AI do this task in a way that serves our organizational goals, at scale, with appropriate judgment?”
 
 The second question is an intent engineering question.
 

@@ -13,7 +13,7 @@ Your position in the economy is either getting more valuable or less valuable as
 
 You watch the game. You read about AI, attend conferences, consume newsletters, talk about what's coming. But you're not in the arena. Your relationship to AI is passive consumption.
 
-The trap: spectators often feel productive because they're "staying informed." But information without application is entertainment, not preparation. You can read every AI newsletter published this year and still have zero ability to apply any of it when it matters. Economically, this level is heading to the same place as Level 1. Both are zero.
+The trap: spectators often feel productive because they're “staying informed.” But information without application is entertainment, not preparation. You can read every AI newsletter published this year and still have zero ability to apply any of it when it matters. Economically, this level is heading to the same place as Level 1. Both are zero.
 
 ## Level 1: Player
 
@@ -21,7 +21,7 @@ You're in the game. You execute within an existing system, using AI as a tool to
 
 The risk: AI is compressing this level toward zero. The gap between a great Player and an AI doing the same task shrinks every quarter. This is where most layoffs hit. If your value is defined by execution speed, you are in a race you will eventually lose.
 
-Look at what DoorDash just launched: "Dasher Tasks." Dashers now get paid to walk into stores and scan shelves with their phone cameras. DoorDash calls it "building the frontier of physical intelligence." Read that again. They are paying human workers to collect training data for the robots that will replace those same workers. The Dashers are literally building the machine that makes them obsolete. Same pattern as the humans who "babysit" Tesla robotaxis: sitting in the driver's seat so the car can legally operate while the AI learns to drive without them. That is Level 1 in its purest form: executing within a system that is actively learning to not need you.
+Look at what DoorDash just launched: “Dasher Tasks.” Dashers now get paid to walk into stores and scan shelves with their phone cameras. DoorDash calls it “building the frontier of physical intelligence.” Read that again. They are paying human workers to collect training data for the robots that will replace those same workers. The Dashers are literally building the machine that makes them obsolete. Same pattern as the humans who “babysit” Tesla robotaxis: sitting in the driver's seat so the car can legally operate while the AI learns to drive without them. That is Level 1 in its purest form: executing within a system that is actively learning to not need you.
 
 The opportunity: every Player has domain knowledge that qualifies them to climb. You've paid your ignorance debt. You know how things actually work, not just in theory. That knowledge is the raw material for the next level.
 
@@ -63,7 +63,7 @@ This is not dystopian. It's liberating. The compression frees human energy for h
 
 ### Knowledge, Understanding, Wisdom
 
-Al and Hattie Hollingsworth developed a framework in their B.O.S.S. Training Syllabus, taught to entrepreneurs in South Central LA decades before "information overload" was a cultural concept. It maps three stages of capability:
+Al and Hattie Hollingsworth developed a framework in their B.O.S.S. Training Syllabus, taught to entrepreneurs in South Central LA decades before “information overload” was a cultural concept. It maps three stages of capability:
 
 - **Knowledge**: information. You know facts and concepts.
 - **Understanding**: knowing how to use knowledge. You can apply what you know in context.
@@ -79,9 +79,9 @@ The path from Player to Coach is roughly the path from knowledge to understandin
 
 Learning how to apply AI to grow businesses is like learning how to code 10 years ago. Inference is commoditized. LLMs are token factories. Platforms are becoming interchangeable. But trusted applied AI practitioners? The scarcest resource in the market.
 
-xAI is sending engineers directly into corporate offices. Anthropic is hiring legions of forward-deployed developers. OpenAI is fighting over corporate clients. The companies building the most powerful AI on earth all looked at the market and said: "Businesses can't figure out how to use this. We need to go in and do it for them."
+xAI is sending engineers directly into corporate offices. Anthropic is hiring legions of forward-deployed developers. OpenAI is fighting over corporate clients. The companies building the most powerful AI on earth all looked at the market and said: “Businesses can't figure out how to use this. We need to go in and do it for them.”
 
-But here's what they can't do: relationships. Trust is local. Trust is relational. Trust is earned one conversation at a time. No corporation is going to monopolize the role of "trusted person who sits down with a business owner and actually helps them." That role is wide open.
+But here's what they can't do: relationships. Trust is local. Trust is relational. Trust is earned one conversation at a time. No corporation is going to monopolize the role of “trusted person who sits down with a business owner and actually helps them.” That role is wide open.
 
 You can start as a practitioner (Player/Coach), build trust and domain expertise through real engagements, and climb from there. See the [Practitioner Playbook](/docs/playbooks/practitioner) for how.
 
@@ -99,7 +99,7 @@ Most businesses never reach level three. If you can build at level three (or hel
 
 1. **Be honest about where you are.** Most people are Spectators or Players. That's fine. The point is to know.
 2. **Stop consuming, start applying.** The gap between Spectator and Player is action. Pick one thing and do it. Build something. Help someone. The knowledge only becomes real when you use it.
-3. **Learn to think in systems.** The gap between Player and Coach is the shift from "I do tasks" to "I design the system that does tasks." Start noticing the workflows around you. Map them. Ask how they could be better.
+3. **Learn to think in systems.** The gap between Player and Coach is the shift from “I do tasks” to “I design the system that does tasks.” Start noticing the workflows around you. Map them. Ask how they could be better.
 4. **Build trust through real work.** Domain expertise and trust networks are the assets that appreciate as AI improves. They are not built by consuming content. They are built by doing real work with real people over real time.
 5. **Find your edge.** What do you know deeply that others don't? What combination of skills and experience gives you a perspective that's hard to replicate? That's the raw material for becoming a Game Creator and beyond.
 

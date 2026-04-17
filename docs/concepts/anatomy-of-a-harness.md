@@ -62,7 +62,7 @@ The state is split cleanly into two categories: **immutable parameters** (system
 
 If you are building any kind of agent workflow (for a client, for your own operation, for a product), the lesson is: **treat the agent loop as engineering, not magic.** The model is one function call inside a larger system. Everything around that call (what context goes in, what happens with tool results, how you handle failures, when you stop) is your responsibility to design.
 
-The [MetaHarness paper](https://arxiv.org/abs/2603.28052) showed that changing this loop produces a 6x performance gap. Now we can see exactly what "changing the loop" means in practice: it means changing how you assemble context, which tools you offer, when you retry versus stop, and how you manage the token budget.
+The [MetaHarness paper](https://arxiv.org/abs/2603.28052) showed that changing this loop produces a 6x performance gap. Now we can see exactly what “changing the loop” means in practice: it means changing how you assemble context, which tools you offer, when you retry versus stop, and how you manage the token budget.
 
 ---
 
@@ -82,7 +82,7 @@ Claude Code does not dump everything into the system prompt. It assembles contex
 
 ### The Economics Are Deliberate
 
-This architecture directly reflects the economics described in our [Context Engineering](/docs/concepts/context-engineering) article: "load the minimum sufficient context for the task at hand." Claude Code does not load every CLAUDE.md, every memory file, and every skill on every turn. It loads the base, caches what's stable, prefetches what's likely, and lazy-loads everything else.
+This architecture directly reflects the economics described in our [Context Engineering](/docs/concepts/context-engineering) article: “load the minimum sufficient context for the task at hand.” Claude Code does not load every CLAUDE.md, every memory file, and every skill on every turn. It loads the base, caches what's stable, prefetches what's likely, and lazy-loads everything else.
 
 The 200-line, 25KB limit on the MEMORY.md index is a hard constraint. If your memory index exceeds this, it gets truncated with a warning. This is not a bug. It is a design choice: the memory index must fit in context without crowding out the actual work.
 
@@ -126,17 +126,17 @@ The model plays the game. The tools define the playing field. The permission sys
 
 Before any tool executes, it passes through `canUseTool()`. This function checks the tool call against three rule sets:
 
-- **Always allow rules:** Actions the user has pre-approved (e.g., "always allow Read on any file in this project")
+- **Always allow rules:** Actions the user has pre-approved (e.g., “always allow Read on any file in this project”)
 - **Always deny rules:** Actions the user has forbidden (e.g., "never allow Bash commands with `rm -rf`")
 - **Always ask rules:** Actions that require explicit approval each time
 
-Hooks can intercept this process and auto-approve or auto-deny via structured JSON responses. This means organizations can encode their intent into hook configurations: "when an agent tries to push to main, always ask." "When an agent reads a file in the project directory, always allow." "When an agent tries to install a package, check against the approved list."
+Hooks can intercept this process and auto-approve or auto-deny via structured JSON responses. This means organizations can encode their intent into hook configurations: “when an agent tries to push to main, always ask.” “When an agent reads a file in the project directory, always allow.” “When an agent tries to install a package, check against the approved list.”
 
 This is exactly the [Intent Engineering](/docs/concepts/intent-engineering) pattern: organizational values translated into decision boundaries that agents respect autonomously. The Klarna example from that article (AI optimizing for the wrong goal because nobody encoded the right goal) is prevented here by making intent explicit in the permission layer.
 
 ### For Practitioners Building Client Systems
 
-When you are deploying agents for a client, the permission layer is not an afterthought. It is where you encode the client's risk tolerance, compliance requirements, and operational boundaries. "The agent can draft emails but cannot send them." "The agent can read financial data but cannot modify it." "The agent can suggest code changes but a human must approve the commit."
+When you are deploying agents for a client, the permission layer is not an afterthought. It is where you encode the client's risk tolerance, compliance requirements, and operational boundaries. “The agent can draft emails but cannot send them.” “The agent can read financial data but cannot modify it.” “The agent can suggest code changes but a human must approve the commit.”
 
 These are not technical constraints. They are business decisions expressed as code. And they compound: a well-configured permission layer means the client can give the agent more autonomy over time, because the boundaries are explicit and auditable.
 
@@ -215,7 +215,7 @@ This is what makes Claude Code extensible without modifying its source code. The
 
 The [Self-Improving Enterprise](/docs/concepts/self-improving-enterprise) article describes a progression: self-improving humans, then self-improving AI systems, then self-improving businesses. Hooks are the mechanism that enables step two.
 
-A hook can watch what the agent does (PostToolUse), analyze patterns, and propose improvements. "I notice you keep running the same three commands after every deployment. Should I create a skill for this?" The hook does not need to modify the harness. It operates at the boundary, observing and suggesting.
+A hook can watch what the agent does (PostToolUse), analyze patterns, and propose improvements. “I notice you keep running the same three commands after every deployment. Should I create a skill for this?” The hook does not need to modify the harness. It operates at the boundary, observing and suggesting.
 
 This is the recursive improvement loop from the Harness Engineering article made concrete. The harness provides hooks. Hooks enable observation. Observation enables proposals. Proposals (approved by the human) improve the harness. The improved harness provides better hooks. And the cycle continues.
 
@@ -315,7 +315,7 @@ When you write a CLAUDE.md file for your project, you are writing Layer 3 of the
 
 ### Your Skill Files Are Specs
 
-Every skill file you write for your Personal Agentic OS is a spec that the model follows literally. If your skill says "ask the user for context before proceeding," the model asks. If your skill says "write the output to artifacts/," the model writes there. The spec IS the product.
+Every skill file you write for your Personal Agentic OS is a spec that the model follows literally. If your skill says “ask the user for context before proceeding,” the model asks. If your skill says “write the output to artifacts/,” the model writes there. The spec IS the product.
 
 ### Your Folder Structure Is Your Context Architecture
 
@@ -323,7 +323,7 @@ The harness walks your directory tree looking for CLAUDE.md files, skill files, 
 
 ### Permission Design Is Intent Engineering
 
-When you set up rules like "always allow reads, always ask before writes, never allow destructive bash commands," you are encoding intent into infrastructure. This is the work that the [Intent Engineering](/docs/concepts/intent-engineering) article describes. It just happens to be expressed as permission rules rather than organizational strategy documents.
+When you set up rules like “always allow reads, always ask before writes, never allow destructive bash commands,” you are encoding intent into infrastructure. This is the work that the [Intent Engineering](/docs/concepts/intent-engineering) article describes. It just happens to be expressed as permission rules rather than organizational strategy documents.
 
 ### Budget Tracking Is Not Optional
 

@@ -23,7 +23,7 @@ Take the [Readiness Quiz](/docs/workshops/readiness-quiz). Eight questions, two 
 
 | Workshop | What You Build | Time |
 |----------|---------------|------|
-| [Supersuit Up](/docs/workshops/supersuit-up) | Your Personal Agentic OS (aka "Jarvis Yourself"). An AI system that knows your goals, relationships, and projects, and compounds daily. | 3.5-4 hours |
+| [Supersuit Up](/docs/workshops/supersuit-up) | Your Personal Agentic OS (aka “Jarvis Yourself”). An AI system that knows your goals, relationships, and projects, and compounds daily. | 3.5-4 hours |
 
 ---
 

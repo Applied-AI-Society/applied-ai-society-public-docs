@@ -52,7 +52,7 @@ The practice matters more than any single technique. Build the habit of keeping 
 Concrete moves:
 
 1. **Automate ingestion where you can.** Meeting transcriptions should flow into your context lake automatically. Granola plus a sync script is a one-time setup that pays daily dividends. See [capture, process, compound](/docs/concepts/capture-process-compound).
-2. **Update relationship files after significant interactions.** Five minutes after the meeting is cheaper than an hour of "who was this person again" later.
+2. **Update relationship files after significant interactions.** Five minutes after the meeting is cheaper than an hour of “who was this person again” later.
 3. **Garden your strategy docs weekly.** Open the current strategy files. Update them to match what you actually think this week. Deprecate what is no longer true.
 4. **Log decisions when you make them.** One paragraph. What you chose, why, what you said no to.
 5. **Run a periodic coherence check.** A skill file or prompt that scans your OS for staleness and surfaces docs that need review.

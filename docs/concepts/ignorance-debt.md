@@ -37,7 +37,7 @@ Starting in a domain where your ignorance debt is already low means:
 - You can identify real problems faster (you've lived them)
 - You can validate solutions with your network (you already know the people)
 - You can speak the client's language (you've been in their shoes)
-- You can iterate faster (you know what "good" looks like without being told)
+- You can iterate faster (you know what “good” looks like without being told)
 
 ---
 
@@ -45,7 +45,7 @@ Starting in a domain where your ignorance debt is already low means:
 
 Your first applied AI engagements are primarily a **learning vehicle.** Yes, you need to earn enough to pay rent. But the real return is education.
 
-> "The vast majority of your income is coming in the form of education rather than earning."
+> “The vast majority of your income is coming in the form of education rather than earning.”
 
 This reframes everything. You're not failing if your first project isn't perfect. You're paying down ignorance debt. You're not stuck if your first niche doesn't work. You're narrowing the search space.
 

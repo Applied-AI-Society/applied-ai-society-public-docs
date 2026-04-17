@@ -7,7 +7,7 @@ title: "Don't Scale Slop"
 
 The most dangerous thing you can do with AI is automate a broken process. You don't get a better process. You get broken at 10x speed.
 
-This is the mistake most business owners make when they get excited about AI: they skip straight to "how do I automate this?" without first asking "is this process actually good?"
+This is the mistake most business owners make when they get excited about AI: they skip straight to “how do I automate this?” without first asking “is this process actually good?”
 
 ## Growth Multiplies Everything (Including the Bad Stuff)
 
@@ -29,7 +29,7 @@ BuzzFeed has $185 million in annual revenue. Their market cap? $26 million. That
 
 What does 0.14x mean? Investors are saying: this business is going extinct.
 
-BuzzFeed built an empire on algorithmically optimized content at industrial scale. Listicles, quizzes, shareable formats. They were extraordinarily good at the game they were playing. The problem is the game ended. AI can now produce infinite slop faster and cheaper than any human content farm. When anyone can generate a thousand BuzzFeed articles in an afternoon, the entire business model of "capture attention, sell ads" breaks down. The supply of content goes to infinity. The value per unit goes to zero.
+BuzzFeed built an empire on algorithmically optimized content at industrial scale. Listicles, quizzes, shareable formats. They were extraordinarily good at the game they were playing. The problem is the game ended. AI can now produce infinite slop faster and cheaper than any human content farm. When anyone can generate a thousand BuzzFeed articles in an afternoon, the entire business model of “capture attention, sell ads” breaks down. The supply of content goes to infinity. The value per unit goes to zero.
 
 BuzzFeed scaled execution. They did not scale substance. They never graduated from producing content to building systems that could adapt when the ground shifted. They never invested in the human elements that AI cannot replicate: taste, trust, conviction, the kind of work that makes people stop scrolling and sit with it.
 
@@ -50,7 +50,7 @@ Before you can scale anything, you need to ask: am I the bottleneck?
 Every business is capped at the founder's personal capacity. This shows up in predictable ways:
 
 - People wait on you to make decisions before they can move forward
-- You do 10-20% of every team member's job because "it's faster if I just do it"
+- You do 10-20% of every team member's job because “it's faster if I just do it”
 - You are the junk drawer of the business: a little bit of everything, nothing clearly owned
 
 The pattern of growth reflects this:
@@ -63,7 +63,7 @@ The traits that made you successful early (moving fast, having all the answers, 
 
 The endgame is clear: the founder should be at zero percent of the bottleneck for daily operations. Zero. The founder's job at scale is purely strategic: new business lines, key hires, partnerships, vision. If you're still in the weeds of daily execution, you haven't built the systems. You've just built a job that requires you to show up every day.
 
-The question is not "what do I need to change about the business?" It is "who do I need to become?"
+The question is not “what do I need to change about the business?” It is “who do I need to become?”
 
 ## Three Levels of Business Infrastructure
 
@@ -89,13 +89,13 @@ Before you automate a workflow, it should pass these checks:
 If you can't draw the workflow as a linear sequence of steps (see [Workflow Decomposition](/docs/playbooks/business-owner/workflow-decomposition)), you don't understand it well enough to automate it. Automating something you can't draw means encoding confusion.
 
 **2. Has a human done it successfully, repeatedly?**
-The workflow should have been executed by a person (or team) enough times that you know what "good" looks like. You need a baseline. Without a baseline, you have no way to measure whether the AI version is better or worse.
+The workflow should have been executed by a person (or team) enough times that you know what “good” looks like. You need a baseline. Without a baseline, you have no way to measure whether the AI version is better or worse.
 
 **3. Are the inputs and outputs clearly defined?**
-Every step should have a specific input (what triggers it) and a specific output (what it produces). If a step is "review and improve," that's not defined enough. What are you reviewing? What does "improved" look like in observable terms?
+Every step should have a specific input (what triggers it) and a specific output (what it produces). If a step is “review and improve,” that's not defined enough. What are you reviewing? What does “improved” look like in observable terms?
 
 **4. Is the decision logic documented?**
-When a human makes a judgment call in the workflow, what criteria are they using? If the answer is "they just know," you need to extract that knowledge before you automate. Otherwise the AI will guess, and it will guess differently every time.
+When a human makes a judgment call in the workflow, what criteria are they using? If the answer is “they just know,” you need to extract that knowledge before you automate. Otherwise the AI will guess, and it will guess differently every time.
 
 **5. Do you have feedback loops?**
 When the workflow produces a bad outcome, how do you know? How quickly? If there's no feedback mechanism, you'll scale errors silently.
@@ -125,7 +125,7 @@ The path: train your people up the accountability dial first. Then bring in AI a
 5. **Then automate.** Start with the lowest-risk, highest-volume steps. Expand from there.
 6. **Use the time AI frees up to climb.** Move from Player to Coach. From Coach to Game Creator. From daily operations to pure strategy. Every hour AI saves you is an hour you can invest in higher-level work.
 
-This sequence is slower than "just plug in AI and see what happens." It's also the only sequence that doesn't end in scaled slop.
+This sequence is slower than “just plug in AI and see what happens.” It's also the only sequence that doesn't end in scaled slop.
 
 ## The Bottom Line
 

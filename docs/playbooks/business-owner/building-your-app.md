@@ -33,18 +33,18 @@ If you already have customers, relationships, and a business that works, the app
 
 The single most important thing you can do before touching any tool is write a clear specification document. This is not a formality. In the AI era, [the spec is the product](/docs/concepts/spec-writing).
 
-Here is why. You can now hand a spec to an AI builder and say "build this." If the spec is precise, you get something remarkably close to what you wanted. If the spec is vague, you get something that looks like an app but does not actually solve your problem. The quality of the output is bounded by the quality of the input.
+Here is why. You can now hand a spec to an AI builder and say “build this.” If the spec is precise, you get something remarkably close to what you wanted. If the spec is vague, you get something that looks like an app but does not actually solve your problem. The quality of the output is bounded by the quality of the input.
 
 A good spec defines:
 
-1. **What the app does.** Not features. Outcomes. "A business owner can find a vetted service provider and book an appointment in under two minutes" is better than "we need a matching service with profiles and a booking system."
+1. **What the app does.** Not features. Outcomes. “A business owner can find a vetted service provider and book an appointment in under two minutes” is better than “we need a matching service with profiles and a booking system.”
 2. **Who uses it.** Be specific about your users. Their technical comfort level matters. Their context matters.
 3. **What success looks like.** How will you know this app is working? Customer retention? Time saved per week? Revenue generated?
 4. **What it does NOT do.** Constraints are as important as features. Every feature you leave out is a feature that cannot break.
 
 Spend real time on this. Every hour you invest in the spec saves ten hours of rework once you start building. If you are not sure where gaps are in your thinking, ask AI to interview you about your spec. Tell it to act as an objective, critical executive (not a cheerleader) and poke holes. You will be surprised how much clearer things get.
 
-One lesson from practitioners who have been through this: AI will blow sunshine if you let it. It will tell you your idea is brilliant and your spec is comprehensive. That is not what you need. You need it to find the holes. Prompt it explicitly: "Challenge this. What am I missing? Where would this break in production?"
+One lesson from practitioners who have been through this: AI will blow sunshine if you let it. It will tell you your idea is brilliant and your spec is comprehensive. That is not what you need. You need it to find the holes. Prompt it explicitly: “Challenge this. What am I missing? Where would this break in production?”
 
 ---
 
@@ -82,7 +82,7 @@ The free tier is functional. The first paid tier is around $20 per month. Many p
 
 Before you even open Replit, consider doing what we call **vibe design**: describing the desired look, feel, and user experience in natural language (or with images, sketches, voice) and letting an AI tool generate high-fidelity interfaces instead of you building them pixel by pixel.
 
-[Google Stitch](https://stitch.withgoogle.com) is the best current example. It is a free, experimental AI design tool from Google Labs built on Gemini. You describe what you want ("premium minimalist checkout, calming and trustworthy, for a wellness app"), and it generates coherent layouts, components, and interactive prototypes on an infinite canvas. You can refine with voice, add reference images, sketch on paper and upload a photo, or just keep talking. It exports to Figma, frontend code (HTML/CSS/JS), or a portable `DESIGN.md` file that you can feed directly into coding tools like Replit or Claude.
+[Google Stitch](https://stitch.withgoogle.com) is the best current example. It is a free, experimental AI design tool from Google Labs built on Gemini. You describe what you want (“premium minimalist checkout, calming and trustworthy, for a wellness app”), and it generates coherent layouts, components, and interactive prototypes on an infinite canvas. You can refine with voice, add reference images, sketch on paper and upload a photo, or just keep talking. It exports to Figma, frontend code (HTML/CSS/JS), or a portable `DESIGN.md` file that you can feed directly into coding tools like Replit or Claude.
 
 The point is to explore ten directions in an hour instead of committing to one direction and spending a week. Your role shifts from manual execution to direction, taste, and curation. You do not need design skills. You need clarity about what you want the experience to feel like.
 
@@ -116,7 +116,7 @@ Both paths are valid. Here is how to think about it.
 
 If you are not already speaking to your computer instead of typing, start now. Tools like [Wispr Flow](https://www.wispr.com), macOS Dictation, and others make this trivially easy. The specific tool does not matter. What matters is the shift.
 
-When you type, you compress your thoughts. When you speak, you channel them. The difference in fidelity is enormous, and this matters most when writing your spec. Speaking at ~180 words per minute versus typing at ~50 means you capture three times the detail, the edge cases, the "wait, what about this scenario?" moments that would get silently dropped when typing feels like too much effort. Modern voice tools handle developer jargon, clean up filler words, add punctuation, and format the output into readable text. You speak conversationally. You get a polished document.
+When you type, you compress your thoughts. When you speak, you channel them. The difference in fidelity is enormous, and this matters most when writing your spec. Speaking at ~180 words per minute versus typing at ~50 means you capture three times the detail, the edge cases, the “wait, what about this scenario?” moments that would get silently dropped when typing feels like too much effort. Modern voice tools handle developer jargon, clean up filler words, add punctuation, and format the output into readable text. You speak conversationally. You get a polished document.
 
 This is how you protect spec fidelity: the faithfulness with which your original vision survives translation into a document that AI or engineers will read. Every detail lost between your brain and the spec is a detail the builder will guess at. Speaking reduces that loss dramatically. You can always edit later. But you cannot recover ideas that were never captured.
 

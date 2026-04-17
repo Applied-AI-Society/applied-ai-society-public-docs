@@ -36,7 +36,7 @@ Substack is home base for written content. Why:
 
 1. Publish the full article on Substack
 2. Post the same article on LinkedIn and X
-3. Add a line at the bottom: *"Subscribe on Substack for more: [link]"*
+3. Add a line at the bottom: *“Subscribe on Substack for more: [link]”*
 
 This meets readers where they are (LinkedIn feed, X timeline) while funneling interested people to Substack where they can subscribe.
 
@@ -118,7 +118,7 @@ Each platform has its own voice, format constraints, and audience expectations. 
 - **Bold key quotes.** Pull the most compelling line from the talk and bold it.
 - **Upload video directly.** Never post a YouTube link on X. The algorithm buries external links. Upload the clip natively.
 - **Timestamps in post body.** If referencing a longer video, include timestamps so people can jump to the moment.
-- **Event plug in Reply section.** Don't clutter the main post. Drop the "Next event: [link]" as the first reply.
+- **Event plug in Reply section.** Don't clutter the main post. Drop the “Next event: [link]” as the first reply.
 
 ### LinkedIn Strategy
 
@@ -126,7 +126,7 @@ Each platform has its own voice, format constraints, and audience expectations. 
 - **3,000 character max for regular posts.** Write tight. If you need more, publish as a LinkedIn article.
 - **No timestamps.** LinkedIn audiences scroll differently. Keep it narrative.
 - **Link to YouTube for video.** Unlike X, LinkedIn doesn't penalize external video links as harshly. Link to the full recording.
-- **Event plug inline at end.** Close the post with a line about the next event. Example: "Join us at Applied AI Live #3 on [date]: [link]"
+- **Event plug inline at end.** Close the post with a line about the next event. Example: “Join us at Applied AI Live #3 on [date]: [link]”
 - **#AppliedAILive on first mention only.** One hashtag, once. Don't spam tags.
 
 ### YouTube Strategy
@@ -149,7 +149,7 @@ Each platform has its own voice, format constraints, and audience expectations. 
 
 This is a non-negotiable habit. Every social post about a past event should include a plug for the next upcoming event.
 
-- **On X:** Put it in the Reply to your main post. Keep the main post focused on the content. The reply says something like: "Next Applied AI Live is [date]. RSVP: [link]"
+- **On X:** Put it in the Reply to your main post. Keep the main post focused on the content. The reply says something like: “Next Applied AI Live is [date]. RSVP: [link]”
 - **On LinkedIn:** Put it inline at the end of the post. One sentence, with the link.
 
 The goal is simple: anyone who engages with your content should know exactly when and where the next event is. No extra clicks required.

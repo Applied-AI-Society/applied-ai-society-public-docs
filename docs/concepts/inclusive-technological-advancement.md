@@ -26,9 +26,9 @@ A solution that is technically impressive but socially unavailable is not an adv
 
 ## Why this matters for the Applied AI Society
 
-AAS exists to empower leaders to apply the world's most advanced AI technologies responsibly to strengthen their businesses, communities, and humanity's collective future. The phrase "humanity's collective future" is not ornamental. It is a commitment to humanity broadly, not to the subset of humanity that already has early access.
+AAS exists to empower leaders to apply the world's most advanced AI technologies responsibly to strengthen their businesses, communities, and humanity's collective future. The phrase “humanity's collective future” is not ornamental. It is a commitment to humanity broadly, not to the subset of humanity that already has early access.
 
-This stance is locked into the [Applied AI Canon](/docs/philosophy/canon) as Tenet XII: *"Raise the floor, not just the ceiling."* At the team scale, this is [Raise the Floor](/docs/concepts/raise-the-floor). At the humanity scale, this is inclusive technological advancement.
+This stance is locked into the [Applied AI Canon](/docs/philosophy/canon) as Tenet XII: *“Raise the floor, not just the ceiling.”* At the team scale, this is [Raise the Floor](/docs/concepts/raise-the-floor). At the humanity scale, this is inclusive technological advancement.
 
 The [K-shaped economy thesis](/docs/concepts/hyperagency) makes the stakes concrete. AI is splitting the world into hyperagents (humans amplified by AI) and everyone else. Without deliberate inclusion work, the split becomes permanent and global. AAS's entire operating model (free public docs, open-source playbooks, hyperlocal chapters, a talent pipeline that routes practitioners into underserved communities) is a bet that the split is still mutable.
 
@@ -42,11 +42,11 @@ The [K-shaped economy thesis](/docs/concepts/hyperagency) makes the stakes concr
 
 ## Credit where due: AIFOD
 
-Language matters. We adopted "inclusive technological advancement" as a named value after encountering the work of the [AI for Developing Countries Forum](https://af.net) (AIFOD), a Vienna-based NGO with 6,000+ members across 150+ countries, dedicated to ensuring AI serves as a catalyst for sustainable development, inclusivity, and social equity in developing nations.
+Language matters. We adopted “inclusive technological advancement” as a named value after encountering the work of the [AI for Developing Countries Forum](https://af.net) (AIFOD), a Vienna-based NGO with 6,000+ members across 150+ countries, dedicated to ensuring AI serves as a catalyst for sustainable development, inclusivity, and social equity in developing nations.
 
-AIFOD operates at a different scale than AAS. They are a global policy and convening forum aligned with the United Nations Sustainable Development Goals, hosting summits at UN offices in Geneva and Vienna and running initiatives like AIFOD AID (AI as an engine for development), AIFOD IRB (independent research and review across industries), and AIFOD FAIR (certification frameworks built by communities for communities). They also explicitly reframe the goal as moving developing nations from "AI consumers to creators."
+AIFOD operates at a different scale than AAS. They are a global policy and convening forum aligned with the United Nations Sustainable Development Goals, hosting summits at UN offices in Geneva and Vienna and running initiatives like AIFOD AID (AI as an engine for development), AIFOD IRB (independent research and review across industries), and AIFOD FAIR (certification frameworks built by communities for communities). They also explicitly reframe the goal as moving developing nations from “AI consumers to creators.”
 
-AAS sits downstream of that work. We are the practitioner-scale infrastructure that puts applied AI literacy in the hands of people who would otherwise be left behind. Where AIFOD advocates, convenes, and sets standards at the forum level, AAS trains, equips, and deploys at the community level. Both are needed. The language of "inclusive technological advancement" is AIFOD's contribution to the shared vocabulary. We adopt it gratefully.
+AAS sits downstream of that work. We are the practitioner-scale infrastructure that puts applied AI literacy in the hands of people who would otherwise be left behind. Where AIFOD advocates, convenes, and sets standards at the forum level, AAS trains, equips, and deploys at the community level. Both are needed. The language of “inclusive technological advancement” is AIFOD's contribution to the shared vocabulary. We adopt it gratefully.
 
 ## The uncomfortable implication
 

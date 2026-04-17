@@ -20,7 +20,7 @@ tone <TONE> and length <LENGTH> words.
 The user is expected to paste this into a note, find-and-replace every angle-bracketed placeholder, and then send the filled-in version to the agent. This is the Mad Libs pattern. It has three problems:
 
 1. **It wastes attention.** The user burns cycles on secretarial work that the agent could do.
-2. **It breaks on complex variables.** Filling in "customer persona" as a one-liner loses nuance the agent would get from a conversation.
+2. **It breaks on complex variables.** Filling in “customer persona” as a one-liner loses nuance the agent would get from a conversation.
 3. **It assumes the user already knows what's needed.** Often the user doesn't, and the placeholders themselves are the wrong questions.
 
 ## The Pattern: Infer, Then Interview
@@ -60,15 +60,15 @@ Once you have enough to draft a strong pitch, draft it. Show me
 the draft before anything else.
 ```
 
-The agent now owns the context-gathering. The user just says "go."
+The agent now owns the context-gathering. The user just says “go.”
 
 ## Why This Works Better
 
 **Less friction to use.** The user doesn't have to remember what variables to fill in or consult documentation to figure out what each placeholder means. Paste and talk.
 
-**Better variable quality.** The agent can ask follow-up questions when an answer is thin. "Tone: professional" becomes a two-minute back-and-forth that produces "Warm, practitioner-to-practitioner, not corporate, with one concrete example early." That's a materially better input.
+**Better variable quality.** The agent can ask follow-up questions when an answer is thin. “Tone: professional” becomes a two-minute back-and-forth that produces “Warm, practitioner-to-practitioner, not corporate, with one concrete example early.” That's a materially better input.
 
-**Catches what the user forgot.** A good interview prompt lists the variables the agent needs, but leaves room for the agent to ask "is there anything else I should know before drafting?" That catches the context the user didn't realize mattered.
+**Catches what the user forgot.** A good interview prompt lists the variables the agent needs, but leaves room for the agent to ask “is there anything else I should know before drafting?” That catches the context the user didn't realize mattered.
 
 **Composable.** Interview prompts can be saved as [instruction files](/docs/concepts/instruction-files) or skill commands and reused across sessions without edits. Mad Libs prompts have to be re-filled every time.
 
@@ -76,11 +76,11 @@ The agent now owns the context-gathering. The user just says "go."
 
 A good interview prompt has six parts:
 
-1. **The job.** "I want to write X" or "I want to build Y." One sentence.
+1. **The job.** “I want to write X” or “I want to build Y.” One sentence.
 2. **The variable list.** Explicit variables the agent needs to complete the job.
 3. **The inference pass.** An instruction to infer what it can from context (cwd, CLAUDE.md, README, git state, existing files, conversation history) before asking anything.
 4. **Interview behavior rules.** For whatever inference didn't resolve: ask one question at a time, wait for answers, ask follow-ups when an answer is thin, offer options when the user seems unsure.
-5. **The stopping condition.** What does the agent have before it starts drafting? Usually: "once you have enough to X, do X."
+5. **The stopping condition.** What does the agent have before it starts drafting? Usually: “once you have enough to X, do X.”
 6. **The deliverable and review gate.** What the agent produces first, and whether it should wait for approval before committing or acting.
 
 Template skeleton:
@@ -116,7 +116,7 @@ Once you have enough to <ACTION>, <ACTION>. Show me the result before
 
 ## When Not to Use It
 
-Interview prompts are overkill when the task is a one-shot, fully specified operation. "Format this JSON" doesn't need an interview. "Summarize this article in three bullets" doesn't either.
+Interview prompts are overkill when the task is a one-shot, fully specified operation. “Format this JSON” doesn't need an interview. “Summarize this article in three bullets” doesn't either.
 
 Use interview prompts when:
 
@@ -141,7 +141,7 @@ If you find yourself writing the same interview prompt twice, promote it to a sk
 
 ## The North Star
 
-A prompt library where every prompt is copy-paste runnable. No placeholders, no Mad Libs, no "fill these in first." The agent drives the interview, the user answers, and the work gets done. Your prompt-craft becomes conversational by default.
+A prompt library where every prompt is copy-paste runnable. No placeholders, no Mad Libs, no “fill these in first.” The agent drives the interview, the user answers, and the work gets done. Your prompt-craft becomes conversational by default.
 
 ---
 

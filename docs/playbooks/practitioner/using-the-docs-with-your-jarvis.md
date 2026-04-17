@@ -17,12 +17,12 @@ Right now, if you want to reference one of these concepts, you open a browser an
 
 When your [Personal Agentic OS](/docs/concepts/personal-agentic-os) can read the AAS docs directly, everything changes:
 
-- You ask "what level am I operating at?" and your agent references the Four Levels framework with the actual definitions, not a hallucinated version.
+- You ask “what level am I operating at?” and your agent references the Four Levels framework with the actual definitions, not a hallucinated version.
 - You braindump about a client engagement and your agent recognizes the pattern as [robot mode](/docs/concepts/robot-mode) and suggests the relevant playbook.
 - You are writing a proposal and your agent pulls the exact language from the [sovereignty stack](/docs/concepts/the-sovereignty-stack) to articulate why your client should own their infrastructure.
 - You are stuck on how to price an engagement and your agent references the [practitioner pricing guide](/docs/playbooks/practitioner/pricing) with the actual frameworks.
 
-Your agent goes from "I know some general things about AI" to "I have the entire AAS knowledge base and can apply it to your specific situation." That is the difference between a chatbot and a [context-engineered](/docs/concepts/context-engineering) system.
+Your agent goes from “I know some general things about AI” to “I have the entire AAS knowledge base and can apply it to your specific situation.” That is the difference between a chatbot and a [context-engineered](/docs/concepts/context-engineering) system.
 
 ---
 
@@ -57,7 +57,7 @@ Replace `[your path]` with wherever you cloned the repo.
 
 Ask your agent:
 
-> "Read the AAS doc at [your path]/applied-ai-society-public-docs/docs/concepts/four-levels-of-applied-ai-for-existing-businesses.md and give me a summary of the four levels."
+> “Read the AAS doc at [your path]/applied-ai-society-public-docs/docs/concepts/four-levels-of-applied-ai-for-existing-businesses.md and give me a summary of the four levels.”
 
 If it reads the file and gives you the actual four levels (Automate, Think, Unlock, Build) with the correct descriptions, you are set up. Your agent now has access to the entire AAS knowledge base.
 

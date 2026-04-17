@@ -17,7 +17,7 @@ With an agentic harness (Claude Code, Cursor, Windsurf, or similar), documentati
 
 You write a document: a user profile, a strategic plan, a decision record, a relationship file, a skill file. That document now lives in your workspace. Your AI agent can read it. The next time you ask your agent to do something, it has more context. Its output is better. That better output becomes another document. The cycle repeats.
 
-This is not theoretical. It is the daily experience of anyone who has been using an agentic harness for more than a few weeks. The difference between a fresh workspace with no context and a workspace with 50 well-written documents is staggering. The agent goes from generic to genuinely useful. From "that is a reasonable suggestion" to "that is exactly what I would have said if I had time to think about it."
+This is not theoretical. It is the daily experience of anyone who has been using an agentic harness for more than a few weeks. The difference between a fresh workspace with no context and a workspace with 50 well-written documents is staggering. The agent goes from generic to genuinely useful. From “that is a reasonable suggestion” to “that is exactly what I would have said if I had time to think about it.”
 
 ## Why Agentic Harnesses Make This Real
 
@@ -39,7 +39,7 @@ High-signal documents share a few properties:
 
 - **They capture something true that was not documented before.** Not a restatement of common knowledge. An actual insight, decision, or framework that is specific to you or your organization.
 - **They are structured for retrieval.** Clear titles, frontmatter, headings, and sections. Your agent can parse a well-structured document in seconds. A wall of unformatted text is nearly useless.
-- **They age well.** A document about "what is true about our market right now" is useful for weeks. A document about "our pricing philosophy and why" is useful for years. Prioritize documents that compound over time.
+- **They age well.** A document about “what is true about our market right now” is useful for weeks. A document about “our pricing philosophy and why” is useful for years. Prioritize documents that compound over time.
 - **They are honest.** If a document contains something you know is wrong or outdated, it actively degrades your agent's output. Stale documents are worse than no documents because the agent treats them as truth. Keep your library current or flag what is stale.
 
 ## The Practical Flywheel

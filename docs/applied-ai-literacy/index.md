@@ -14,7 +14,7 @@ That includes business: scoping projects, evaluating tools, building or commissi
 
 Applied AI literacy is the ability to look at any of those domains and see where AI fits, then to actually deploy it. The most leveraged version of that deployment is the **[Personal Agentic OS](/docs/concepts/personal-agentic-os) (also called your Jarvis)**: a system that lives on your computer, knows you, and helps you execute on your will every day. See [Get Jarvised](/docs/get-jarvised) for the on-ramp.
 
-It is not about knowing that AI exists. Everyone knows that. It's not about being able to define "large language model" or "neural network." Applied AI literacy means you can look at any domain of your life and see where AI fits, then build (or commission) the system that puts it there.
+It is not about knowing that AI exists. Everyone knows that. It's not about being able to define “large language model” or “neural network.” Applied AI literacy means you can look at any domain of your life and see where AI fits, then build (or commission) the system that puts it there.
 
 Think of it this way: knowing that electricity exists didn't change anyone's life. Knowing how to wire a building, run a factory, or light a hospital did. **Applied AI literacy is the wiring knowledge of the AI age. It is also personal supercomputer literacy.**
 
@@ -26,9 +26,9 @@ Jobs are shifting faster than institutions can adapt. Information overload makes
 
 The numbers tell the story. AI computing demand has increased roughly one million times in the last two years ([NVIDIA GTC 2026 Keynote](https://blogs.nvidia.com/blog/gtc-2026-news/)). Over $150 billion in venture capital flowed into AI startups in 2025, the largest year of startup investment in human history. At least $1 trillion in AI infrastructure is being built out through 2027. This is not hype. This is capital being deployed at a scale that reshapes entire economies.
 
-The Mayor of Austin captured the problem perfectly: "You say AI to people and their knee-jerk is 'we're gonna have more data centers.' They don't know what the application is."
+The Mayor of Austin captured the problem perfectly: “You say AI to people and their knee-jerk is 'we're gonna have more data centers.' They don't know what the application is.”
 
-That's the literacy gap. Most people, most businesses, and most governments have no mental model for what AI can actually do for them. They hear "AI" and think of robots, job loss, or science fiction. They don't think: "This could cut my invoice processing from three days to ten minutes" or "This could help my students get personalized feedback on their writing" or "This could help my city respond to constituent requests twice as fast."
+That's the literacy gap. Most people, most businesses, and most governments have no mental model for what AI can actually do for them. They hear “AI” and think of robots, job loss, or science fiction. They don't think: “This could cut my invoice processing from three days to ten minutes” or “This could help my students get personalized feedback on their writing” or “This could help my city respond to constituent requests twice as fast.”
 
 Without applied AI literacy, people can't see the opportunities forming around them. They can't protect themselves from the risks, either. They're navigating a new landscape with an old map.
 
@@ -38,7 +38,7 @@ We are committed to building the best open-source applied AI literacy [source ma
 
 Applied AI Society does not teach people to use ChatGPT. That is a common misconception about what we do, and it is important to address directly.
 
-Most people's relationship with AI looks like this: open a chat window, type a question, read the answer, close the tab. They use the most powerful technology ever built the same way they use Google. Andrew Chen of a16z calls this being an "AI normie," and the pattern captures almost none of the available value.
+Most people's relationship with AI looks like this: open a chat window, type a question, read the answer, close the tab. They use the most powerful technology ever built the same way they use Google. Andrew Chen of a16z calls this being an “AI normie,” and the pattern captures almost none of the available value.
 
 Power laws are emerging in AI usage. Something like the top 1% of users generate something like 80% of the value (the exact numbers are debatable, but the shape of the curve is not), because they are doing something fundamentally different from casual chat. They build persistent systems. They run local models. They create multi-agent workflows, encode their expertise into reusable [skill files](/docs/concepts/instruction-files), and compound their capabilities every day. A professional who sets up this kind of infrastructure does not get a marginal improvement. They get something closer to 100x improvement, because they know how to multiply their output through [AI leverage](/docs/concepts/hyperagency). The gap between casual use and pro use is the defining economic divide of this decade.
 
@@ -50,9 +50,9 @@ If you are not going to hand people the terminal, you need to hand them somethin
 
 ## Learning to Apply AI Is the New Learning How to Read
 
-Learning to apply AI is not "the new learning how to code." It is the new learning how to read. It is that foundational. Not knowing how to apply AI to your business, your career, your community is the new illiteracy.
+Learning to apply AI is not “the new learning how to code.” It is the new learning how to read. It is that foundational. Not knowing how to apply AI to your business, your career, your community is the new illiteracy.
 
-The foundational model companies (OpenAI, Anthropic, xAI) are all building consulting arms to deploy AI inside companies. They are sending engineers directly into corporate offices. The most powerful AI companies on earth looked at the market and said: "Businesses can't figure out how to use this. We need to go in and do it for them."
+The foundational model companies (OpenAI, Anthropic, xAI) are all building consulting arms to deploy AI inside companies. They are sending engineers directly into corporate offices. The most powerful AI companies on earth looked at the market and said: “Businesses can't figure out how to use this. We need to go in and do it for them.”
 
 But here is what they cannot scale: trust. Relationships are the bottleneck to applying AI, not compute, not models, not tokens. A trusted person who can sit down with a business owner, understand their situation, and actually help them. That is the job of the future. And no corporation can monopolize it, because trust is local, relational, and earned one conversation at a time.
 
@@ -104,7 +104,7 @@ Beyond the three pillars, we extend reach through partnerships and shared standa
 
 **Through partnerships.** We're building a coalition with organizations that share this mission. [OpenTeams](https://www.openteams.com/) connects open-source talent with enterprise needs. Universities want programming that keeps pace with the real economy. City governments need workforce development that actually works. International partners are bringing applied AI literacy to communities around the world. Together, we can reach further than any one organization could alone.
 
-**Through standards and frameworks.** We're developing competency frameworks that help people and organizations understand what "good" looks like in applied AI work. Not certifications for the sake of credentials, but practical benchmarks that map to real skills and real outcomes.
+**Through standards and frameworks.** We're developing competency frameworks that help people and organizations understand what “good” looks like in applied AI work. Not certifications for the sake of credentials, but practical benchmarks that map to real skills and real outcomes.
 
 ## What's Coming
 

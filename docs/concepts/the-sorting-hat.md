@@ -47,19 +47,19 @@ This is [game design](/docs/concepts/game-design) applied to your inbox. You are
 
 **3. Full context about the inbound.**
 
-A sorting hat is only as good as the context it has. If someone sends you a DM and all you give the AI is "John wants to connect," the recommendation will be generic. If the AI can read your [context lake](/docs/concepts/context-lake) (relationship files, transcripts, project docs), look up the person's background, and cross-reference against your principles, the recommendation becomes specific and useful.
+A sorting hat is only as good as the context it has. If someone sends you a DM and all you give the AI is “John wants to connect,” the recommendation will be generic. If the AI can read your [context lake](/docs/concepts/context-lake) (relationship files, transcripts, project docs), look up the person's background, and cross-reference against your principles, the recommendation becomes specific and useful.
 
 This is why the Personal Agentic OS is a prerequisite. The sorting hat is not a standalone tool. It is a capability that emerges when your AI already knows your world.
 
 **4. A human reviewing the output.**
 
-The sorting hat recommends. The human decides. This is not a delegation of judgment. It is a compression of the time it takes to exercise judgment. You go from "let me think about this for 20 minutes" to "let me review this recommendation for 30 seconds." The quality of the decision stays the same. The cost drops by an order of magnitude.
+The sorting hat recommends. The human decides. This is not a delegation of judgment. It is a compression of the time it takes to exercise judgment. You go from “let me think about this for 20 minutes” to “let me review this recommendation for 30 seconds.” The quality of the decision stays the same. The cost drops by an order of magnitude.
 
 ---
 
 ## Why This Matters Now
 
-If you are a knowledge worker with a growing network, you are already drowning in sorting decisions. You just might not call it that. Every email you take too long to respond to, every LinkedIn message you leave on read, every "let me think about it" that turns into a ghost: those are all failed sorts.
+If you are a knowledge worker with a growing network, you are already drowning in sorting decisions. You just might not call it that. Every email you take too long to respond to, every LinkedIn message you leave on read, every “let me think about it” that turns into a ghost: those are all failed sorts.
 
 If you are a creator, artist, or public figure, the problem is existential. Celebrities close their DMs because they have zero capacity to sort through everything. Talent managers exist because humans cannot scale triage. But most people do not have talent managers. They are their own talent manager, and they are bad at it because they are also trying to do the actual work.
 

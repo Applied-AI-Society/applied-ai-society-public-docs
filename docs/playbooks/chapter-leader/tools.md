@@ -136,7 +136,7 @@ Airtable combines the simplicity of a spreadsheet with the power of a database. 
 
 **Tips:**
 - Use camelCase for field names (e.g., `firstName` not `First Name`). This makes integration with automation tools easier
-- Create filtered views for each outreach channel (e.g., "To Message (LinkedIn)")
+- Create filtered views for each outreach channel (e.g., “To Message (LinkedIn)”)
 - Only users with editor-level access count toward seat costs. Viewers are free.
 - See the [CRM Setup](/docs/playbooks/chapter-leader/crm-setup) playbook for a complete setup guide
 
@@ -168,7 +168,7 @@ Both LinkedIn and Twitter have limits on how many messages you can send. Phantom
 **Tips:**
 - Install the browser extension to connect your social accounts
 - Use variables like `#firstName#` or `#twitterUsername#` for personalization
-- Set up "Repeatedly" schedules during working hours (skip weekends)
+- Set up “Repeatedly” schedules during working hours (skip weekends)
 - Monitor your accounts for warnings and reduce volume if needed
 - See [LinkedIn Automation](/docs/playbooks/chapter-leader/linkedin-automation) and [Twitter Automation](/docs/playbooks/chapter-leader/twitter-automation) for complete setup guides
 

@@ -33,7 +33,7 @@ Three forces make the hyperagency gap self-reinforcing:
 
 The people most at risk are not who you might expect. It is not the technologically illiterate. It is the people who are good enough at their jobs to feel safe but not curious enough to investigate what is changing.
 
-Small business owners running on spreadsheets and phone calls. Mid-career professionals whose companies have not invested in AI training. Students graduating into a job market that has already split. Communities where the infrastructure for learning does not exist. Entire industries where "we will get to AI eventually" is the prevailing attitude.
+Small business owners running on spreadsheets and phone calls. Mid-career professionals whose companies have not invested in AI training. Students graduating into a job market that has already split. Communities where the infrastructure for learning does not exist. Entire industries where “we will get to AI eventually” is the prevailing attitude.
 
 These are capable people. They are not failing because they are incompetent. They are falling behind because the game changed and nobody told them how to play the new version.
 
@@ -41,7 +41,7 @@ These are capable people. They are not failing because they are incompetent. The
 
 The hyperagency gap is not inevitable. It is a literacy problem, and literacy problems have solutions.
 
-The first step is [activation](/docs/concepts/activation): getting someone from "I have heard about AI" to "I am using it and it is changing how I work." This is what the [Supersuit Up Workshop](/docs/workshops/supersuit-up) is designed to do. People walk in with a laptop and walk out with a working [personal agentic OS](/docs/concepts/personal-agentic-os). That single experience shifts something fundamental. They feel what hyperagency feels like, and they cannot unfeel it.
+The first step is [activation](/docs/concepts/activation): getting someone from “I have heard about AI” to “I am using it and it is changing how I work.” This is what the [Supersuit Up Workshop](/docs/workshops/supersuit-up) is designed to do. People walk in with a laptop and walk out with a working [personal agentic OS](/docs/concepts/personal-agentic-os). That single experience shifts something fundamental. They feel what hyperagency feels like, and they cannot unfeel it.
 
 The second step is Hyperagency 101: a self-paced course that teaches anyone, regardless of technical background, to become a 10x operator by creating their own personal Jarvis system. Workshops activate. The course scales activation.
 

@@ -5,7 +5,7 @@ title: "Slop Factory"
 
 # Slop Factory
 
-*A business structure optimized for autonomous throughput where the throughput is slop. The trap the "self-running business" obsession leads to when nobody is watching what is actually shipping.*
+*A business structure optimized for autonomous throughput where the throughput is slop. The trap the “self-running business” obsession leads to when nobody is watching what is actually shipping.*
 
 ---
 
@@ -28,7 +28,7 @@ Productivity at the expense of profitability is the signature of a slop factory.
 Other yellow flags:
 
 - You have stopped reading your own outputs before they ship.
-- Clients give vaguer and vaguer feedback over time. "Something feels off." They cannot point at what.
+- Clients give vaguer and vaguer feedback over time. “Something feels off.” They cannot point at what.
 - Retention softens. New customers come in, but nobody stays.
 - Your team spends more time fixing AI outputs than they would have spent producing the outputs from scratch.
 - You have not changed anything about the pipeline in months, and you are proud of that.
@@ -39,9 +39,9 @@ Other yellow flags:
 
 - **The AI-first content business.** Operator is proud of the autonomous content pipeline. Does not notice they have become BuzzFeed 2.0 until engagement is 100% bots, retention is zero, and nobody who matters reads their work anymore.
 
-- **The internal ops slop factory.** Team adopts automation for internal workflows (onboarding docs, reports, meeting summaries, slide decks). Everyone quietly hates the outputs. Nobody wants to be the one who "doesn't trust the AI." Quality decays invisibly until the team is making decisions from garbage source material.
+- **The internal ops slop factory.** Team adopts automation for internal workflows (onboarding docs, reports, meeting summaries, slide decks). Everyone quietly hates the outputs. Nobody wants to be the one who “doesn't trust the AI.” Quality decays invisibly until the team is making decisions from garbage source material.
 
-- **The agency selling its slop factory as a service.** The worst case. Operator has built a slop factory and is now licensing it to clients as "AI-powered transformation." The slop compounds across every client the agency touches.
+- **The agency selling its slop factory as a service.** The worst case. Operator has built a slop factory and is now licensing it to clients as “AI-powered transformation.” The slop compounds across every client the agency touches.
 
 ## Why this is different from Don't Scale Slop
 
@@ -49,7 +49,7 @@ Other yellow flags:
 
 Slop Factory names the insidious case. The workflows pass the battle-tested checks. They are documented, repeatable, defined I/O, feedback loops in place. They just are not actually good. They are 50% as good as they need to be. Automating them makes that 50% gap compound through the chain (see [Compound Drift](/docs/concepts/compound-drift)) until the final output is slop.
 
-You can pass every "don't scale slop" check and still build a slop factory. The factory looks clean from the outside. It only shows up as slop at the distribution end, after your reputation is already on fire.
+You can pass every “don't scale slop” check and still build a slop factory. The factory looks clean from the outside. It only shows up as slop at the distribution end, after your reputation is already on fire.
 
 ## The escape
 

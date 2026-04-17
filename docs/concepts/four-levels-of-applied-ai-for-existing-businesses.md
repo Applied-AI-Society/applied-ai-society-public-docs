@@ -25,7 +25,7 @@ Reporting. Weekly decks. Client updates. Copy variations. Ad headlines. Email dr
 
 This is table stakes. It saves time. Everyone does this (or should). If you are not here yet, start here. But do not stop here.
 
-The trap is that level 1 feels productive. You saved four hours this week. Your inbox is cleaner. Your reports ship faster. You tell yourself you are "using AI." And you are. The same way someone who drives to the grocery store is "using a car." True, but you are not even close to what the machine can actually do.
+The trap is that level 1 feels productive. You saved four hours this week. Your inbox is cleaner. Your reports ship faster. You tell yourself you are “using AI.” And you are. The same way someone who drives to the grocery store is “using a car.” True, but you are not even close to what the machine can actually do.
 
 Level 1 is valuable. It is not a destination. (See: [Don't Accept Automation as the Goal](/docs/playbooks/business-owner/beyond-automation))
 
@@ -39,11 +39,11 @@ Level 1 is valuable. It is not a destination. (See: [Don't Accept Automation as 
 
 Steelman your own strategy. Pressure-test assumptions before you present them. Generate counterarguments to your own pitch. Stress-test a proposal before you send it. Identify patterns in customer feedback you missed because you were too close to it. Brainstorm angles on a problem you have been staring at for weeks.
 
-This is AI as a sparring partner, not a faster intern. The shift is subtle but critical: you stop giving AI tasks and start giving it problems. You stop saying "write this email" and start saying "here is my situation, here is what I am considering, what am I missing?"
+This is AI as a sparring partner, not a faster intern. The shift is subtle but critical: you stop giving AI tasks and start giving it problems. You stop saying “write this email” and start saying “here is my situation, here is what I am considering, what am I missing?”
 
 This requires [context engineering](/docs/concepts/context-engineering): the AI needs enough of your situation to think with you, not just for you. A prompt with no context produces generic output. A prompt with your strategy doc, your competitive landscape, and your last three quarterly reviews produces insight you could not have gotten alone.
 
-Most people skip this level entirely. They jump from "AI writes my emails" straight to tool-building, missing the entire middle layer where AI is most useful as a thinking tool.
+Most people skip this level entirely. They jump from “AI writes my emails” straight to tool-building, missing the entire middle layer where AI is most useful as a thinking tool.
 
 **What level 2 gives you:** Better decisions.
 
@@ -70,7 +70,7 @@ None of this is new in concept. Marketers always knew negative keyword mining wa
 
 AI collapses the cost of this work to near zero. The [roles-to-workflows shift](/docs/concepts/roles-to-workflows) makes it visible: once you decompose roles into workflows, you discover dozens of workflows that were never assigned to anyone because they were not worth assigning. Now they are.
 
-This is not "AI replaced a person." This is "AI created a function that never existed." The business gets capabilities it never had, at a cost that would have been laughable two years ago.
+This is not “AI replaced a person.” This is “AI created a function that never existed.” The business gets capabilities it never had, at a cost that would have been laughable two years ago.
 
 **What level 3 gives you:** New capabilities. Work product that did not exist before.
 
@@ -121,7 +121,7 @@ The ladder matters for existing businesses because they have gravity. They have 
 
 **If you are a business owner:** Ask yourself honestly which level describes how your organization uses AI today. Then look at the level above you and ask: what would it take to get there? The [three-stage path](/docs/playbooks/business-owner) will help you scope it.
 
-**If you are a practitioner:** This is your engagement roadmap. Most clients come to you stuck at level 1. Show them the ladder. The conversation shifts from "automate my reports" to "what work should my business be doing that it has never done?" That is a fundamentally different engagement, and a fundamentally different price point. (See: [Pricing](/docs/playbooks/practitioner/pricing))
+**If you are a practitioner:** This is your engagement roadmap. Most clients come to you stuck at level 1. Show them the ladder. The conversation shifts from “automate my reports” to “what work should my business be doing that it has never done?” That is a fundamentally different engagement, and a fundamentally different price point. (See: [Pricing](/docs/playbooks/practitioner/pricing))
 
 **If you are a student:** This framework complements the [Five Levels of Value](/docs/playbooks/student/five-levels-of-value). That ladder is about where you sit in the economy. This ladder is about how the organizations you work in (or build) use AI. Understanding both gives you a map of where to aim and what to push for once you are inside a team.
 

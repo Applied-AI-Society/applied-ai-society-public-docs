@@ -27,9 +27,9 @@ This is the foundational principle. [We named it our seventh operating principle
 
 AI handles more and more of the execution layer. Which means the quality of your strategic thinking is the single largest variable in the quality of your outcomes. A mediocre strategy executed brilliantly by AI still produces mediocre results. A brilliant strategy executed competently by AI produces extraordinary results.
 
-The old economy had a saying: "Ideas are cheap. Execution is everything." That was true when execution required hundreds of hours of human labor. It is no longer true when execution can be automated, delegated, and scaled by machines.
+The old economy had a saying: “Ideas are cheap. Execution is everything.” That was true when execution required hundreds of hours of human labor. It is no longer true when execution can be automated, delegated, and scaled by machines.
 
-[The spec is the product](/docs/concepts/spec-writing). If you accept that premise, then the most valuable thing you can do on any given day is think clearly about what you are building, why you are building it, and in what order the pieces should come together. The days of doing things just because they tire you out, just because you want a pat on the back for "working hard," are over. You want to work smart. Here is what that means.
+[The spec is the product](/docs/concepts/spec-writing). If you accept that premise, then the most valuable thing you can do on any given day is think clearly about what you are building, why you are building it, and in what order the pieces should come together. The days of doing things just because they tire you out, just because you want a pat on the back for “working hard,” are over. You want to work smart. Here is what that means.
 
 ---
 
@@ -61,7 +61,7 @@ This is meta work. Working on the system rather than in the system. And it is so
 
 ### 5. Think in principles, not implementations.
 
-A principle endures. An implementation is contextual. When you design systems, lead with the principle: "I want my team to never lose track of a commitment." That is eternal. "I want a Slack bot that posts daily reminders" is an implementation that may be obsolete next quarter.
+A principle endures. An implementation is contextual. When you design systems, lead with the principle: “I want my team to never lose track of a commitment.” That is eternal. “I want a Slack bot that posts daily reminders” is an implementation that may be obsolete next quarter.
 
 [The spec is the product](/docs/concepts/spec-writing) page goes deep on this: a spec built from principles survives technology changes. A spec built from feature lists becomes stale the moment the tooling shifts. Think in terms of what you are trying to achieve at the deepest level, and let the implementation follow.
 
@@ -91,7 +91,7 @@ When those tasks run automatically, you do not just save time. You save mental e
 
 ### 10. Get out of robot mode.
 
-This is the foundation everything else sits on. [Robot mode](/docs/concepts/robot-mode) is when your work does not require your judgment, your creativity, or your personality. Just your hands and your time. If the job description is "be a robot," a robot will take your job.
+This is the foundation everything else sits on. [Robot mode](/docs/concepts/robot-mode) is when your work does not require your judgment, your creativity, or your personality. Just your hands and your time. If the job description is “be a robot,” a robot will take your job.
 
 Working smart means recognizing what you, in your unique human soul, should be doing versus what a machine should be doing. Then ruthlessly delegating the machine work to machines. Not someday. Today.
 
@@ -107,7 +107,7 @@ This is what working smart looks like from the inside. It does not feel like les
 
 ## Further Reading
 
-- [Principles](/docs/philosophy/principles): The seven operating principles, including "strategy is the new execution"
+- [Principles](/docs/philosophy/principles): The seven operating principles, including “strategy is the new execution”
 - [The Spec Is the Product](/docs/concepts/spec-writing): Why clarity of intent is the highest-leverage skill
 - [Robot Mode](/docs/concepts/robot-mode): What you are escaping from
 - [Compounding Docs](/docs/concepts/compounding-docs): The flywheel that makes your system smarter over time

@@ -47,7 +47,7 @@ Companies that are actively hiring applied AI talent. This is the most valuable 
 
 **What you bring:** A curated room of AI-native, hungry, entrepreneurial people that they cannot reach through traditional recruiting. Resumes and job fairs do not surface the talent companies actually need. Your events do.
 
-**The pitch:** "Your recruiting team should be in this room. The people organizing this event and the people attending it are exactly the talent profile you're looking for. You can vibe-check candidates in a live setting where their actual abilities are visible." See the [talent pipeline section of Speaker Outreach](/docs/playbooks/chapter-leader/speaker-outreach#why-companies-say-yes-the-talent-pipeline) for the full pitch framework.
+**The pitch:** “Your recruiting team should be in this room. The people organizing this event and the people attending it are exactly the talent profile you're looking for. You can vibe-check candidates in a live setting where their actual abilities are visible.” See the [talent pipeline section of Speaker Outreach](/docs/playbooks/chapter-leader/speaker-outreach#why-companies-say-yes-the-talent-pipeline) for the full pitch framework.
 
 **Why this works:** Companies are spending enormous amounts on recruiting for applied AI roles. A single AAS event gives them access to a pre-filtered group of people who are already doing the work, not just talking about it. For the company, it is cheaper and more effective than any job board. For your members, it is direct access to opportunities.
 
@@ -79,7 +79,7 @@ Co-working spaces, tech hubs, company offices that host events.
 
 Don't pitch yourself. Pitch the mutual benefit.
 
-*"We're building a community around applied AI practitioners. You have a great venue and a community that would find this valuable. We'll handle the programming and promotion. You get a quality event for your members, and we both grow."*
+*“We're building a community around applied AI practitioners. You have a great venue and a community that would find this valuable. We'll handle the programming and promotion. You get a quality event for your members, and we both grow.”*
 
 ### Start informal
 

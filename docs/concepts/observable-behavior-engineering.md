@@ -18,10 +18,10 @@ Observable Behavior Engineering is the discipline of translating vague human int
 ## The Problem With Vague Language
 
 Most business instructions are hopelessly vague:
-- "Make it more engaging"
-- "Be more professional"
-- "Improve the quality"
-- "This feels off-brand"
+- “Make it more engaging”
+- “Be more professional”
+- “Improve the quality”
+- “This feels off-brand”
 
 These instructions fail for machines. They have no way to interpret subjective language. But here's the uncomfortable truth: **they fail for humans too.** We just nod and pretend we understand because we've been socially conditioned to do so.
 
@@ -35,16 +35,16 @@ Observable Behavior Engineering requires translating every instruction into beha
 
 | Vague Instruction | Observable Behavior |
 |---|---|
-| "Be more charismatic" | Raise your voice at the hook. Talk 20% faster during stories. Pause for 2 beats before punchlines. Nod when the other person speaks. |
-| "This is off-brand" | The header font is 24px, brand standard is 32px. The CTA uses passive voice; brand standard is imperative. The color is #334455; brand palette specifies #1a1a2e. |
-| "Improve quality" | Reduce error rate from 12% to under 3%. Ensure every output passes the 5-point checklist. Decrease customer revision requests from 4 per project to 1. |
-| "Make it more engaging" | Open with the highest-tension moment. Cut all segments longer than 90 seconds without a scene change. Add a pattern interrupt every 30 seconds. |
+| “Be more charismatic” | Raise your voice at the hook. Talk 20% faster during stories. Pause for 2 beats before punchlines. Nod when the other person speaks. |
+| “This is off-brand” | The header font is 24px, brand standard is 32px. The CTA uses passive voice; brand standard is imperative. The color is #334455; brand palette specifies #1a1a2e. |
+| “Improve quality” | Reduce error rate from 12% to under 3%. Ensure every output passes the 5-point checklist. Decrease customer revision requests from 4 per project to 1. |
+| “Make it more engaging” | Open with the highest-tension moment. Cut all segments longer than 90 seconds without a scene change. Add a pattern interrupt every 30 seconds. |
 
 ---
 
 ## Why This Is a Core Applied AI Skill
 
-When you build AI workflows, every prompt is an exercise in Observable Behavior Engineering. The quality of your AI output is directly proportional to how specifically you can describe what "good" looks like.
+When you build AI workflows, every prompt is an exercise in Observable Behavior Engineering. The quality of your AI output is directly proportional to how specifically you can describe what “good” looks like.
 
 This is also why the best applied AI practitioners tend to come from backgrounds in:
 - **Operations:** they're used to writing SOPs with precise steps

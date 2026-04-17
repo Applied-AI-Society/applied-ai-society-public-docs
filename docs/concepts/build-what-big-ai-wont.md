@@ -13,7 +13,7 @@ title: "Build What Big AI Won't"
 
 Peter Levels (`@levelsio`) named it clearly in April 2026:
 
-> "BigTech will eventually come for all apps / startups / companies because they can fill the niches now that before could not because they were too small. [...] End game for their survival is simply trying to take every business. It's just capitalism. [...] They won't come at it in how you expect. ChatGPT isn't going to launch Remote OK or Photo AI or MAKE book. But they have and will make it easy in the chat interface to find a remote job, take AI photos, and learn how to build a startup."
+> “BigTech will eventually come for all apps / startups / companies because they can fill the niches now that before could not because they were too small. [...] End game for their survival is simply trying to take every business. It's just capitalism. [...] They won't come at it in how you expect. ChatGPT isn't going to launch Remote OK or Photo AI or MAKE book. But they have and will make it easy in the chat interface to find a remote job, take AI photos, and learn how to build a startup.”
 
 Two forces are driving this:
 
@@ -37,7 +37,7 @@ Their business depends on serving the widest possible user base. That structural
 
 This is the real line. Opinionated products, opinionated services, and opinionated communities are safe from absorption because **a frontier lab absorbing them would dilute the very thing that makes them work.** Labs cannot match them without becoming something they are not.
 
-Every category of "unabsorbable" work listed below is a consequence of this single principle.
+Every category of “unabsorbable” work listed below is a consequence of this single principle.
 
 ---
 
@@ -46,14 +46,14 @@ Every category of "unabsorbable" work listed below is a consequence of this sing
 Things frontier labs will absorb, eagerly, on timelines faster than you expect:
 
 - Generic productivity tools (note-takers, summarizers, drafting assistants, scheduling helpers)
-- Undifferentiated SaaS whose core value is "this task but with an LLM wrapper"
+- Undifferentiated SaaS whose core value is “this task but with an LLM wrapper”
 - Creative generation in the default aesthetic (image generation, stock-style copy, mid-market video)
 - Data pipelines over standard schemas and standard tools
 - Coding assistants at the default abstraction level
 - Research / search / summarization over public data
 - Chatbot-shaped customer service for categories where brand intimacy is not load-bearing
 - Standard agentic workflows (email triage, calendar management, meeting prep, CRM updates)
-- Consumer "do X for me" interfaces where X is something a model can reliably do across most populations
+- Consumer “do X for me” interfaces where X is something a model can reliably do across most populations
 
 If your business lives here, your competitive surface is **distribution, trust, and audience** rather than product. The tool will not differentiate you. Only the brand around it will.
 
@@ -65,7 +65,7 @@ Each of these is a specific form of opinionation that a frontier lab cannot repl
 
 ### 1. Opinionated taste and aesthetic
 
-A lab's product is the mean. An opinionated brand is the particular. If your product's defensibility is "this looks and feels and behaves like a specific point of view," no lab can match it without diluting its own mass-market appeal. The soulful indie product is safer than it has ever been.
+A lab's product is the mean. An opinionated brand is the particular. If your product's defensibility is “this looks and feels and behaves like a specific point of view,” no lab can match it without diluting its own mass-market appeal. The soulful indie product is safer than it has ever been.
 
 ### 2. Opinionated values
 
@@ -93,7 +93,7 @@ Products built around a specific cultural leader, artist, founder, or operator w
 
 ### 8. Deep custom professional services
 
-"Stand up the entire agentic stack for this specific business, in their industry, with their data, with their people, in a defined engagement window, and transfer ownership." That is a practitioner job, not a chat-interface job.
+“Stand up the entire agentic stack for this specific business, in their industry, with their data, with their people, in a defined engagement window, and transfer ownership.” That is a practitioner job, not a chat-interface job.
 
 ### 9. Teaching, shepherding, and mentoring
 
@@ -114,7 +114,7 @@ Audit anything you build against a single question:
 - If the answer is yes, it is probably unabsorbable. The labs cannot ship your opinion.
 - If the answer is no, assume a lab will ship the capability in 12-18 months and plan accordingly.
 
-"Point of view" is the operational definition of opinionation. It includes taste, values, curation choices, a specific human's presence, a specific community's standards, a specific set of principles that exclude alternatives. Wherever a product or service depends on someone saying "this way, not that way" and standing behind the choice, labs cannot follow.
+“Point of view” is the operational definition of opinionation. It includes taste, values, curation choices, a specific human's presence, a specific community's standards, a specific set of principles that exclude alternatives. Wherever a product or service depends on someone saying “this way, not that way” and standing behind the choice, labs cannot follow.
 
 ---
 
@@ -157,4 +157,4 @@ The question for every builder in 2026 is how to build something Anthropic canno
 
 ## Source
 
-Peter Levels (`@levelsio`), [post on X, April 13, 2026](https://x.com/levelsio/status/2043638122424979476). The absorbable-vs-unabsorbable frame and the "they won't come at it how you expect" observation are adapted from that thread with attribution.
+Peter Levels (`@levelsio`), [post on X, April 13, 2026](https://x.com/levelsio/status/2043638122424979476). The absorbable-vs-unabsorbable frame and the “they won't come at it how you expect” observation are adapted from that thread with attribution.

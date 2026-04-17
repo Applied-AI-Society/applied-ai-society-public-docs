@@ -27,7 +27,7 @@ Three core functions:
 
 ## Why This Role Is Emerging Now
 
-Most people's exposure to AI is ChatGPT. They type a question, get an answer, and think "that's cool, I guess." The gap between that and a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) is enormous. Content alone cannot close it. People need to see it done by someone they relate to, in a room they trust, in their own city.
+Most people's exposure to AI is ChatGPT. They type a question, get an answer, and think “that's cool, I guess.” The gap between that and a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) is enormous. Content alone cannot close it. People need to see it done by someone they relate to, in a room they trust, in their own city.
 
 Every city needs someone who creates that room. Every campus needs one. The applied AI economy is emerging everywhere simultaneously, but the in-person infrastructure for learning about it barely exists. The Community Leader is the person who builds it.
 
@@ -50,7 +50,7 @@ Every city needs someone who creates that room. Every campus needs one. The appl
 - **Community organizers** who already run events or meetups and want to add applied AI to their portfolio
 - **College students** who want to bring AI literacy to their campus and surrounding community (e.g., running AI literacy programs at libraries and high schools)
 - **Founders and operators** who want to build their local network while contributing to something bigger
-- **Anyone who looks around their city and thinks "there should be a place for people figuring out applied AI"**
+- **Anyone who looks around their city and thinks “there should be a place for people figuring out applied AI”**
 
 The prerequisite is not technical skill. It is initiative. You need to be willing to book a venue, invite speakers, promote an event, and show up even when only 8 people come.
 

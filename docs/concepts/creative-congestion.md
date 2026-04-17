@@ -13,7 +13,7 @@ title: "Creative Congestion"
 
 You know the feeling. You start the day with twelve things on your mind, none of them fully articulated. You meet someone great at a dinner and forget half of what they said by Monday. You have a show you want to produce, a deal you need to close, a founder to advise, a book you keep meaning to outline, and a partner you keep meaning to call back. None of it moves, because all of it lives in the same room: your head.
 
-Ask someone in this state how they are and they say "busy." Ask them what they are working on and the answer takes twenty minutes. Ask them what the top priority is and they freeze, because it is a three-way tie between things that do not fit on the same axis.
+Ask someone in this state how they are and they say “busy.” Ask them what they are working on and the answer takes twenty minutes. Ask them what the top priority is and they freeze, because it is a three-way tie between things that do not fit on the same axis.
 
 This is creative congestion. Too much accumulated signal, no circulation. The ideas are real. The relationships are real. The opportunities are real. What is missing is a system to move any of it out of the head so it can actually compound.
 
@@ -36,7 +36,7 @@ The default response most people use is some mix of:
 
 - Sticky notes and random docs scattered across three apps.
 - A bullet-heavy Notion or Apple Notes they never actually read.
-- Therapy, exercise, or a long walk to "clear the head."
+- Therapy, exercise, or a long walk to “clear the head.”
 
 These help with the emotional surface. They do not clear the congestion. Nothing is actually getting out of the head into a form an agent can read and operate on. The ideas are still stuck.
 

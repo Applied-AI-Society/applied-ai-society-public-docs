@@ -28,7 +28,7 @@ Find this CLI's event system (command lifecycle, hooks, callbacks,
 event emitters -- whatever it uses). Map those events to CESP categories.
 ```
 
-The first version assumes the agent knows what a "CESP event emitter" means in context. The second tells it what to look for in whatever codebase it's working in.
+The first version assumes the agent knows what a “CESP event emitter” means in context. The second tells it what to look for in whatever codebase it's working in.
 
 ## Don't Assume Language or Framework
 
@@ -70,7 +70,7 @@ The agent knows the target project's conventions. Let it apply them.
 
 ### Writing for Humans Instead of Agents
 
-INTEGRATE.md is not a tutorial. Don't explain concepts. Don't provide context about why your library exists. Don't include "Getting Started" sections that walk through prerequisites.
+INTEGRATE.md is not a tutorial. Don't explain concepts. Don't provide context about why your library exists. Don't include “Getting Started” sections that walk through prerequisites.
 
 The agent already has context. It needs the mapping.
 
@@ -80,7 +80,7 @@ Most integrations have a simple case and a full case. If someone just wants the 
 
 ### Vague Verification
 
-"Test that it works" is not verification. "Run `mycli sounds install peon`, then start the CLI. You should hear audio on startup" is verification. The agent needs to know exactly what success looks like.
+“Test that it works” is not verification. "Run `mycli sounds install peon`, then start the CLI. You should hear audio on startup" is verification. The agent needs to know exactly what success looks like.
 
 ### Bundling Install Instructions
 
@@ -93,7 +93,7 @@ Link to your API docs. Don't reproduce them. The agent can fetch reference mater
 ## Checklist Before Publishing
 
 - [ ] Does the H1 title state what's being built?
-- [ ] Does "What You're Building" describe the end state in one paragraph?
+- [ ] Does “What You're Building” describe the end state in one paragraph?
 - [ ] Does the file tell the agent to read the codebase before writing code?
 - [ ] Are integration steps numbered and imperative?
 - [ ] Does verification include a concrete command and expected result?

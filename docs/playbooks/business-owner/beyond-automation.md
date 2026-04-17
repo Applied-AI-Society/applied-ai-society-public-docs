@@ -9,7 +9,7 @@ Most AI consultants will automate your workflow and hand it back to you.
 
 That's not enough.
 
-The bar shouldn't be "it works as well as before, just faster." The bar should be "outcomes are measurably improving over time." Those are very different things, and the gap between them is where most applied AI engagements fall short.
+The bar shouldn't be “it works as well as before, just faster.” The bar should be “outcomes are measurably improving over time.” Those are very different things, and the gap between them is where most applied AI engagements fall short.
 
 ---
 
@@ -17,9 +17,9 @@ The bar shouldn't be "it works as well as before, just faster." The bar should b
 
 Before you can improve continuously, you need the right mental model. Most businesses think about growth in terms of **roles**: hire more people, add headcount, scale the team. The applied AI mindset reframes this entirely around **workflows**.
 
-Every role in your business is really a bundle of workflows. A content editor doesn't "edit." They segment transcripts, identify high-tension moments, remove filler words, sequence clips, export files, schedule posts. Each of those is a workflow that can be mapped, measured, and improved independently.
+Every role in your business is really a bundle of workflows. A content editor doesn't “edit.” They segment transcripts, identify high-tension moments, remove filler words, sequence clips, export files, schedule posts. Each of those is a workflow that can be mapped, measured, and improved independently.
 
-This shift is what makes continuous improvement possible. You can't experiment on a "role," but you can experiment on a workflow step. You can A/B test a prompt. You can measure whether the AI-selected clip hook outperforms the human-selected one. Workflows make your business *scientifically improvable.*
+This shift is what makes continuous improvement possible. You can't experiment on a “role,” but you can experiment on a workflow step. You can A/B test a prompt. You can measure whether the AI-selected clip hook outperforms the human-selected one. Workflows make your business *scientifically improvable.*
 
 ---
 
@@ -54,12 +54,12 @@ A practitioner with an experimental mindset will show certain signals early. Loo
 - They ask how you currently measure the thing they're about to automate
 - They want to establish a baseline before building anything
 - They bring up A/B testing or iterative refinement before you do
-- They ask about data retention: "can we store the raw results of each run?"
+- They ask about data retention: “can we store the raw results of each run?”
 - They have a clear picture of what happens after the initial delivery
 
 These aren't advanced technical concerns. They're signs that the practitioner has thought past the delivery milestone and is thinking about whether your outcomes actually improve.
 
-A practitioner who can't answer "how will we know in 90 days if this is working better?" is not the practitioner you want for work that matters.
+A practitioner who can't answer “how will we know in 90 days if this is working better?” is not the practitioner you want for work that matters.
 
 ---
 
@@ -67,11 +67,11 @@ A practitioner who can't answer "how will we know in 90 days if this is working 
 
 Use these in your first conversation with any applied AI practitioner:
 
-1. **"How will we know if this is actually working better?"** Push for specifics. What metric, measured how, over what timeframe?
-2. **"What does the baseline look like?"** They need to know your starting point to measure improvement.
-3. **"What data will we retain to refine the system over time?"** If they haven't thought about this, the system will be static.
-4. **"Have you done work like this before? What did the improvement trajectory look like?"** Past work is the best predictor.
-5. **"What happens after the initial delivery?"** Is there a plan for iteration, or does the engagement end when the system is handed over?
+1. **“How will we know if this is actually working better?”** Push for specifics. What metric, measured how, over what timeframe?
+2. **“What does the baseline look like?”** They need to know your starting point to measure improvement.
+3. **“What data will we retain to refine the system over time?”** If they haven't thought about this, the system will be static.
+4. **“Have you done work like this before? What did the improvement trajectory look like?”** Past work is the best predictor.
+5. **“What happens after the initial delivery?”** Is there a plan for iteration, or does the engagement end when the system is handed over?
 
 ---
 
@@ -83,7 +83,7 @@ Initial delivery gets you to a baseline. The system is running. You have a measu
 
 The real value comes after. The practitioner runs experiments. Outcomes improve. They show you the data. You decide what to refine next.
 
-This is a fundamentally different engagement structure from "here's your deliverable, good luck." Budget and timeline accordingly. If a practitioner is only quoting you for the build, ask them what the ongoing optimization looks like.
+This is a fundamentally different engagement structure from “here's your deliverable, good luck.” Budget and timeline accordingly. If a practitioner is only quoting you for the build, ask them what the ongoing optimization looks like.
 
 ---
 

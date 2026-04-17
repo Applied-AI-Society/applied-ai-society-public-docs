@@ -12,7 +12,7 @@ title: "Build Your Jarvis In Community"
 
 The most common thing I hear from someone a few weeks after they get started:
 
-> "I've only touched this thing once since we met two weeks ago. I know it compounds. I know it's powerful. I'm just not doing it consistently. How do I crawl, walk, run here?"
+> “I've only touched this thing once since we met two weeks ago. I know it compounds. I know it's powerful. I'm just not doing it consistently. How do I crawl, walk, run here?”
 
 That is a great question, and the honest answer starts with this: **you are not going to sustain this alone.** Not because you lack discipline. Because the shape of the work is adversarial to solo practice. It compounds slowly, the feedback loop is long, and your default tools (ChatGPT in a browser tab) will always feel easier in the moment.
 
@@ -37,11 +37,11 @@ That is the one that actually works.
 
 Five mechanisms, all of which show up in [Supersuit Up workshops](/docs/workshops/supersuit-up) and the local chapters that grow from them.
 
-**Inspiration.** Watching someone update their Jarvis in real time turns "I should probably do this" into "I want to do this now." The distance from abstract understanding to concrete practice is enormous. Seeing a peer cross it collapses that distance.
+**Inspiration.** Watching someone update their Jarvis in real time turns “I should probably do this” into “I want to do this now.” The distance from abstract understanding to concrete practice is enormous. Seeing a peer cross it collapses that distance.
 
-**Questions become materials.** When you have no one to ask, questions stay stuck in your head. When you have a group, your (never actually dumb) questions become the next skill file, tutorial, or doc page. Every person who asks "wait, how do I actually process a Granola transcript?" is writing the onboarding for the next ten people. This is how [Applied AI Society](/docs/about) becomes the base layer for applied AI literacy: questions converted into shared artifacts.
+**Questions become materials.** When you have no one to ask, questions stay stuck in your head. When you have a group, your (never actually dumb) questions become the next skill file, tutorial, or doc page. Every person who asks “wait, how do I actually process a Granola transcript?” is writing the onboarding for the next ten people. This is how [Applied AI Society](/docs/about) becomes the base layer for applied AI literacy: questions converted into shared artifacts.
 
-**Accountability.** "I'll spend 30 minutes a day on my Jarvis" is nearly impossible alone. It becomes easy when you know you will sit down next Thursday with people who expect you to have updated your context lake this week.
+**Accountability.** “I'll spend 30 minutes a day on my Jarvis” is nearly impossible alone. It becomes easy when you know you will sit down next Thursday with people who expect you to have updated your context lake this week.
 
 **Friendly competition.** Chapters, cohorts, and study groups create the beautiful thing where two people's progress actively pushes each other forward. One person ships a personal website. The next person ships a meeting-prep skill. The third person takes both and adds something new. Everyone ratchets up.
 
@@ -57,7 +57,7 @@ The question is no longer whether we are augmented by technology. We are.
 
 The question is whether we are **consciously** augmented. Most people are using technology in ways that hurt them: addicted to scrolling, addicted to outrage, addicted to content that degrades rather than builds. That is the unconscious cyborg.
 
-The [hyperagent](/docs/concepts/hyperagency) is the conscious cyborg. Someone who has deliberately wired up their tools to amplify the things that matter: their strategic thinking, their relationships, their ability to serve their family, their community, their mission. Someone who has crossed from "tech is happening to me" to "tech is something I direct."
+The [hyperagent](/docs/concepts/hyperagency) is the conscious cyborg. Someone who has deliberately wired up their tools to amplify the things that matter: their strategic thinking, their relationships, their ability to serve their family, their community, their mission. Someone who has crossed from “tech is happening to me” to “tech is something I direct.”
 
 Building your own [Personal Agentic OS](/docs/concepts/personal-agentic-os) is the single most concrete move you can make toward becoming a conscious cyborg. Doing it in community is how you actually stay conscious about it.
 

@@ -174,7 +174,7 @@ The Ramp story validates, at corporate scale, nearly every core AAS concept:
 
 | AAS Concept | Ramp Implementation |
 |-------------|-------------------|
-| [Harness Engineering](/docs/concepts/harness-engineering) | "The models are good enough, the harness isn't." The headline of the entire project. |
+| [Harness Engineering](/docs/concepts/harness-engineering) | “The models are good enough, the harness isn't.” The headline of the entire project. |
 | [Instruction Files](/docs/concepts/instruction-files) | 350+ markdown skill files, Git-backed and versioned. |
 | [Raise the Floor](/docs/concepts/raise-the-floor) | The Dojo skill marketplace. One person's breakthrough becomes everyone's baseline. |
 | [Context Engineering](/docs/concepts/context-engineering) | Auto-built memory from authenticated connections. |
@@ -182,7 +182,7 @@ The Ramp story validates, at corporate scale, nearly every core AAS concept:
 | [Flow-State Infra](/docs/concepts/flow-state-infra) | Workspace with split panes, persistent layout, inline rendering. |
 | [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack) | Built in-house because internal AI infra is a competitive moat. |
 | [Self-Improving Enterprise](/docs/concepts/self-improving-enterprise) | The Dojo flywheel plus creative destruction: tools improve weekly. |
-| [The Encounter](/docs/concepts/the-encounter) | "The product is the enablement." 700-person hackathon as mass encounter. |
+| [The Encounter](/docs/concepts/the-encounter) | “The product is the enablement.” 700-person hackathon as mass encounter. |
 | [Four Levels](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses) | L0-L3 proficiency ladder mirrors the AAS levels framework. |
 | [See Your Own Thinking](/docs/concepts/see-your-own-thinking) | Memory system gives every employee a thinking partner with full context from day one. |
 | [Your Two Futures](/docs/philosophy/your-two-futures) | Ramp chose Future A. The results make the alternative unthinkable. |
@@ -191,7 +191,7 @@ The Ramp story validates, at corporate scale, nearly every core AAS concept:
 
 ## The Playbook for Every Company
 
-You do not need to be Ramp. You do not need a team of four engineers or a 700-person hackathon. But you need to understand that this is the new bar. The companies that suit up their entire workforce this way will compound advantages that companies still debating their "AI strategy" cannot match.
+You do not need to be Ramp. You do not need a team of four engineers or a 700-person hackathon. But you need to understand that this is the new bar. The companies that suit up their entire workforce this way will compound advantages that companies still debating their “AI strategy” cannot match.
 
 Here is what any company can take from Ramp's approach:
 
@@ -199,7 +199,7 @@ Here is what any company can take from Ramp's approach:
 
 **2. Build the infrastructure that removes friction.** Pre-connect your tools. Eliminate token limits. Kill the IT approval queues that stand between your people and their breakthrough moment. If your employees have to debug a setup before they can use AI, you have already lost.
 
-**3. Make it a game.** Leaderboards. Team rankings. All-hands celebrations. The competitive dynamics did more for Ramp's adoption than any training program. When a CSM sees a risk analyst save 16 hours a month, they do not think "good for Risk." They think "what can I build?"
+**3. Make it a game.** Leaderboards. Team rankings. All-hands celebrations. The competitive dynamics did more for Ramp's adoption than any training program. When a CSM sees a risk analyst save 16 hours a month, they do not think “good for Risk.” They think “what can I build?”
 
 **4. Build from the center, drive from the spokes.** A small central team builds platforms and plumbing. Functional teams build on top. The spokes drive the center as much as the center drives the spokes.
 

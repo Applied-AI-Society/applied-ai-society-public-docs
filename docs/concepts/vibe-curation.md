@@ -23,7 +23,7 @@ Trust is the foundation. Everything is built on trust. Without it, collaboration
 
 Toxicity is not always obvious. It is rarely someone screaming in a meeting. More often it looks like:
 
-- **Passive-aggressiveness.** Problems that never get named directly. Tension that lives in the subtext of every Slack message. People who say "it's fine" when it isn't.
+- **Passive-aggressiveness.** Problems that never get named directly. Tension that lives in the subtext of every Slack message. People who say “it's fine” when it isn't.
 - **Poor communication around conflict.** When something goes wrong, nobody addresses it. The issue festers. Relationships degrade silently.
 - **It's just not fun.** This one gets dismissed as unserious, but it is perhaps the most important signal. When talented people stop enjoying the work, they leave. One of the most respected practitioners in our network has a simple rule: he only works on projects that he likes, that he's having fun at, and that he enjoys. That is not a luxury. That is a filter that protects his output quality.
 
@@ -68,7 +68,7 @@ Cultural awareness helps. Knowing what's happening in the broader scene, being a
 The hierarchy, according to what we've observed:
 
 1. **Frequency.** The baseline energy of the space. Are people operating from love, excitement, and genuine investment in the work? Or from anxiety, competition, and self-interest?
-2. **Trust.** Can people be vulnerable? Can they say "I don't know" or "I was wrong" without penalty?
+2. **Trust.** Can people be vulnerable? Can they say “I don't know” or “I was wrong” without penalty?
 3. **Communication.** When problems arise, do they get named and resolved? Or do they fester?
 4. **Culture.** Shared references, humor, aesthetic sensibility. The connective tissue that makes a group feel like a group.
 

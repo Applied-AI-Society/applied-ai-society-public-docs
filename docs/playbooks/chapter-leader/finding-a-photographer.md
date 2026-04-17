@@ -80,7 +80,7 @@ Be explicit about what you expect. Put this in writing before the event.
 
 ### Volume
 - Target: **50-100 usable photos** for a 2-3 hour event
-- "Usable" means in focus, well-exposed, interesting composition
+- “Usable” means in focus, well-exposed, interesting composition
 - It's okay if they shoot 300 and deliver 75 good ones
 
 ### Turnaround

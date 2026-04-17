@@ -65,9 +65,9 @@ Each step is achievable on its own. None of them require waiting for the perfect
 
 ## Why This Framing Matters
 
-Without "progressive" as the modifier, sovereignty becomes a binary that almost no one can claim. People hear "sovereign AI" and assume they need to be running their own data center, so they give up before they start.
+Without “progressive” as the modifier, sovereignty becomes a binary that almost no one can claim. People hear “sovereign AI” and assume they need to be running their own data center, so they give up before they start.
 
-With "progressive" as the modifier, sovereignty becomes a practice anyone can begin today, at whatever rung they can reach, and keep advancing. That reframe is the difference between sovereignty being a movement and sovereignty being a club for the already-empowered.
+With “progressive” as the modifier, sovereignty becomes a practice anyone can begin today, at whatever rung they can reach, and keep advancing. That reframe is the difference between sovereignty being a movement and sovereignty being a club for the already-empowered.
 
 > **Progressive sovereignty: the practice of climbing the sovereignty stack one rung at a time, every year, until what was once a privilege becomes a democratized human right.**
 

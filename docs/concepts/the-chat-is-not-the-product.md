@@ -15,7 +15,7 @@ Most people's mental model of AI is a chat window. You type a question, you get 
 
 This is the ChatGPT mindset, and it is a trap.
 
-When you treat the chat as the product, you become dependent on it. You scroll up to find "that thing it said." You panic when a conversation gets too long and starts losing context. You treat a particularly good chat session like a precious artifact, afraid to close it.
+When you treat the chat as the product, you become dependent on it. You scroll up to find “that thing it said.” You panic when a conversation gets too long and starts losing context. You treat a particularly good chat session like a precious artifact, afraid to close it.
 
 This is backwards.
 
@@ -39,9 +39,9 @@ Here is a simple test for whether you are working correctly with AI:
 
 **If your current chat session got deleted right now, what would you lose?**
 
-If the answer is "nothing important, because everything valuable is already in my files," you are doing it right.
+If the answer is “nothing important, because everything valuable is already in my files,” you are doing it right.
 
-If the answer is "a lot, because the chat has context and decisions I have not captured anywhere," you have a problem. Not with the tool. With the workflow.
+If the answer is “a lot, because the chat has context and decisions I have not captured anywhere,” you have a problem. Not with the tool. With the workflow.
 
 ## Why This Matters
 
@@ -49,7 +49,7 @@ When your workspace is the source of truth (not the chat), three things change:
 
 **1. You become agent-portable.** Switch from Claude to GPT to Gemini to whatever comes next. Your markdown files, your instruction files, your command center: they come with you. The new agent reads them and picks up where the last one left off. You are not locked into a provider because a particularly good conversation lives on their servers.
 
-**2. New sessions are cheap.** Spin up a fresh chat. It reads your workspace. It has context in seconds. You do not need to "catch it up" with a wall of text explaining everything. The files do that. This is the [re-contexting](/docs/concepts/personal-agentic-os) superpower of a well-maintained Personal Agentic OS.
+**2. New sessions are cheap.** Spin up a fresh chat. It reads your workspace. It has context in seconds. You do not need to “catch it up” with a wall of text explaining everything. The files do that. This is the [re-contexting](/docs/concepts/personal-agentic-os) superpower of a well-maintained Personal Agentic OS.
 
 **3. Your work compounds.** A chat that runs for hours and then ends has captured nothing. A chat that runs for hours and produces ten updated files has compounded your operational context. The next chat is smarter because the last one left its mark on the file system.
 
@@ -63,8 +63,8 @@ An interview or brainstorm is different. Conversation for the sake of exploring 
 
 ## Practical Implications
 
-- **After every meaningful chat session, ask: "What should I save?"** If the answer is nothing, the session was either pure exploration (fine) or wasted time.
-- **Build the habit of telling your agent to write files.** Not "explain X to me." Instead: "Write a strategy doc about X and save it to my artifacts folder."
+- **After every meaningful chat session, ask: “What should I save?”** If the answer is nothing, the session was either pure exploration (fine) or wasted time.
+- **Build the habit of telling your agent to write files.** Not “explain X to me.” Instead: “Write a strategy doc about X and save it to my artifacts folder.”
 - **Do not be precious about any particular chat.** If you are afraid to close a conversation, that is a signal that your workspace is not capturing what it should.
 - **Your [command center](/docs/concepts/personal-agentic-os) is your product.** The collection of markdown files, instruction files, relationship files, and artifacts that make up your operational context. That is what grows. That is what compounds. The chat is just how you tend it.
 

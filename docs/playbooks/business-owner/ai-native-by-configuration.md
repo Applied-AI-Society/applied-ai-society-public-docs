@@ -33,7 +33,7 @@ Nader Dabit (formerly DevRel at Edge & Node, AWS; now Growth at Cognition) wrote
 | Slack-native assistant | Tag `@Devin` in any channel, inline keywords like `!ask`, `!deep`, `!dana`, `!fast` |
 | Enterprise-wide standards | Enterprise Knowledge, Enterprise Playbooks, Golden Snapshots propagating across all orgs |
 
-Source: [Nader Dabit, "How to Make a Company AI-Native (without building anything)," X, April 2026](https://x.com/dabit3/status/2043712692536349175).
+Source: [Nader Dabit, “How to Make a Company AI-Native (without building anything),” X, April 2026](https://x.com/dabit3/status/2043712692536349175).
 
 Devin is one option among several. The real point is that this stack has become a commodity: Devin, Claude Code, Cursor, and adjacent platforms all ship increasingly similar primitives. **What took Ramp a dedicated engineering team six months in 2025 is a weekend configuration job for most companies in 2026.**
 
@@ -45,7 +45,7 @@ Here is what actually goes into making a company AI-native by configuration. Eve
 
 1. **Integrations.** Connect your company's real tools (source control, ticketing, CRM, observability, databases, communications). Most are one-click OAuth. Internal tools can be wired in via MCP with a few lines of config.
 2. **Skills (`SKILL.md` files).** The unit of shared procedure. When someone figures out the right way to investigate a production error, deploy to staging, or scaffold a service, they commit a `SKILL.md` and it becomes available to every future agent session across the company. See [Instruction Files](/docs/concepts/instruction-files) for the underlying concept.
-3. **Knowledge.** The context your AI needs to stop being generic. "MRR is stored in cents." "Never deploy on Fridays after 3 pm." "Active user means at least one event in the past 30 days." Written once, recalled automatically on every relevant task.
+3. **Knowledge.** The context your AI needs to stop being generic. “MRR is stored in cents.” “Never deploy on Fridays after 3 pm.” “Active user means at least one event in the past 30 days.” Written once, recalled automatically on every relevant task.
 4. **Playbooks.** Named prompt templates (`!quarterly-review`, `!onboarding-audit`) that anyone can invoke to run a standard procedure.
 5. **Scheduled sessions.** Cron-driven recurring work: daily health digests, weekly dependency updates, Monday morning metrics reports, nightly smoke tests. None of it requires someone to remember to start it.
 6. **Chat-native placement.** The assistant lives where your team already lives (Slack, Teams, Linear) instead of in a separate browser tab they have to remember to open.
@@ -111,4 +111,4 @@ For everyone else, configuration wins on time-to-value, cost, and maintainabilit
 
 ## Source
 
-Nader Dabit, "How to Make a Company AI-Native (without building anything)," originally published on X in April 2026. Post describes how every capability Ramp built into Glass ships as configuration inside Devin. Quotes and table adapted from the post with attribution.
+Nader Dabit, “How to Make a Company AI-Native (without building anything),” originally published on X in April 2026. Post describes how every capability Ramp built into Glass ships as configuration inside Devin. Quotes and table adapted from the post with attribution.

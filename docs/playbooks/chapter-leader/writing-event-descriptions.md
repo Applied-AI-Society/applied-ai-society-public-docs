@@ -15,19 +15,19 @@ These principles were extracted from the Applied AI Live #1 Luma description (pr
 
 ### Lead with the value prop, not the org
 
-The first paragraph should explain what attendees get, not who's hosting. "A workshop series for people who want to make money by practically applying AI" tells the reader immediately whether this is for them. Org details come later.
+The first paragraph should explain what attendees get, not who's hosting. “A workshop series for people who want to make money by practically applying AI” tells the reader immediately whether this is for them. Org details come later.
 
 ### Name the format explicitly
 
-Set expectations early. "Workshop series" is better than "event." "People who want to make money by practically applying AI to real-world business problems in valuable industries" filters for the right audience and repels the wrong one.
+Set expectations early. “Workshop series” is better than “event.” “People who want to make money by practically applying AI to real-world business problems in valuable industries” filters for the right audience and repels the wrong one.
 
 ### Speaker bios = credential + current work + what they'll share
 
 Don't just list titles. Show why this person is credible *right now*:
 
-- **Credential:** "creator of NumPy and SciPy"
-- **Current work:** "founder of OpenTeams"
-- **What they'll share:** "will speak on the importance of applied AI practitioners and what his team is building"
+- **Credential:** “creator of NumPy and SciPy”
+- **Current work:** “founder of OpenTeams”
+- **What they'll share:** “will speak on the importance of applied AI practitioners and what his team is building”
 
 Each speaker should earn their paragraph.
 
@@ -35,19 +35,19 @@ Each speaker should earn their paragraph.
 
 The live problem-solving element gets its own paragraph because it differentiates the event from every other AI meetup. If your event has a unique format element, give it space. Don't bury it in a list.
 
-### "Who Should Attend" uses specific roles, not generic language
+### “Who Should Attend” uses specific roles, not generic language
 
 Good:
-- "Engineers and developers who want to build a career (or side income) helping businesses integrate AI"
-- "New grads trying to stand out in a dramatically changed job market"
-- "Business owners curious about what's actually possible"
+- “Engineers and developers who want to build a career (or side income) helping businesses integrate AI”
+- “New grads trying to stand out in a dramatically changed job market”
+- “Business owners curious about what's actually possible”
 
 Bad:
-- "Anyone interested in AI"
-- "Tech professionals"
-- "AI enthusiasts"
+- “Anyone interested in AI”
+- “Tech professionals”
+- “AI enthusiasts”
 
-Specificity helps people self-select. If someone reads the list and thinks "that's me," they're more likely to RSVP.
+Specificity helps people self-select. If someone reads the list and thinks “that's me,” they're more likely to RSVP.
 
 ### Co-host descriptions earn their space
 
@@ -59,7 +59,7 @@ State what sponsors do, why it matters, and move on. No hard sell. The Live #1 d
 
 ### Tone: direct, warm, practitioner-focused
 
-No hype words. No "revolutionary," no "cutting-edge," no "game-changing." Just what's happening and why it matters. The description reads like it was written by someone who does the work, not someone marketing to people who don't.
+No hype words. No “revolutionary,” no “cutting-edge,” no “game-changing.” Just what's happening and why it matters. The description reads like it was written by someone who does the work, not someone marketing to people who don't.
 
 ---
 
@@ -135,10 +135,10 @@ For other venue sponsors, follow the same pattern: grateful, brief, connected to
 ### Common mistakes
 
 - **Leading with the org instead of the value.** Nobody RSVPs because of who's hosting. They RSVP because of what they'll get.
-- **Generic "Who Should Attend" lists.** "AI enthusiasts" tells nobody anything. Be specific enough that the right people feel personally addressed.
+- **Generic “Who Should Attend” lists.** “AI enthusiasts” tells nobody anything. Be specific enough that the right people feel personally addressed.
 - **Speaker bios that are just LinkedIn headlines.** Add what they'll actually share at this event. That's what converts interest into attendance.
 - **Burying the unique format.** If you're doing a live architecture session, say so prominently. It's your differentiator.
-- **Hype language.** Words like "revolutionary," "game-changing," and "cutting-edge" signal that the event has nothing concrete to offer. Let the content speak for itself.
+- **Hype language.** Words like “revolutionary,” “game-changing,” and “cutting-edge” signal that the event has nothing concrete to offer. Let the content speak for itself.
 
 ### Length guidance
 
@@ -146,7 +146,7 @@ The Live #1 description is roughly 350 words. That's a good target. Long enough 
 
 ### Platform-specific notes
 
-- **Luma:** Supports rich text formatting. Use bold for speaker names and section headers. Luma truncates long descriptions behind a "Read more" link, so front-load the most important information. A well-written description also helps when [submitting to Luma Featured Calendars](/docs/playbooks/chapter-leader/applied-ai-live#luma-calendar-submissions), since calendar admins curate for quality.
+- **Luma:** Supports rich text formatting. Use bold for speaker names and section headers. Luma truncates long descriptions behind a “Read more” link, so front-load the most important information. A well-written description also helps when [submitting to Luma Featured Calendars](/docs/playbooks/chapter-leader/applied-ai-live#luma-calendar-submissions), since calendar admins curate for quality.
 - **Meetup:** Similar formatting support. Meetup audiences tend to skim, so keep paragraphs short.
 - **Eventbrite:** Supports HTML. You can use headers and bullet lists, but don't over-design. Clean text outperforms styled layouts.
 - **LinkedIn Events:** Very limited formatting. Write tighter; use line breaks instead of headers.

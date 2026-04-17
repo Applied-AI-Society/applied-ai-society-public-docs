@@ -69,91 +69,91 @@ Use these as a starting point. Follow the conversation where it goes. The best s
 
 ### Background
 
-> "How did you get into applied AI? What were you doing before?"
+> “How did you get into applied AI? What were you doing before?”
 
 Get the origin story. What led them here? Was it intentional or accidental?
 
 ### Training & Programs
 
-> "What training or programs helped you most? How did you build your skills?"
+> “What training or programs helped you most? How did you build your skills?”
 
 Bootcamps like Gauntlet? Online courses? Self-taught through projects? This is actionable for people trying to break in.
 
 ### Finding Clients
 
-> "How do you find new projects? What's worked best for you?"
+> “How do you find new projects? What's worked best for you?”
 
 Referrals? Cold outreach? Content? Events? Reddit? Get specific. Ask about the first client too.
 
 ### Pre-Call Prep
 
-> "What do you do before the first call with a potential client?"
+> “What do you do before the first call with a potential client?”
 
 Some practitioners research the company and come with 3-4 AI implementation ideas ready. Others wing it. This is tactical gold for readers.
 
 ### Client Communication
 
-> "Once a project starts, how do you manage the relationship? How often do you communicate?"
+> “Once a project starts, how do you manage the relationship? How often do you communicate?”
 
 Understand their process. Weekly check-ins? Async updates? How do they handle scope creep or misalignment?
 
 ### Pricing
 
-> "How do you price your work? How do you explain your pricing to clients?"
+> “How do you price your work? How do you explain your pricing to clients?”
 
 Hourly? Project-based? Do they tie pricing to business value (ROI, saved hours, reduced churn)? This is one of the hardest things to figure out.
 
 ### Leveraging Success
 
-> "How do you use successful projects to get more work?"
+> “How do you use successful projects to get more work?”
 
 Do they ask for referrals? Case studies? Testimonials? Do past clients become repeat clients?
 
 ### Why Applied AI
 
-> "Why is this the right work for you right now? Where do you see it going?"
+> “Why is this the right work for you right now? Where do you see it going?”
 
 Get at the motivation. Is it financial? Mission-driven? Skill development? What does their future look like?
 
 ### Tech Stack
 
-> "What tools and frameworks do you rely on most?"
+> “What tools and frameworks do you rely on most?”
 
 Languages, libraries, platforms, AI providers. What do they reach for first?
 
 ### Value Proposition
 
-> "What do you do that makes clients willing to pay good money for your help?"
+> “What do you do that makes clients willing to pay good money for your help?”
 
 This is the core question. What's the thing they deliver that people value? Speed? Expertise? Trust? Results?
 
 ### Soft Skills
 
-> "What makes you easy to work with? How do you make clients feel comfortable?"
+> “What makes you easy to work with? How do you make clients feel comfortable?”
 
 Technical skills get you in the door. Soft skills keep you there. Ask about: explaining complex things simply, managing expectations, handling disagreements, making clients feel safe. Zero ego came up repeatedly in interviews as a differentiator.
 
 ### Upskilling
 
-> "How do you stay sharp? How do you learn new things in this field?"
+> “How do you stay sharp? How do you learn new things in this field?”
 
 Courses? Building side projects? Community? Reading papers? GitHub trending? arXiv? Multiple LLMs for different perspectives? What's their learning system?
 
 ### Hackathons
 
-> "Do you participate in hackathons? Why or why not?"
+> “Do you participate in hackathons? Why or why not?”
 
 Some practitioners use hackathons for networking, exposure, and sharpening skills. Winning can lead to LinkedIn engagement, VC outreach, and job opportunities. Others skip them. Worth asking.
 
 ### Location & Community
 
-> "Where should someone be if they want to do this work? What communities have been valuable?"
+> “Where should someone be if they want to do this work? What communities have been valuable?”
 
 Cities matter. Meetups matter. Ask which ones specifically. (Example: AITX, Deep Learning AI, Fiesta in Austin.) This is actionable advice for readers.
 
 ### Content & Building in Public
 
-> "Are you posting about your work? What's your content strategy?"
+> “Are you posting about your work? What's your content strategy?”
 
 LinkedIn? Twitter? Newsletter? Some practitioners hire marketing help. Others don't bother. Ask what's working and what's not.
 
@@ -167,7 +167,7 @@ Don't leave without these. This is your exit criteria.
 
 | Type | Description |
 |------|-------------|
-| **In action** | At their desk, looking at code, whiteboarding. Whatever "working" looks like for them. |
+| **In action** | At their desk, looking at code, whiteboarding. Whatever “working” looks like for them. |
 | **Portrait** | Facing camera, good lighting, natural smile. This becomes the profile photo. |
 
 Tips:

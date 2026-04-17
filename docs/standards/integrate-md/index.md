@@ -42,7 +42,7 @@ Name the library and what's being wired up. Be specific about the outcome.
 # Add CESP Sound Pack Support to This CLI
 ```
 
-Not "CESP Integration Guide." Not "Getting Started with CESP." State what the agent is building.
+Not “CESP Integration Guide.” Not “Getting Started with CESP.” State what the agent is building.
 
 ### 2. What You're Building
 
@@ -117,7 +117,7 @@ The audience is an agent that already has context on the target codebase. Give i
 
 ## Formatting Rules
 
-- **Imperative voice.** "Create a module" not "You should create a module."
+- **Imperative voice.** “Create a module” not “You should create a module.”
 - **Tables for mappings.** When showing how library concepts map to codebase patterns, use tables.
 - **Fenced code blocks** for exact commands, file contents, and code snippets.
 - **Short sentences.** Agents parse structure better than prose.
@@ -156,7 +156,7 @@ Map this [project type]'s internal [events/routes/models] to these [library] cat
 
 ```json
 {
-  "example": "manifest or config"
+  “example”: “manifest or config”
 }
 ```
 

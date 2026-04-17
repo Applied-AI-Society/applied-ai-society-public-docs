@@ -30,7 +30,7 @@ There's a framing that resonates with most business owners:
 
 > There's a bucket of work you're dying to get to. The stuff that puts you in flow state. The work that actually moves the needle. And then there's the other stuff. The infrastructure. The admin. The things that make the business run but drain your energy.
 
-Every business has this tension. The best candidates feel it acutely. They're not looking to "automate everything." They want to protect the parts that require their soul while offloading the parts that don't.
+Every business has this tension. The best candidates feel it acutely. They're not looking to “automate everything.” They want to protect the parts that require their soul while offloading the parts that don't.
 
 ---
 
@@ -96,9 +96,9 @@ Any AI notetaker works. The key is capturing everything so you can focus on the 
 
 4. **What they've tried:** Have they used AI tools already? What worked? What didn't?
 
-5. **Constraints:** Solo operator or team? Budget? Non-negotiables (e.g., "relationships must stay human")?
+5. **Constraints:** Solo operator or team? Budget? Non-negotiables (e.g., “relationships must stay human”)?
 
-6. **Success criteria:** What does "better" look like? How would they know if AI was helping?
+6. **Success criteria:** What does “better” look like? How would they know if AI was helping?
 
 Take notes. Ask follow-up questions. Get specific examples. The more concrete the brief, the better the live session.
 
@@ -195,6 +195,6 @@ When done well, it:
 
 The prep work makes the magic possible. Don't skip it.
 
-At Applied AI Live #1, the live architecture session was the standout segment. The business owner's problem (and the "Sovereign Agentic Business OS" concept the engineer proposed) resonated with multiple attendees in post-event conversations. One lesson: brief the architect more thoroughly in advance. The more context they have, the tighter the session.
+At Applied AI Live #1, the live architecture session was the standout segment. The business owner's problem (and the “Sovereign Agentic Business OS” concept the engineer proposed) resonated with multiple attendees in post-event conversations. One lesson: brief the architect more thoroughly in advance. The more context they have, the tighter the session.
 
 ![Live architecture diagram from Applied AI Live #1](/img/events/live-1/shot-04-architecture-diagram.jpg)

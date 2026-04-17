@@ -13,7 +13,7 @@ The companies pulling ahead have figured this out. They're consolidating everyth
 
 We call this a **Sovereign Agentic Business OS**.
 
-"Sovereign" because you own the data and infrastructure. "Agentic" because AI agents handle the operations autonomously. "Business OS" because it's not a tool you use. It's the operating system everything else runs on.
+“Sovereign” because you own the data and infrastructure. “Agentic” because AI agents handle the operations autonomously. “Business OS” because it's not a tool you use. It's the operating system everything else runs on.
 
 The north star: **increasingly autonomous businesses that respect human attention and energy.** Not automation that creates more work for humans to supervise. Not dashboards that demand more screen time. An operating system that handles the operational weight so that humans can focus on the things only humans can do: building relationships, making judgment calls, creating meaning, and leading with vision.
 
@@ -75,7 +75,7 @@ Vendor lock-in compounds. But so does trust.
 
 When you work with a practitioner or a partner you trust, that relationship compounds over time. They learn your business. They anticipate your needs. They build systems that reflect your actual operations, not a generic template.
 
-Travis made this point emphatically: "Relationship lock-in is what you want. Trust also compounds. Relationships also compound. If somebody trusts you and they'll still be buying from you if they trust you. That will still matter."
+Travis made this point emphatically: “Relationship lock-in is what you want. Trust also compounds. Relationships also compound. If somebody trusts you and they'll still be buying from you if they trust you. That will still matter.”
 
 The companies that build the best business operating systems will be the ones that invest in trusted relationships with the people building them.
 

@@ -16,10 +16,10 @@ Here is what happens on most teams right now:
 1. You have an idea. You tell your AI assistant.
 2. The AI drafts an email or document. Maybe it misunderstands something. Maybe you don't review it carefully. Maybe you don't even know exactly what you want to say yet.
 3. You send it.
-4. The other person receives it. They copy and paste the whole thing into their AI. "What does he mean by this?"
+4. The other person receives it. They copy and paste the whole thing into their AI. “What does he mean by this?”
 5. Their AI interprets your AI's output. Another layer of compression. Another opportunity for drift.
 6. They respond, through their AI, back to you.
-7. You paste their response into your AI. "What is she saying?"
+7. You paste their response into your AI. “What is she saying?”
 
 Back and forth. Each pass losing fidelity. Each AI adding its own interpretation, its own assumptions, its own drift. The original intent gets compressed, distorted, and reconstructed at every step.
 
@@ -50,7 +50,7 @@ Every serious project should have an **agentic project OS**: a shared workspace 
 What does this look like in practice?
 
 - A shared repository of markdown files. Not a Google Doc. Not a Notion page. A folder with structured files that any AI agent can read and operate on.
-- An [instruction file](/docs/concepts/instruction-files) (CLAUDE.md, AGENTS.md, or equivalent) that tells every agent on the project: "Here is the mission. Here is the current state. Here is your job."
+- An [instruction file](/docs/concepts/instruction-files) (CLAUDE.md, AGENTS.md, or equivalent) that tells every agent on the project: “Here is the mission. Here is the current state. Here is your job.”
 - Shared context: project goals, task lists, decisions made, decisions pending. All in plain text. All version-controlled. All accessible to every team member and their agents simultaneously.
 - A permission surface that determines who can see and edit what. Not everyone needs access to everything. But the information they do share should be the actual source of truth, not a lossy copy of it.
 
@@ -63,7 +63,7 @@ When you share the same source files:
 - **No compression.** The truth is in the markdown. Nobody's AI is interpreting somebody else's AI's interpretation. Everyone reads the original.
 - **No drift.** When someone updates a decision, it updates in one place. Not in a chain of emails where half the team is working from an outdated version.
 - **Full context.** Every agent on the project has the complete picture. Not the lossy summary that got forwarded three times.
-- **Async by default.** You don't need a meeting to "get aligned." The alignment lives in the shared files. Update them when your thinking changes. Everyone stays in sync automatically.
+- **Async by default.** You don't need a meeting to “get aligned.” The alignment lives in the shared files. Update them when your thinking changes. Everyone stays in sync automatically.
 
 This is what [compounding docs](/docs/concepts/compounding-docs) looks like at the team level. The documentation is not a byproduct of the work. It is the work surface itself.
 

@@ -39,7 +39,7 @@ Raw transcripts are not useful on their own. A 45-minute conversation transcript
 - **What action items came out of it?** Put them where they will actually get done.
 - **Does this change anything about your strategy?** If so, update the strategy document.
 
-This is where an [agentic harness](/docs/concepts/harness-engineering) transforms the practice. You pass the transcript plus context ("this was a call with my mentor about pricing strategy, drill into the part where he pushed back on my assumptions") and the agent processes it: creates the transcript summary, updates the relationship file, extracts action items, flags insights worth adding to your knowledge base. What would take you 30 minutes of manual note-taking happens in seconds.
+This is where an [agentic harness](/docs/concepts/harness-engineering) transforms the practice. You pass the transcript plus context (“this was a call with my mentor about pricing strategy, drill into the part where he pushed back on my assumptions”) and the agent processes it: creates the transcript summary, updates the relationship file, extracts action items, flags insights worth adding to your knowledge base. What would take you 30 minutes of manual note-taking happens in seconds.
 
 The key phrase: **if a useful output only lives in the chat, that is a failure.** Every insight should live in a document that persists, that your agent can reference tomorrow, that [compounds over time](/docs/concepts/compounding-docs).
 
@@ -47,9 +47,9 @@ The key phrase: **if a useful output only lives in the chat, that is a failure.*
 
 This is where the magic happens. Every processed conversation makes your personal operating system smarter. Your agent has more context. Your relationship files are richer. Your strategy documents reflect what you actually learned, not what you assumed three months ago.
 
-The next conversation is better because your agent can brief you beforehand ("here is everything you know about this person from your last three interactions"). The next decision is better because your agent can reference the frameworks you extracted from past mentorship conversations. The next proposal is better because your agent draws on the patterns from every deal you have documented.
+The next conversation is better because your agent can brief you beforehand (“here is everything you know about this person from your last three interactions”). The next decision is better because your agent can reference the frameworks you extracted from past mentorship conversations. The next proposal is better because your agent draws on the patterns from every deal you have documented.
 
-This is [compounding docs](/docs/concepts/compounding-docs) in its most practical form. Not "write more stuff." Write the stuff that matters, from real experience, and let the compound effect do the rest.
+This is [compounding docs](/docs/concepts/compounding-docs) in its most practical form. Not “write more stuff.” Write the stuff that matters, from real experience, and let the compound effect do the rest.
 
 ## Why This Matters Now
 

@@ -34,7 +34,7 @@ Every business knows AI matters. Very few have anyone on the team who can build 
 
 At the same time, the tools have matured to the point where a single skilled builder can deliver what would have required a team two years ago. Modern AI frameworks (Vercel AI SDK, LangGraph, Mastra), vector databases (pgvector, Qdrant, Pinecone), and model APIs make it possible for one person to build production-grade agent systems in weeks.
 
-The market is already validating this. Business operators at the highest levels describe someone who "sits next to teams, watches what they're doing, and says 'I can automate that, I can automate that, I can automate that'" as one of the highest-leverage hires a company can make. The demand for workflow decomposition and automation far outstrips supply.
+The market is already validating this. Business operators at the highest levels describe someone who “sits next to teams, watches what they're doing, and says 'I can automate that, I can automate that, I can automate that'” as one of the highest-leverage hires a company can make. The demand for workflow decomposition and automation far outstrips supply.
 
 The economics work at both ends. The consultant charges rates that feel like a fraction of what a big firm would charge. The client gets a working system that delivers measurable ROI. The consultant builds a portfolio and a reputation that compounds through referrals.
 
@@ -48,7 +48,7 @@ The first client is the hardest. After that, it compounds. The patterns that wor
 
 **Online presence.** Posting about what you're building on Reddit, X, LinkedIn, or niche communities. One practitioner got his second client from a single post on r/SaaS about his skillset.
 
-**Referral networks.** Once you deliver for one client, they tell other people. Friends pass along projects they can't take. The phrase "I know a guy" becomes your most reliable lead source.
+**Referral networks.** Once you deliver for one client, they tell other people. Friends pass along projects they can't take. The phrase “I know a guy” becomes your most reliable lead source.
 
 **Radical transparency as sales.** Some of the most successful consultants give away the architecture before asking for a contract. They show up to the first call with diagrams, options, and a breakdown of what the client would be getting. The close rate on this approach can exceed 90% because the client sees the value before they spend anything.
 
@@ -96,7 +96,7 @@ There's no single right stack, but common patterns are emerging:
 
 **Deployment:** Vercel, AWS, Railway, Fly.io. The trend is toward platforms that minimize DevOps overhead so the consultant can focus on the AI logic.
 
-The best consultants are stack-flexible. They ask the client "what are you running now?" before reaching for their favorite tools.
+The best consultants are stack-flexible. They ask the client “what are you running now?” before reaching for their favorite tools.
 
 ---
 

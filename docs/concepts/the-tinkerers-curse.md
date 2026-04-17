@@ -9,7 +9,7 @@ The tinkerer's curse is building your identity around playing with tools rather 
 
 ## How It Works
 
-You discover a new AI model. You spend a weekend building a prototype. It is genuinely impressive. You show it to friends. They say "wow, that's cool." You feel good. You move on to the next tool.
+You discover a new AI model. You spend a weekend building a prototype. It is genuinely impressive. You show it to friends. They say “wow, that's cool.” You feel good. You move on to the next tool.
 
 Repeat this cycle for six months and you have an impressive portfolio of demos, a deep knowledge of model capabilities, and zero revenue. Nobody has paid you for any of it. Nobody has asked you to do it again. The market has not confirmed that any of this matters to anyone besides you.
 
@@ -29,7 +29,7 @@ The antidote is not to stop tinkering. It is to make the market your compass.
 
 Tinkering is how you discover what is possible. But discovery without application is entertainment. The bridge between the two is a simple question: would someone pay for this?
 
-Not "could this theoretically be useful." Would a specific person, with a specific problem, exchange money for this specific thing you built?
+Not “could this theoretically be useful.” Would a specific person, with a specific problem, exchange money for this specific thing you built?
 
 If yes, you have found something real. Follow that signal. Deepen the work. Build relationships around it.
 

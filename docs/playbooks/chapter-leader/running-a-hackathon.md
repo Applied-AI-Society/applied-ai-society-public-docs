@@ -31,7 +31,7 @@ There's no single right format. Pick based on your goals, venue constraints, and
 3. Build session (the bulk of the time)
 4. Demos and judging
 
-You can also run themed tracks (e.g., "best automation for a local business," "most creative agent") or keep it open-ended. Platform-specific hackathons (like building on OpenClaw) give participants a shared starting point, which helps newcomers.
+You can also run themed tracks (e.g., “best automation for a local business,” “most creative agent”) or keep it open-ended. Platform-specific hackathons (like building on OpenClaw) give participants a shared starting point, which helps newcomers.
 
 ---
 
@@ -62,7 +62,7 @@ Sponsorship is how hackathons cover prizes, food, and venue costs. The model is 
 | Tier | What They Get | Typical Contribution |
 |------|---------------|---------------------|
 | **Logo** | Tagged on socials, logo and blurb on event page | Lower cash amount or in-kind |
-| **Track** | Naming rights on a hackathon track (e.g., "The Acme AI Challenge") | Mid-range cash or significant in-kind |
+| **Track** | Naming rights on a hackathon track (e.g., “The Acme AI Challenge”) | Mid-range cash or significant in-kind |
 | **Title** | Title sponsor, prominent branding on all materials, speaking slot at kickoff or demos | Higher cash and/or major in-kind |
 
 ### How It Works
@@ -103,7 +103,7 @@ See [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) for genera
 
 - Use a registration platform like Lu.ma or Eventbrite. Approval-based registration works well for hackathons since you want to ensure attendees are actually planning to build.
 - Cross-promote through every co-host's channels. Each community posts to their email list, socials, and Slack/Discord.
-- Emphasize the **training component** in your promotion. Many people have never done a hackathon. "Come learn and build" is more inviting than "compete for prizes."
+- Emphasize the **training component** in your promotion. Many people have never done a hackathon. “Come learn and build” is more inviting than “compete for prizes.”
 - Post the schedule so people know what to expect.
 
 See [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions) for crafting the registration copy.

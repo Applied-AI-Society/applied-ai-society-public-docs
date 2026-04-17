@@ -55,7 +55,7 @@
 
 [The first step. Be specific. Don't make people guess.]
 
-- **Email:** [email] with subject "ALIGN check"
+- **Email:** [email] with subject “ALIGN check”
 - **Other:** [DM, form, etc.]
 - **If you publish an ALIGN.md:** Include the link -- we'll run bilateral evaluation.
 

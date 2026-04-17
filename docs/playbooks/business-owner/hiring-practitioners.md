@@ -13,7 +13,7 @@ title: Hiring Applied AI Practitioners
 
 Most businesses know they should be using AI. Very few have someone internally who can lead the transformation. Your existing team is busy running the business. They may be curious about AI, but curiosity alone doesn't close the implementation gap.
 
-Applied AI practitioners are people who specialize in bridging that gap. They help organizations go from "we know AI matters" to "AI is working for us every day." The work ranges from automating specific workflows to transforming how your entire team thinks about and uses AI tools.
+Applied AI practitioners are people who specialize in bridging that gap. They help organizations go from “we know AI matters” to “AI is working for us every day.” The work ranges from automating specific workflows to transforming how your entire team thinks about and uses AI tools.
 
 ### Are You the Ideal Client?
 

@@ -11,7 +11,7 @@ title: "Harness Engineering"
 
 ## What Is a Harness?
 
-When you hear "Claude Opus 4.6" or "GPT-5.4," you are hearing about model weights: the raw intelligence that comes out of a massive pre-training run. Model weights are very good at predicting the next word in a sequence. That is really all they do.
+When you hear “Claude Opus 4.6” or “GPT-5.4,” you are hearing about model weights: the raw intelligence that comes out of a massive pre-training run. Model weights are very good at predicting the next word in a sequence. That is really all they do.
 
 They become extraordinary when you wrap them in a **harness**: the traditional code that tells the model how to operate. A harness gives the model the ability to store memories, search through text, write code, execute code, read files, access tools, and so much more. The harness is what makes things like Claude Code, Cursor, Windsurf, and other agentic coding tools so powerful. When you type a prompt and it runs for hours on end, autonomously reading files, writing code, running tests, that is all because of the harness.
 
@@ -47,9 +47,9 @@ The results: MetaHarness outperformed human-written harnesses on text classifica
 
 ## The Bitter Lesson Connection
 
-This connects to a foundational idea in AI research called "the bitter lesson" (Richard Sutton, 2019): hand-written rules and human-designed heuristics never beat systems that learn those patterns on their own, given enough compute.
+This connects to a foundational idea in AI research called “the bitter lesson” (Richard Sutton, 2019): hand-written rules and human-designed heuristics never beat systems that learn those patterns on their own, given enough compute.
 
-The most prominent example is Tesla's Full Self-Driving. For years, it used a combination of neural networks and hand-written code ("if you see a stop sign, stop"). Eventually, Tesla replaced everything with end-to-end neural networks and performance improved dramatically. The AI figured out the heuristics itself.
+The most prominent example is Tesla's Full Self-Driving. For years, it used a combination of neural networks and hand-written code (“if you see a stop sign, stop”). Eventually, Tesla replaced everything with end-to-end neural networks and performance improved dramatically. The AI figured out the heuristics itself.
 
 The same principle is now applying to harnesses. Letting AI figure out how to build its own harness produces better results than having humans write it. And as the underlying models get better, the harnesses they build get better, which makes the models more effective, which makes the harnesses even better. It is a recursive improvement loop.
 
@@ -69,7 +69,7 @@ The [Permission Surface](/docs/concepts/the-permission-surface) article explores
 
 If you are building a [Supersuit Up Workshop](/docs/workshops/supersuit-up), you are already doing harness engineering. Your `CLAUDE.md` file is harness configuration. Your skill files are harness instructions. Your folder structure is harness architecture. You are telling the model what to store, what to retrieve, and how to present information back to you.
 
-Today, you are writing this by hand (with the agent's help). In the near future, your Personal Agentic OS will propose improvements to its own harness: better skill files, better routing logic, better ways to organize and retrieve your context. The agent will ask you, "I noticed I keep losing track of your client priorities. Can I restructure the artifacts folder to fix this?" And you will say yes, and it will improve itself.
+Today, you are writing this by hand (with the agent's help). In the near future, your Personal Agentic OS will propose improvements to its own harness: better skill files, better routing logic, better ways to organize and retrieve your context. The agent will ask you, “I noticed I keep losing track of your client priorities. Can I restructure the artifacts folder to fix this?” And you will say yes, and it will improve itself.
 
 All software will be self-evolving software. The question is not whether this happens. The question is whether you have your files in a system that can take advantage of it when it does.
 
@@ -88,4 +88,4 @@ All software will be self-evolving software. The question is not whether this ha
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): What gets built on top of harnesses
 - [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The philosophy of owning your own system
 - [The Judgment Line](/docs/concepts/the-judgment-line): The design rule for splitting work between LLMs and code inside a harness
-- [Ramp: Glass](/docs/case-studies/ramp-glass): Corporate case study. "The models are good enough, the harness isn't." Ramp's headline validates harness engineering at 700-person scale.
+- [Ramp: Glass](/docs/case-studies/ramp-glass): Corporate case study. “The models are good enough, the harness isn't.” Ramp's headline validates harness engineering at 700-person scale.

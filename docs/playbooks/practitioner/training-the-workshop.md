@@ -6,7 +6,7 @@ description: "How to run a Personal Agentic OS workshop. Logistics, format, paci
 
 # Training the Personal Agentic OS Workshop
 
-*A playbook for anyone who wants to teach other people how to set up their Personal Agentic OS (what some people affectionately call the "Minimum Viable Jarvis," a nod to Tony Stark's AI). Open source, evolving in real time based on actual workshop sessions.*
+*A playbook for anyone who wants to teach other people how to set up their Personal Agentic OS (what some people affectionately call the “Minimum Viable Jarvis,” a nod to Tony Stark's AI). Open source, evolving in real time based on actual workshop sessions.*
 
 ---
 
@@ -40,7 +40,7 @@ A rough pacing guide:
 
 | Block | Time | What Happens |
 |-------|------|--------------|
-| Intro and strategic thinking | 20 min | Why this matters. "You are the bottleneck." Have people identify their top strategic blocker. |
+| Intro and strategic thinking | 20 min | Why this matters. “You are the bottleneck.” Have people identify their top strategic blocker. |
 | Phase 1: Install tools | 45-60 min | Voice-to-text, Node.js, Claude Code, clauded alias. This is where most debugging happens. |
 | Phase 2: Set up workspace | 30-40 min | VS Code, Git/GitHub, clone the starter repo, open in VS Code. |
 | Break | 10 min | People need this. |
@@ -71,7 +71,7 @@ Every participant's machine is different. Your job is not to anticipate every po
 
 Before anyone touches a keyboard, spend time on the strategic framing:
 
-1. **"You are the bottleneck."** This is empowering, not critical. The tools are not the problem. Their strategic clarity is.
+1. **“You are the bottleneck.”** This is empowering, not critical. The tools are not the problem. Their strategic clarity is.
 2. **Have everyone identify their top strategic blocker.** Give them 5-10 minutes of quiet thinking time. This becomes the input for Step 4B (the strategic plan), which is the payoff of the whole workshop.
 3. **The chief of staff metaphor.** Tools, context, SOPs. This gives people a mental model for why they are installing all this stuff.
 
@@ -111,10 +111,10 @@ The student's machine should be ready to go before they sit down. When they open
 
 **With the student (30-45 min):**
 
-1. **Explain what they are looking at** (2 min). "This is your workspace. These folders are your brain. The AI reads them. Let me show you."
-2. **Interview them about something they are actually puzzling over** (15-20 min). Not a generic profile. Ask them: "What is the thing you are trying to figure out right now that matters most for your business, your career, or your growth?" Then tell the agent to interview them about that. The student talks (voice-to-text). The agent asks hard follow-up questions, pushes for specificity, surfaces assumptions they did not know they were making. This is where the magic happens. They are [seeing their own thinking](/docs/concepts/see-your-own-thinking) reflected back to them by an intelligent system for the first time, on a problem they actually care about.
-3. **Generate an actionable plan from the interview** (10 min). The agent takes everything from the conversation and produces a concrete plan for the thing they are puzzling over. The student reads it and realizes: "This thing just synthesized my situation better than I could have articulated it myself." Paste it into a Google Doc (Edit > Paste from Markdown) and they walk away with a professional strategic document they can share with a partner, investor, or team member. Created in 30 minutes from a conversation.
-4. **Show them the daily workflow** (5 min). Open the terminal, brain dump something, show how the agent routes it to the right file. "This is what you do every day. Talk, let it route, review."
+1. **Explain what they are looking at** (2 min). “This is your workspace. These folders are your brain. The AI reads them. Let me show you.”
+2. **Interview them about something they are actually puzzling over** (15-20 min). Not a generic profile. Ask them: “What is the thing you are trying to figure out right now that matters most for your business, your career, or your growth?” Then tell the agent to interview them about that. The student talks (voice-to-text). The agent asks hard follow-up questions, pushes for specificity, surfaces assumptions they did not know they were making. This is where the magic happens. They are [seeing their own thinking](/docs/concepts/see-your-own-thinking) reflected back to them by an intelligent system for the first time, on a problem they actually care about.
+3. **Generate an actionable plan from the interview** (10 min). The agent takes everything from the conversation and produces a concrete plan for the thing they are puzzling over. The student reads it and realizes: “This thing just synthesized my situation better than I could have articulated it myself.” Paste it into a Google Doc (Edit > Paste from Markdown) and they walk away with a professional strategic document they can share with a partner, investor, or team member. Created in 30 minutes from a conversation.
+4. **Show them the daily workflow** (5 min). Open the terminal, brain dump something, show how the agent routes it to the right file. “This is what you do every day. Talk, let it route, review.”
 
 **After the session:**
 
@@ -122,7 +122,7 @@ They now have a working system with their actual data in it. The installation ba
 
 ### Why This Works
 
-[Ramp learned the same lesson](/docs/case-studies/ramp-glass): "The people who got the most value were not the ones who attended training sessions. They were the ones who installed a skill on day one and immediately got a result." The speed run is the same insight applied to one-on-one onboarding. Remove every barrier between the person and their first real result. The product teaches faster than any explanation.
+[Ramp learned the same lesson](/docs/case-studies/ramp-glass): “The people who got the most value were not the ones who attended training sessions. They were the ones who installed a skill on day one and immediately got a result.” The speed run is the same insight applied to one-on-one onboarding. Remove every barrier between the person and their first real result. The product teaches faster than any explanation.
 
 The full workshop is still the right format for group sessions where people need to learn the stack. The speed run is for when you have someone's laptop in front of you and 45 minutes to change how they think about AI forever.
 
@@ -134,11 +134,11 @@ The full workshop is still the right format for group sessions where people need
 
 ### March 30, 2026: First Workshop (Austin, TX)
 
-**Participants need reassurance that the tools are safe and free.** One participant pasted the entire tutorial into Claude and asked "Is this all safe to install? What does each tool cost?" before downloading anything. This is smart behavior. Encourage it. The cost/safety table at the top of the tutorial was added because of this feedback.
+**Participants need reassurance that the tools are safe and free.** One participant pasted the entire tutorial into Claude and asked “Is this all safe to install? What does each tool cost?” before downloading anything. This is smart behavior. Encourage it. The cost/safety table at the top of the tutorial was added because of this feedback.
 
 **Voice-to-text is a revelation for non-technical people.** Install it first (Step 1A) so they can use it for the rest of the workshop. WhisperFlow's auto-reformatting is a crowd-pleaser.
 
-**The clauded alias is confusing if you do not explain the tradeoff clearly.** People hear "dangerously" and get nervous. Explain it as: "Claude is being overly polite by asking permission for everything. This flag tells it to just do its job. You can always switch back."
+**The clauded alias is confusing if you do not explain the tradeoff clearly.** People hear “dangerously” and get nervous. Explain it as: “Claude is being overly polite by asking permission for everything. This flag tells it to just do its job. You can always switch back.”
 
 **Old computers are a real issue.** One participant had a 10-year-old laptop. Everything took longer. Be honest about this upfront rather than letting them feel like they are doing something wrong.
 
@@ -148,7 +148,7 @@ The full workshop is still the right format for group sessions where people need
 
 **One participant canceled ChatGPT during the workshop.** The vendor lock-in framing (your files are yours, you can walk away any time) resonated strongly. People care about sovereignty once you frame it clearly.
 
-**The "ask Claude to guess" moment is powerful.** During the user profile interview, when someone does not know the answer to a question, telling them to ask Claude "what do you think, based on what you already know about me?" produces genuine insight. The agent reflects their own thinking back to them in a way they did not expect.
+**The “ask Claude to guess” moment is powerful.** During the user profile interview, when someone does not know the answer to a question, telling them to ask Claude “what do you think, based on what you already know about me?” produces genuine insight. The agent reflects their own thinking back to them in a way they did not expect.
 
 ## Testimonials
 

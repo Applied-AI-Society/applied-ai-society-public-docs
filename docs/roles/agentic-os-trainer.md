@@ -7,7 +7,7 @@ title: "Agentic OS Trainer"
 
 *The person who takes someone from zero to a working AI-operated business OS in a single session via the Applied AI Society's [Supersuit Up workshop](/docs/workshops/supersuit-up), then coaches them through progressively deeper levels of integration. Part technician, part strategist, part pastor.*
 
-> **This role rewards the ability to meet people where they are.** Your participants range from "I have never opened a terminal" to "I already use Claude Code but my system is a mess." You need to install software on machines you have never seen, debug errors you have never encountered, and keep a room of 8 people moving forward at different speeds. If you are the person who can explain something technical without making someone feel stupid, and you have a working Personal Agentic OS of your own, this is your role.
+> **This role rewards the ability to meet people where they are.** Your participants range from “I have never opened a terminal” to “I already use Claude Code but my system is a mess.” You need to install software on machines you have never seen, debug errors you have never encountered, and keep a room of 8 people moving forward at different speeds. If you are the person who can explain something technical without making someone feel stupid, and you have a working Personal Agentic OS of your own, this is your role.
 
 ---
 
@@ -47,9 +47,9 @@ The trainer does not need to teach all five levels. Most people will stay at Lev
 
 ## Why This Role Is Emerging Now
 
-Everyone knows they should be "using AI." Most people are stuck in chatbot mode: typing questions into ChatGPT and getting generic answers. The gap between that and a fully operational business OS is enormous, and almost nobody can cross it alone.
+Everyone knows they should be “using AI.” Most people are stuck in chatbot mode: typing questions into ChatGPT and getting generic answers. The gap between that and a fully operational business OS is enormous, and almost nobody can cross it alone.
 
-The Agentic OS Trainer closes that gap. They are the person who takes the abstract ("AI can help your business") and makes it concrete ("here is your strategic blocker plan, generated from a 15-minute interview with an agent that now knows who you are").
+The Agentic OS Trainer closes that gap. They are the person who takes the abstract (“AI can help your business”) and makes it concrete (“here is your strategic blocker plan, generated from a 15-minute interview with an agent that now knows who you are”).
 
 This is not consulting. The trainer is not analyzing the participant's business and delivering a report. The trainer is teaching the participant to fish: setting up the system, showing them how to use it, and then stepping back while the system compounds on its own.
 

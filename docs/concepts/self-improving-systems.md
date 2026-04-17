@@ -30,19 +30,19 @@ The [Self-Improving Enterprise](/docs/concepts/self-improving-enterprise) articl
 
 A system cannot improve what it cannot see. The first requirement is that the system's behavior is observable: logged, tracked, and available for analysis.
 
-Claude Code implements this through its hook system ([Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness), Section 7). PostToolUse hooks fire after every tool execution and receive structured data about what happened. This data can be analyzed, aggregated, and used to detect patterns. "This bash command has failed 4 times in the last hour." "The model keeps reading the same file and then not using the information." "Tool calls to the database take 3x longer than everything else."
+Claude Code implements this through its hook system ([Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness), Section 7). PostToolUse hooks fire after every tool execution and receive structured data about what happened. This data can be analyzed, aggregated, and used to detect patterns. “This bash command has failed 4 times in the last hour.” “The model keeps reading the same file and then not using the information.” “Tool calls to the database take 3x longer than everything else.”
 
 Without observability, improvement is guesswork. With observability, improvement is engineering.
 
 ### 2. Evaluation Against Intent
 
-Observation alone is not enough. You need a way to determine whether what you observed is good or bad. This requires a clear definition of what "better" means.
+Observation alone is not enough. You need a way to determine whether what you observed is good or bad. This requires a clear definition of what “better” means.
 
 This is where [intent engineering](/docs/concepts/intent-engineering) and [game design](/docs/concepts/game-design) become foundational. The objectives, rules, guardrails, and scoring that you define for your system are not just operational infrastructure. They are the evaluation criteria that make self-improvement possible.
 
 The [MetaHarness](https://arxiv.org/abs/2603.28052) project made this explicit: each harness version was tested against a benchmark with clear success criteria. The AI analyzed results against those criteria and proposed changes. Without the benchmark, the system would have no way to know whether a change made things better or worse.
 
-For practitioners: if you cannot articulate what "better" means for your client's system, the system cannot improve itself. Define the scoring function before you automate anything.
+For practitioners: if you cannot articulate what “better” means for your client's system, the system cannot improve itself. Define the scoring function before you automate anything.
 
 ### 3. Bounded Experimentation
 
@@ -66,7 +66,7 @@ The pattern is always the same: **structured, persistent, queryable memory that 
 
 The most important principle: self-improving does not mean unsupervised.
 
-The human's role shifts from operator to architect. You are not making the improvements. You are defining what "better" means, reviewing proposals, approving changes, and occasionally overriding the system when it optimizes for the wrong thing.
+The human's role shifts from operator to architect. You are not making the improvements. You are defining what “better” means, reviewing proposals, approving changes, and occasionally overriding the system when it optimizes for the wrong thing.
 
 This maps directly to the [game design](/docs/concepts/game-design) framework:
 
@@ -83,7 +83,7 @@ The human designs the game. The system plays it. The system proposes rule change
 
 The most ambitious form of self-improving systems is automated research: AI systems that conduct their own scientific investigations.
 
-Sakana AI's "The AI Scientist" (August 2024) demonstrated the pattern: an AI system that generates research hypotheses, designs experiments, writes code to run them, analyzes results, and produces research papers. The system operated in a loop: each experiment's results informed the next hypothesis.
+Sakana AI's “The AI Scientist” (August 2024) demonstrated the pattern: an AI system that generates research hypotheses, designs experiments, writes code to run them, analyzes results, and produces research papers. The system operated in a loop: each experiment's results informed the next hypothesis.
 
 The key insight was not that the AI produced good research (the papers were competent but not groundbreaking). The key insight was that the system could run the full research loop autonomously, producing incrementally better results with each iteration. Given enough time and compute, the improvement trajectory is steep.
 
@@ -112,7 +112,7 @@ If you are helping clients build AI systems, self-improvement is not a feature y
 
 **Build in observability from the start.** Log what the agent does. Track which actions succeed and which fail. Record how long things take. This data is the raw material for improvement. Without it, you are flying blind.
 
-**Define "better" before you automate.** If the client cannot articulate what a better outcome looks like, the system cannot improve toward it. This is [intent engineering](/docs/concepts/intent-engineering) in practice: encode what success means in a way the system can evaluate against.
+**Define “better” before you automate.** If the client cannot articulate what a better outcome looks like, the system cannot improve toward it. This is [intent engineering](/docs/concepts/intent-engineering) in practice: encode what success means in a way the system can evaluate against.
 
 **Use the instruction file stack for bounded experimentation.** Let the agent propose additions to skill files and memory. Review the proposals. Approve what works, reject what does not. Over time, the agent's proposals get better because it learns from the pattern of approvals and rejections.
 
@@ -125,7 +125,7 @@ If you are helping clients build AI systems, self-improvement is not a feature y
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where self-improving systems lead at the organizational level
 - [Harness Engineering](/docs/concepts/harness-engineering): Self-improving harnesses as a building block
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): Claude Code's hook system as the observation layer for self-improvement
-- [Intent Engineering](/docs/concepts/intent-engineering): Defining what "better" means so systems can improve toward it
+- [Intent Engineering](/docs/concepts/intent-engineering): Defining what “better” means so systems can improve toward it
 - [Game Design](/docs/concepts/game-design): The framework for defining objectives, rules, guardrails, and scoring
 - [The Permission Surface](/docs/concepts/the-permission-surface): Bounding what self-improving systems are allowed to change
 - [Instruction Files](/docs/concepts/instruction-files): The configurable layer where self-improvement happens

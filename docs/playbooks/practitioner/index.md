@@ -44,7 +44,7 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 
 We're developing additional guides covering:
 
-- **Getting Started as a Practitioner:** How to go from "I use AI every day" to "I apply AI professionally"
+- **Getting Started as a Practitioner:** How to go from “I use AI every day” to “I apply AI professionally”
 - **Building Your Portfolio:** Documenting your first projects to land clients or jobs
 - **Culture Transformation Engagements:** Helping organizations develop an AI-first mindset
 - **Forward Deployed Hackathons:** Running internal hackathon weekends inside companies to shift culture

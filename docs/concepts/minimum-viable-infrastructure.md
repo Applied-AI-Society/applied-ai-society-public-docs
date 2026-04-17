@@ -74,11 +74,11 @@ Even with perfect infrastructure, there is another bottleneck: you need a human 
 
 The [MVP tutorial](/docs/workshops/supersuit-up) is designed to be self-paced. But every machine is different. You hit a permission error on Windows. Your Node.js version conflicts with something. A corporate firewall blocks a download. These edge cases take an experienced person 30 seconds to debug and can trap a beginner for hours.
 
-A human guide who has done this before, who can look at your screen and say "oh, just run this command," is worth more than any tutorial. But there are not enough of these people. Training more of them, building a bench of practitioners who can teach others, is one of the highest-leverage things the [Applied AI Society](https://appliedaisociety.org) can do. Every person who gets activated becomes a potential guide for the next person. The flywheel only works if we invest in the humans, not just the tools.
+A human guide who has done this before, who can look at your screen and say “oh, just run this command,” is worth more than any tutorial. But there are not enough of these people. Training more of them, building a bench of practitioners who can teach others, is one of the highest-leverage things the [Applied AI Society](https://appliedaisociety.org) can do. Every person who gets activated becomes a potential guide for the next person. The flywheel only works if we invest in the humans, not just the tools.
 
-## What "Democratizing AI" Actually Requires
+## What “Democratizing AI” Actually Requires
 
-Most "democratize AI" initiatives focus on making AI tools cheaper or more accessible. That is necessary but insufficient. The real democratization requires:
+Most “democratize AI” initiatives focus on making AI tools cheaper or more accessible. That is necessary but insufficient. The real democratization requires:
 
 **Infrastructure investment.** Broadband as a utility. Public WiFi in libraries, parks, community centers. Not as a nice-to-have but as essential infrastructure for economic participation. This is the kind of thing that libraries already do well: providing free internet, quiet spaces, and access to technology. Scaling this intentionally would be high-leverage.
 

@@ -182,16 +182,16 @@ If your personal network is tapped, here's where to look:
 
 ## Handling Common Responses
 
-**"I'm not sure I have enough experience."**
+**“I'm not sure I have enough experience.”**
 > You'd be surprised. The audience learns as much from someone with 2-3 client projects as from someone with 20. If you've built something real for a real organization, you have a case study worth sharing.
 
-**"I don't want to give away my methods."**
+**“I don't want to give away my methods.”**
 > Totally understand. You choose what to share and what to keep close. Most practitioners find that sharing openly actually generates more business, not less. But if it doesn't feel right, no pressure.
 
-**"I've never presented before."**
+**“I've never presented before.”**
 > Our format is conversational, not a TED talk. If you can explain your work to a friend, you can present at Applied AI Live. We also send a presenter guide that walks you through exactly what to cover.
 
-**"What's in it for me?"**
+**“What's in it for me?”**
 > Visibility to a room of potential clients and collaborators. A chance to sharpen how you talk about your work. And you're helping the next generation of practitioners figure out this space. Most presenters say the networking alone was worth it.
 
 ---

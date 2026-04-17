@@ -17,7 +17,7 @@ Here is a practical definition: AGI is something that can do whatever you tell i
 
 A gun doesn't protect you if you can't shoot. If you're duck hunting and you can never hit the duck, you might as well not have a gun at all. The tool is only as useful as the person using it. AGI is the most powerful tool ever created, and most people cannot use it. Not because they're unintelligent, but because wielding AGI is a skill that requires deep practice, and almost nobody has put in the reps yet.
 
-This is the uncomfortable truth that the AGI timeline debate obscures: it doesn't matter when AGI "officially" arrives. What matters is whether you can harness it. If you can't, AGI might as well not exist in your life. Except it does exist, because someone else is wielding it, and they are using it to multiply their will into the world at a scale you cannot compete with.
+This is the uncomfortable truth that the AGI timeline debate obscures: it doesn't matter when AGI “officially” arrives. What matters is whether you can harness it. If you can't, AGI might as well not exist in your life. Except it does exist, because someone else is wielding it, and they are using it to multiply their will into the world at a scale you cannot compete with.
 
 ---
 
@@ -27,7 +27,7 @@ An AGI whisperer is someone who has achieved a level of fluency with AI systems 
 
 The term is deliberately playful. It pokes at the seriousness of the AGI debate while pointing at something real: the people who can make AI do what they actually want, consistently, at a high level, are extraordinarily rare and extraordinarily valuable.
 
-An AGI whisperer is not defined by which model they use or which framework they know. Models change every few months. What defines them is the underlying skill: the ability to take a vision, a set of desired outcomes, a spec, and translate it into AI systems that deliver. [Context engineering](/docs/concepts/context-engineering). [Intent engineering](/docs/concepts/intent-engineering). Systems architecture. The whole stack of skills that turns "I want X" into a living system that produces X and gets better at it over time.
+An AGI whisperer is not defined by which model they use or which framework they know. Models change every few months. What defines them is the underlying skill: the ability to take a vision, a set of desired outcomes, a spec, and translate it into AI systems that deliver. [Context engineering](/docs/concepts/context-engineering). [Intent engineering](/docs/concepts/intent-engineering). Systems architecture. The whole stack of skills that turns “I want X” into a living system that produces X and gets better at it over time.
 
 These are the people building the companies of the next decade. Not the AI models themselves. Not the platforms. The people who can wield them.
 
@@ -59,7 +59,7 @@ Consider the kind of company you can build when AGI is real: a business that run
 
 These companies are coming. Some already exist. They will be the leanest, most valuable companies ever built. And every single one of them needs an AGI whisperer at the core.
 
-Not a "developer." Not someone who can follow a tutorial. Someone who can take a founder's vision and turn it into a self-improving system. Someone who understands not just the code but the [game design](/docs/concepts/game-design): the objectives, rules, guardrails, and scoring that make an AI system behave the way you actually want.
+Not a “developer.” Not someone who can follow a tutorial. Someone who can take a founder's vision and turn it into a self-improving system. Someone who understands not just the code but the [game design](/docs/concepts/game-design): the objectives, rules, guardrails, and scoring that make an AI system behave the way you actually want.
 
 Without an AGI whisperer, the most brilliant founder in the world is stuck with mediocre AI implementations that miss the point. With one, they can build something that has never existed before.
 

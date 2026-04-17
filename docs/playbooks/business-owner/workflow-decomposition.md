@@ -33,7 +33,7 @@ Write yours down. This is your spine.
 
 Under each stage, list every actual action someone performs. Not what they *say* they do, but what they *actually* do. This is usually 6–7 actions per stage.
 
-**Example: "Edit" stage for a podcast/video business:**
+**Example: “Edit” stage for a podcast/video business:**
 1. Receive raw transcript from recording
 2. Segment transcript by speaker changes
 3. Identify when the conversation shifts to a new caller
@@ -48,9 +48,9 @@ That's nine actions for one stage. Each is specific. Each has a clear input and 
 
 ## Step 3: Sub-Actions
 
-Take each action and ask: "What does someone actually *do* to accomplish this?"
+Take each action and ask: “What does someone actually *do* to accomplish this?”
 
-**Example: "Find the highest-tension moment" becomes:**
+**Example: “Find the highest-tension moment” becomes:**
 1. Read the full transcript segment
 2. Look for disagreement, surprise, or emotional language
 3. Look for questions that challenge assumptions
@@ -64,7 +64,7 @@ Take each action and ask: "What does someone actually *do* to accomplish this?"
 
 Continue decomposing until you reach actions that can't be broken down further. These irreducible actions are your **automation targets.**
 
-The rule: if an action contains the word "and," it's probably two actions. "Review the transcript and find the best moment" is two steps, not one.
+The rule: if an action contains the word “and,” it's probably two actions. “Review the transcript and find the best moment” is two steps, not one.
 
 ## Step 5: Classify Each Action
 
@@ -121,7 +121,7 @@ That's one business function (content) fully decomposed. Now do this for every f
 ## Common Mistakes
 
 - **Decomposing from memory instead of observation.** Watch someone actually do the work. People skip steps they've internalized.
-- **Stopping too early.** "Edit the video" is not an action. It's a stage containing 10+ actions.
+- **Stopping too early.** “Edit the video” is not an action. It's a stage containing 10+ actions.
 - **Trying to automate everything at once.** Start with the 🤖 items. Get wins. Build confidence. Then tackle 🤝 items.
 - **Ignoring the connective tissue.** The handoff between stages is often where things break. Map those too.
 

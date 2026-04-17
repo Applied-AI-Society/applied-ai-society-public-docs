@@ -45,7 +45,7 @@ This is the core of your presentation. Pick one or two real projects and walk th
 
 The audience is full of aspiring applied AI practitioners. They want to follow in your footsteps. Ask yourself: if someone in the audience wanted to replicate what I did, what would they need to know?
 
-Real numbers help. Real tool names help. Specific client types help. Generalities ("I built an AI solution for a company") don't give people enough to work with.
+Real numbers help. Real tool names help. Specific client types help. Generalities (“I built an AI solution for a company”) don't give people enough to work with.
 
 ### Format
 
@@ -89,7 +89,7 @@ You'll receive a problem brief at least one week before the event so you can thi
 
 **Keep it conversational.** The best presentations at Applied AI Live feel like you're telling a friend about a project over coffee. Not reading from a script.
 
-**Specifics beat generalities.** "I used Claude with a custom tool-calling setup to automate their invoice processing" is more useful than "I used AI to automate their workflow."
+**Specifics beat generalities.** “I used Claude with a custom tool-calling setup to automate their invoice processing” is more useful than “I used AI to automate their workflow.”
 
 **Stories bring slides to life.** Use your slides to show the architecture or the numbers, but let the narrative carry the talk. A well-told story about a real project sticks with people more than bullet points.
 

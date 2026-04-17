@@ -11,7 +11,7 @@ title: The Applied AI Economy
 
 ## The Economy Is Bigger Than You Think
 
-Most people hear "make money with AI" and think of one thing: building chatbots or automating workflows. That's real work and it pays. But it's one corner of a much larger economy that is forming right now.
+Most people hear “make money with AI” and think of one thing: building chatbots or automating workflows. That's real work and it pays. But it's one corner of a much larger economy that is forming right now.
 
 The applied AI economy includes consulting, coaching, training, tool building, culture transformation, and entirely new startups that didn't exist two years ago. New categories are emerging every month. If you only see one path, you're not looking wide enough.
 
@@ -27,7 +27,7 @@ If you're not sure what kind of applied AI work to pursue, start with three buck
 2. **Your past jobs.** Every job you've held taught you the pain points, bottlenecks, and broken processes of that industry. You know what sucks. That's your edge.
 3. **Your current interests.** Side interests give you fluency in communities where people have unmet needs: music production, fitness, cooking, gaming, whatever.
 
-The question isn't "what should I build?" It's: **across these three buckets, which problem can I solve that someone would pay the most to fix?**
+The question isn't “what should I build?” It's: **across these three buckets, which problem can I solve that someone would pay the most to fix?**
 
 In B2B: charge a percentage of the money you help them make. In B2C: price based on how badly people perceive the problem.
 
@@ -37,7 +37,7 @@ You don't need a novel idea. Look at what everyone else is doing and try to do i
 
 Think of your first engagement as paying down **ignorance debt**: the gap between what you know and what you need to know to run a real practice. Your first clients are a learning vehicle, not a life sentence. The income is real, but the education is more valuable.
 
-> "The vast majority of your income is coming in the form of education rather than earning."
+> “The vast majority of your income is coming in the form of education rather than earning.”
 
 Don't expect your first engagement to be perfect. Every successful practitioner has a graveyard of experiments behind them. The point is to start taking steps, because each one illuminates the next. Trying to plan 100 steps ahead with no context is irrelevant because chaos will break your plan anyway.
 
@@ -77,7 +77,7 @@ This means helping someone get real value out of ChatGPT, Claude, Google Workspa
 
 **Who it's for:** People with strong communication skills who can meet executives where they are. You need patience, emotional intelligence, and the ability to translate technical capability into practical business value.
 
-**What to watch for:** Some clients will ask you to build an "OpenAI wrapper" for them when what they actually need is to learn how to use the tools directly. You'll have to decide whether to push them toward the higher-impact path or just build what they think they want. There's no universally right answer. Just be honest with yourself about the trade-offs.
+**What to watch for:** Some clients will ask you to build an “OpenAI wrapper” for them when what they actually need is to learn how to use the tools directly. You'll have to decide whether to push them toward the higher-impact path or just build what they think they want. There's no universally right answer. Just be honest with yourself about the trade-offs.
 
 ---
 
@@ -87,7 +87,7 @@ Companies know they need to adopt AI. Most of them have no idea how to create a 
 
 The work looks like: running internal hackathons, leading company-wide AI training sessions, designing adoption programs, and helping leadership model the behavior they want to see. It's very hard for companies to find someone internally who can do this well, which is why they bring in outside help.
 
-**Who it's for:** People who understand both technology and organizational behavior. You need to be comfortable facilitating groups, navigating internal politics, and measuring outcomes that are often qualitative (like "people actually started using AI in their daily work").
+**Who it's for:** People who understand both technology and organizational behavior. You need to be comfortable facilitating groups, navigating internal politics, and measuring outcomes that are often qualitative (like “people actually started using AI in their daily work”).
 
 **Why it matters:** This is some of the highest-impact work in applied AI right now. A single culture shift inside a company can unlock far more value than any individual automation. The [Canon](/docs/philosophy/canon) says efficiency is a tool, not the goal. Culture transformation is how you make the goal stick.
 
@@ -119,11 +119,11 @@ That's the seed of a vertical AI startup. You pair up with a domain expert (some
 
 Every software company is becoming an agentic services company. The products that used to offer dashboards and reports are now expected to offer agents that act, reason, and execute on behalf of users. This transition is creating enormous demand for practitioners who can help companies make the shift.
 
-The work looks like: auditing an existing SaaS product for agentic opportunities, designing agent architectures that plug into existing data systems, building the security and governance layers that make enterprise agentic systems trustworthy, and helping teams rethink their product from "tool people use" to "service that works alongside people."
+The work looks like: auditing an existing SaaS product for agentic opportunities, designing agent architectures that plug into existing data systems, building the security and governance layers that make enterprise agentic systems trustworthy, and helping teams rethink their product from “tool people use” to “service that works alongside people.”
 
 **Who it's for:** Practitioners with both product thinking and technical depth. You need to understand what makes a good agent (context, tools, guardrails) and also how software companies ship and iterate.
 
-**Why it's growing fast:** The infrastructure for agentic systems (open-source agent frameworks, enterprise security layers, business OS architectures) has matured rapidly. What was experimental a year ago is now production-ready. At NVIDIA's GTC 2026, Jensen Huang stated that ["every single SaaS company will become a GaaS company, an agentic as a service company"](https://blogs.nvidia.com/blog/gtc-2026-news/) and that every company needs an agentic system strategy. Companies that don't have one are falling behind. They need practitioners who can lead the transition.
+**Why it's growing fast:** The infrastructure for agentic systems (open-source agent frameworks, enterprise security layers, business OS architectures) has matured rapidly. What was experimental a year ago is now production-ready. At NVIDIA's GTC 2026, Jensen Huang stated that [“every single SaaS company will become a GaaS company, an agentic as a service company”](https://blogs.nvidia.com/blog/gtc-2026-news/) and that every company needs an agentic system strategy. Companies that don't have one are falling behind. They need practitioners who can lead the transition.
 
 **The model:** This often starts as a strategic engagement (assessing where agents fit) and evolves into implementation work. The best practitioners in this space combine the strategic framing of a [Chief AI Officer](/docs/roles/chief-ai-officer) with the technical execution of an [Applied AI Consultant](/docs/roles/applied-ai-consultant). Understanding [token economics](/docs/concepts/the-token-economy) is essential for scoping these engagements.
 
