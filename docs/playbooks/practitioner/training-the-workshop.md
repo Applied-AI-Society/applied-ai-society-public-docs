@@ -30,7 +30,14 @@ This playbook captures what we are learning in real time about how to run these 
 
 - **Big TV or monitor** at the front where you can screen share. Everyone should be huddled close enough to read code on the screen.
 - **Your own laptop** connected to the TV, running your own Personal Agentic OS in Claude Code. You will be demoing live throughout.
-- **A mix of in-person and online is fine.** Use a video call with screen share for remote participants. Have them unmute to ask questions. For remote sessions, **Zoom is recommended**: its remote control feature lets you take over a participant's screen for 10 seconds to click the right button or navigate the right menu, then hand it back. One limitation is that you cannot copy-paste onto their machine through remote control. Send snippets to paste via WhatsApp, Telegram, or the Zoom chat instead.
+- **A mix of in-person and online is fine.** Use a video call with screen share for remote participants. Have them unmute to ask questions.
+- **For remote sessions, Zoom is strongly recommended** because of its remote control feature. It lets you take over a participant's screen for 10 seconds to click the right button or navigate the right menu, then hand it back. That single capability is the difference between a smooth online workshop and a frustrating one, especially with non-technical learners.
+  - **Have participants prepare before the session.** The browser version of Zoom does not support being controlled. Each participant needs to:
+    1. [Download and install the Zoom desktop app](https://zoom.us/download) (not the browser version) on the computer they will use during the workshop.
+    2. On macOS, open **System Settings → Privacy & Security → Accessibility** and enable Zoom. macOS requires this for any app that controls the mouse and keyboard. Without it, Zoom's remote control silently does nothing.
+    3. Sign in to the Zoom app before the workshop starts so there is no last-minute account friction.
+  - **During the session**, the participant screen-shares and then you click **View Options → Request Remote Control** on your side. They see a prompt and click Approve. You can only control them while they are actively screen sharing, and they can revoke at any time by pressing Escape or stopping the share. Full flow: <https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065790>.
+  - **One limitation:** you cannot copy-paste *onto* the participant's machine through remote control. Send snippets to paste via WhatsApp, Telegram, or the Zoom chat instead, and let them copy from there.
 
 ### Duration
 
