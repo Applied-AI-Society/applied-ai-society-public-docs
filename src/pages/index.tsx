@@ -4,6 +4,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
 import RecentlyUpdated from '../components/RecentlyUpdated';
+import CommunityStrip from '../components/CommunityStrip';
 
 interface DocSection {
   title: string;
@@ -72,34 +73,6 @@ function HeroSection(): React.ReactElement {
         </div>
       </div>
     </header>
-  );
-}
-
-function CommunityStrip(): React.ReactElement {
-  const photos = [
-    { src: '/img/about/austin-community-room.jpg', alt: 'An Applied AI Society gathering in Austin' },
-    { src: '/img/about/gary-jarvising-ron.webp', alt: 'Jarvising someone through their first Personal Agentic OS' },
-    { src: '/img/about/networking-in-room.jpg', alt: 'Practitioners networking at a community event' },
-    { src: '/img/about/gary-speaking.jpg', alt: 'Gary presenting at an Applied AI Society event' },
-    { src: '/img/about/travis-networking.jpg', alt: 'Travis Oliphant with community members' },
-    { src: '/img/about/austin-crew.webp', alt: 'The Austin crew after a workshop' },
-  ];
-  return (
-    <section className={styles.communityStrip}>
-      <div className={styles.container}>
-        <h2 className={styles.sectionTitle}>The Community, In the Room</h2>
-        <p className={styles.communityStripIntro}>
-          Applied AI Society is not a website. It is rooms of real people, learning to wield this technology together. Here is what that looks like on the ground.
-        </p>
-        <div className={styles.communityStripGrid}>
-          {photos.map((p, i) => (
-            <div key={i} className={styles.communityStripPhoto}>
-              <img src={p.src} alt={p.alt} loading="lazy" />
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
   );
 }
 
