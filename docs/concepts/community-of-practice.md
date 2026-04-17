@@ -60,7 +60,7 @@ You do not build a community of practice by declaring it. You build it by runnin
 
 ## The Role of Applied AI Society
 
-Applied AI Society exists to make communities of practice easier to start and harder to get wrong. The [chapter playbooks](/docs/playbooks/chapter-leader) are an open-source specification for how to run one. The [philosophy canon](/docs/philosophy) is the shared ethos. The public case studies and field notes are the compounding knowledge layer.
+Applied AI Society wants to help you have an easier time starting communities of practice around applied AI. The [chapter playbooks](/docs/playbooks/chapter-leader) are an open-source specification for how to run one. The [philosophy canon](/docs/philosophy) is the shared ethos. The public case studies and field notes are the compounding knowledge layer.
 
 If you are thinking about starting one in your city, talk to us. That is what we are here for.
 

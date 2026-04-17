@@ -1,57 +1,65 @@
 [
   {
-    "title": "Practitioner Matching Spec",
-    "link": "/docs/specs/practitioner-matching",
-    "date": "2026-04-16",
-    "summary": "A divine first principle design for matching applied AI projects to the right practitioners, using unlimited verified...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "The AGI Whisperer",
-    "link": "/docs/concepts/agi-whisperer",
-    "date": "2026-04-16",
-    "summary": "AGI is already here. It's just not evenly wielded.",
+    "title": "Launching on Campus",
+    "link": "/docs/playbooks/chapter-leader/launching-on-campus",
+    "date": "2026-04-17",
+    "summary": "How to bring the Applied AI Society to a university campus. This is not about starting another club. It is about host...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Being Someone's Go-To Person",
-    "link": "/docs/concepts/being-someones-go-to-person",
-    "date": "2026-04-16",
-    "summary": "The role that has no name yet. The serious operator's go-to person is a six-jobs-in-one partner, and naming it honest...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Applied AI Consultant",
-    "link": "/docs/roles/applied-ai-consultant",
-    "date": "2026-04-16",
-    "summary": "The client-facing builder who designs, builds, and deploys AI systems for businesses. Part architect, part engineer, ...",
+    "title": "Starting a Chapter or Community",
+    "link": "/docs/playbooks/chapter-leader/starting-a-chapter",
+    "date": "2026-04-17",
+    "summary": "How to launch an Applied AI Society community in your city or on your campus. This could be a formal chapter, a stude...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Progressive Sovereignty",
-    "link": "/docs/concepts/progressive-sovereignty",
-    "date": "2026-04-16",
-    "summary": "Sovereignty in the AI era is not a state you achieve. It is a frontier you keep moving.",
+    "title": "Community of Practice",
+    "link": "/docs/concepts/community-of-practice",
+    "date": "2026-04-17",
+    "summary": "A living, people-centered organism that compounds. A room full of people actively applying a craft, sharing what is w...",
     "tag": "New"
   }
 ,
   {
-    "title": "The Sovereignty Stack",
-    "link": "/docs/concepts/the-sovereignty-stack",
-    "date": "2026-04-16",
-    "summary": "Own your future. Every layer of your life has a default version controlled by someone who is not you. Here is the ful...",
+    "title": "Soul of a Scene",
+    "link": "/docs/concepts/soul-of-a-scene",
+    "date": "2026-04-17",
+    "summary": "Every scene in every city has a soul: a person, or a small group of people, who decided. The scene exists because the...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Co-Teaching Is the New Self-Teaching",
+    "link": "/docs/philosophy/co-teaching-is-the-new-self-teaching",
+    "date": "2026-04-17",
+    "summary": "Being tapped in with the right people can mean life or death for your business. That is not hyperbole. That is the re...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Gary Sheng: Running My Entire Life With a Personal Jarvis",
-    "link": "/docs/case-studies/gary-sheng-running-life-with-jarvis",
-    "date": "2026-04-16",
-    "summary": "How I use my Personal Agentic OS to run seven life pillars, compound strategy, and reclaim the one resource that actu...",
+    "title": "The Five Levels of Value in the AI Age",
+    "link": "/docs/playbooks/student/five-levels-of-value",
+    "date": "2026-04-17",
+    "summary": "AI models are getting better on their own now. Every quarter, the tools get more capable, the cost of execution drops...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Training the Personal Agentic OS Workshop: A Guide for Instructors",
+    "link": "/docs/playbooks/practitioner/training-the-workshop",
+    "date": "2026-04-17",
+    "summary": "A playbook for anyone who wants to teach other people how to set up their Personal Agentic OS (what some people affec...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Finding a Venue",
+    "link": "/docs/playbooks/chapter-leader/finding-a-venue",
+    "date": "2026-04-17",
+    "summary": "A great venue makes everything easier. A bad one creates friction. Here's how to find a space that works for Applied ...",
     "tag": "Updated"
   }
 ]

@@ -62,7 +62,7 @@ while IFS=$'\t' read -r date filepath; do
 
   # Extract first meaningful paragraph as summary
   summary=$(awk '
-    BEGIN { in_fm=0 }
+    BEGIN { in_fm=0; in_jsx=0 }
     /^---$/ { in_fm++; next }
     in_fm == 1 { next }
     /^$/ { next }
@@ -70,6 +70,18 @@ while IFS=$'\t' read -r date filepath; do
     /^\|/ { next }
     /^-/ { next }
     /^>/ { next }
+    # Skip MDX import/export statements
+    /^[[:space:]]*import[[:space:]]/ { next }
+    /^[[:space:]]*export[[:space:]]/ { next }
+    # Skip JSX/HTML blocks (handle multi-line components)
+    in_jsx {
+      if (/\/>[[:space:]]*$/ || /^[[:space:]]*<\//) { in_jsx=0 }
+      next
+    }
+    /^[[:space:]]*</ {
+      if (!/\/>[[:space:]]*$/ && !/<\/[^>]+>[[:space:]]*$/) { in_jsx=1 }
+      next
+    }
     {
       # Remove markdown links, keeping just the text
       while (match($0, /\[[^\]]*\]\([^)]*\)/)) {
