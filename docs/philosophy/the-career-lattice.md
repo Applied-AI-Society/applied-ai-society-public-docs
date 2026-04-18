@@ -17,6 +17,14 @@ In occupations most exposed to AI (software development, customer service, admin
 
 The canary is not that AI is eliminating these jobs. The canary is that the *entry ramp* into these jobs is quietly closing.
 
+The follow-on data has only sharpened the picture. In the updated series referenced across early-2026 coverage, employment for software developers aged 22 to 25 has fallen **nearly 20% since late 2022**, the exact moment generative AI tools entered mainstream use. Developers 30 and over in the same companies saw employment grow 6% to 12% in the same window. Same jobs, same firms, different ages, opposite direction. That is the shape of a rung collapsing.
+
+Then the corporate-decision layer showed up. In March 2026, the [Duke CFO Survey, run with the Federal Reserve Banks of Atlanta and Richmond](https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research/publication/working-paper/2026/03/25/04-artificial-intelligence-productivity-and-the-workforce-evidence-from-corporate-executives.pdf), polled 750 CFOs and projected **roughly 502,000 AI-driven job cuts in 2026, about nine times the 2025 figure**. Per the survey's own authors, that is still only 0.4% of the U.S. workforce ("not the doomsday scenario"). But half of the losses are projected to fall on high-skill services, and most cuts are *preemptive*: companies acting on what they *expect* AI to do, not on what it has already demonstrably done inside their own firm. Over the next three years, the same executives predict AI will boost productivity 1.4%, raise output 0.8%, and cut employment 0.7%. The reallocation has begun, quietly, at the top of the org chart.
+
+And the capability side is compounding in a direction that matters for AAS. Anthropic's [March 2026 Economic Index: Learning Curves](https://www.anthropic.com/research/economic-index-march-2026-report) report found that experienced users achieve roughly **10% higher success rates** in conversations than newer users, controlling for task type and country, and that high-tenure users tackle measurably more sophisticated work over time. The report names this directly as **skill-biased technological change**: early, more-technical adopters pull ahead, and the gap compounds. The people already building with AI every day in 2026 are becoming a different economic class than the people who started last month.
+
+Put the three findings together and you get the actual picture: entry-level ramps narrowing, organizations reallocating faster than most employees realize, and early adopters compounding advantage every week they keep practicing.
+
 ---
 
 ## The Ladder That's Breaking
@@ -129,7 +137,15 @@ That is the work.
 
 ## Further Reading
 
-- [Canaries in the Coal Mine](https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf): The Stanford Digital Economy Lab paper that named this shift.
+### External research
+
+- [Canaries in the Coal Mine](https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf) (Brynjolfsson, Chandar, Chen, Stanford Digital Economy Lab, Nov 2025): The paper that named this shift.
+- [Anthropic Economic Index: Learning Curves](https://www.anthropic.com/research/economic-index-march-2026-report) (March 2026): Skill-biased technological change already visible in Claude usage; experienced users pull ahead.
+- [Anthropic Economic Index: Labor market impacts](https://www.anthropic.com/research/labor-market-impacts) (March 2026): Observed-exposure framework. Slower hiring into entry-level AI-exposed roles rather than mass layoffs.
+- [Artificial Intelligence, Productivity, and the Workforce](https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research/publication/working-paper/2026/03/25/04-artificial-intelligence-productivity-and-the-workforce-evidence-from-corporate-executives.pdf) (Duke CFO Survey + Atlanta & Richmond Fed, March 2026): 750-CFO survey. Projected ~502K AI-driven cuts in 2026 (~9x 2025), largely preemptive, concentrated in high-skill services.
+
+### AAS concepts and playbooks
+
 - [Agentic Strategy](/docs/concepts/agentic-strategy): Strategy is the new execution, practiced daily.
 - [Hyperagency](/docs/concepts/hyperagency): What it looks like when a human wraps AI around themselves.
 - [Being Someone's Go-To Person](/docs/concepts/being-someones-go-to-person): Why relationship capital is now the hardest form of leverage.
