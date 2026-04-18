@@ -23,30 +23,42 @@ The tradeoff: Claude Code requires a paid Anthropic subscription (Claude Max at 
 
 ## Prerequisites
 
-**Git** is required on all platforms. **Windows also requires [Git for Windows](https://git-scm.com/downloads/win)** specifically, because Claude Code uses Git Bash internally to run commands.
+:::tip[About the code blocks on this page]
+Every code block below is a **terminal command**. Open the terminal (Terminal on Mac, PowerShell on Windows), click the copy icon in the top-right of the block, paste, and press Enter.
+
+Each tool links to a reference page in our [Tools](/docs/tools) section if you want to know more about what you are installing before you run anything.
+:::
+
+**[Git](/docs/tools/git)** (version control) is required on all platforms. **Windows also requires [Git for Windows](https://git-scm.com/downloads/win)** specifically, because Claude Code uses Git Bash internally to run commands.
 
 <Tabs>
 <TabItem value="mac" label="Mac">
 
-Git comes preinstalled on most Macs. If not:
+Git comes preinstalled on most Macs. Check first:
 
-```bash
+```bash title="Terminal"
+git --version
+```
+
+If you get `command not found`, install Apple's developer command-line tools:
+
+```bash title="Terminal"
 xcode-select --install
 ```
 
 </TabItem>
 <TabItem value="windows" label="Windows">
 
-Install [Git for Windows](https://git-scm.com/downloads/win) and accept the defaults. This also installs Git Bash, which Claude Code uses internally. Or via winget:
+Install [Git for Windows](https://git-scm.com/downloads/win) and accept the defaults. This also installs Git Bash, which Claude Code uses internally. Or via WinGet:
 
-```powershell
+```powershell title="PowerShell"
 winget install Git.Git
 ```
 
 </TabItem>
 <TabItem value="linux" label="Linux">
 
-```bash
+```bash title="Terminal"
 sudo apt install git    # Debian/Ubuntu
 sudo dnf install git    # Fedora
 ```
@@ -54,12 +66,12 @@ sudo dnf install git    # Fedora
 </TabItem>
 </Tabs>
 
-**GitHub CLI** (`gh`) is also required. It handles the GitHub authentication used by the starter repo's sync script and makes it possible for your agent to create repos, manage collaborators, and push your workspace without prompts.
+**[GitHub CLI](/docs/tools/github-cli)** (`gh`) is also required. It handles GitHub authentication for the starter repo's sync script and lets your agent create repos, manage collaborators, and push your workspace without prompts.
 
 <Tabs>
 <TabItem value="mac" label="Mac">
 
-```bash
+```bash title="Terminal"
 brew install gh
 gh auth login
 ```
@@ -67,7 +79,7 @@ gh auth login
 </TabItem>
 <TabItem value="windows" label="Windows">
 
-```powershell
+```powershell title="PowerShell"
 winget install GitHub.cli
 gh auth login
 ```
@@ -80,7 +92,9 @@ See the [official install instructions](https://github.com/cli/cli/blob/trunk/do
 </TabItem>
 </Tabs>
 
-**VS Code** (recommended, not required): Download from [code.visualstudio.com](https://code.visualstudio.com). Available for Mac, Windows, and Linux. Claude Code runs in any terminal, but VS Code gives you a file explorer and terminal side by side, which makes it easy to see what your agent is doing.
+`gh auth login` is an interactive walkthrough. The defaults are the right answer almost every time. When in doubt, press **Enter**. The full step-by-step is on the [GitHub CLI tool page](/docs/tools/github-cli#authenticate-first-time-walkthrough).
+
+**[VS Code](/docs/tools/vscode)** (recommended, not required): Download from [code.visualstudio.com](https://code.visualstudio.com). Available for Mac, Windows, and Linux. Claude Code runs in any terminal, but VS Code gives you a file explorer and integrated terminal side by side, which makes it easy to see what your agent is doing.
 
 ---
 
@@ -93,14 +107,14 @@ The native installer is the fastest method, requires no dependencies (Node.js is
 <Tabs>
 <TabItem value="mac" label="Mac / Linux / WSL">
 
-```bash
+```bash title="Terminal"
 curl -fsSL https://claude.ai/install.sh | bash
 ```
 
 </TabItem>
 <TabItem value="windows-ps" label="Windows (PowerShell)">
 
-```powershell
+```powershell title="PowerShell"
 irm https://claude.ai/install.ps1 | iex
 ```
 
@@ -109,7 +123,7 @@ If you see `The token '&&' is not a valid statement separator`, you are in Power
 </TabItem>
 <TabItem value="windows-cmd" label="Windows (CMD)">
 
-```batch
+```batch title="Command Prompt"
 curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del install.cmd
 ```
 
@@ -123,7 +137,9 @@ Your prompt shows `PS C:\` when you are in PowerShell. If you see that, use the 
 <Tabs>
 <TabItem value="homebrew" label="Homebrew (Mac / Linux)">
 
-```bash
+Uses [Homebrew](/docs/tools/homebrew).
+
+```bash title="Terminal"
 brew install --cask claude-code
 ```
 
@@ -132,7 +148,7 @@ Homebrew installations do not auto-update. Run `brew upgrade claude-code` period
 </TabItem>
 <TabItem value="winget" label="WinGet (Windows)">
 
-```powershell
+```powershell title="PowerShell"
 winget install Anthropic.ClaudeCode
 ```
 
@@ -143,13 +159,13 @@ WinGet installations do not auto-update. Run `winget upgrade Anthropic.ClaudeCod
 
 ### Verify
 
-```bash
+```bash title="Terminal"
 claude --version
 ```
 
 **If you get `command not found: claude`:** Claude Code is installed but its binary is not on your shell's PATH. On Mac and Linux, add it to your shell config and reload:
 
-```bash
+```bash title="Terminal"
 echo 'export PATH="$HOME/.claude/local:$PATH"' >> ~/.zshrc
 source ~/.zshrc
 ```
@@ -188,7 +204,7 @@ The short version: launch `claude`, paste one prompt, and it uses `gh` to create
 
 Once your workspace exists, open the **workspace folder itself** in VS Code. Do not open its parent (e.g., `~/Documents/github-repos/`). The `.agents/skills/` directory Claude Code auto-discovers is only found when VS Code has the workspace folder as its root.
 
-```bash
+```bash title="Terminal"
 cd ~/Documents/github-repos    # wherever your workspace lives
 code my-jarvis                  # passes the workspace folder directly to VS Code
 ```
@@ -201,7 +217,7 @@ code my-jarvis                  # passes the workspace folder directly to VS Cod
 
 Open the terminal in VS Code (`` Ctrl+` `` or `` Cmd+` `` on Mac) and launch Claude Code:
 
-```bash
+```bash title="Terminal"
 claude
 ```
 
@@ -235,7 +251,7 @@ One alias makes launching Claude Code a lot faster once you are using it daily:
 
 Open a Claude Code session in any directory (it does not matter which, since you are editing shell config, not workspace files):
 
-```bash
+```bash title="Terminal"
 claude
 ```
 
@@ -269,7 +285,7 @@ Claude Code will detect your shell, find or create the right config file, and ap
 
 **Turn on hourly auto-sync.** The starter repo ships with `scripts/sync.sh` (commits local changes, pulls, pushes) and `scripts/install-sync-cron.sh` (registers it as an hourly cron). Run the installer once and you never have to think about backup or keeping collaborators in sync again:
 
-```bash
+```bash title="Terminal"
 cd my-jarvis
 bash scripts/install-sync-cron.sh
 ```
