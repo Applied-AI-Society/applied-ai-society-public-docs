@@ -86,3 +86,4 @@ Suit up.
 - [The Self-Improving Human](/docs/concepts/the-self-improving-human): The practice underneath hyperagency. You are already a cyborg. The question is whether you are upgrading yourself on purpose.
 - [Build Your Jarvis In Community](/docs/philosophy/build-your-jarvis-in-community): Hyperagency at scale: how you become a conscious cyborg by building alongside others doing the same
 - [Pirates, Architects, and Archetypes of the Future](/docs/concepts/pirates-architects-and-archetypes-of-the-future): Your neurotype is a primary lever of whether you become a hyperagent. The AI era makes more cognitive styles legible as real work.
+- [The Career Lattice](/docs/philosophy/the-career-lattice): The labor-market backdrop. Why hyperagency is not optional as the career ladder collapses for young workers.

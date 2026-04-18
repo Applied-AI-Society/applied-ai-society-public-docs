@@ -126,3 +126,4 @@ Choose.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your system. The place to start.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial. One afternoon to begin.
 - [The Encounter](/docs/concepts/the-encounter): Why seeing it in person changes everything.
+- [The Career Lattice](/docs/philosophy/the-career-lattice): The labor-market data behind the fork, and which skills become more valuable on the other side.
