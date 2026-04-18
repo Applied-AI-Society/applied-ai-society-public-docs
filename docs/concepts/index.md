@@ -18,6 +18,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your AI-operated business OS. The system that compounds over time as your context lake deepens.
 - [Harness Engineering](/docs/concepts/harness-engineering): The code wrapped around an AI model matters as much as the model itself. Choose harnesses that maximize utility, cost, and sovereignty.
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): Lessons from Claude Code's source code, and what they teach practitioners about building their own systems
+- [The Case for Simple Harnesses](/docs/concepts/the-case-for-simple-harnesses): A small core, extensible edges, your context under your control. Why minimal harnesses keep winning as the field matures, and why kitchen-sink defaults are the real failure mode.
 - [Instruction Files](/docs/concepts/instruction-files): The persistent directives that configure how your AI agent operates. CLAUDE.md, AGENTS.md, skill files, memory files.
 - [Interview Prompts](/docs/concepts/interview-prompts): A prompt-design pattern where the prompt itself instructs the agent to interview the user for any missing variables, instead of asking the user to Mad Lib placeholders.
 - [Compounding Docs](/docs/concepts/compounding-docs): Documentation as a compounding asset. Every file you add makes every other file more useful.

@@ -78,6 +78,7 @@ All software will be self-evolving software. The question is not whether this ha
 ## Further Reading
 
 - [Anatomy of a Harness: Lessons from Claude Code's Source](/docs/concepts/anatomy-of-a-harness): Deep technical analysis of a real-world harness, with patterns mapped to every concept in this article
+- [The Case for Simple Harnesses](/docs/concepts/the-case-for-simple-harnesses): An architectural stance on what a harness should do and what it should refuse to do
 - [The Permission Surface](/docs/concepts/the-permission-surface): Why constraining agents improves both safety and output quality
 - [Instruction Files](/docs/concepts/instruction-files): CLAUDE.md, skills, and memory as the user-configurable layer of the harness
 - [MetaHarness Paper](https://arxiv.org/abs/2603.28052) (Stanford, MIT, Krafton, March 2026)

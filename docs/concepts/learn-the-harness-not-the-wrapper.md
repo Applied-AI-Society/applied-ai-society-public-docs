@@ -163,3 +163,4 @@ The friction is real. The upside is uncapped.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where we walk you through setting this up
 - [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup): The default harness we teach
 - [Hermes Setup](/docs/playbooks/practitioner/hermes-setup): A second harness to prove your skills transfer
+- [The Case for Simple Harnesses](/docs/concepts/the-case-for-simple-harnesses): Why minimal harnesses keep winning and kitchen-sink defaults are the failure mode
