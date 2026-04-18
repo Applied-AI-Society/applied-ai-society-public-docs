@@ -32,6 +32,45 @@ What to avoid in 2026: TeamViewer (price hikes, 2024 APT29 breach, forced perpet
 
 ---
 
+## Before the call: what each side sets up
+
+The quality of a remote coaching session is 70% decided before anyone joins the call. Use this checklist.
+
+### The trainer hosts. Always.
+
+The trainer creates the meeting, owns the link, and runs the call. Three reasons:
+
+- **Account-level settings.** Remote control has to be enabled in the host's Zoom account (Settings → In Meeting (Basic) → Remote control). The host's account is where this lives.
+- **No 40-minute cap.** The trainer should be on Zoom Pro, Team, or Business. The free tier cuts group calls at 40 minutes, which is not enough time for an install session if anything goes sideways.
+- **Recording, co-hosts, waiting rooms.** All of these are the host's to configure. Recording the call (with consent) so the coachee can replay later is often the single most useful thing a trainer does.
+
+If a coachee invites a trainer to a call the coachee hosted, move to a trainer-hosted link before starting work. It is a small friction up front and saves fifteen different failure modes downstream.
+
+### Trainer: before you send the invite
+
+- [ ] **Confirm the end state with the coachee.** Are they starting from zero, or stuck at a specific step? What hardware and OS (Mac or Windows)? Ask before the call; walk in knowing.
+- [ ] **Send Phase 0 of the [Supersuit Up tutorial](/docs/workshops/supersuit-up) at least 24 hours ahead.** They need time to update their OS (can take 1-2 hours), create a GitHub account, and have a working credit card handy. Nothing kills a 90-minute coaching block like starting on a pending macOS update.
+- [ ] **Make sure "Remote control" is enabled in your Zoom account settings.** On free / older accounts it is sometimes off by default. Check it once, once.
+- [ ] **Update your Zoom client to the latest version.** Two clients on different versions sometimes fail to hand off remote control cleanly.
+- [ ] **Create the meeting on a Pro+ Zoom account** (yours, not the coachee's). Add the coachee as an attendee. Enable recording to the cloud or locally.
+- [ ] **Send the calendar invite with the Zoom link + a one-pager of what to prepare.** Include the coachee checklist below.
+- [ ] **Have your own Jarvis workspace open** during the call. You will frequently pull up your own `CLAUDE.md`, skill files, or example artifacts to show the coachee what the finished result looks like.
+- [ ] **Have a backup channel ready.** Text them on WhatsApp or SMS if Zoom acts up.
+
+### Coachee: the night before and the morning of
+
+- [ ] **Complete Phase 0 of the [Supersuit Up tutorial](/docs/workshops/supersuit-up) the night before.** Update your OS. Create a GitHub account. Have a credit card ready. Plug in your charger. This is the most important prep step; everything else on this checklist is faster.
+- [ ] **Know your laptop admin password.** The one you type to log in on a fresh boot, not your Apple ID or Google password. You will need it during install. Write it down somewhere safe if you do not remember it.
+- [ ] **Test the Zoom link** 5 to 10 minutes before the call. Join, confirm your camera and mic work, leave, rejoin when the trainer starts.
+- [ ] **Close sensitive apps.** Lock your password manager. Close email, banking tabs, anything showing 2FA codes or recovery phrases. See [Safety practices](#safety-practices) for the full list.
+- [ ] **Quit unnecessary apps to free RAM.** Downloads during install can take several gigabytes; you want headroom.
+- [ ] **Get on strong Wi-Fi** (or plug into ethernet). Downloads during install can be large; a spotty cafe connection will stretch a 30-minute session into two hours.
+- [ ] **On macOS, pre-grant Zoom Screen Recording and Accessibility permissions.** System Settings → Privacy & Security → Screen Recording (check Zoom), then Accessibility (check Zoom), then restart Zoom. The first time anyone does this, it takes about two minutes and the install session cannot progress without it.
+- [ ] **Block 60 to 90 minutes of uninterrupted time.** Turn off notifications. Close Slack. Put your phone face down.
+- [ ] **Have the trainer's contact info on another device.** If Zoom fails completely, you want to reach them by text.
+
+---
+
 ## Zoom: the default
 
 If you are running a remote workshop and have not thought about this yet, use Zoom. It is on every participant's computer already, it works on Mac and Windows, and the remote control handoff is a three-click flow.
