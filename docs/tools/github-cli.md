@@ -45,11 +45,11 @@ gh auth login
 
 `gh` will walk you through a series of questions in the terminal. The defaults are the right answer for almost everyone. Here is exactly what you will see and what to do at each step:
 
-1. **"Where do you use GitHub?"** — Use the up/down arrow keys to move, press **Enter** to select. Select **GitHub.com**.
-2. **"What is your preferred protocol for Git operations on this host?"** (HTTPS or SSH) — Just press **Enter** to accept the default (**HTTPS**).
-3. **"Authenticate Git with your GitHub credentials?"** — Press **Enter** to accept the default (**Yes**).
-4. **"How would you like to authenticate GitHub CLI?"** — Use arrow keys to select **Login with a web browser**, then press **Enter**.
-5. **"First copy your one-time code:"** — `gh` prints a one-time code that looks like `ABCD-1234` (eight characters and a dash). **Drag your mouse across the code to highlight it, then copy** (Cmd+C on Mac, Ctrl+C on Windows/Linux). Then press **Enter** to open GitHub in your browser.
+1. **"Where do you use GitHub?"** Use the up/down arrow keys to move, press **Enter** to select. Select **GitHub.com**.
+2. **"What is your preferred protocol for Git operations on this host?"** (HTTPS or SSH). Just press **Enter** to accept the default (**HTTPS**).
+3. **"Authenticate Git with your GitHub credentials?"** Press **Enter** to accept the default (**Yes**).
+4. **"How would you like to authenticate GitHub CLI?"** Use arrow keys to select **Login with a web browser**, then press **Enter**.
+5. **"First copy your one-time code:"** `gh` prints a one-time code that looks like `ABCD-1234` (eight characters and a dash). **Drag your mouse across the code to highlight it, then copy** (Cmd+C on Mac, Ctrl+C on Windows/Linux). Then press **Enter** to open GitHub in your browser.
 6. In the browser, on the **Device Activation** screen, click **Continue**.
 7. Paste the code (**Cmd+V** on Mac, **Ctrl+V** on Windows/Linux) into the field and click **Continue**.
 8. Click **Authorize GitHub**.
