@@ -50,7 +50,7 @@ If a coachee invites a trainer to a call the coachee hosted, move to a trainer-h
 
 - [ ] **Confirm the end state with the coachee.** Are they starting from zero, or stuck at a specific step? What hardware and OS (Mac or Windows)? Ask before the call; walk in knowing.
 - [ ] **Send Phase 0 of the [Supersuit Up tutorial](/docs/workshops/supersuit-up) at least 24 hours ahead.** They need time to update their OS (can take 1-2 hours), create a GitHub account, and have a working credit card handy. Nothing kills a 90-minute coaching block like starting on a pending macOS update.
-- [ ] **Make sure "Remote control" is enabled in your Zoom account settings.** On free / older accounts it is sometimes off by default. Check it once, once.
+- [ ] **Make sure "Remote control" is enabled in your Zoom account settings.** Zoom web portal → Settings → Meeting tab → In Meeting (Basic) → Remote control. Toggle it on. **If this toggle is off, the Request Remote Control option will not appear at all during the meeting.** On free / older accounts it is sometimes off by default. Check it once, once. While you are there, you can also enable "Allow remote controlling user to share clipboard" so you can copy text between machines during the call.
 - [ ] **Update your Zoom client to the latest version.** Two clients on different versions sometimes fail to hand off remote control cleanly.
 - [ ] **Create the meeting on a Pro+ Zoom account** (yours, not the coachee's). Add the coachee as an attendee. Enable recording to the cloud or locally.
 - [ ] **Send the calendar invite with the Zoom link + a one-pager of what to prepare.** Include the coachee checklist below.
@@ -81,9 +81,9 @@ If you are running a remote workshop and have not thought about this yet, use Zo
 
 1. Participant clicks **Share Screen** in the Zoom meeting and picks their desktop (not just a single window, or the coach will only see one app).
 2. On Mac, Zoom may prompt the participant to grant **Screen Recording** and **Accessibility** permissions the first time. Open System Settings → Privacy & Security → Screen Recording and Accessibility, check the box next to Zoom, and restart Zoom. This is a one-time setup; subsequent sessions skip this step.
-3. Coach clicks the three dots next to the participant's name in the meeting, selects **Request Remote Control**, and clicks Request.
-4. Participant gets a prompt: "... is requesting remote control of your screen." Click **Approve**.
-5. Coach now drives the participant's mouse and keyboard. The participant sees their cursor moving.
+3. Coach clicks the three dots next to the participant's name in the meeting, selects **Request Remote Control**, and clicks Request. (On Linux, you cannot request; the participant has to initiate via *Give remote control to* from the floating share toolbar.)
+4. Participant gets a prompt: "... is requesting remote control of your screen." **They must tick the "I know and trust the user" checkbox** before the Approve button becomes clickable. Warn them about this step; a lot of first-time participants stare at a greyed-out Approve button without noticing the checkbox.
+5. Coach now drives the participant's mouse and keyboard. The participant sees their cursor moving, and the title of the screen-share tab at the top of the meeting window changes to *Controlling [name]'s screen*.
 
 ### Handing control back
 
