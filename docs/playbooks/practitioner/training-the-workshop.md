@@ -233,6 +233,7 @@ If you want to run a Personal Agentic OS workshop in your community, here is the
 4. **3.5 to 4 hours** of uninterrupted time.
 5. **Familiarity with both Mac and Windows** terminal basics so you can debug installation issues.
 6. **A fresh WhatsApp group** with an invite QR code on a slide, ready to go before the build phase. (See "Build a Cohort Community" above.)
+7. **A remote-control workflow you can walk participants through on the fly.** For remote sessions, being able to briefly take control of a participant's screen is the difference between unstuck-in-a-minute and stuck-for-an-hour. See [Remote Control for Coaching](/docs/tools/remote-control) for the shortlist (Zoom, Google Meet + Chrome Remote Desktop, Tuple, RustDesk) and the safety checklist for both sides.
 
 You do not need to be an engineer. You need to be someone who has done this and can help others through the rough spots.
 
@@ -250,3 +251,4 @@ If you run a workshop, share what you learned. Update this playbook by contribut
 - [The Question Bank](/docs/concepts/sovereign-agentic-business-os/question-bank): High-leverage questions for deeper user profile interviews
 - [Game Design](/docs/concepts/game-design): The framing for how humans define objectives for their agents
 - [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): How to run Applied AI events (the workshop fits as a format)
+- [Remote Control for Coaching](/docs/tools/remote-control): How trainer and participant set up their machines so remote help actually works

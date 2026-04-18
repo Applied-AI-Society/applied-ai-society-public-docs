@@ -1,0 +1,145 @@
+---
+sidebar_position: 20
+title: "Remote Control for Coaching"
+---
+
+# Remote Control for Coaching
+
+*How to set up your computer so a coach can watch your screen and, when needed, briefly take control to help you over an install issue. Remote coaching is almost essential for Jarvis setup when the coach cannot be next to you.*
+
+---
+
+## Why this page exists
+
+Getting a [Personal Agentic OS](/docs/concepts/personal-agentic-os) running for the first time is 90% joyful and 10% "my terminal is doing something weird and I don't know why." That 10% usually takes a trained coach 30 seconds to fix, when they can see your screen. When the coach is remote, the difference between "take control for a moment" and "describe the error over voice" is the difference between resolved-in-a-minute and stuck-for-an-hour.
+
+This page documents how to set up remote screen sharing and optional remote control for coaching sessions. It is written for **both sides**: the coach who wants a reliable way to help, and the workshop participant who wants to know what to install so help can actually happen.
+
+---
+
+## The shortlist
+
+Pick one. All four work. Start with the first that matches your situation.
+
+| Tool | Best for | Cost | Trust model |
+|---|---|---|---|
+| **[Zoom remote control](#zoom-the-default)** | Default. Everyone already has Zoom. Good enough for most 30-minute coaching calls. | Free (up to 40 min per call) | Cloud-hosted, US-based. |
+| **[Google Meet + Chrome Remote Desktop](#google-meet--chrome-remote-desktop)** | Google-first teams. Meet for video/voice, Chrome Remote Desktop for the actual control. | Free | Cloud-hosted, US-based. |
+| **[Tuple](#tuple-pair-programming-feel)** | Long sessions where it feels more like pair programming. Very high fidelity. | ~$29/mo per coach | End-to-end encrypted. Screen data does not hit Tuple's servers. |
+| **[RustDesk](#rustdesk-sovereign-option)** | Sovereignty-first. You want to self-host or stay off US-company servers. | Free, open source | Self-hostable. |
+
+What to avoid in 2026: TeamViewer (price hikes, 2024 APT29 breach, forced perpetual-license termination) and AnyDesk (October 2025 price hike of 26-40%, shift to connection-based licensing). Both still work; neither is a good default for this community.
+
+---
+
+## Zoom: the default
+
+If you are running a remote workshop and have not thought about this yet, use Zoom. It is on every participant's computer already, it works on Mac and Windows, and the remote control handoff is a three-click flow.
+
+### Step by step
+
+**The participant shares their screen first.** Remote control in Zoom is only available for the person who is sharing. That is almost always the student during a coaching session.
+
+1. Participant clicks **Share Screen** in the Zoom meeting and picks their desktop (not just a single window, or the coach will only see one app).
+2. On Mac, Zoom may prompt the participant to grant **Screen Recording** and **Accessibility** permissions the first time. Open System Settings → Privacy & Security → Screen Recording and Accessibility, check the box next to Zoom, and restart Zoom. This is a one-time setup; subsequent sessions skip this step.
+3. Coach clicks the three dots next to the participant's name in the meeting, selects **Request Remote Control**, and clicks Request.
+4. Participant gets a prompt: "... is requesting remote control of your screen." Click **Approve**.
+5. Coach now drives the participant's mouse and keyboard. The participant sees their cursor moving.
+
+### Handing control back
+
+- Participant can click anywhere on their screen to temporarily take over, or click **Stop Share** to end the session.
+- Coach can click **View Options** → **Give Up Remote Control** to hand it back voluntarily.
+
+### What the coach cannot do
+
+- **Click through most system password prompts or OS security dialogs.** macOS admin password dialogs and Windows UAC prompts are intentionally not clickable via screen-share remote control. The participant has to type their admin password themselves. Tell them to expect this.
+- **Access a second monitor if only one was shared.** If you need the coach to see everything, have the participant share their full desktop from the start.
+
+### When Zoom falls short
+
+The Zoom free tier caps group calls at 40 minutes. For a full Jarvis setup session (typically 45 to 90 minutes), the coach needs a Zoom Pro account. If neither of you has one, move to Google Meet or Tuple.
+
+---
+
+## Google Meet + Chrome Remote Desktop
+
+Google Meet itself does not include remote control. The working pattern is: run the video/voice on Google Meet, run the control on [Chrome Remote Desktop](https://remotedesktop.google.com).
+
+### Step by step
+
+1. Participant visits [remotedesktop.google.com/support](https://remotedesktop.google.com/support) and clicks **Share this screen** (first-time users install the Chrome extension when prompted).
+2. Google generates a **12-digit access code**. Participant reads this to the coach over the Meet call.
+3. Coach goes to the same URL, enters the 12-digit code under **Give support**, and clicks **Connect**.
+4. Participant approves the prompt on their screen.
+5. Coach has full remote control. Participant can end the session anytime by clicking **Stop Sharing**.
+
+This setup takes longer than Zoom's one-click flow, but the control quality is better and there is no 40-minute call limit.
+
+---
+
+## Tuple: pair-programming feel
+
+If you are coaching someone for the long haul (multiple sessions, pairing on their first real Jarvis workflows), [Tuple](https://tuple.app/) is the nicest experience of anything here. High-resolution streaming, end-to-end encryption, low latency, both-parties-have-cursors mode. Mac and Windows.
+
+The tradeoff is cost: Tuple is ~$29/month per host. For an organization running many workshops, this is trivial. For a solo coach running a couple sessions a month, Zoom is plenty.
+
+Install on the coach's machine, send an invite link to the participant (they install a lightweight client), and go.
+
+---
+
+## RustDesk: sovereign option
+
+For teams that want to stay off US-company servers, [RustDesk](https://rustdesk.com) is an open-source remote desktop tool that you can self-host. It is a direct functional replacement for TeamViewer and AnyDesk.
+
+Default setup uses RustDesk's public rendezvous servers (free, fine for most people). If sovereignty matters more, spin up your own rendezvous server on a VPS and both sides connect through that. Install is `brew install --cask rustdesk` on Mac, or the installer from the GitHub releases page on Windows.
+
+Security model: open source, self-hostable, no company collecting your screen data. The tradeoff is a slightly rougher user experience than Tuple and a small amount of trust placed in whoever runs the rendezvous server you connect to.
+
+---
+
+## OS-native fallbacks
+
+If all else fails, the operating systems have built-in options.
+
+- **macOS Screen Sharing**: System Settings → General → Sharing → Screen Sharing. Works for Mac-to-Mac only, and the user being controlled needs to give their Apple ID or grant the session manually. Good for family or internal team use.
+- **Windows Quick Assist**: Pre-installed on Windows 10/11. Search "Quick Assist" in the Start menu. Coach gives participant a six-digit code; participant types it in and grants control. Works well and is Microsoft-native, so no extra install.
+- **Apple Messages screen share**: If both sides are on iMessage and on Apple devices, start an iMessage thread, click the person's name, and there is a "Share" button for screen sharing. Surprisingly reliable.
+
+---
+
+## Safety practices
+
+Giving someone remote control of your computer is a serious trust action, even for a few minutes. A short checklist:
+
+- **Close your password manager, email, and any open banking / finance tabs before the session.** If 1Password or Bitwarden is unlocked, lock it. You do not want the coach accidentally seeing (or clicking) anything sensitive.
+- **Close any window showing two-factor codes or recovery phrases.** Cryptocurrency wallets, authenticator apps, anything that displays secrets on screen.
+- **Watch your screen the whole time.** Do not walk away. You are the emergency stop.
+- **End the session the moment anything feels off.** Click Stop Share, end the call, and close the app. No explanation needed. A trustworthy coach will understand.
+- **Only use this with people you actually know and trust.** Remote control of your machine is not a thing to offer to a stranger on the internet. Community-verified AAS trainers and coaches are fine. Random DMs offering "help" with your setup are not.
+- **After the session, scan for what changed.** `git status` in your Jarvis workspace shows exactly what files were added or modified. Review the diff. Understand what the coach did.
+
+---
+
+## For coaches: your coaching kit
+
+Set this up once on your machine and you are ready for any Jarvis coaching session that comes in.
+
+1. **Install Zoom and get at least the free tier working.** Know how to initiate a Request Remote Control action in your sleep.
+2. **Bookmark the Zoom, Google Meet, and Chrome Remote Desktop flows.** You will need to talk a nervous first-time participant through the "Approve" prompts.
+3. **Keep your own Jarvis workspace open alongside the coaching session.** You will frequently pull up your own skill files or example artifacts to show the participant what the finished result looks like.
+4. **Have a one-pager ready to send participants before the call.** Something like: "Before our session, please install Zoom, make sure your OS is updated, and know your laptop admin password. We will do everything else together."
+
+---
+
+## Sources
+
+- [Zoom: Requesting or giving remote control](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065790)
+- [Chrome Remote Desktop](https://remotedesktop.google.com)
+- [Tuple](https://tuple.app)
+- [RustDesk](https://rustdesk.com) (open source, self-hostable)
+
+## Related
+
+- [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): trainer playbook for running Jarvis workshops, including remote sessions
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up): the tutorial a coach is walking participants through

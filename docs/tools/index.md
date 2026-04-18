@@ -23,4 +23,8 @@ Every code block on this site has a **copy button** (top-right of the block). Wh
 - [Node.js](/docs/tools/nodejs): JavaScript runtime. Required by many agentic tools and gives you `npm` for installing hundreds of developer tools.
 - [VS Code](/docs/tools/vscode): The editor we recommend. Lets you see your workspace files next to your agent in one window.
 
+## Coaching and support
+
+- [Remote Control for Coaching](/docs/tools/remote-control): How to set up your computer so a trainer or coach can watch your screen and briefly take control when you are stuck. Zoom, Google Meet + Chrome Remote Desktop, Tuple, and RustDesk compared.
+
 More tools will be added as workshops reference them.
