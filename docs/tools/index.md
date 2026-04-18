@@ -27,4 +27,8 @@ Every code block on this site has a **copy button** (top-right of the block). Wh
 
 - [Remote Control for Coaching](/docs/tools/remote-control): How to set up your computer so a trainer or coach can watch your screen and briefly take control when you are stuck. Zoom, Google Meet + Chrome Remote Desktop, Tuple, and RustDesk compared.
 
+## Capture
+
+- [Capturing Conversations](/docs/tools/capturing-conversations): Get every meeting, voice memo, and phone call into files your Jarvis can read. Granola + alternatives for meetings, built-in voice recorders for solo capture, native iPhone / Pixel call recording for phone conversations.
+
 More tools will be added as workshops reference them.
