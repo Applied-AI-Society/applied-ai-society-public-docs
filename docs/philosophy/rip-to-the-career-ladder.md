@@ -1,29 +1,65 @@
 ---
 sidebar_position: 11
-title: "The Career Lattice"
+title: "RIP To The Career Ladder"
 ---
 
-# The Career Lattice
+# RIP To The Career Ladder
 
-*The career ladder is breaking for young workers in AI-exposed jobs. What replaces it is a lattice: more movement, more paths, and a different set of skills at the top.*
+*For young workers in AI-exposed jobs, the ladder is already collapsing. What replaces it is a lattice, with a different set of skills at the top. Which version of that lattice wins depends on what we do right now.*
 
 ---
 
-## The Canary
+## The Writing On The Wall
 
-In November 2025, Stanford's Digital Economy Lab published **[Canaries in the Coal Mine](https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf)**. Tracking millions of U.S. workers through ADP payroll data, economist Bharat Chandar and his collaborators Erik Brynjolfsson and Ruyu Chen found something stark.
+Applied AI practitioners have been watching this come for more than a year. In March 2026, Applied AI Society leadership named it directly in **[The Writing on the Wall: the Rise of Applied AI and the Life-or-Death Choice Every CEO Must Make Now](https://digitalcommons.humboldt.edu/digitallab/13/)**: every leader, every worker, every young person deciding what to study this year is standing at a fork. The runway to decide is measured in quarters.
 
-In occupations most exposed to AI (software development, customer service, administrative roles), employment for workers 22 to 25 was growing 16% slower than in occupations less exposed. More experienced workers in the same fields were still on trend.
+The data has caught up. Three papers across November 2025 to March 2026 put numbers on what practitioners have been living.
 
-The canary is not that AI is eliminating these jobs. The canary is that the *entry ramp* into these jobs is quietly closing.
+---
 
-The follow-on data has only sharpened the picture. In the updated series referenced across early-2026 coverage, employment for software developers aged 22 to 25 has fallen **nearly 20% since late 2022**, the exact moment generative AI tools entered mainstream use. Developers 30 and over in the same companies saw employment grow 6% to 12% in the same window. Same jobs, same firms, different ages, opposite direction. That is the shape of a rung collapsing.
+## The Canary (Stanford, Nov 2025)
 
-Then the corporate-decision layer showed up. In March 2026, the [Duke CFO Survey, run with the Federal Reserve Banks of Atlanta and Richmond](https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research/publication/working-paper/2026/03/25/04-artificial-intelligence-productivity-and-the-workforce-evidence-from-corporate-executives.pdf), polled 750 CFOs and projected **roughly 502,000 AI-driven job cuts in 2026, about nine times the 2025 figure**. Per the survey's own authors, that is still only 0.4% of the U.S. workforce ("not the doomsday scenario"). But half of the losses are projected to fall on high-skill services, and most cuts are *preemptive*: companies acting on what they *expect* AI to do, not on what it has already demonstrably done inside their own firm. Over the next three years, the same executives predict AI will boost productivity 1.4%, raise output 0.8%, and cut employment 0.7%. The reallocation has begun, quietly, at the top of the org chart.
+Stanford's Digital Economy Lab published **[Canaries in the Coal Mine](https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf)**. Economist Bharat Chandar and his collaborators Erik Brynjolfsson and Ruyu Chen tracked millions of U.S. workers through ADP payroll data.
 
-And the capability side is compounding in a direction that matters for AAS. Anthropic's [March 2026 Economic Index: Learning Curves](https://www.anthropic.com/research/economic-index-march-2026-report) report found that experienced users achieve roughly **10% higher success rates** in conversations than newer users, controlling for task type and country, and that high-tenure users tackle measurably more sophisticated work over time. The report names this directly as **skill-biased technological change**: early, more-technical adopters pull ahead, and the gap compounds. The people already building with AI every day in 2026 are becoming a different economic class than the people who started last month.
+In AI-exposed occupations (software development, customer service, administrative roles), employment for workers 22 to 25 was growing **16% slower** than in less-exposed occupations. Workers 30 and over in the same fields were still on trend.
 
-Put the three findings together and you get the actual picture: entry-level ramps narrowing, organizations reallocating faster than most employees realize, and early adopters compounding advantage every week they keep practicing.
+Follow-on figures sharpened it. Employment for software developers aged 22 to 25 has now fallen **nearly 20% since late 2022**, the exact moment generative AI tools entered mainstream use. Devs 30 and over in the same companies saw employment grow 6% to 12% in the same window.
+
+Same jobs. Same firms. Different ages. Opposite direction. That is the shape of a rung collapsing.
+
+---
+
+## The Corporate Signal (Duke + Atlanta & Richmond Fed, March 2026)
+
+The decision-maker data came next. The **[Duke CFO Survey run with the Federal Reserve Banks of Atlanta and Richmond](https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research/publication/working-paper/2026/03/25/04-artificial-intelligence-productivity-and-the-workforce-evidence-from-corporate-executives.pdf)** polled 750 CFOs and projected **roughly 502,000 AI-driven job cuts in 2026, about nine times the 2025 figure**.
+
+The authors are careful: that is still 0.4% of the U.S. workforce ("not the doomsday scenario"). But the shape matters.
+
+- Half the losses are projected in high-skill services.
+- Most cuts are *preemptive*: companies acting on what they expect AI to do, not what it has already demonstrably done in their own firm.
+- Over the next three years, the same executives predict AI will boost productivity 1.4%, raise output 0.8%, and cut employment 0.7%.
+
+This is what the [Survivor Economy](/docs/concepts/the-survivor-economy) looks like from the finance team's spreadsheet. Inside the companies that employ most of the workforce, a quiet sorting has begun. The people who can harness AI become load-bearing. The ones who cannot are being written out of the org chart, one quarterly plan at a time.
+
+---
+
+## The Compounding Gap (Anthropic, March 2026)
+
+And the capability side is widening the gap every day. Anthropic's **[Economic Index: Learning Curves](https://www.anthropic.com/research/economic-index-march-2026-report)** report found that experienced users achieve roughly **10% higher success rates** in conversations than newer users, controlling for task type and country. High-tenure users tackle measurably more sophisticated work over time.
+
+The report names the dynamic directly: **skill-biased technological change**. Early, more-technical adopters pull ahead, and the gap compounds. The people already building with AI every day in 2026 are becoming a different economic class than the people who started last month.
+
+---
+
+## The Picture
+
+Put the three signals together:
+
+- Entry ramps narrowing. (Stanford)
+- Organizations reallocating preemptively. (Duke / Atlanta Fed)
+- Early adopters compounding. (Anthropic)
+
+That is the writing on the wall. The runway to respond is measured in months.
 
 ---
 
@@ -63,11 +99,11 @@ Agentic strategy is one of the clearest expressions of this shift. When you have
 
 ### Social skills and relationship capital
 
-This is the category most underweighted by the usual AI-and-work discourse. It should not be. Three beats:
+The usual AI-and-work discourse underweights this category. It should be at the center. A few beats:
 
-- **Trust is built in person, not in prompts.** Founders close deals because someone believed in them. Partnerships compound because two people actually like each other. Communities form around people who show up. AI does not make any of that less true. It makes it *more* true, because the ambient level of slop rises and the premium on a real human relationship rises with it.
-- **Cultural nuance matters more, not less.** Globalized AI means globalized opportunity. The practitioners pulling work toward them are the ones who can read a room, adapt across contexts, and communicate with warmth. Our own chapter leaders opening AAS presence in new cities and countries are living this every day: language, empathy, and cultural pattern-matching are the difference between a chapter that takes root and one that doesn't. (See [Tim Dort-Golts' transformation](/docs/case-studies/tim-dort-golts-personal-transformation) for one close-up.)
-- **Being [someone's go-to person](/docs/concepts/being-someones-go-to-person) is a moat.** When capability levels off across everyone with a Jarvis, the differentiator is the human your client calls first. Relationship capital is not a soft skill. It is the hardest form of leverage.
+- **Trust is built in person.** Founders close deals because someone believed in them. Partnerships compound because two people actually like each other. Communities form around people who show up. AI does not make any of that less true. It makes it *more* true, because the ambient level of slop rises and the premium on a real human relationship rises with it.
+- **Cultural nuance matters more as work globalizes.** Globalized AI means globalized opportunity. The practitioners pulling work toward them are the ones who can read a room, adapt across contexts, and communicate with warmth. Our own chapter leaders opening AAS presence in new cities and countries are living this every day: language, empathy, and cultural pattern-matching are the difference between a chapter that takes root and one that doesn't.
+- **Being [someone's go-to person](/docs/concepts/being-someones-go-to-person) is a moat.** When capability levels off across everyone with a Jarvis, the differentiator is the human your client calls first. Relationship capital is the hardest form of leverage in the AI economy, full stop.
 
 ### Tacit and hyper-local knowledge
 
@@ -85,9 +121,9 @@ The practitioners pulling away from the pack are the ones who can look at a tool
 
 This is the meta-skill that ties the others together.
 
-We keep watching the same pattern emerge: cities become soulful AI cities not because they have more capital, but because one to three people decide to host the recurring thing. They show up, they make it legible, they invite, they introduce, they sponsor, they keep going. In Austin, in LA, in Dallas, in Bordeaux, every healthy chapter started this way.
+We keep watching the same pattern emerge: cities become soulful AI cities when one to three people decide to host the recurring thing. Capital does not do it. People do. They show up, they make it legible, they invite, they introduce, they sponsor, they keep going. In Austin, in LA, in Dallas, in Bordeaux, every healthy chapter started this way.
 
-Community leadership is not training-intensive. It is disposition-intensive. Warmth, consistency, abundance mindset, willingness to make things happen. These are human capacities that AI amplifies rather than replaces, and they are now among the most important skills anyone can cultivate. (See [Build Your Jarvis In Community](/docs/philosophy/build-your-jarvis-in-community).)
+Community leadership is disposition-intensive more than training-intensive. Warmth, consistency, abundance mindset, willingness to make things happen. These are human capacities that AI amplifies rather than replaces, and they are now among the most important skills anyone can cultivate. (See [Build Your Jarvis In Community](/docs/philosophy/build-your-jarvis-in-community).)
 
 ---
 
@@ -99,9 +135,9 @@ Our mandate sits directly on this shift.
 
 **We teach the meta-skills, not the tool.** The specific harness will change every six months. The practice of managing your own context, defining what you want, iterating on your own thinking, leading your own community: that does not. [Hyperagency](/docs/concepts/hyperagency) is vendor-neutral and life-portable.
 
-**We refuse to foster dependence.** Our playbooks are open source. Our docs are public. The point is not "only AAS can teach you this." The point is: here is the best we know. Go do it. Improve it. Share back. That is how the floor rises across the whole labor market at once.
+**We refuse to foster dependence.** Our playbooks are open source. Our docs are public. Here is the best we know. Go do it. Improve it. Share back. That is how the floor rises across the whole labor market at once.
 
-**We build local community.** Not because community is a nice add-on, but because social skill and relational capital are now load-bearing. People learn applied AI by doing it next to each other. Chapter leaders are a critical pillar of the transition, and the [Community Leader](/docs/roles/community-leader) role is one of the emerging careers we are documenting as it forms.
+**We build local community because social skill and relational capital are now load-bearing.** People learn applied AI by doing it next to each other. Chapter leaders are a critical pillar of the transition, and the [Community Leader](/docs/roles/community-leader) role is one of the emerging careers we are documenting as it forms.
 
 ---
 
@@ -119,7 +155,7 @@ And find your local community. If there isn't one, [start it](/docs/playbooks/ch
 
 ## What to Do If You're Leading
 
-Hire young people. Train them deliberately. The private incentive is to hire fewer juniors because they might leave. The social consequence of everyone acting on that incentive is a generation that never develops. Be the kind of operator who takes the social side of the tradeoff seriously. The short-term cost is real. The long-term payoff is a bench of people who know your business from the inside out.
+Hire young people who are already applied-AI fluent. Not any young people. The ones who have built a Jarvis, who think in skill files, who have been running their own operating system for months. That capability compounds on day one inside your business. Train them deliberately. The private incentive is to hire fewer juniors because they might leave. The social consequence of everyone acting on that incentive is a generation that never develops. Be the kind of operator who takes the social side of the tradeoff seriously. The short-term cost is real. The long-term payoff is a bench of applied-AI-native operators who know your business from the inside out.
 
 Invest in the dimensions AI does not commoditize. Judgment, taste, relationships, community, and the practice of defining reality. These are the things your organization will compete on in five years.
 
@@ -137,15 +173,18 @@ That is the work.
 
 ## Further Reading
 
-### External research
+### External research and framing
 
-- [Canaries in the Coal Mine](https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf) (Brynjolfsson, Chandar, Chen, Stanford Digital Economy Lab, Nov 2025): The paper that named this shift.
+- [The Writing on the Wall](https://digitalcommons.humboldt.edu/digitallab/13/) (Sheng & Roberts, March 2026): The framing piece. Names the applied-AI transition as the life-or-death choice every leader now faces.
+- [Canaries in the Coal Mine](https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf) (Brynjolfsson, Chandar, Chen, Stanford Digital Economy Lab, Nov 2025): The paper that named the employment signal.
 - [Anthropic Economic Index: Learning Curves](https://www.anthropic.com/research/economic-index-march-2026-report) (March 2026): Skill-biased technological change already visible in Claude usage; experienced users pull ahead.
 - [Anthropic Economic Index: Labor market impacts](https://www.anthropic.com/research/labor-market-impacts) (March 2026): Observed-exposure framework. Slower hiring into entry-level AI-exposed roles rather than mass layoffs.
 - [Artificial Intelligence, Productivity, and the Workforce](https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research/publication/working-paper/2026/03/25/04-artificial-intelligence-productivity-and-the-workforce-evidence-from-corporate-executives.pdf) (Duke CFO Survey + Atlanta & Richmond Fed, March 2026): 750-CFO survey. Projected ~502K AI-driven cuts in 2026 (~9x 2025), largely preemptive, concentrated in high-skill services.
 
 ### AAS concepts and playbooks
 
+- [Jevons Paradox](/docs/concepts/jevons-paradox): The economic mechanism underneath. As AI commoditizes execution, total demand for smart humans expands into work that was previously uneconomic.
+- [The Survivor Economy](/docs/concepts/the-survivor-economy): What the preemptive sorting looks like from inside the companies doing it.
 - [Agentic Strategy](/docs/concepts/agentic-strategy): Strategy is the new execution, practiced daily.
 - [Hyperagency](/docs/concepts/hyperagency): What it looks like when a human wraps AI around themselves.
 - [Being Someone's Go-To Person](/docs/concepts/being-someones-go-to-person): Why relationship capital is now the hardest form of leverage.
@@ -153,4 +192,3 @@ That is the work.
 - [The Amplification Effect](/docs/philosophy/the-amplification-effect): How skill gaps compound at AI speed.
 - [Your Two Futures](/docs/philosophy/your-two-futures): The daily decision underneath all of this.
 - [Community Leader](/docs/roles/community-leader): The emerging career built around local applied AI community.
-- [Tim Dort-Golts' Personal Transformation](/docs/case-studies/tim-dort-golts-personal-transformation): One young practitioner living the lattice in real time.

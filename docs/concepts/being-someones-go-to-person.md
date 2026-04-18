@@ -150,4 +150,4 @@ If those four are real, the demand for you will be larger than your capacity. Ch
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The bigger market frame
 - [Compounding Docs](/docs/concepts/compounding-docs): What you help the people you serve build
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The first thing you teach
-- [The Career Lattice](/docs/philosophy/the-career-lattice): Why relationship capital is now one of the hardest forms of leverage in the labor market
+- [RIP To The Career Ladder](/docs/philosophy/rip-to-the-career-ladder): Why relationship capital is now one of the hardest forms of leverage in the labor market

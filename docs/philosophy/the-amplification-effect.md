@@ -81,4 +81,4 @@ If you are building your career in the AI economy:
 - [Why Making Money Matters](/docs/philosophy/why-making-money-matters): Revenue as the signal of useful AI application
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): The progression from execution to system design
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The trap of building without market grounding
-- [The Career Lattice](/docs/philosophy/the-career-lattice): Which dimensions matter most in the new labor market and how they compound
+- [RIP To The Career Ladder](/docs/philosophy/rip-to-the-career-ladder): Which dimensions matter most in the new labor market and how they compound
