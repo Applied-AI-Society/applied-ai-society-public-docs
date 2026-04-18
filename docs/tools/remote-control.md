@@ -160,17 +160,6 @@ Giving someone remote control of your computer is a serious trust action, even f
 
 ---
 
-## For coaches: your coaching kit
-
-Set this up once on your machine and you are ready for any Jarvis coaching session that comes in.
-
-1. **Install Zoom and get at least the free tier working.** Know how to initiate a Request Remote Control action in your sleep.
-2. **Bookmark the Zoom, Google Meet, and Chrome Remote Desktop flows.** You will need to talk a nervous first-time participant through the "Approve" prompts.
-3. **Keep your own Jarvis workspace open alongside the coaching session.** You will frequently pull up your own skill files or example artifacts to show the participant what the finished result looks like.
-4. **Have a one-pager ready to send participants before the call.** Something like: "Before our session, please install Zoom, make sure your OS is updated, and know your laptop admin password. We will do everything else together."
-
----
-
 ## Sources
 
 - [Zoom: Requesting or giving remote control](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065790)

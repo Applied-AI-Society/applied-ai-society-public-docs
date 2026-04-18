@@ -72,7 +72,7 @@ The files are not independent. They interact in a loop.
 
 **A new conversation happens.** You record a transcript.
 
-→ Your agent reads the transcript and updates the relevant dossiers (what Sarah now cares about, what Acme's next priority is, who new was in the room).
+→ Your agent reads the transcript and updates the relevant dossiers (what Sarah now cares about, what Acme's next priority is, who was new in the room).
 
 → The transcript may surface a new strategic question, which becomes an artifact (a proposal, a decision doc, a pressure-test of a plan).
 

@@ -29,17 +29,17 @@ Each of these lands an audio file or a transcript in a place you can drop into `
 
 ### What it is
 
-[Granola](https://granola.ai) listens to the audio on your machine during a meeting, transcribes it locally, and builds structured notes from the combination of the live audio and any notes you type during the call. Unlike most competitors, it does not join the meeting as a bot, so the other participants never see "Granola is recording" in the attendee list. It is just another app running on your computer.
+[Granola](https://granola.ai) listens to the audio on your machine during a meeting, sends it to Granola's servers for transcription and summarization, and builds structured notes from the combination of the transcript and any notes you type during the call. Unlike most competitors, it does not join the meeting as a bot, so the other participants never see "Granola is recording" in the attendee list. It is just another app running on your computer.
 
 After the meeting, Granola gives you a clean transcript plus a structured summary in whatever template you picked (meeting notes, one-on-one, user interview, sales call, etc.). You export the markdown and drop it into `meeting-transcripts/YYYY-MM-DD_<audience>_<title>.md` in your Jarvis workspace.
 
 ### Why the workshops use it
 
-Granola is the most reliable "I had a meeting, it is now captured" loop we have found. It works for in-person meetings too: open the laptop on the table, hit record, the built-in transcription handles the rest. It works for remote video calls without announcing itself as a bot, which matters in sensitive conversations (therapy, legal, financial, intimate partner). And the transcript-plus-summary output is already in the format your Jarvis wants.
+Granola is the most reliable "I had a meeting, it is now captured" loop we have found. It works for in-person meetings too: open the laptop on the table, hit record, let Granola transcribe and summarize afterward. It works for remote video calls without announcing itself as a bot, which matters in sensitive conversations (therapy, legal, financial, intimate partner). And the transcript-plus-summary output is already in the format your Jarvis wants.
 
 ### Is this safe to install?
 
-Yes, with caveats on consent (covered below). Granola runs on your computer, transcribes locally-adjacent, and stores your notes. Read their privacy policy if you handle regulated data. Mac and Windows supported. There is a free tier that is enough for personal use; the paid tier removes meeting limits.
+Yes, with caveats on consent (covered below) and on cloud transcription. Granola runs on your computer and sends audio to their servers for processing. Read [their privacy policy](https://www.granola.ai/privacy) if you handle regulated data; for HIPAA or attorney-client conversations, do not use Granola or any other cloud transcription tool. Mac and Windows supported. There is a free tier that is enough for personal use; the paid tier removes meeting limits.
 
 ### Install
 
@@ -91,7 +91,7 @@ Three paths, in order of preference:
 
 1. **AirDrop / Nearby Share the audio file to your computer**, drop it into `meeting-transcripts/` or a dedicated `voice-memos/` subfolder, and ask your Jarvis to process it. Most harnesses can transcribe audio directly; if not, use Superwhisper or a local transcription skill.
 2. **iOS 18+ built-in transcript:** open the memo in Voice Memos, tap the transcript icon, copy the text, paste into a new markdown file in `meeting-transcripts/`.
-3. **Sync skill for power users:** [Gary's Apple Voice Memos sync skill](https://github.com/garysheng) (or equivalent) pulls from `~/Library/Group Containers/group.com.apple.VoiceMemos.shared/Recordings/` automatically. Advanced; not required for day one.
+3. **Sync skill for power users:** a skill file that watches `~/Library/Group Containers/group.com.apple.VoiceMemos.shared/Recordings/` and pulls new `.m4a` files into your workspace automatically. Advanced; write one yourself once the pattern is clear, or ask your Jarvis to write it for you. Not required for day one.
 
 ### Bonus: Superwhisper as a capture tool
 
