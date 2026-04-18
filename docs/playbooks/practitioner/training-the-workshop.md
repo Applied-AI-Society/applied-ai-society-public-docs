@@ -189,6 +189,40 @@ March 31 2026 workshop participant:
 
 ---
 
+## Build a Cohort Community Every Time You Run This
+
+A workshop is not a one-off event. It is the birth of a micro-community. The people in the room just spent four hours getting Jarvised together. They now share a vocabulary, a mental model, a set of recent screen-shares, and (if you do your job) real questions they want to keep answering together. Treat that as the asset it is.
+
+### Spin up a WhatsApp group for every cohort
+
+For each workshop or cohort, create a dedicated WhatsApp group and invite every participant before the build phase begins. The group is the persistent layer that turns "people who came to a workshop" into "a community that keeps upskilling together."
+
+**Why WhatsApp specifically:**
+
+- **It is deliberately hard to automate.** WhatsApp does not have a general-purpose public API the way Slack, Discord, or Telegram do. That is a feature. It keeps the group human. No bots, no scraping, no aggregation tools sucking up your cohort's conversations for training data. For a community built on sovereignty and real relationships, this is the right default.
+- **It is already on everyone's phone.** Zero-friction install. Notifications that are actually read.
+- **It is intimate by design.** Group sizes stay small enough that conversations have signal. Everyone sees every message.
+
+**When to introduce it:**
+
+Put a **QR code for the WhatsApp group invite on a slide in every workshop deck you ever run**, between the agenda slide and the "Let's build" slide. Have participants scan it right before the hands-on work begins, so the group is on their phone throughout the build. This is the moment they will have the most questions, and this is the cohort they want to be asking those questions in.
+
+**What to put in the group:**
+
+- Short welcome and norms ("ask anything, share wins, drop interesting links, this room is a safe space for applied-AI field notes").
+- A pinned link back to the [Supersuit Up Workshop](/docs/workshops/supersuit-up) tutorial.
+- Periodic check-ins from you as the trainer over the following weeks: a prompt a week, a useful skill file, an open question about what people have built since.
+
+**After the workshop:**
+
+Post the WhatsApp link one more time in whatever channel invited people (Luma, email, Discord). Anyone who missed it during the live session should have a way in. The cohort should stay active for at least a few weeks while the system is compounding for each person.
+
+### This is the pattern, not the exception
+
+Every cohort gets its own group. This is not overhead. This is the mechanism by which one workshop turns into an ongoing micro-community of applied-AI practitioners in your city, your company, or your network. Over time, several cohorts may want to merge into a single running group or graduate to a [local chapter](/docs/playbooks/chapter-leader/starting-a-chapter). That is exactly how scenes grow.
+
+---
+
 ## Running Your Own Workshop
 
 If you want to run a Personal Agentic OS workshop in your community, here is the minimum you need:
@@ -198,6 +232,7 @@ If you want to run a Personal Agentic OS workshop in your community, here is the
 3. **A video call link** for remote participants (optional but recommended).
 4. **3.5 to 4 hours** of uninterrupted time.
 5. **Familiarity with both Mac and Windows** terminal basics so you can debug installation issues.
+6. **A fresh WhatsApp group** with an invite QR code on a slide, ready to go before the build phase. (See "Build a Cohort Community" above.)
 
 You do not need to be an engineer. You need to be someone who has done this and can help others through the rough spots.
 
