@@ -37,6 +37,10 @@ If you are inside an existing company right now, you have two paths:
 
 Both paths require the same foundation: [applied AI literacy](/docs/applied-ai-literacy). The ability to work with AI agents effectively, to build systems that compound, to translate intent into execution through a well-designed [harness](/docs/concepts/the-soul-harness).
 
+## The Jevons Flipside
+
+The Survivor Economy is the *inside-the-company* view of the shift. The *economy-wide* view is [Jevons Paradox](/docs/concepts/jevons-paradox): as AI makes execution cheap, total demand for smart humans expands into categories of work that used to be uneconomic. New job categories, long-tail services, and higher expectations for quality all create *more* work, not less. The people who survive inside a given company are the ones positioned to ride that expansion.
+
 ## The New Roles
 
 As automation consolidates existing roles, new roles are emerging. They do not have standardized titles yet, but the patterns are clear:

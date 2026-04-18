@@ -87,3 +87,4 @@ Suit up.
 - [Build Your Jarvis In Community](/docs/philosophy/build-your-jarvis-in-community): Hyperagency at scale: how you become a conscious cyborg by building alongside others doing the same
 - [Pirates, Architects, and Archetypes of the Future](/docs/concepts/pirates-architects-and-archetypes-of-the-future): Your neurotype is a primary lever of whether you become a hyperagent. The AI era makes more cognitive styles legible as real work.
 - [RIP To The Career Ladder](/docs/philosophy/rip-to-the-career-ladder): The labor-market backdrop. Why hyperagency is not optional as the career ladder collapses for young workers.
+- [Jevons Paradox](/docs/concepts/jevons-paradox): The economic mechanism. As AI makes execution cheap, total demand for smart humans expands. Hyperagents ride that expansion.
