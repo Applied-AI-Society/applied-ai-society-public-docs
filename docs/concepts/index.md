@@ -50,6 +50,10 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Hypercontext Protocol](/docs/concepts/hypercontext-protocol): Your Personal Agentic OS as an API to the world. Trusted agents query your context directly through a permission surface.
 - [The Permission Surface](/docs/concepts/the-permission-surface): Access control for agent systems. Who can see what, do what, and when.
 
+### Relationship layer
+
+- [PRM (Personal Relationship Management)](/docs/concepts/prm): The relationship layer of your Personal Agentic OS. One file per person, transcripts per conversation, artifacts per strategic move, all cross-referenced.
+
 ### Economy and Roles
 
 - [Hyperagency](/docs/concepts/hyperagency): Two types of people are emerging: hyperagents (humans amplified by AI) and everyone else. The defining split of this economy.
