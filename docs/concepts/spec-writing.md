@@ -23,6 +23,31 @@ This means the specification document is no longer a preliminary step on the way
 
 ---
 
+## Vibe Coding Is Not Enough
+
+The fastest way to understand why the spec matters is to contrast two modes of AI-assisted building.
+
+**Vibe coding.** You open your agent, type a prompt for the app you want, watch it generate boilerplate, edit the prompt, try again, and iterate your way toward something close to what you had in mind. This is fast. It feels magical. It is excellent for exploration, prototypes, and testing whether an idea is worth pursuing at all. It is also non-deterministic: a hundred attempts at the same prompt will produce a hundred different implementations, and the process itself tells you nothing about *why* the agent made the choices it made. There is no durable artifact beyond the code.
+
+**Spec-driven development.** You do not prompt an implementation. You prompt the behavior, constraints, and success criteria you want. That specification becomes a contract that governs every downstream step: requirements, design, implementation, tests, documentation, verification. At each stage, you approve or edit before the next one begins. Nothing gets built on fuzzy inputs. By the time code is written, the spec has already done the hard thinking.
+
+A concrete example. "Build me a login page" is vibe coding. Fast, maybe useful, but the agent has thirty plausible implementations and you will burn cycles discovering which one it picked. Spec-driven looks more like:
+
+- **Feature:** user authentication
+- **Endpoint:** POST /login
+- **Inputs:** `user` (string), `pass` (string)
+- **Success:** return 200 with a session token
+- **Failure modes:** missing username returns 400; bad password returns 401
+- **Tests:** valid credentials → 200; missing user → 400; bad pass → 401
+
+When the agent starts writing code, it knows exactly what good looks like, and you know exactly what it is going to produce. No ambiguity, no fifteen-round reprompt loop, and the spec itself becomes the durable artifact your team can reference a year later.
+
+People sometimes describe this as test-driven development on steroids. TDD said: write the test first, let it shape the code. Spec-driven development goes further upstream: write the behavior, the constraints, the design, the tests, and *then* the code. The spec is upstream of all of it.
+
+Vibe coding is still useful. It is the right tool for quick exploration, throwaway prototypes, and the first minute of checking whether an idea is worth building. Spec-driven is the discipline that gets you from "interesting prototype" to "system your business can trust."
+
+---
+
 ## The Quality Chain
 
 Here is the chain that governs outcomes in an AI-native workflow:
