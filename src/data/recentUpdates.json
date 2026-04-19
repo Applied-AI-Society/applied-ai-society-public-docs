@@ -1,5 +1,13 @@
 [
   {
+    "title": "Remote Control for Coaching",
+    "link": "/docs/tools/remote-control",
+    "date": "2026-04-19",
+    "summary": "How to set up your computer so a coach can watch your screen and, when needed, briefly take control to help you over ...",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "Agent-Accessible Products",
     "link": "/docs/concepts/agent-accessible-products",
     "date": "2026-04-19",
@@ -52,14 +60,6 @@
     "link": "/docs/playbooks/practitioner/workspace-setup",
     "date": "2026-04-19",
     "summary": "Create your private Jarvis workspace from the Minimum Viable Jarvis template without ever leaving your harness. One p...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "See Your Own Thinking",
-    "link": "/docs/concepts/see-your-own-thinking",
-    "date": "2026-04-19",
-    "summary": "Most people have never seen their own thinking laid out in front of them. When they do, everything changes.",
     "tag": "Updated"
   }
 ]

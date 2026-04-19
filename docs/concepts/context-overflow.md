@@ -15,7 +15,7 @@ In AI, context overflow happens when a model receives more information than it c
 
 Humans have the same problem. And for high-signal people, it is the single biggest threat to sustained output.
 
-Here is how it works. You build something real. You develop expertise. You become genuinely helpful. Word gets out, not through marketing, but through [signalmaxxing](/docs/concepts/signalmaxxing): you are so clearly valuable that people find you. They want to collaborate. They want your input. They want to partner on something. They bring ideas, projects, introductions, opportunities.
+Here is how it works. You build something real. You develop expertise. You become genuinely helpful. Word gets out through [signalmaxxing](/docs/concepts/signalmaxxing): you are so clearly valuable that people find you. They want to collaborate. They want your input. They want to partner on something. They bring ideas, projects, introductions, opportunities.
 
 And every single one of them feels exciting.
 
