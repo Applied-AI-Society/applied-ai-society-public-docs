@@ -64,10 +64,13 @@ function HeroSection(): React.ReactElement {
           A shared field notes hub for making sense of and seizing the opportunities in the applied AI economy. Roles, concepts, case studies, and playbooks, all evolving in the open.
         </p>
         <div className={styles.heroActions}>
-          <Link className={styles.primaryButton} to="/docs/about">
+          <Link className={styles.primaryButton} to="/docs/get-jarvised">
+            Get Jarvised →
+          </Link>
+          <Link className={styles.secondaryButton} to="/docs/about">
             About
           </Link>
-          <Link className={styles.secondaryButton} to="/docs/playbooks/chapter-leader/starting-a-chapter">
+          <Link className={styles.tertiaryButton} to="/docs/playbooks/chapter-leader/starting-a-chapter">
             Start a Chapter
           </Link>
         </div>
