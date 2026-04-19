@@ -17,7 +17,7 @@ AI changed the bottleneck. Execution is increasingly cheap. A well-configured [a
 
 What did not get cheaper: knowing which report to write. Knowing whether the spreadsheet is measuring the right thing. Knowing whether the feature solves the right problem. Knowing which emails matter and which are noise. Knowing what the data means.
 
-That is strategy. And strategy is now the bottleneck.
+That is strategy. And strategy is now the bottleneck. Because strategy lives in a human, [you are the bottleneck](/docs/concepts/you-are-the-bottleneck).
 
 ---
 
@@ -73,3 +73,4 @@ This loop, repeated daily, compounds. After 90 days your AI knows your prioritie
 - [The Spec Is the Product](/docs/concepts/spec-writing): The parallel insight for builders: implementation is commoditized, the spec is where the value lives
 - [Scaling Slop](/docs/concepts/slop-factory): What happens when you automate a bad strategy
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where the strategic foundation gets built
+- [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): The personal version. If strategy is the bottleneck, and strategy lives in you, then you are the bottleneck. No hire, tool, or multiplier fixes that from outside.
