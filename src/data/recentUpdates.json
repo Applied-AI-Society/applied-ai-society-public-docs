@@ -1,5 +1,13 @@
 [
   {
+    "title": "Context Overflow",
+    "link": "/docs/concepts/context-overflow",
+    "date": "2026-04-19",
+    "summary": "The most dangerous form of overwhelm is the kind that feels like momentum.",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "Remote Control for Coaching",
     "link": "/docs/tools/remote-control",
     "date": "2026-04-19",
@@ -52,14 +60,6 @@
     "link": "/docs/playbooks/practitioner/codex-setup",
     "date": "2026-04-19",
     "summary": "Codex is OpenAI's open source terminal agent. It reads your files, runs commands, and operates inside your workspace....",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Set Up Your Workspace",
-    "link": "/docs/playbooks/practitioner/workspace-setup",
-    "date": "2026-04-19",
-    "summary": "Create your private Jarvis workspace from the Minimum Viable Jarvis template without ever leaving your harness. One p...",
     "tag": "Updated"
   }
 ]
