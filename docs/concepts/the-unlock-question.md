@@ -43,7 +43,7 @@ Work through these when the primary question feels vague or the answer feels too
 
 The [Personal Agentic OS](/docs/concepts/personal-agentic-os) is a direct instrument for this discipline. Two specific uses:
 
-- **Run the `think-through-it` skill** any time you feel stuck or scattered. It interviews you about the real blocker, pushes for specificity, and saves an actionable plan to your [context lake](/docs/concepts/context-lake). The opening question is the unlock question, by design. The follow-ups are there to catch you when you are reaching for the controllable hard.
+- **Run the `get-unlocked` skill** (`/get-unlocked` in Claude Code) any time you feel stuck or scattered. It interviews you about the real blocker, pushes for specificity, and saves an actionable plan to your [context lake](/docs/concepts/context-lake). The opening question is the unlock question, by design. The follow-ups are there to catch you when you are reaching for the controllable hard.
 - **Audit your own week** through your Jarvis. Dump what you did the last seven days into the terminal. Ask: "Given my strategic priorities, am I doing the real work, or am I doing high-leverage avoidance?" The answer is often painful and fast.
 
 A Jarvis that never asks you the unlock question is a Jarvis helping you avoid better.

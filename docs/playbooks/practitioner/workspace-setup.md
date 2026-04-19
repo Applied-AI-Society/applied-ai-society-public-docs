@@ -108,7 +108,7 @@ You cannot accidentally push to the template. The push URL is `DISABLED` and you
 - A local clone in your projects folder
 - An upstream remote wired for pulling future template updates, with the push URL safety-disabled
 - A `user/USER.md` populated by `onboard` on your first session in the workspace
-- The full set of [built-in skills](https://github.com/Applied-AI-Society/minimum-viable-jarvis/tree/main/.agents/skills) ready to use: `onboard`, `create-user-profile`, `think-through-it`, `process-braindump`, `prep-for-meeting`, `process-transcript`, `create-skill`, `sync-with-upstream`
+- The full set of [built-in skills](https://github.com/Applied-AI-Society/minimum-viable-jarvis/tree/main/.agents/skills) ready to use: `onboard`, `create-user-profile`, `get-unlocked`, `process-braindump`, `prep-for-meeting`, `process-transcript`, `create-skill`, `sync-with-upstream`
 
 You are ready to build.
 

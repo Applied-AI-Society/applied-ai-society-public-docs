@@ -89,13 +89,22 @@ my-jarvis/
   people/                 # One file per person in your life and business
   artifacts/              # Strategic documents, decision records, plans
   meeting-transcripts/    # Raw or processed conversation transcripts
-  .agents/skills/         # Skill files (Codex auto-discovers these as /slash commands)
+  .agents/skills/         # Skill files (read by Codex when invoked by name)
   .claude/skills          # Symlink → ../.agents/skills so Claude Code discovers the same dir
   AGENTS.md               # Instructions for Codex and any AGENTS.md-aware harness
   CLAUDE.md               # Instructions for Claude Code (points to AGENTS.md)
 ```
 
-Codex reads `AGENTS.md` at session start and auto-discovers slash commands from `.agents/skills/`. You can invoke any skill directly with `/skill-name` (e.g. `/onboard`, `/sync-with-upstream`) or use natural language that the AGENTS.md routing table recognizes. The instructions are plain text and work across harnesses.
+:::caution[Codex does not have native slash commands like Claude Code]
+Claude Code has a first-class `/slash-command` menu that auto-lists every skill in `.agents/skills/` and fires the matching `SKILL.md`. **Codex does not.** Codex reads `AGENTS.md` on session start and routes input based on the routing table inside it.
+
+To invoke a skill in Codex, use **natural language** that matches a row in the AGENTS.md routing table, or **name the skill file explicitly**:
+
+- Natural: *"Help me think through something"* → routing table maps to `get-unlocked`.
+- Explicit: *"Run the skill at `.agents/skills/get-unlocked/SKILL.md`"* or *"Execute the get-unlocked skill."*
+
+The skill files themselves are harness-agnostic, so the behavior is identical to Claude Code once the skill is loaded. The only difference is the invocation surface. If you paste `/get-unlocked` into Codex, Codex will usually interpret it as "run the get-unlocked skill" because of AGENTS.md context, but it is not a native command and is less reliable than natural language.
+:::
 
 ---
 
@@ -108,7 +117,7 @@ cd my-jarvis
 codex
 ```
 
-Tell Codex about yourself. The starter repo ships a `create-user-profile` skill (auto-discovered by Codex from `.agents/skills/`) that walks through building your `user/USER.md` profile. Invoke it with `/create-user-profile` or just say: “Interview me to create my user profile.”
+Tell Codex about yourself. The starter repo ships a `create-user-profile` skill that walks through building your `user/USER.md` profile. Invoke it with natural language: “Interview me to create my user profile” or “Run the create-user-profile skill.” (Codex does not have native slash commands, see the caution above.)
 
 This profile becomes the foundation. Every future session builds on it.
 
