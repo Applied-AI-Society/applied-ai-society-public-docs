@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Supersuit Up Workshop",
+    "link": "/docs/workshops/supersuit-up",
+    "date": "2026-04-18",
+    "summary": "Build your Personal Agentic OS. Some people call this “Jarvising Yourself” (a nod to Tony Stark's AI). Whatever you c...",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "Community of Practice",
     "link": "/docs/concepts/community-of-practice",
     "date": "2026-04-18",
@@ -52,14 +60,6 @@
     "link": "/docs/concepts/minimum-commercial-viability",
     "date": "2026-04-18",
     "summary": "The applied AI economy's version of \"minimum viable product,\" but applied to you. The floor below which you are no lo...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "PRM (Personal Relationship Management)",
-    "link": "/docs/concepts/prm",
-    "date": "2026-04-18",
-    "summary": "The relationship layer of your Personal Agentic OS. One file per person who matters. Transcripts per conversation. St...",
     "tag": "New"
   }
 ]
