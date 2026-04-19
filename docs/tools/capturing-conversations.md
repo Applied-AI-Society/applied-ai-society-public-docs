@@ -39,7 +39,7 @@ Granola is the most reliable "I had a meeting, it is now captured" loop we have 
 
 ### Is this safe to install?
 
-Yes, with caveats on consent (covered below) and on cloud transcription. Granola runs on your computer and sends audio to their servers for processing. Read [their privacy policy](https://www.granola.ai/privacy) if you handle regulated data; for HIPAA or attorney-client conversations, do not use Granola or any other cloud transcription tool. Mac and Windows supported. There is a free tier that is enough for personal use; the paid tier removes meeting limits.
+Yes, with caveats on consent (covered below) and on cloud transcription. Granola runs on your computer and sends audio to their servers for processing. Read [their privacy policy](https://www.granola.ai/privacy) if you handle regulated data; for HIPAA or attorney-client conversations, do not use Granola or any other cloud transcription tool. If you need everything local (audio never leaves your machine), use [Meetily](#meetily) instead. Mac and Windows supported. There is a free tier that is enough for personal use; the paid tier removes meeting limits.
 
 ### Install
 
@@ -59,6 +59,7 @@ Download from [granola.ai](https://granola.ai). Create an account. Open the app 
 
 Granola is our default. Reasonable alternatives depending on your situation:
 
+- **[Meetily](https://meetily.ai)** {#meetily}: locally hosted, sovereign alternative. Runs transcription and summarization on your own machine so audio and notes never leave your computer. Free for individuals. The right choice if you handle regulated conversations (HIPAA, attorney-client, therapy) or care about keeping meeting data off third-party servers. Aligns with the AAS instinct toward keeping your agentic stack on hardware you own.
 - **[Otter](https://otter.ai)**: best live collaborative transcription. Joins the call as a bot. Good if you want multiple people seeing the transcript in real time.
 - **[Fathom](https://fathom.video)**: most generous free tier (unlimited recordings, limited AI summaries). Good starting point if cost is the deciding factor.
 - **[Fireflies](https://fireflies.ai)**: strongest for sales-conversation intelligence. Joins as a bot.
