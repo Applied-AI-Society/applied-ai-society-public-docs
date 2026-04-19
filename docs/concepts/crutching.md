@@ -77,3 +77,4 @@ That is not crutching. That is [suiting up](/docs/concepts/hyperagency).
 - [The Soul Harness](/docs/concepts/the-soul-harness): Predatory harnesses encourage crutching. Liberating harnesses build your capability.
 - [The Slopacalypse](/docs/concepts/slopacalypse): What happens when an entire economy crutches on AI. Volume without purpose.
 - [Ignorance Debt](/docs/concepts/ignorance-debt): The gap between what you know and what you need to know. Crutching widens it.
+- [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): The sibling failure mode. Crutching hides from your own atrophy. Being the bottleneck hides from your own limits. Same root avoidance, different surface.
