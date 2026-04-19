@@ -5,7 +5,7 @@ title: "Context Lake"
 
 # Context Lake
 
-*The collection of everything your AI knows about you, your operation, and your world.*
+*The collection of everything your AI knows about you, your operation, and your world. Also known as the **context castle**: your agent's memory palace.*
 
 ---
 
@@ -22,6 +22,14 @@ The term borrows from “data lake” in enterprise software (a centralized repo
 - **How you operate.** Skill files, SOPs, workflows. The repeatable processes that define how work gets done.
 
 All of it is plain text. All of it is version-controlled. All of it is yours. No platform owns it. No subscription locks it away. If you switch AI tools tomorrow, your context lake comes with you.
+
+## Also Known As: Context Castle
+
+Think of your context lake as your agent's **memory palace**. Ancient mnemonists walked through imagined buildings to retrieve memories stored in rooms. Your agent does the same thing: it walks through the structure of your context lake (files, folders, skills) to remember who you are, who you know, and what has happened.
+
+**Agents need memory palaces too.** Without external memory, every session starts from zero. The AI wakes up like Leonard Shelby in *Memento*: a sharp mind with no recall of the last conversation. Leonard survived on tattoos, Polaroids, and handwritten notes. Your agent survives on markdown files.
+
+Context lake and context castle name the same thing. Lake for the fluidity and depth of what accumulates. Castle for the architecture that holds it together. Pick whichever image makes the concept land for you.
 
 ## Why It Matters
 
