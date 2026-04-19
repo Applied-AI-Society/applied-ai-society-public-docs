@@ -1,5 +1,13 @@
 [
   {
+    "title": "Jarvis Workspace",
+    "link": "/docs/concepts/jarvis-workspace",
+    "date": "2026-04-19",
+    "summary": "The cockpit. A single window where the file tree and the agentic terminal share the same context, and both the human ...",
+    "tag": "New"
+  }
+,
+  {
     "title": "The Unlock Question",
     "link": "/docs/concepts/the-unlock-question",
     "date": "2026-04-19",
@@ -53,13 +61,5 @@
     "date": "2026-04-18",
     "summary": "The AI one gets the attention. The full picture is bigger. A starting list of the domains worth being literate in to ...",
     "tag": "New"
-  }
-,
-  {
-    "title": "Context Lake",
-    "link": "/docs/concepts/context-lake",
-    "date": "2026-04-18",
-    "summary": "The collection of everything your AI knows about you, your operation, and your world. Also known as the context castl...",
-    "tag": "Updated"
   }
 ]
