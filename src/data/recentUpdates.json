@@ -1,5 +1,13 @@
 [
   {
+    "title": "Context Lake",
+    "link": "/docs/concepts/context-lake",
+    "date": "2026-04-18",
+    "summary": "The collection of everything your AI knows about you, your operation, and your world. Also known as the context castl...",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "Starting a Chapter or Community",
     "link": "/docs/playbooks/chapter-leader/starting-a-chapter",
     "date": "2026-04-18",
@@ -52,14 +60,6 @@
     "link": "/docs/tools/remote-control",
     "date": "2026-04-18",
     "summary": "How to set up your computer so a coach can watch your screen and, when needed, briefly take control to help you over ...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Priming Your Jarvis",
-    "link": "/docs/playbooks/practitioner/priming-your-jarvis",
-    "date": "2026-04-18",
-    "summary": "The tactical discipline of giving your agent enough context before you ask it to do anything real. Drag the relevant ...",
     "tag": "New"
   }
 ]
