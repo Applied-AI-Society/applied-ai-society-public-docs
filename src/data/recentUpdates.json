@@ -1,5 +1,13 @@
 [
   {
+    "title": "Starting a Chapter or Community",
+    "link": "/docs/playbooks/chapter-leader/starting-a-chapter",
+    "date": "2026-04-18",
+    "summary": "How to launch an Applied AI Society community in your city or on your campus. This could be a formal chapter, a stude...",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "Co-Steward With Us",
     "link": "/docs/about/co-stewardship",
     "date": "2026-04-18",
@@ -53,13 +61,5 @@
     "date": "2026-04-18",
     "summary": "The tactical discipline of giving your agent enough context before you ask it to do anything real. Drag the relevant ...",
     "tag": "New"
-  }
-,
-  {
-    "title": "Training the Personal Agentic OS Workshop: A Guide for Instructors",
-    "link": "/docs/playbooks/practitioner/training-the-workshop",
-    "date": "2026-04-18",
-    "summary": "A playbook for anyone who wants to teach other people how to set up their Personal Agentic OS (what some people affec...",
-    "tag": "Updated"
   }
 ]
