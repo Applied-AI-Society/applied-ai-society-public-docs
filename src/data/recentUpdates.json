@@ -1,13 +1,5 @@
 [
   {
-    "title": "See Your Own Thinking",
-    "link": "/docs/concepts/see-your-own-thinking",
-    "date": "2026-04-19",
-    "summary": "Most people have never seen their own thinking laid out in front of them. When they do, everything changes.",
-    "tag": "Updated"
-  }
-,
-  {
     "title": "The Unlock Question",
     "link": "/docs/concepts/the-unlock-question",
     "date": "2026-04-19",
@@ -16,10 +8,34 @@
   }
 ,
   {
+    "title": "Setting Up OpenAI Codex",
+    "link": "/docs/playbooks/practitioner/codex-setup",
+    "date": "2026-04-19",
+    "summary": "Codex is OpenAI's open source terminal agent. It reads your files, runs commands, and operates inside your workspace....",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Set Up Your Workspace",
+    "link": "/docs/playbooks/practitioner/workspace-setup",
+    "date": "2026-04-19",
+    "summary": "Create your private Jarvis workspace from the Minimum Viable Jarvis template without ever leaving your harness. One p...",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "The Supersuit Up Workshop",
     "link": "/docs/workshops/supersuit-up",
     "date": "2026-04-19",
     "summary": "Build your Personal Agentic OS. Some people call this “Jarvising Yourself” (a nod to Tony Stark's AI). Whatever you c...",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "See Your Own Thinking",
+    "link": "/docs/concepts/see-your-own-thinking",
+    "date": "2026-04-19",
+    "summary": "Most people have never seen their own thinking laid out in front of them. When they do, everything changes.",
     "tag": "Updated"
   }
 ,
@@ -44,22 +60,6 @@
     "link": "/docs/concepts/context-lake",
     "date": "2026-04-18",
     "summary": "The collection of everything your AI knows about you, your operation, and your world. Also known as the context castl...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Starting a Chapter or Community",
-    "link": "/docs/playbooks/chapter-leader/starting-a-chapter",
-    "date": "2026-04-18",
-    "summary": "How to launch an Applied AI Society community in your city or on your campus. This could be a formal chapter, a stude...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Co-Steward With Us",
-    "link": "/docs/about/co-stewardship",
-    "date": "2026-04-18",
-    "summary": "The most powerful way to partner with the Applied AI Society is to co-maintain the truth.",
     "tag": "Updated"
   }
 ]

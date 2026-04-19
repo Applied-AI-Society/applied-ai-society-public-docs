@@ -16,6 +16,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Context Lake](/docs/concepts/context-lake): The structured collection of markdown files that powers your AI system. Your persistent memory layer. The foundation everything else builds on.
 - [Context Engineering](/docs/concepts/context-engineering): Curating the right information state for AI systems so agents have the knowledge they need, when they need it
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your AI-operated business OS. The system that compounds over time as your context lake deepens.
+- [Jarvis Workspace](/docs/concepts/jarvis-workspace): The cockpit. One window, file tree, terminal, and agent-with-context. The physical form your Personal Agentic OS runs inside. Single-repo and parent-folder patterns.
 - [Harness Engineering](/docs/concepts/harness-engineering): The code wrapped around an AI model matters as much as the model itself. Choose harnesses that maximize utility, cost, and sovereignty.
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): Lessons from Claude Code's source code, and what they teach practitioners about building their own systems
 - [The Case for Simple Harnesses](/docs/concepts/the-case-for-simple-harnesses): A small core, extensible edges, your context under your control. Why minimal harnesses keep winning as the field matures, and why kitchen-sink defaults are the real failure mode.
