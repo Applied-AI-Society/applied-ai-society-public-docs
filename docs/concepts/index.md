@@ -35,6 +35,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Train Your Agent](/docs/concepts/train-your-agent): Train your AI like you would train a human apprentice. Give it context, feedback, and reps.
 - [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution): Execution is being commoditized. The highest-leverage skill is the ability to define reality, set objectives, and evaluate whether the system is working. 80% of the value of a Personal Agentic OS comes from strategic thinking, not automation.
 - [Agentic Exploration](/docs/concepts/agentic-exploration): The rhythm that falls out of cheap execution. Explore wide, narrow by taste, explore wide again, repeat. The practice that separates prolific operators from one-shotters.
+- [The Prolific Mode](/docs/concepts/the-prolific-mode): Great work has always been volume plus taste. The AI economy finally gives that mode to everyone, not just programmers.
 - [Agentic Strategy](/docs/concepts/agentic-strategy): The practice of using a highly-contextualized AI as your co-strategist. The daily practice that makes "strategy is the new execution" real.
 - [Operational Reality](/docs/concepts/operational-reality): Everything that is actually true about your world right now. The substrate your AI needs to be a real co-strategist.
 - [Agentic OS Debt](/docs/concepts/agentic-os-debt): When your agentic OS drifts out of sync with your operational reality. Like technical debt, but for your Jarvis.

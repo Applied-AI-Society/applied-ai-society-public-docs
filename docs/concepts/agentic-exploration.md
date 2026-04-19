@@ -96,6 +96,7 @@ This is the practical shape of [Strategy Is the New Execution](/docs/concepts/st
 ## Further Reading
 
 - [Fat Skills](/docs/concepts/fat-skills): The encoded taste that makes each round of exploration actually good. Thin skills produce thin variants.
+- [The Prolific Mode](/docs/concepts/the-prolific-mode): The posture that makes agentic exploration natural. Volume plus taste, historically reserved for the few who could afford it.
 - [Pirates, Architects, and Archetypes of the Future](/docs/concepts/pirates-architects-and-archetypes-of-the-future): Why pirates thrive in agentic exploration and architects do the narrowing.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The failure mode of exploration without narrowing. Endless branches, no ship.
 - [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution): The broader argument for why choice-making, not output, is where value lives now.

@@ -106,6 +106,7 @@ Start writing your fat skills. One workflow at a time. The ones you write now wi
 - [The Spec Is the Product](/docs/concepts/spec-writing): Why the precision of your instructions, not the code, is the real asset.
 - [Observable Behavior Engineering](/docs/concepts/observable-behavior-engineering): Defining what good looks like in concrete, testable terms. The discipline underneath writing a good skill.
 - [Agentic Exploration](/docs/concepts/agentic-exploration): What fat skills unlock at the exploration layer. Once the skill is fat, you can run it across 50 candidates and pick the best.
+- [The Prolific Mode](/docs/concepts/the-prolific-mode): The operator posture that fat skills make economically accessible to everyone, not just programmers.
 - [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming): Why skills portable across harnesses matter more than any single tool's features.
 - [Thin Harness, Fat Skills (Garry Tan, April 2026)](https://x.com/garrytan/status/2042925773300908103): The original post that named the pattern.
 - [Unified Intelligence with Amit Jain (Stanford CS153, April 2026)](https://x.com/AnjneyMidha/status/2045274349121556533): The lecture where the 50-page slide design skill was described.
