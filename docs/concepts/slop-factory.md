@@ -51,6 +51,10 @@ Slop Factory names the insidious case. The workflows pass the battle-tested chec
 
 You can pass every “don't scale slop” check and still build a slop factory. The factory looks clean from the outside. It only shows up as slop at the distribution end, after your reputation is already on fire.
 
+## A note on the word itself
+
+When someone calls an AI output "slop," they are usually revealing that they have never seen a well-configured system produce output at its ceiling. The gap between a thin-skill chat session and a [fat-skill](/docs/concepts/fat-skills) production workflow is bigger than most people realize. Slop is almost always a calibration problem: thin skills, no [fat skill](/docs/concepts/fat-skills) of what good looks like, no [taste layer](/docs/concepts/signalmaxxing) applied in the loop. Fix the calibration and most of the slop disappears. The factories that remain are the ones that refused to.
+
 ## The escape
 
 - **Read your own outputs.** Not every one. Enough to stay honest. The day you stop reading them is the day the factory starts producing whatever it wants.

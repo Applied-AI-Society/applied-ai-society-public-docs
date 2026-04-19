@@ -108,6 +108,7 @@ The AI era is not flattening human difference. Done right, it is the first econo
 
 ## Further Reading
 
+- [Agentic Exploration](/docs/concepts/agentic-exploration): The practice mode that finally rewards a pirate's native rhythm. Pirates on the expand, architects on the narrow.
 - [Hyperagency](/docs/concepts/hyperagency): The split between people whose minds get amplified by AI and those whose do not. Your neurotype awareness is a primary lever of which side you land on.
 - [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The commitment to building AI that lifts the minds most likely to be left behind, including neurodivergent people the old system silently filtered out.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): What happens to a pirate without an architect. Pure exploration without shipping becomes identity-lock.

@@ -88,6 +88,7 @@ This is why the [Personal Agentic OS](/docs/concepts/personal-agentic-os) archit
 ## Further Reading
 
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system your trained agent operates within
+- [Fat Skills](/docs/concepts/fat-skills): Where every correction should eventually land. The compounding artifact of this practice.
 - [Observable Behavior Engineering](/docs/concepts/observable-behavior-engineering): Defining what good looks like in concrete terms
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your agent knows
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where to start building the system

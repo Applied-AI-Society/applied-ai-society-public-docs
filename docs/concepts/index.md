@@ -21,6 +21,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Harness Engineering](/docs/concepts/harness-engineering): The code wrapped around an AI model matters as much as the model itself. Choose harnesses that maximize utility, cost, and sovereignty.
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): Lessons from Claude Code's source code, and what they teach practitioners about building their own systems
 - [The Case for Simple Harnesses](/docs/concepts/the-case-for-simple-harnesses): A small core, extensible edges, your context under your control. Why minimal harnesses keep winning as the field matures, and why kitchen-sink defaults are the real failure mode.
+- [Fat Skills](/docs/concepts/fat-skills): Thin harness, fat skills. Where your judgment lives and compounds. One person writes a 50-page slide design skill; every output downstream operates at that ceiling.
 - [Instruction Files](/docs/concepts/instruction-files): The persistent directives that configure how your AI agent operates. CLAUDE.md, AGENTS.md, skill files, memory files.
 - [Interview Prompts](/docs/concepts/interview-prompts): A prompt-design pattern where the prompt itself instructs the agent to interview the user for any missing variables, instead of asking the user to Mad Lib placeholders.
 - [Compounding Docs](/docs/concepts/compounding-docs): Documentation as a compounding asset. Every file you add makes every other file more useful.
@@ -33,6 +34,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [The Spec Is the Product](/docs/concepts/spec-writing): Implementation is being commoditized. The spec is where the value lives now.
 - [Train Your Agent](/docs/concepts/train-your-agent): Train your AI like you would train a human apprentice. Give it context, feedback, and reps.
 - [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution): Execution is being commoditized. The highest-leverage skill is the ability to define reality, set objectives, and evaluate whether the system is working. 80% of the value of a Personal Agentic OS comes from strategic thinking, not automation.
+- [Agentic Exploration](/docs/concepts/agentic-exploration): The rhythm that falls out of cheap execution. Explore wide, narrow by taste, explore wide again, repeat. The practice that separates prolific operators from one-shotters.
 - [Agentic Strategy](/docs/concepts/agentic-strategy): The practice of using a highly-contextualized AI as your co-strategist. The daily practice that makes "strategy is the new execution" real.
 - [Operational Reality](/docs/concepts/operational-reality): Everything that is actually true about your world right now. The substrate your AI needs to be a real co-strategist.
 - [Agentic OS Debt](/docs/concepts/agentic-os-debt): When your agentic OS drifts out of sync with your operational reality. Like technical debt, but for your Jarvis.
