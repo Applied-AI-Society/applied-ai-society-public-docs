@@ -1,5 +1,13 @@
 [
   {
+    "title": "Literacies That Matter",
+    "link": "/docs/concepts/literacies-that-matter",
+    "date": "2026-04-18",
+    "summary": "The AI one gets the attention. The full picture is bigger. A starting list of the domains worth being literate in to ...",
+    "tag": "New"
+  }
+,
+  {
     "title": "Context Lake",
     "link": "/docs/concepts/context-lake",
     "date": "2026-04-18",
@@ -52,14 +60,6 @@
     "link": "/docs/tools/capturing-conversations",
     "date": "2026-04-18",
     "summary": "Get every meeting, voice memo, and phone call into files your Jarvis can read. The point is not the recording. The po...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Remote Control for Coaching",
-    "link": "/docs/tools/remote-control",
-    "date": "2026-04-18",
-    "summary": "How to set up your computer so a coach can watch your screen and, when needed, briefly take control to help you over ...",
     "tag": "New"
   }
 ]

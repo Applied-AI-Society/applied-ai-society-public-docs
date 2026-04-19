@@ -58,6 +58,20 @@ You do not build a community of practice by declaring it. You build it by runnin
 
 ---
 
+## What Makes a Community Magnetic
+
+When a community of practice is working, people can feel it the moment they walk in. A few ingredients reliably produce that magnetism:
+
+- **Truth-seeking as the default posture.** The room is allergic to performative confidence and comfortable with "I do not know yet." Real learning happens when ego is cheap.
+- **On the actual frontier edge.** What gets shared tonight is not last year's playbook. It is what people tried this week. The room keeps you current because everyone else is.
+- **Floor raised, ceiling uncapped.** New members get the benefit of every good pattern the community has discovered. The [floor rises fast](/docs/concepts/raise-the-floor). There is also no cap on how far a member can take their craft or their career. The strongest practitioners keep leveling up inside the community and pulling others with them.
+- **Rising average economic viability.** Learning is the starting condition. As the community compounds, more members are earning real money from the craft, and the community network is how opportunity flows. Pass clients. Share introductions. Close the economic loop.
+- **Inclusive and welcoming.** High standards and open doors coexist. The door is open to anyone who shows up in good faith, willing to contribute. The standard is on what you do in the room, not where you came from.
+
+Austin is the proof point. Bordeaux is the international one. Everything else is the playbook.
+
+---
+
 ## The Role of Applied AI Society
 
 Applied AI Society wants to help you have an easier time starting communities of practice around applied AI. The [chapter playbooks](/docs/playbooks/chapter-leader) are an open-source specification for how to run one. The [philosophy canon](/docs/philosophy) is the shared ethos. The public case studies and field notes are the compounding knowledge layer.
