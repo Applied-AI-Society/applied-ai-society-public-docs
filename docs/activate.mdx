@@ -5,32 +5,25 @@ hide_table_of_contents: true
 sidebar_label: Get Activated / Subscribe
 ---
 
+import { ContactButtons, XButton, LinkedInButton } from '@site/src/components/ContactButtons';
+
 # Get Activated / Subscribe
 
 <div className="aas-contact-hero">
-  The fastest way to reach us directly is to DM **Gary Sheng**, Co-Founder and Director of Applied AI Society. LinkedIn is the preferred channel.
+  The fastest way to reach us directly is to join the **Applied AI Society Discord** and post in the right channel.
 </div>
 
-<div className="aas-contact-buttons">
-  <a
-    href="https://www.linkedin.com/in/garysheng/"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="aas-contact-btn aas-contact-btn--primary"
-  >
-    <span>Message Gary on LinkedIn</span>
-    <span className="aas-contact-btn-arrow">→</span>
-  </a>
-  <a
-    href="https://x.com/garysheng"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="aas-contact-btn aas-contact-btn--secondary"
-  >
-    <span>DM Gary on X</span>
-    <span className="aas-contact-btn-arrow">→</span>
-  </a>
-</div>
+<ContactButtons>
+</ContactButtons>
+
+<a
+  href="https://discord.gg/K7uWJBMFaN"
+  target="_blank"
+  rel="noopener noreferrer"
+  style={{ display: 'inline-block', padding: '0.75rem 1.25rem', background: '#E67B35', color: 'white', borderRadius: '6px', textDecoration: 'none', fontWeight: 600 }}
+>
+  Join the AAS Discord →
+</a>
 
 ## What to Reach Out About
 
@@ -42,7 +35,7 @@ sidebar_label: Get Activated / Subscribe
   </div>
   <div className="aas-contact-card">
     <h3>🎤 Speaking</h3>
-    <p>You want Gary or an Applied AI Society practitioner to speak at your event, workshop, or podcast.</p>
+    <p>You want an Applied AI Society practitioner to speak at your event, workshop, or podcast.</p>
   </div>
   <div className="aas-contact-card">
     <h3>🏛️ Chapter interest</h3>

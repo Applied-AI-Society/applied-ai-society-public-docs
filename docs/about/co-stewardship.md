@@ -73,7 +73,7 @@ This is not a one-way contribution. Co-stewards get:
 3. **Run what exists.** Pick a playbook and run it in your community. Report back with what worked and what needs updating.
 4. **File issues.** Found something outdated or wrong? Open an issue. That is a contribution.
 
-Reach out via the [contact page](/docs/contact) or join the [Discord](https://discord.gg/K7uWJBMFaN) to get started.
+Reach out via the [activate page](/docs/activate) or join the [Discord](https://discord.gg/K7uWJBMFaN) to get started.
 
 ## Current Co-Stewards
 

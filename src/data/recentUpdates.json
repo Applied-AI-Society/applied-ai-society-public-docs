@@ -1,65 +1,65 @@
 [
   {
-    "title": "Launching on Campus",
-    "link": "/docs/playbooks/chapter-leader/launching-on-campus",
-    "date": "2026-04-17",
-    "summary": "How to bring the Applied AI Society to a university campus. This is not about starting another club. It is about host...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Starting a Chapter or Community",
-    "link": "/docs/playbooks/chapter-leader/starting-a-chapter",
-    "date": "2026-04-17",
-    "summary": "How to launch an Applied AI Society community in your city or on your campus. This could be a formal chapter, a stude...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Community of Practice",
-    "link": "/docs/concepts/community-of-practice",
-    "date": "2026-04-17",
-    "summary": "A living, people-centered organism that compounds. A room full of people actively applying a craft, sharing what is w...",
+    "title": "GitHub CLI",
+    "link": "/docs/tools/github-cli",
+    "date": "2026-04-18",
+    "summary": "The gh command. Lets your terminal (and your agent) authenticate with GitHub and run GitHub operations without leavin...",
     "tag": "New"
   }
 ,
   {
-    "title": "Soul of a Scene",
-    "link": "/docs/concepts/soul-of-a-scene",
-    "date": "2026-04-17",
-    "summary": "Every scene in every city has a soul: a person, or a small group of people, who decided. The scene exists because the...",
+    "title": "Minimum Commercial Viability",
+    "link": "/docs/concepts/minimum-commercial-viability",
+    "date": "2026-04-18",
+    "summary": "The applied AI economy's version of \"minimum viable product,\" but applied to you. The floor below which you are no lo...",
     "tag": "New"
   }
 ,
   {
-    "title": "Co-Teaching Is the New Self-Teaching",
-    "link": "/docs/philosophy/co-teaching-is-the-new-self-teaching",
-    "date": "2026-04-17",
-    "summary": "Being tapped in with the right people can mean life or death for your business. That is not hyperbole. That is the re...",
-    "tag": "Updated"
+    "title": "PRM (Personal Relationship Management)",
+    "link": "/docs/concepts/prm",
+    "date": "2026-04-18",
+    "summary": "The relationship layer of your Personal Agentic OS. One file per person who matters. Transcripts per conversation. St...",
+    "tag": "New"
   }
 ,
   {
-    "title": "The Five Levels of Value in the AI Age",
-    "link": "/docs/playbooks/student/five-levels-of-value",
-    "date": "2026-04-17",
-    "summary": "AI models are getting better on their own now. Every quarter, the tools get more capable, the cost of execution drops...",
-    "tag": "Updated"
+    "title": "Capturing Conversations",
+    "link": "/docs/tools/capturing-conversations",
+    "date": "2026-04-18",
+    "summary": "Get every meeting, voice memo, and phone call into files your Jarvis can read. The point is not the recording. The po...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Remote Control for Coaching",
+    "link": "/docs/tools/remote-control",
+    "date": "2026-04-18",
+    "summary": "How to set up your computer so a coach can watch your screen and, when needed, briefly take control to help you over ...",
+    "tag": "New"
+  }
+,
+  {
+    "title": "Priming Your Jarvis",
+    "link": "/docs/playbooks/practitioner/priming-your-jarvis",
+    "date": "2026-04-18",
+    "summary": "The tactical discipline of giving your agent enough context before you ask it to do anything real. Drag the relevant ...",
+    "tag": "New"
   }
 ,
   {
     "title": "Training the Personal Agentic OS Workshop: A Guide for Instructors",
     "link": "/docs/playbooks/practitioner/training-the-workshop",
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "summary": "A playbook for anyone who wants to teach other people how to set up their Personal Agentic OS (what some people affec...",
     "tag": "Updated"
   }
 ,
   {
-    "title": "Finding a Venue",
-    "link": "/docs/playbooks/chapter-leader/finding-a-venue",
-    "date": "2026-04-17",
-    "summary": "A great venue makes everything easier. A bad one creates friction. Here's how to find a space that works for Applied ...",
+    "title": "The Supersuit Up Workshop",
+    "link": "/docs/workshops/supersuit-up",
+    "date": "2026-04-18",
+    "summary": "Build your Personal Agentic OS. Some people call this “Jarvising Yourself” (a nod to Tony Stark's AI). Whatever you c...",
     "tag": "Updated"
   }
 ]
