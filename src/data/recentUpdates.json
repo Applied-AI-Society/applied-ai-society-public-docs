@@ -1,5 +1,21 @@
 [
   {
+    "title": "Agent-Accessible Products",
+    "link": "/docs/concepts/agent-accessible-products",
+    "date": "2026-04-19",
+    "summary": "If agents cannot use your product, agents will replace your product.",
+    "tag": "Updated"
+  }
+,
+  {
+    "title": "Agentic UX Rules",
+    "link": "/docs/concepts/agentic-ux-rules",
+    "date": "2026-04-19",
+    "summary": "A growing list of UX rules for the agentic age. Add to it when a new rule declares itself.",
+    "tag": "New"
+  }
+,
+  {
     "title": "The Supersuit Up Workshop",
     "link": "/docs/workshops/supersuit-up",
     "date": "2026-04-19",
@@ -45,21 +61,5 @@
     "date": "2026-04-19",
     "summary": "Most people have never seen their own thinking laid out in front of them. When they do, everything changes.",
     "tag": "Updated"
-  }
-,
-  {
-    "title": "Community of Practice",
-    "link": "/docs/concepts/community-of-practice",
-    "date": "2026-04-18",
-    "summary": "A living, people-centered organism that compounds. A room full of people actively applying a craft, sharing what is w...",
-    "tag": "Updated"
-  }
-,
-  {
-    "title": "Literacies That Matter",
-    "link": "/docs/concepts/literacies-that-matter",
-    "date": "2026-04-18",
-    "summary": "The AI one gets the attention. The full picture is bigger. A starting list of the domains worth being literate in to ...",
-    "tag": "New"
   }
 ]

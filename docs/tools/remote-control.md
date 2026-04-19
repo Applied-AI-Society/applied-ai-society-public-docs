@@ -50,7 +50,7 @@ If a coachee invites a trainer to a call the coachee hosted, move to a trainer-h
 
 - [ ] **Confirm the end state with the coachee.** Are they starting from zero, or stuck at a specific step? What hardware and OS (Mac or Windows)? Ask before the call; walk in knowing.
 - [ ] **Send Phase 0 of the [Supersuit Up tutorial](/docs/workshops/supersuit-up) at least 24 hours ahead.** They need time to update their OS (can take 1-2 hours), create a GitHub account, and have a working credit card handy. Nothing kills a 90-minute coaching block like starting on a pending macOS update.
-- [ ] **Make sure "Remote control" is enabled in your Zoom account settings.** Go to [zoom.us/account/setting](https://zoom.us/account/setting), click the Meeting tab, and find **In Meeting (Basic)** → **Remote control**. Toggle it on. **If this toggle is off, the Request Remote Control option will not appear at all during the meeting.** On free / older accounts it is sometimes off by default. Check it once, once. While you are there, you can also enable **Allow remote controlling user to share clipboard** so you can copy text between machines during the call.
+- [ ] **Complete the [First-time Zoom settings setup](#first-time-zoom-settings-setup-critical) below.** One-time setup per Zoom account. The critical toggles are **Remote control** (Meeting → In Meeting Basic) and **Remote support** (Meeting → In Meeting Advanced). If either is off, the coaching flow silently breaks mid-session.
 - [ ] **Update your Zoom client to the latest version.** Two clients on different versions sometimes fail to hand off remote control cleanly.
 - [ ] **Create the meeting on a Pro+ Zoom account** (yours, not the coachee's). Add the coachee as an attendee. Enable recording to the cloud or locally.
 - [ ] **Send the calendar invite with the Zoom link + a one-pager of what to prepare.** Include the coachee checklist below.
@@ -74,6 +74,37 @@ If a coachee invites a trainer to a call the coachee hosted, move to a trainer-h
 ## Zoom: the default
 
 If you are running a remote workshop and have not thought about this yet, use Zoom. It is on every participant's computer already, it works on Mac and Windows, and the remote control handoff is a three-click flow.
+
+### First-time Zoom settings setup (critical)
+
+Before your first remote-coaching call, open [zoom.us/profile/setting](https://zoom.us/profile/setting) and configure the settings below. One-time setup per Zoom account. If any of these toggles are wrong, the remote-control flow will silently fail mid-session and you will not know why.
+
+**Meeting → In Meeting (Basic):**
+
+- **Screen sharing**: **ON**. Configure the sub-options like this (matches Zoom's Remote Support constraint, which forces single-participant sharing):
+  - *How many participants can share at the same time:* **One participant can share at a time**
+  - *All screens mode:* **checked**
+  - *Who can share:* **All Participants** (without this, the coachee cannot share and the whole flow breaks)
+  - *Who can start sharing when someone else is sharing:* **All Participants**
+  - (Zoom shows a warning: *"When 'Remote Support' is enabled, you can't enable multiple participants to share simultaneously"*. That is expected and fine.)
+- **Annotation**: **ON**. Useful for circling errors on the coachee's screen mid-session.
+- **Remote control**: **ON**. The one people most often forget. If this is off, the *Request Remote Control* option will not appear in the meeting. Sub-settings:
+  - *Allow remote controlling user to share clipboard:* **ON** (so you can copy text between machines during the call)
+  - *Allow "auto accept all requests":* **OFF** (safety: the coachee should explicitly approve each handoff)
+- **Prevent my screen from being controlled by an external user**: **OFF**
+- **Prevent guest user's screen from being controlled in your meeting**: **OFF**
+- **Restrict external users from using remote control and remote support in a meeting**: **OFF**. If this is locked by your organization's Zoom admin, the trainer account needs to be on a paid tier that sits outside the restriction, or the admin needs to unlock it for coaching.
+
+**Meeting → In Meeting (Advanced):**
+
+- **Remote support**: **ON**. Separate toggle from Remote Control. Remote Support lets the host provide 1:1 help without the participant having to start a screen-share first. Frequently off by default on new / free Zoom accounts.
+
+**Recording → General (recommended):**
+
+- **Cloud recording**: **ON**, so coaching sessions are replayable by the coachee afterward. Check *"Display participants' names in the recording"* and *"Record thumbnails when sharing"* under the advanced sub-settings while you are there.
+- **Automatic recording**: optional. If you want every coaching call recorded without thinking about it, turn this on.
+
+After changing any of these, **fully quit and restart the Zoom desktop app** so the new settings propagate. A running client will happily ignore the new settings until the next launch.
 
 ### Step by step
 
