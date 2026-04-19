@@ -17,6 +17,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Context Engineering](/docs/concepts/context-engineering): Curating the right information state for AI systems so agents have the knowledge they need, when they need it
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your AI-operated business OS. The system that compounds over time as your context lake deepens.
 - [Jarvis Workspace](/docs/concepts/jarvis-workspace): The cockpit. One window, file tree, terminal, and agent-with-context. The physical form your Personal Agentic OS runs inside. Single-repo and parent-folder patterns.
+- [Agentic Harness](/docs/concepts/agentic-harness): The software layer that turns a raw AI model into a working agent. The model is the engine. The harness is the car. Covers what a harness does, the major harnesses in 2026, and why it matters.
 - [Harness Engineering](/docs/concepts/harness-engineering): The code wrapped around an AI model matters as much as the model itself. Choose harnesses that maximize utility, cost, and sovereignty.
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): Lessons from Claude Code's source code, and what they teach practitioners about building their own systems
 - [The Case for Simple Harnesses](/docs/concepts/the-case-for-simple-harnesses): A small core, extensible edges, your context under your control. Why minimal harnesses keep winning as the field matures, and why kitchen-sink defaults are the real failure mode.
@@ -44,7 +45,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [The Soul Harness](/docs/concepts/the-soul-harness): The systems wrapped around you that either liberate or extract. Predatory harnesses make you dependent. Liberating harnesses make you free.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building AI-powered layers on top of existing systems to free trapped value, rather than replacing what already works
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements to participate in the applied AI economy. They are higher than most people realize.
-- [Learn the Harness, Not the Wrapper](/docs/concepts/learn-the-harness-not-the-wrapper): Claude Code and Hermes are harnesses (primitives). Claude Cowork is a wrapper over Claude Code. We teach the harness directly so your skills transfer across every agent you will ever use.
+- [Learn the Harness, Not the Wrapper](/docs/concepts/learn-the-harness-not-the-wrapper): Claude Code and Hermes are harnesses (primitives). Claude Cowork is a wrapper over Claude Code. We teach the harness directly so your skills transfer across every agent you will ever use. (See also: [Harness Engineering](/docs/concepts/harness-engineering))
 
 ### Collaboration
 
