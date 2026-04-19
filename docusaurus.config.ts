@@ -52,6 +52,8 @@ const config: Config = {
             from: '/docs/playbooks/practitioner/mvp-personal-agentic-os',
             to: '/docs/workshops/supersuit-up',
           },
+          // Renamed /docs/contact -> /docs/activate (URL now matches sidebar label)
+          { from: '/docs/contact', to: '/docs/activate' },
           // Sovereign Agentic Business OS moved under /docs/concepts/
           { from: '/docs/sovereign-agentic-business-os', to: '/docs/concepts/sovereign-agentic-business-os' },
           { from: '/docs/sovereign-agentic-business-os/principles', to: '/docs/concepts/sovereign-agentic-business-os/principles' },
