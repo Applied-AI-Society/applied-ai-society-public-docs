@@ -75,6 +75,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Raise the Floor](/docs/concepts/raise-the-floor): One person's breakthrough should become everyone's baseline. The organizational flywheel of shared skills and infrastructure.
 - [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The humanity-scale commitment to AI that lifts the people most likely to be left behind, not just the already-advantaged. The global floor, not just the team floor.
 - [See Your Own Thinking](/docs/concepts/see-your-own-thinking): The metacognition unlock. When AI reflects your thinking back to you, you gain self-awareness that most people have never experienced.
+- [The Unlock Question](/docs/concepts/the-unlock-question): One question every leader of agents and humans should ask themselves. A riff on Regina Gerbeaux's controllable-hard vs. uncertain-hard framing, applied to the AI era.
 - [Imagination Economy Infrastructure](/docs/concepts/imagination-economy-infrastructure): Everything that collapses the distance between human intention and human flourishing. The stack includes energy, telecom, inference, harnesses, sovereignty, community, logistics, and more.
 - [Always-On Agents](/docs/concepts/always-on-agents): The shift from “AI that answers when asked” to “AI that works for you while you sleep”
 - [Agent-Accessible Products](/docs/concepts/agent-accessible-products): If agents cannot use your product, agents will replace your product
