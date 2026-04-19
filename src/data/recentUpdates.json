@@ -1,5 +1,13 @@
 [
   {
+    "title": "Community of Practice",
+    "link": "/docs/concepts/community-of-practice",
+    "date": "2026-04-18",
+    "summary": "A living, people-centered organism that compounds. A room full of people actively applying a craft, sharing what is w...",
+    "tag": "Updated"
+  }
+,
+  {
     "title": "Literacies That Matter",
     "link": "/docs/concepts/literacies-that-matter",
     "date": "2026-04-18",
@@ -52,14 +60,6 @@
     "link": "/docs/concepts/prm",
     "date": "2026-04-18",
     "summary": "The relationship layer of your Personal Agentic OS. One file per person who matters. Transcripts per conversation. St...",
-    "tag": "New"
-  }
-,
-  {
-    "title": "Capturing Conversations",
-    "link": "/docs/tools/capturing-conversations",
-    "date": "2026-04-18",
-    "summary": "Get every meeting, voice memo, and phone call into files your Jarvis can read. The point is not the recording. The po...",
     "tag": "New"
   }
 ]
