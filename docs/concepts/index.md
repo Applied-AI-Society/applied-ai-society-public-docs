@@ -32,7 +32,8 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): An enterprise designed so that its systems, processes, and documentation evolve on their own, with the human shifting from operator to architect
 - [The Spec Is the Product](/docs/concepts/spec-writing): Implementation is being commoditized. The spec is where the value lives now.
 - [Train Your Agent](/docs/concepts/train-your-agent): Train your AI like you would train a human apprentice. Give it context, feedback, and reps.
-- [Agentic Strategy](/docs/concepts/agentic-strategy): The practice of using a highly-contextualized AI as your co-strategist. Shorthand for what it means to live out the principle that strategy is the new execution.
+- [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution): Execution is being commoditized. The highest-leverage skill is the ability to define reality, set objectives, and evaluate whether the system is working. 80% of the value of a Personal Agentic OS comes from strategic thinking, not automation.
+- [Agentic Strategy](/docs/concepts/agentic-strategy): The practice of using a highly-contextualized AI as your co-strategist. The daily practice that makes "strategy is the new execution" real.
 - [Operational Reality](/docs/concepts/operational-reality): Everything that is actually true about your world right now. The substrate your AI needs to be a real co-strategist.
 - [Agentic OS Debt](/docs/concepts/agentic-os-debt): When your agentic OS drifts out of sync with your operational reality. Like technical debt, but for your Jarvis.
 
