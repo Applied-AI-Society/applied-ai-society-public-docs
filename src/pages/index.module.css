@@ -97,6 +97,14 @@
   color: var(--aais-orange) !important;
 }
 
+[data-theme='dark'] .tertiaryButton {
+  color: #d4d4d8 !important;
+}
+
+[data-theme='dark'] .tertiaryButton:hover {
+  color: var(--aais-amber) !important;
+}
+
 /* Container */
 .container {
   max-width: 1000px;
