@@ -96,6 +96,7 @@ This is the applied AI economy. Not shipping more slop. Shipping super suits.
 
 ## Further Reading
 
+- [There Is No Demand for Average](/docs/concepts/there-is-no-demand-for-average): The market-economics backdrop. Polished AI output is the new baseline noise. Real demand lives above it.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The trap of building for the sake of building
 - [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop): Why fixing the process matters before you automate
 - [Compound Drift](/docs/concepts/compound-drift): The pipeline-level mechanism that manufactures slop at scale

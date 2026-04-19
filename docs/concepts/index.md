@@ -68,6 +68,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Jevons Paradox](/docs/concepts/jevons-paradox): As AI makes work cheaper, total demand for smart humans goes up, not down. The economic engine underneath the shift. Cutting your way to the top is a losing move.
 - [Effective AGI](/docs/concepts/effective-agi): AGI is not coming. It is here, for the people who know how to wield it. The bottleneck is the human, not the technology.
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): Every legacy company is playing a game of Survivor right now. AI is sorting people into adapters and everyone else.
+- [There Is No Demand for Average](/docs/concepts/there-is-no-demand-for-average): Naval's line applied to the AI era. The floor of what tools can produce keeps rising. The floor of what people actually pay for rises with it. Sustainable demand lives above the default.
 - [AGI Whisperer](/docs/concepts/agi-whisperer): The person who designs, builds, and refines the agentic systems. The new essential technical role.
 - [Being Someone's Go-To Person](/docs/concepts/being-someones-go-to-person): The relational role that has no name yet. Six jobs in one. Name it honestly to price it honestly.
 - [The Encounter](/docs/concepts/the-encounter): The moment AI stops being theoretical and becomes personal, and why adoption spreads through experience, not education

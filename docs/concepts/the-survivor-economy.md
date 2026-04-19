@@ -78,3 +78,4 @@ Start building. Start now. Create from a position of sovereignty, not dependency
 - [Hyperagency](/docs/concepts/hyperagency): The state you are building toward when you suit up
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where to start building your harness today
 - [Your Two Futures](/docs/philosophy/your-two-futures): The full picture. Two concrete futures, side by side. The choice every person and organization faces right now.
+- [There Is No Demand for Average](/docs/concepts/there-is-no-demand-for-average): The market-side version of the same sorting. The baseline is commoditized; above-baseline is where demand concentrates.

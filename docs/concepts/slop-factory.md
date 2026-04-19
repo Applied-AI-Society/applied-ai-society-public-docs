@@ -79,3 +79,4 @@ Build the self-running business. Refuse to build the slop factory. The differenc
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): The Player-to-Coach climb that is the antidote
 - [Crutching](/docs/concepts/crutching): The individual-scale version of the same failure mode
 - [Signalmaxxing](/docs/concepts/signalmaxxing): The discipline of curating signal quality in everything that flows into and out of your system
+- [There Is No Demand for Average](/docs/concepts/there-is-no-demand-for-average): The market fact a Slop Factory denies. Throughput at the baseline is not what anyone is paying for.

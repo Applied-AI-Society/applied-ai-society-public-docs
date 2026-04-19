@@ -95,3 +95,4 @@ The ceiling takes care of itself. Power users will always push the boundaries. T
 - [Compounding Docs](/docs/concepts/compounding-docs): Every shared skill makes every other skill more useful. The knowledge graph compounds.
 - [Your Two Futures](/docs/philosophy/your-two-futures): The fork every person and organization faces. Raising the floor is how organizations choose Future A.
 - [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The humanity-scale extension of the same principle. This concept is about teams and organizations; that one is about regions, income levels, abilities, and communities.
+- [There Is No Demand for Average](/docs/concepts/there-is-no-demand-for-average): The market-side consequence of the floor rising. When the baseline is "fine" everywhere, demand concentrates on what is clearly above it.
