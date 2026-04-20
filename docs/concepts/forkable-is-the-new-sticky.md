@@ -7,7 +7,7 @@ title: "Forkable Is the New Sticky"
 
 *Big SaaS won for twenty years by accumulating long-tail features nobody else would rebuild. Agents rebuild them in an afternoon. The new moat is how easy you make it for customers to fork your product and stay paying you anyway.*
 
-*Synthesizing Theo Browne's April 2026 argument for [open-sourcing your apps](https://www.youtube.com/watch?v=G1xqTjoihfo) and Mitchell Hashimoto's April 2026 essay "The Building Block Economy."*
+*Synthesizing Theo Browne's April 2026 video ["A letter to tech CEOs"](https://www.youtube.com/watch?v=G1xqTjoihfo) and Mitchell Hashimoto's April 2026 essay ["The Building Block Economy."](https://mitchellh.com/writing/building-block-economy)*
 
 ---
 
@@ -27,9 +27,9 @@ It gets worse for the incumbent. Customers increasingly do not need a vendor to 
 
 ## The Building Block Economy
 
-Mitchell Hashimoto (creator of Terraform and Ghosty) named the replacement in April 2026: *the building block economy*. The most effective way to build software right now is no longer a high-quality mainline app. It is a set of well-designed components that other people assemble, remix, and extend, usually with the help of agents.
+Mitchell Hashimoto (creator of Terraform and Ghostty) named the replacement in April 2026: *the building block economy*. The most effective way to build software right now is no longer a high-quality mainline app. It is a set of well-designed components that other people assemble, remix, and extend, usually with the help of agents.
 
-His receipt: Ghosty the terminal reached a million daily users in eighteen months. `libghostty`, the core terminal binding layer that Ghosty itself is built on (published as a separate open-source library), passed multiple million daily users in *two months* after that. The building block outgrew the product it was born from, by an order of magnitude, five times faster. Builders and agents reached for the component the moment it was exposed.
+His receipt: Ghostty the terminal reached a million daily users in eighteen months. `libghostty`, the core terminal binding layer that Ghostty itself is built on (published as a separate open-source library), passed multiple million daily users in *two months* after that. The building block outgrew the product it was born from, by an order of magnitude, five times faster. Builders and agents reached for the component the moment it was exposed.
 
 This maps directly onto what [Agent-Accessible Products](/docs/concepts/agent-accessible-products) already predicted: the agents pick the tools, and agents prefer open source to proprietary. Independent research labs keep finding this under every condition they test. If the default harness any hyperagent in the world uses is going to prefer the open version of your category, then closed-source is a structural disadvantage that compounds every quarter.
 
@@ -115,5 +115,5 @@ The [Applied AI Society](https://appliedaisociety.org) has been arguing for sove
 
 **External:**
 
-- Theo Browne, "[the business case for OPEN SOURCING your apps](https://www.youtube.com/watch?v=G1xqTjoihfo)" (April 2026): The origin argument for this piece, including the T3 Code fork-rate data and the `patch.md` proposal.
-- Mitchell Hashimoto, "The Building Block Economy" (April 2026): The framing that the factory of software is now agentic, imports are up, exports are up, and mainline apps are becoming a different kind of product.
+- Theo Browne, "[A letter to tech CEOs](https://www.youtube.com/watch?v=G1xqTjoihfo)" (April 2026): The origin argument for this piece, including the T3 Code fork-rate data and the `patch.md` proposal.
+- Mitchell Hashimoto, "[The Building Block Economy](https://mitchellh.com/writing/building-block-economy)" (April 2026): The framing that the factory of software is now agentic, imports are up, exports are up, and mainline apps are becoming a different kind of product.
