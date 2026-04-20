@@ -136,3 +136,4 @@ That is what the [Applied AI Society](https://appliedaisociety.org) is building 
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements, including the ability to run tools independently
 - [Learn the Harness, Not the Wrapper](/docs/concepts/learn-the-harness-not-the-wrapper): Using a harness directly (instead of a vendor wrapper like Cowork) is one of the most concrete ways to stay un-locked-in today
 - [The Case for Simple Harnesses](/docs/concepts/the-case-for-simple-harnesses): Kitchen-sink defaults are the mechanism by which vendors insert themselves between you and your context. Simple harnesses refuse the hook.
+- [Forkable Is the New Sticky](/docs/concepts/forkable-is-the-new-sticky): The vendor-side counter-strategy. Forkable-by-default inverts the lock-in playbook: vendors choose up-front not to close the walls, and the market rewards them for it.

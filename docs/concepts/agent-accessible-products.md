@@ -120,6 +120,7 @@ This is also why the [Personal Agentic OS architecture](/docs/workshops/supersui
 
 **Internal:**
 - [llms.txt and llms-full.txt](/docs/concepts/llms-txt): The cheapest form of agent accessibility for anyone with a docs site or wiki
+- [Forkable Is the New Sticky](/docs/concepts/forkable-is-the-new-sticky): The business-strategy layer. Agent-accessible is a necessary precondition. Forkable-by-default is what turns agent-accessibility from a feature into a moat.
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): The next evolution of agent-accessible software
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that uses agent-accessible tools
 - [Harness Engineering](/docs/concepts/harness-engineering): How agents interact with tools through harnesses

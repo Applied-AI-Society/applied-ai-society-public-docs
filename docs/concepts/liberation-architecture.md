@@ -122,3 +122,4 @@ If you are doing applied AI work with businesses, liberation architecture should
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose so AI agents operating on top of legacy systems optimize for what actually matters.
 - [The Applied AI Canon](/docs/philosophy/canon): The philosophical foundation. Liberation architecture is Canon VIII in practice.
 - [Pilot Scope](/docs/playbooks/business-owner/pilot-scope): How to scope a first engagement, directly applicable to Phase 1 and Phase 2 liberation projects.
+- [Forkable Is the New Sticky](/docs/concepts/forkable-is-the-new-sticky): The same wrap-don't-replace logic applied to your own new products. Ship the core, let customers own the customization layer.
