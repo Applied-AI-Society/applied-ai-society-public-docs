@@ -62,3 +62,4 @@ Everyone is doing too much robot-mode work. The tools to stop are here. The only
 - [The Roles-to-Workflows Shift](/docs/concepts/roles-to-workflows): Decomposing roles into workflows is how you find the robot-mode tasks hiding inside “human” jobs.
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): The economic context. Adapt or get sorted out.
 - [Crutching](/docs/concepts/crutching): Robot mode is the wrong type of work. Crutching is the wrong way to use AI. Both need to go.
+- [Train-Your-Replacement Work](/docs/concepts/train-your-replacement-work): The adjacent pattern. Robot mode is work that reduces you to a machine. Train-your-replacement work is work that exists to build one.
