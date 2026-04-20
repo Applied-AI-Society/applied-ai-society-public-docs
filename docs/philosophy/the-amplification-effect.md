@@ -77,6 +77,7 @@ If you are building your career in the AI economy:
 
 ## See Also
 
+- [The Overconfidence Trap](/docs/concepts/the-overconfidence-trap): The individual-operator version of the same mechanism. AI fluency produces confidence uncorrelated with actual operator strength, and the usual signals (peer comparison, tool brand, output polish) all lie.
 - [Co-Teaching Is the New Self-Teaching](/docs/philosophy/co-teaching-is-the-new-self-teaching): Why the right community is existential
 - [Why Making Money Matters](/docs/philosophy/why-making-money-matters): Revenue as the signal of useful AI application
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): The progression from execution to system design
