@@ -36,7 +36,7 @@ The bottleneck is not the AI. The bottleneck is you.
 
 If you believe AGI is five or ten years away, you plan accordingly. You wait. You watch. You hedge. You treat AI adoption as something you will get to eventually.
 
-If you understand that effective AGI is here now, the calculus changes completely. Every month you wait is a month where someone else is compounding their advantage with tools that already work. The [elevator economy](/docs/concepts/the-survivor-economy) is not a future scenario. It is the current reality. The divergence between people who have harnessed effective AGI and people who have not is already dramatic, and it is accelerating.
+If you understand that effective AGI is here now, the calculus changes completely. Every month you wait is a month where someone else is compounding their advantage with tools that already work. The [elevator economy](/docs/concepts/the-elevator-economy) is not a future scenario. It is the current reality. The divergence between people who have harnessed effective AGI and people who have not is already dramatic, and it is accelerating.
 
 This is what makes [hyperagency](/docs/concepts/hyperagency) urgent. A hyperagent is not waiting for better tools. They have taken what exists today and built a system around themselves that multiplies their unique capabilities. They are operating at a level that looks like magic to people who are still debating whether AI is “ready.”
 

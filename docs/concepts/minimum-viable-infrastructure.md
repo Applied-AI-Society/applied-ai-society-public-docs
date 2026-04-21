@@ -11,7 +11,7 @@ title: "Minimum Viable Infrastructure"
 
 ## The Uncomfortable Truth
 
-We talk about the [elevator economy](/docs/concepts/the-survivor-economy) like everyone has a ticket. They do not.
+We talk about the [elevator economy](/docs/concepts/the-elevator-economy) like everyone has a ticket. They do not.
 
 Before you can build a [Personal Agentic OS](/docs/concepts/personal-agentic-os), before you can set up a [context lake](/docs/concepts/context-lake), before you can even complete the [Supersuit Up Workshop](/docs/workshops/supersuit-up), you need a set of baseline infrastructure that most conversations about AI completely take for granted.
 
@@ -37,7 +37,7 @@ Here is what the applied AI economy requires as table stakes:
 
 The AI conversation is dominated by people with $3,000 to $8,000 laptops and Google Fiber. Very few cities even have Google Fiber. Most of the country is on Spectrum, AT&T, or whatever local monopoly offers spotty service at inflated prices. But the developers and founders shaping the AI narrative live in the handful of cities with gigabit internet, and they assume everyone else does too. They complain about slight latency on their fiber connection while millions of people in the same country cannot get reliable broadband at all.
 
-This creates a compounding problem. The people who already have the infrastructure get activated first. They build their Personal Agentic OS, enter the [imagination economy](/docs/concepts/the-survivor-economy), and start pulling away. The people without the infrastructure fall further behind. The elevator economy accelerates the gap.
+This creates a compounding problem. The people who already have the infrastructure get [activated](/docs/concepts/activation) first. They build their Personal Agentic OS, step onto the ascending side of the [elevator economy](/docs/concepts/the-elevator-economy), and start pulling away. The people without the infrastructure fall further behind. The elevator accelerates the gap.
 
 This is not a future problem. It is happening right now:
 

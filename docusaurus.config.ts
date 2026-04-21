@@ -52,6 +52,11 @@ const config: Config = {
             from: '/docs/playbooks/practitioner/mvp-personal-agentic-os',
             to: '/docs/workshops/supersuit-up',
           },
+          // Renamed to center the verb "Jarvis" while keeping the ark metaphor in the body
+          {
+            from: '/docs/philosophy/build-the-ark-or-ai-is-doomed',
+            to: '/docs/philosophy/jarvis-the-world-or-ai-is-doomed',
+          },
           // Renamed /docs/contact -> /docs/activate (URL now matches sidebar label)
           { from: '/docs/contact', to: '/docs/activate' },
           // Sovereign Agentic Business OS moved under /docs/concepts/

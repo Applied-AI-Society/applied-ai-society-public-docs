@@ -127,4 +127,4 @@ Choose.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial. One afternoon to begin.
 - [The Encounter](/docs/concepts/the-encounter): Why seeing it in person changes everything.
 - [RIP To The Career Ladder](/docs/philosophy/rip-to-the-career-ladder): The labor-market data behind the fork, and which skills compound on the other side.
-- [Either We Build The Ark ASAP, Or AI Is Doomed](/docs/philosophy/build-the-ark-or-ai-is-doomed): Why the ark has to be built for every person, not only those who already know where to start.
+- [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): The fleet of arks framing. Every Jarvised person is one vessel. The fleet is how humanity crosses the flood.
