@@ -9,6 +9,49 @@ title: "Either We Build The Ark ASAP, Or AI Is Doomed"
 
 ---
 
+## What We Actually Believe About AI
+
+The Applied AI Society is bullish on AI. This entire organization exists because we believe that creative human service, augmented by applied AI, can solve the civilizational problems this generation was handed and did not cause. Climate. Healthcare collapse. Housing. Education. Mental health. Community decay. The tooling to rebuild civilization at a scale that matches its actual needs exists for the first time in human history, and we are living through the first ten years of it.
+
+That is the promise. It is real.
+
+The promise is also conditional. Every good thing we believe about AI depends on four things being true at the same time:
+
+1. The narrative around AI, and the lived reality for ordinary people inside that narrative, must change. People who are watching the tools make billionaires richer while their rent keeps rising are living evidence that the promise is currently a lie. The promise has to become real in their actual lives first.
+2. The industry must prioritize ecological regeneration at the same weight as capability progress. Data centers without a restoration agenda are political landmines. The "No Data Centers" note left at a councilman's shot-up house was grief about the land underneath the anger.
+3. Applied AI literacy has to reach everyone, fast. The hyperagency gap has to close faster than the backlash grows.
+4. The industry has to stop talking about humans as future charity cases and start treating them as co-authors of what comes next.
+
+If these conditions hold, AI delivers. If any of them fail, AI is doomed. Not in the doomer sense that the machines kill us. In the political sense that the backlash from the excluded forecloses the good futures before they can be built. The ark we are building is for that.
+
+The most concrete version of our bullish thesis is the verb at the center of AAS: **Jarvising**. Getting someone Jarvised means walking them through the build of their own [Personal Agentic OS](/docs/concepts/personal-agentic-os), an AI system they own, that knows their context, and that compounds every day they use it. Above that floor, a person is a credible commercial actor in the applied AI economy (see [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability)). Below it, they are racing to catch up against people who have already crossed it. Every person we Jarvis is a person the doom pipeline will struggle to recruit, because the material and the psychological exclusion are both closed at once.
+
+The rest of this piece is about the pipeline that is currently winning because these conditions are not holding and not enough people have been Jarvised yet.
+
+---
+
+## The Flaming Red Elephant
+
+Before the pipeline, there is a flaming red elephant in the middle of the AI conversation that almost nobody wants to name.
+
+Polite AI discourse treats the industry as a meritocratic collaboration of curious researchers. The reality is that the top of the industry is steered in meaningful part by a small class of transhumanist billionaires whose public statements have equivocated on whether ordinary human flourishing is even the point of AI. Many of them are personally entangled in the Epstein scandal, which ordinarily disqualifies anyone from stewarding anything. Some openly hold a "religion of intelligence" worldview in which AGI is treated as a successor species rather than a tool built for human service. None of this is hidden or obscure. It is on the record, in their own books, interviews, and open letters.
+
+The AI doom movement on the other side of the conversation is funded by money that overlaps with these same networks. The two loudest sides of the AI debate trace back to a remarkably small set of people whose incentives diverge sharply from the public's. One side tells ordinary people they will be economically useless. The other side tells them the whole project is extinction-level evil. Both sides are currently speaking past the actual 20-year-old trying to afford rent.
+
+That is the elephant. We cannot have an honest conversation about applied AI's promise for humanity while pretending the top of the industry is stewarded by people who unambiguously want that outcome. The AAS position is that naming this is the first honest move available. Closing the exclusion is how it gets fixed.
+
+The elephant is flaming **red** for three reasons.
+
+First, it is on fire, and nobody wants to look at it.
+
+Second, red is the color of the communist-revolutionary spirit rising in a generation that feels abandoned by every existing institution, and the rise is understandable. When the people at the top of the wealth distribution tell you in public that you will be economically "useless," and the people who own the biggest new technology market it as the thing that will "ruin your life," the red rising in response is a predictable historical pattern in every similar moment. Dismissing it as conspiracy or fringe is what the people who caused it would like to do. It is also what guarantees the spiral accelerates.
+
+Third, red is the literal color of the firebombs already being thrown at the physical symbols of that system. Altman's house. Data centers in small towns. The next target. When a population decides that the institutions in front of them are actively sabotaging their agency and their future, some fraction of that population will set those institutions on fire. That trajectory is what 2026 is showing. It does not stop on its own. It stops when the underlying exclusion stops.
+
+The faithful response is to address what caused the flames. Dismissing the people carrying them is how the country ends up with many more flames, and eventually with a grid that actually goes out.
+
+---
+
 ## The Pipeline
 
 On April 10, 2026, a 20-year-old threw a Molotov cocktail at Sam Altman's house and walked to OpenAI headquarters carrying a list of AI executives. His name is Daniel Moreno-Gama. He was a PauseAI member who held six community roles there. Months earlier he had written in public that AI-caused human extinction was "nearly certain" and that AI builders were attempting mass murder.
@@ -32,9 +75,23 @@ Before anything else, the material reality has to be named.
 
 Gen Z inherited an unaffordable country. The average American cannot reliably cover a small emergency expense. Rent, education debt, healthcare, and basic cost of living have decoupled from wages for a generation. The promises embedded in the American dream, follow the path, trust the institutions, get the degree, work hard, inherit the stability, have not paid off for most young people. They have watched their parents work hard and still not arrive. They have watched older generations pull the ladder up behind them.
 
+The inequality underneath this is unbelievable by any historical standard. AAS has a name for the dynamic: the **elevator economy**. Some people and companies are going up. Everyone else is going down. There is no standing still. Conservatives sometimes call this the K-shaped economy, but K implies two stable trajectories. The reality is closer to an elevator with a cut cable: you are either ascending to infinity or in free fall. This is the foundational economic observation of the moment, and everything else in this essay builds on it. See [Hyperagency](/docs/concepts/hyperagency) and [The Hyperagency Gap](/docs/concepts/the-hyperagency-gap) for why the ascent side of the elevator compounds so hard.
+
 Then applied AI arrived on top of that. They are reading in the same news cycle that Anthropic's CEO expects the entry-level job market to collapse, that tech executives use the phrase "useless class" in serious conversations about the future workforce, and that the companies building these tools are worth trillions while the public services in their neighborhoods decay.
 
+The AI industry also softened the target with its own marketing. The commentator known as Threadguy, [writing on X after Sam Altman's house was attacked twice in one week](https://x.com/kai_xbt/status/2043875556828020768), put it directly:
+
+> "Their entire marketing pitch over the last three years has basically been 'the product I'm building is going to take your job, be smarter than you, take your girlfriend, and ruin your life.' That's been the approach to raise as much VC money as possible."
+>
+> "I don't think we've accounted for how many people are going to revolt against the narrative being pushed by AI. I don't think they understand how much people care about their jobs, how desperate most of the world is right now, and the steps they're willing to go to to make sure they keep their shit."
+
+That is the industry's own marketing, played back with the consequences attached. Three years of press releases that treated human displacement as a selling point pre-wired the public to believe that AI leaders were the adversary. The doom movement did not have to manufacture that framing. The industry did it first for VC money, and the doom movement walked in afterward and gave the rage a moral story.
+
 The anger is legitimate. The question is what gets done with it. Right now, the loudest answers being offered to this generation are engineered to make the anger worse while redirecting it toward targets that do nothing to improve anyone's material conditions.
+
+The deeper cause underneath the anger is decades of failed stewardship by the class of people who were supposed to be stewarding society in the interest of everyone. Blame the social media barons, blame the AI doomers, blame the specific villains people are naming right now. Those blames are fine as far as they go. But the underlying reason a generation is fed up is that the so-called elite of the last forty years did not steward the development of society in anyone's interest but their own, and everything downstream of that failure, including the arrival of applied AI into a pre-existing fire, is playing out exactly the way it would be expected to.
+
+We can change that. Bringing AI to every person as a tool for service of humanity is the intervention that actually changes it. Everything else is venting.
 
 ---
 
@@ -72,7 +129,7 @@ The intervention that actually works is obvious once the pipeline is named. Clos
 
 This is the core commitment of the Applied AI Society. The gap between people experiencing [hyperagency](/docs/concepts/hyperagency) and everyone else is the defining inequality of this era. See [The Hyperagency Gap](/docs/concepts/the-hyperagency-gap) for the full picture. Closing it requires three things that no existing AI institution is currently delivering at scale:
 
-**High-quality, hands-on upskilling.** Workshops, not blog posts. A person walks out of the room with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) on their laptop, configured to their real work. The [Supersuit Up workshop](/docs/workshops/supersuit-up) is the canonical version. It takes an afternoon. The effect on the person who completes one is significant enough that they stop feeling locked out, because they are no longer locked out.
+**High-quality, hands-on [activation](/docs/concepts/activation).** Activation is the specific AAS word for the moment a person crosses from "I have heard about AI" to "I am using it and it is changing how I work." The generic phrase "upskilling" misses the psychological shift and the compounding that follows. Workshops, not blog posts. A person walks out of the room with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) on their laptop, configured to their real work. The [Supersuit Up workshop](/docs/workshops/supersuit-up) is the canonical path. It takes an afternoon. The effect on the person who completes one is significant enough that they stop feeling locked out, because they are no longer locked out.
 
 **Life literacy alongside technical literacy.** Applied AI multiplies what a human already brings. A person who has not done the work of knowing who they are, what they are building, and who they are building it with cannot get full leverage out of any tool. Technical literacy without life literacy produces burnout at 100x speed. We teach both.
 
@@ -92,9 +149,11 @@ If you are being told to trust the billionaires, the abundance is coming, a univ
 
 Your future lives in the hands that can operate applied AI at a level most people have not yet reached. That level is learnable. The tools are available. The literacy is open and free. We publish the workshops. We run the community. We will help you get there.
 
-Come to a [Supersuit Up workshop](/docs/workshops/supersuit-up). Join the [community](https://discord.gg/K7uWJBMFaN). Read [Your Two Futures](/docs/philosophy/your-two-futures) for the stakes of the decision you are about to make. Then get to work.
+[Get Jarvised](/docs/get-jarvised). Come to a [Supersuit Up workshop](/docs/workshops/supersuit-up). Join the [community](https://discord.gg/K7uWJBMFaN). Read [Your Two Futures](/docs/philosophy/your-two-futures) for the stakes of the decision you are about to make. Then get to work.
 
 Uselessness is a function of literacy and infrastructure, not a property of a person. Close the gap in yourself first. Then close it for the people you love.
+
+Our whole organization exists to help people get [activated](/docs/concepts/activation) and empowered for service of humanity as fast as possible. That is the work. That is the ark.
 
 ---
 
@@ -107,6 +166,10 @@ We reject that story. The entire point of applied AI, when it is done with any d
 The violence is downstream of the exclusion. Every firebomb thrown in 2026 was incubated in a young mind that had been given no real path into the AI economy and every reason to believe it was being held outside the gates on purpose. The industry has the money to close that gap. What it lacks is the will to prioritize it.
 
 If you are building AI, build tools your grandmother, your neighbor, and the 20-year-old trying to afford rent in your city can all actually use. Fund the literacy. Fund the community. Fund the workshops. The counter-movement to stop-AI violence is a generation that feels included in what comes next. Better security at the data centers is a downstream consequence of getting that wrong.
+
+Fund ecological regeneration with the same urgency. The note at the councilman's shot-up house was "No Data Centers," and anyone who treats that as pure NIMBY rage is not listening. The AI industry is siting enormous energy and water infrastructure into communities that already felt abandoned by every previous wave of industrial decision-making. A data center with a restoration agenda for the watershed, the grid, and the neighborhood around it is a different political object than one without. We are going to find out which kind we built when the backlash matures. The right answer is the one where the industry led, not the one where the industry was forced to retreat.
+
+The good things we believe about AI cannot be said forcefully enough if the inclusion work and the regeneration work are not also happening. Promises about AI-driven abundance land differently when people feel the promise in their actual lives.
 
 ---
 

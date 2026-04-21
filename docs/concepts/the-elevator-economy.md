@@ -1,0 +1,90 @@
+---
+sidebar_position: 30.5
+title: "The Elevator Economy"
+---
+
+# The Elevator Economy
+
+*Some people and companies are going up. Everyone else is going down. There is no standing still. This is the foundational economic observation of the moment, and everything else builds on it.*
+
+---
+
+## The Claim
+
+Every serious conversation about the 2026 economy has to start from the same observation: the two sides of the population are no longer moving at similar speeds, and there is no equilibrium point in between where a normal person can stand still and be fine.
+
+Some conservatives call this a **K-shaped economy**. The K metaphor is directionally right and mechanically wrong. A K implies two stable trajectories that diverge cleanly. The reality is closer to an **elevator with a cut cable**: one side is ascending to the top at compounding speed, the other side is in free fall, and there is no cabin floor in the middle holding anyone steady.
+
+That is the elevator economy. Self-improving AI is the dividing line. Every month the elevator moves faster, and every month the gap between the ascending side and the falling side widens by more than it did the month before.
+
+This is the foundational observation. The rest of the AAS concept graph (hyperagency, the survivor economy, the hyperagency gap, minimum commercial viability) is downstream of it.
+
+---
+
+## Why The K Framing Is Insufficient
+
+The K-shaped economy framing was useful in 2020 and 2021 to describe the COVID-era bifurcation: white-collar workers whose lives stabilized or improved, service workers whose lives collapsed. Two lines diverging at the same speed.
+
+The elevator economy is a different shape. Two specific things break the K metaphor:
+
+1. **The ascent is non-linear.** People on the upper arm of the K are compounding their advantages via AI leverage. The top 1% of AI operators produce 80% of the value because their personal agentic systems get smarter every day they use them. Their trajectory bends upward month over month.
+2. **The descent is accelerating, not stable.** People on the lower arm of the K are not on a stable downward line. Their tooling is getting relatively worse as the ceiling of what AI-augmented work looks like keeps rising. Every quarter the market clearing rate for unaugmented human effort falls further.
+
+Two curving exponentials diverging from each other, one upward and one downward, is an elevator with a cut cable, not a K.
+
+---
+
+## What Drives The Elevator
+
+Three compounding effects decide whether a person or company is ascending or falling.
+
+**AI leverage compounds on itself.** An individual with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) gets more effective every week because their [context lake](/docs/concepts/context-lake) deepens with every interaction. A person still using AI as a browser-tab chat window gets no such compounding. The gap between the two is 2x in month one, 10x by month six, and triple-digit by the end of year one.
+
+**Execution is collapsing in price.** The market-clearing rate for tasks that used to require skilled execution (writing, research, code, design, analysis) is approaching the market-clearing rate for AI slop. A commercial actor whose offer is "unaugmented skilled execution" is competing directly with a flood of cheap output, and losing. See [There Is No Demand for Average](/docs/concepts/there-is-no-demand-for-average) and [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability).
+
+**Imagination, taste, critical thinking, and trust become the scarce assets.** When execution approaches zero marginal cost, the bottleneck moves to the things only humans can still do at a high level: imagine what should be built in the first place, discern whether the output is actually any good ([the judgment line](/docs/concepts/the-judgment-line)), think independently instead of accepting AI's default answer, and hold trust relationships that cannot be synthesized. People who operate at a high level across those four (with AI handling everything downstream) are the ones riding the elevator up.
+
+---
+
+## There Is No Standing Still
+
+The most important feature of the elevator economy is also the most uncomfortable: staying where you are is not available as a posture. The floor is moving.
+
+A professional who is neither investing in AI leverage nor actively falling behind feels like they are "holding steady." They are not. The ambient rate of capability increase in the market is their silent competitor, and it is compounding against them whether they engage with it or not. Six months of "waiting to see how this shakes out" is six months of silent descent, measured against the rising performance bar of everyone around them who did not wait.
+
+This is why AAS treats [activation](/docs/concepts/activation) as the single most important intervention. Every month a person stays unactivated is a month the elevator pulls further away from them.
+
+---
+
+## What It Means For You
+
+**If you are ascending**, your job is to keep compounding and to bring people with you. Hoarding AI leverage is how the political backlash that stops the entire elevator gets built. Activate the people around you. Share your skill files. [Raise the floor](/docs/concepts/raise-the-floor) for your team, your company, and your community. See [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed) for why this is load-bearing for the whole AI project, not just an act of charity.
+
+**If you are falling**, the only reliable way off the falling side is activation. Not more hours in your current job. Not waiting for your employer to retrain you. An afternoon of hands-on work building your own [Jarvis](/docs/concepts/personal-agentic-os) is more decisive for your economic future than any credential you could chase this year. Start with the [Supersuit Up workshop](/docs/workshops/supersuit-up). Then keep going.
+
+**If you are building or leading**, design for the elevator. Every product that assumes a general population of stable, unaugmented humans is a product designed for a world that no longer exists. The winning products of this decade are the ones that assume ascending operators and either ride with them or actively pull more people into the lift.
+
+---
+
+## The Elevator Economy And The Rest Of The AAS Concept Graph
+
+- **[Hyperagency](/docs/concepts/hyperagency)**: What the ascending side of the elevator actually looks like at the individual level.
+- **[The Hyperagency Gap](/docs/concepts/the-hyperagency-gap)**: The widening distance between the ascending and descending sides, and closing it as AAS's core mission.
+- **[The Survivor Economy](/docs/concepts/the-survivor-economy)**: The company-internal version of the same sorting. Who inside an existing org is ascending and who is being quietly written out of the org chart.
+- **[Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability)**: The floor below which you are no longer a credible commercial actor in the elevator economy. Above it, you are competitive and compounding.
+- **[There Is No Demand for Average](/docs/concepts/there-is-no-demand-for-average)**: The market-side version. The baseline is commoditized; above-baseline is where demand concentrates.
+- **[Jevons Paradox](/docs/concepts/jevons-paradox)**: The economy-wide offset. As AI makes execution cheap, total demand for capable humans expands into new categories.
+- **[Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement)**: The design principle that says the worth of AI progress is measured by how fast the floor rises for everyone, not by how far the ascending side advances.
+
+---
+
+## Further Reading
+
+- [Hyperagency](/docs/concepts/hyperagency)
+- [The Hyperagency Gap](/docs/concepts/the-hyperagency-gap)
+- [The Survivor Economy](/docs/concepts/the-survivor-economy)
+- [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability)
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os)
+- [Your Two Futures](/docs/philosophy/your-two-futures)
+- [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed)
+- [Supersuit Up Workshop](/docs/workshops/supersuit-up)
