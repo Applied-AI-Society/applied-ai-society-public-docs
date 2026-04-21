@@ -145,6 +145,7 @@ If those four are real, the demand for you will be larger than your capacity. Ch
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The mechanism you are deploying for the people you serve
 - [Get Jarvised](/docs/get-jarvised): The on-ramp you walk people through
 - [Hyperagency](/docs/concepts/hyperagency): What you are helping them become
+- [Conjoined Agency](/docs/concepts/conjoined-agency): The principal-side companion. Being the go-to person is what it looks like to be inside somebody else's conjoined-agency graph.
 - [Pricing Playbook](/docs/playbooks/practitioner/pricing): The operational pricing companion
 - [Finding Clients](/docs/playbooks/practitioner/finding-clients): How to find the people who need a go-to person
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The bigger market frame

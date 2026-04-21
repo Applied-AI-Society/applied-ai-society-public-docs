@@ -64,6 +64,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 ### Economy and Roles
 
 - [Hyperagency](/docs/concepts/hyperagency): Two types of people are emerging: hyperagents (humans amplified by AI) and everyone else. The defining split of this economy.
+- [Conjoined Agency](/docs/concepts/conjoined-agency): The second frame on what a hyperagent is. Real agency is the trust of other high-agency people who will help enact your will. Tool-agency is not agency. Vibe coding does not build the relational layer.
 - [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability): The floor below which you are no longer a credible commercial actor in 2026. Four load-bearing pieces: applied AI literacy, a working Personal Agentic OS, a body of public work, and active market engagement.
 - [Jevons Paradox](/docs/concepts/jevons-paradox): As AI makes work cheaper, total demand for smart humans goes up, not down. The economic engine underneath the shift. Cutting your way to the top is a losing move.
 - [Effective AGI](/docs/concepts/effective-agi): AGI is not coming. It is here, for the people who know how to wield it. The bottleneck is the human, not the technology.
