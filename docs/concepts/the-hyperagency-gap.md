@@ -59,4 +59,4 @@ The Applied AI Society exists because someone has to close this gap, and the org
 - [Raise the Floor](/docs/concepts/raise-the-floor): The macro mission of closing the gap at scale
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): The economic reality making the gap urgent
 - [Ignorance Debt](/docs/concepts/ignorance-debt): What accumulates while the gap goes unaddressed
-- [We Either Build The Ark, Or AI Is Doomed](/docs/philosophy/build-the-ark-or-ai-is-doomed): The political cost of letting the gap stay open, a young generation recruited into the stop-AI movement
+- [Either We Build The Ark ASAP, Or AI Is Doomed](/docs/philosophy/build-the-ark-or-ai-is-doomed): The political cost of letting the gap stay open, a young generation recruited into the stop-AI movement

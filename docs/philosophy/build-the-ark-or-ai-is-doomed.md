@@ -1,9 +1,9 @@
 ---
 sidebar_position: 13
-title: "We Either Build The Ark, Or AI Is Doomed"
+title: "Either We Build The Ark ASAP, Or AI Is Doomed"
 ---
 
-# We Either Build The Ark, Or AI Is Doomed
+# Either We Build The Ark ASAP, Or AI Is Doomed
 
 *The more people feel left out of the AI revolution, the more they will glorify stopping it. Lock a generation out of AI literacy and economic hope, and they will join movements that glorify stopping AI by any means necessary. The violence of 2026 is the predictable consequence. Building the ark for every person is the only intervention that actually works.*
 
