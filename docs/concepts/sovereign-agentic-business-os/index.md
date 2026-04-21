@@ -106,7 +106,6 @@ The Sovereign Agentic Business OS is not just a technical architecture. It's a s
 
 ## Further Reading
 
-- [Intelligence Hub](/docs/concepts/intelligence-hub): The organizational integration layer a Sovereign Agentic Business OS actually runs on. The Hub is the substrate; the OS is the operating model.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): How to start with a personal AI operating system today
 - [Business OS Administrator](/docs/roles/business-os-administrator): The emerging role responsible for maintaining organizational AI operating systems
 - [Legacy](/docs/concepts/legacy): The discipline of documenting the knowledge that powers your business OS

@@ -16,7 +16,6 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Context Lake](/docs/concepts/context-lake): The structured collection of markdown files that powers your AI system. Your persistent memory layer. The foundation everything else builds on.
 - [Context Engineering](/docs/concepts/context-engineering): Curating the right information state for AI systems so agents have the knowledge they need, when they need it
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): Your AI-operated business OS. The system that compounds over time as your context lake deepens.
-- [Intelligence Hub](/docs/concepts/intelligence-hub): The organizational layer where a company's AI, data, applications, and workflows are integrated under the company's own control. An Intelligence Integration Hub, not another cloud service. The place a Sovereign Agentic Business OS actually runs.
 - [Jarvis Workspace](/docs/concepts/jarvis-workspace): The cockpit. One window, file tree, terminal, and agent-with-context. The physical form your Personal Agentic OS runs inside. Single-repo and parent-folder patterns.
 - [Agentic Harness](/docs/concepts/agentic-harness): The software layer that turns a raw AI model into a working agent. The model is the engine. The harness is the car. Covers what a harness does, the major harnesses in 2026, and why it matters.
 - [Harness Engineering](/docs/concepts/harness-engineering): The code wrapped around an AI model matters as much as the model itself. Choose harnesses that maximize utility, cost, and sovereignty.
