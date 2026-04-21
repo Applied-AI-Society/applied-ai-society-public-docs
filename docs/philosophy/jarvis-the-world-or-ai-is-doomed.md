@@ -42,7 +42,7 @@ The AI doom movement on the other side of the conversation is funded by money th
 
 That is the elephant. We cannot have an honest conversation about applied AI's promise for humanity while pretending the top of the industry is stewarded by people who unambiguously want that outcome. The AAS position is that naming this is the first honest move available. Closing the exclusion is how it gets fixed.
 
-The elephant is flaming **red** for three reasons.
+The elephant is **flaming** **red** for three reasons.
 
 First, it is on fire, and nobody wants to look at it.
 
