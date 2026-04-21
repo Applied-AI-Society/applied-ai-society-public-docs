@@ -108,6 +108,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [The Slopacalypse](/docs/concepts/slopacalypse): When anyone can build anything, only the things built with genuine purpose will survive
 - [Compound Drift](/docs/concepts/compound-drift): Every stage in an AI chain that is less than provably good compounds with the next. Mediocrity does not average out; it multiplies.
 - [Slop Factory](/docs/concepts/slop-factory): The trap the “self-running business” dream leads to when nobody is watching the output. Profitability is the ground truth test.
+- [Human Slop Factory](/docs/concepts/human-slop-factory): The individual-operator version. Not a failing pipeline, a failing person running a pipeline inside their own skull. Damage is paid by the team around them through the editor tax, decision drift, and culture poisoning.
 
 ### Frameworks
 

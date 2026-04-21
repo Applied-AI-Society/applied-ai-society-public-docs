@@ -77,6 +77,7 @@ Build the self-running business. Refuse to build the slop factory. The differenc
 - [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop): The adjacent playbook on not automating visibly broken workflows
 - [The Slopacalypse](/docs/concepts/slopacalypse): What happens when Slop Factories are everywhere at once
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): The Player-to-Coach climb that is the antidote
+- [Human Slop Factory](/docs/concepts/human-slop-factory): The individual-operator version. Same failure mode, different surface area; the damage shows up in the people around the operator.
 - [Crutching](/docs/concepts/crutching): The individual-scale version of the same failure mode
 - [Signalmaxxing](/docs/concepts/signalmaxxing): The discipline of curating signal quality in everything that flows into and out of your system
 - [There Is No Demand for Average](/docs/concepts/there-is-no-demand-for-average): The market fact a Slop Factory denies. Throughput at the baseline is not what anyone is paying for.

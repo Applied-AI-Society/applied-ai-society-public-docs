@@ -86,6 +86,7 @@ Fluency is not mastery. Access is not skill. Throughput is not value. The gap be
 - [The Amplification Effect](/docs/philosophy/the-amplification-effect): AI amplifies your deficiencies at the same rate as your strengths. The math behind why the trap is expensive.
 - [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): The companion frame. You are the bottleneck; the overconfidence trap is why you cannot see it.
 - [Slop Factory](/docs/concepts/slop-factory): The business-scale version of the trap. A machine that produces confident mediocrity at throughput.
+- [Human Slop Factory](/docs/concepts/human-slop-factory): The individual-scale version. What the operator in the overconfidence trap actually produces, and the system damage that trails behind it.
 - [Crutching](/docs/concepts/crutching): The adjacent failure mode. Over-reliance on AI so your own capabilities atrophy.
 - [See Your Own Thinking](/docs/concepts/see-your-own-thinking): The escape move. Get your own thinking reflected back clearly enough to notice where it is thin.
 - [The Self-Improving Human](/docs/concepts/the-self-improving-human): Effectiveness is human capacity multiplied by technology leverage. The trap is optimizing the second factor while ignoring the first.
