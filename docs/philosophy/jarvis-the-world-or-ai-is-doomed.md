@@ -5,7 +5,7 @@ title: "Either We Jarvis The World, Or AI Is Doomed"
 
 # Either We Jarvis The World, Or AI Is Doomed
 
-*The more people feel left out of the AI revolution, the more they will glorify stopping it. Lock a generation out of AI literacy and economic hope, and they will join movements that glorify stopping AI by any means necessary. The violence of 2026 is the predictable consequence. The intervention that actually works is a fleet of arks, not a single one. AAS is building the infrastructure and the culture so every person who wants one can build their own.*
+*The more people feel left out of the AI revolution, the more they will glorify stopping it. Lock a generation out of AI literacy and economic hope, and they will join movements that glorify stopping AI by any means necessary. The violence of 2026 is the predictable consequence. The intervention that actually works is getting as many people as possible Jarvised, as fast as possible, and letting them build from there.*
 
 ---
 

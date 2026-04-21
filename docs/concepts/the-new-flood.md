@@ -35,25 +35,25 @@ The coinciding currents feeding the flood:
 
 **AI is the accelerant poured on top of all of this.** Frontier models compound every quarter. Agentic infrastructure is going from rare to table stakes inside a single calendar year. Execution on most knowledge work is collapsing in price. Entry-level hiring in white-collar fields is thinning first because it is the most exposed. Information and trust are polluting with synthetic content at near-zero marginal cost. Political volatility is already producing [firebombs at AI executives' homes and data-center sabotage](/docs/philosophy/jarvis-the-world-or-ai-is-doomed).
 
-No single one of these currents would be an easy century. All of them converging inside one decade, on the same fragile civilizational substrate, is a flood. AI is not the flood. **AI is the accelerant that is making the already-fragile system fail faster and harder than it otherwise would.**
+No single one of these currents would be an easy century. All of them converging inside one decade, on the same fragile civilizational substrate, is a flood. **AI is the accelerant making the already-fragile system fail faster and harder than it otherwise would.**
 
 ## What Floods Do
 
 Floods create three kinds of people.
 
-**The unprepared.** The majority in any flood. Not because they are unintelligent or lazy. Because the flood arrived faster than the available information about how to prepare. In the AI flood, most people are still using chat tools the way they used Google in 2004: ask a question, get an answer, close the tab. They are dry today. The water is rising.
+**The unprepared.** The majority in any flood. The reason is almost never that they are unintelligent or lazy. The reason is that the flood arrived faster than the available information about how to prepare. In this flood, most people are still using chat tools the way they used Google in 2004: ask a question, get an answer, close the tab. They are dry today. The water is rising.
 
 **The arrivists.** A small set of people who had a head start by accident of geography, industry, or circumstance. They were already in the water before the flood became obvious. For them, the flood feels like opportunity rather than threat. Tech workers in AI hubs. Early practitioners. Engineers who were already comfortable directing agentic systems. They are on the ascending side of the [elevator economy](/docs/concepts/the-elevator-economy) largely because of where they were standing when the water came.
 
-**The ark builders.** A much smaller set of people who saw the flood coming and started building vessels for themselves and the people they love. Not arrivists. Builders. They did not inherit the advantage. They built the advantage by [activating](/docs/concepts/activation) and then helping other people activate.
+**The ark builders.** A much smaller set of people who saw the flood coming and started building vessels for themselves and the people they love. They built the advantage they carry, rather than inheriting it, by [activating](/docs/concepts/activation) first and then helping other people activate.
 
 The flood is indifferent to your moral story about it. It is going to produce all three categories regardless. The question for the next five years is how many ark builders exist by the time the waterline rises another few feet.
 
 ## Why Arks, Not Lifeboats
 
-A lifeboat keeps you alive in the moment. An ark is a long-term vessel for you, the people with you, and whatever you need to rebuild on the other side. The difference matters for the AI flood.
+A lifeboat keeps you alive in the moment. An ark is a long-term vessel for you, the people with you, and whatever you need to rebuild on the other side. The difference matters for this flood.
 
-A lifeboat in this moment looks like "one ChatGPT subscription and hoping the layoffs skip you." It keeps you breathing. It does not compound. It does not serve anyone else. When the subscription ends or the terms change, the lifeboat is gone.
+A lifeboat in this moment looks like "one ChatGPT subscription and hoping the layoffs skip you." It keeps you breathing while nothing else about the setup serves you. It does not compound. It does not serve anyone else. When the subscription ends or the terms change, the lifeboat is gone.
 
 An ark looks like a sufficiently contexted and sovereignly designed [Personal Agentic OS](/docs/concepts/personal-agentic-os) that you own and run, that knows your real life, that compounds every day you use it, and that you can use to help others build theirs. That is a vessel, not a raft. See [The Ark of One](/docs/concepts/the-ark-of-one) for why a properly built PAOS qualifies as an ark in this flood.
 
