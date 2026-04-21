@@ -37,6 +37,18 @@ But AI adds a second mechanism on top of it, and this is the part most operators
 
 This is a new failure mode. The old Dunning-Kruger was cognitive. This one is cognitive *plus* aesthetic: the output looks professional, so your self-assessment follows the output. Fluency masquerades as mastery.
 
+## The Academic Name: The LLM Fallacy
+
+The overconfidence trap has a formal research name. Kim, Yu, and Yi ([2026](https://arxiv.org/abs/2604.14807)) call it **the LLM fallacy**: a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence. The measurable gap they describe is **capability divergence**: the systematic distance between perceived and actual capability.
+
+Their mechanism chain is useful to carry in your pocket:
+
+- **Three properties of LLM interaction set the conditions.** *Opacity* (you cannot see how the output was generated). *Fluency* (outputs arrive grammatical, structured, and stylistically consistent by default). *Interactional immediacy* (the response cycle is fast enough to feel like your own thinking).
+- **Two cognitive mediations turn those conditions into misattribution.** *Attribution ambiguity* (the boundary between your contribution and the system's is unclear). *Cognitive outsourcing* (you engage less deeply with the reasoning steps, so your ability to evaluate the output erodes the more you use the tool).
+- **The result is capability divergence.** What you think you can do pulls away from what you can actually do unaided. The gap is invisible from inside.
+
+The paper is conceptual rather than empirical; the authors explicitly call for experimental work to measure capability divergence directly. The value of the framework is that it names the mechanism cleanly and distinguishes it from adjacent phenomena (hallucination, automation bias, cognitive offloading, classic Dunning-Kruger) in a way that makes the trap harder to hand-wave away. It also reinforces the diagnostic above: their analysis specifically flags users' reliance on surface-level cues such as output polish and ease of processing, exactly the Three False Signals named here. Fluency masquerades as mastery.
+
 ## Three Non-Tool Prerequisites
 
 The way out of the trap is not a better tool. It is the three things AI does not install in you.
@@ -92,3 +104,4 @@ Fluency is not mastery. Access is not skill. Throughput is not value. The gap be
 - [The Self-Improving Human](/docs/concepts/the-self-improving-human): Effectiveness is human capacity multiplied by technology leverage. The trap is optimizing the second factor while ignoring the first.
 - [Why Making Money Matters](/docs/philosophy/why-making-money-matters): Revenue as the signal of useful AI application. The business-sense prerequisite, expanded.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): Building identity around playing with tools rather than applying them usefully.
+- Kim, Yu, and Yi (2026). *The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows.* [arXiv:2604.14807](https://arxiv.org/abs/2604.14807). The academic framing of the mechanism: opacity, fluency, and interactional immediacy drive attribution ambiguity and cognitive outsourcing, producing capability divergence.

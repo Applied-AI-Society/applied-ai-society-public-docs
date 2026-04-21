@@ -17,6 +17,8 @@ This one is about a person. A human slop factory is a single operator who, with 
 
 The existing frames cover the mechanism from different angles: [The Amplification Effect](/docs/philosophy/the-amplification-effect) names the multiplier math; [The Overconfidence Trap](/docs/concepts/the-overconfidence-trap) names why the operator cannot see their own output for what it is. This doc names the third angle: the **system damage** the human slop factory causes in the people and workflows around them.
 
+The mechanism by which the factory stays invisible to itself has a formal research name. Kim, Yu, and Yi ([2026](https://arxiv.org/abs/2604.14807)) call it **capability divergence**: the measurable gap between what a person thinks they can do and what they can actually do unaided widens every time cognition is outsourced to a fluent system whose own process is opaque. The more the factory runs, the less equipped the operator is to notice. That is the internal half. What follows here is what that gap looks like from the outside, to everyone who has to work alongside it.
+
 ## Judgment Is the Unit of Value in the AI Economy
 
 Work used to be the unit of value. You got paid for execution: hours, deliverables, volume. AI broke that. Execution is now close to free for anyone willing to learn the harness. Volume is meaningless, because anyone can generate any amount of it in an afternoon.
@@ -96,3 +98,4 @@ The goal is not to be the fastest factory. It is to stop being a factory.
 - [The Judgment Line](/docs/concepts/the-judgment-line): Where human judgment becomes load-bearing once execution is automated.
 - [There Is No Demand For Average](/docs/concepts/there-is-no-demand-for-average): The market signal that slop-factory output eventually collides with.
 - [Crutching](/docs/concepts/crutching): The adjacent failure mode. Over-reliance on AI until your own capabilities atrophy.
+- Kim, Yu, and Yi (2026). *The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows.* [arXiv:2604.14807](https://arxiv.org/abs/2604.14807). The conceptual framework for why the factory is invisible to itself: opacity, fluency, and interactional immediacy mediate attribution ambiguity and cognitive outsourcing, producing capability divergence.
