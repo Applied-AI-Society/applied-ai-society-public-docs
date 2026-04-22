@@ -5,7 +5,7 @@ title: "The Exocortex"
 
 # The Exocortex
 
-*Your Jarvis is an externalized neocortex. It is becoming the new default for competitive thinking, the substrate for your highest-level insights, and only really yours when it is sovereign.*
+*Your [Personal Agentic OS](/docs/concepts/personal-agentic-os) seen from a cognitive angle. Naming it as a cortex, not an assistant, is what makes the competitive argument land, the sovereignty stakes load-bearing, and the layer of insight above the machine something you design for.*
 
 ---
 
@@ -17,7 +17,26 @@ The exocortex is the same function, moved outside the skull. Files, agents, a [P
 
 Once you start operating this way, the feeling is not "I am using a tool." It is closer to "I just grew another part of my brain." Because functionally, you did.
 
-[Externalizing your brain](/docs/concepts/externalize-your-brain) is the verb. The exocortex is the noun. The thing you build when you do the work.
+---
+
+## How This Relates to Jarvis and Personal Agentic OS
+
+Three related words get used around the same artifact. Keeping them straight is useful.
+
+- **[Jarvised](/docs/get-jarvised)** is the *verb*. You get Jarvised. It names the onboarding: getting your files in, getting your agent configured, getting your workflows running.
+- **[Personal Agentic OS](/docs/concepts/personal-agentic-os)** (or **Jarvis**) is the *architectural noun*. It names the system you end up with: files, harness, agent, skills, workflows, cockpit. Use this word when the conversation is about building, configuring, or owning the thing as infrastructure.
+- **Exocortex** is the *cognitive noun*. It names the function that same system performs once you are using it: an outside-the-skull extension of your higher-order thinking. Use this word when the conversation is about thinking with the thing, reasoning through it, and what kind of signal it should carry.
+
+Same artifact seen two ways. The architectural noun and the cognitive noun are both true. Different conversations want different words.
+
+The cognitive noun earns its keep because category shapes investment:
+
+- "I have an AI assistant" is a productivity claim. "I have another part of my brain" is a cognition claim. People maintain cognition at a different standard than they maintain assistants.
+- "Your competitor has a better AI setup" sounds like a procurement question. "Your competitor has a better exocortex" is the same question named more honestly, as a fitness question.
+- "Who hosts your AI?" sounds like an IT question. "Who owns the substrate of your thinking?" is the same question correctly named.
+- A cortex carries signal. A system runs processes. The layer above the machine, the strategic insight you cannot derive by averaging your past, has a place to land in the cortex frame that it does not have in the system frame.
+
+This is also why [externalize your brain](/docs/concepts/externalize-your-brain) and "the exocortex" are two words for two different grammatical jobs. "Externalize your brain" is the verb that tells you what to do. "The exocortex" is the noun for what you are building when you do it. The verb gets you started. The noun lets you maintain it, upgrade it, notice when someone else's is better than yours, and take seriously the question of what kind of signal it carries.
 
 ---
 
@@ -75,14 +94,6 @@ The practice is simple to state and hard to skip:
 2. **Get the value.** Strategize with it. Plan with it. Let it carry your context into every working session.
 3. **Ratchet the sovereignty.** Each quarter, own one more layer. Local model for sensitive workflows. Self-hosted storage. Open-source harness. One rung at a time.
 4. **Stay receptive to the layer above.** Whatever source of non-derivable insight you work with, tune the exocortex to receive it. The best strategy you will ever have does not come from averaging your past.
-
----
-
-## Why This Frame Matters
-
-"Externalize your brain" is a verb that tells people what to do. "The exocortex" is a noun that tells people what they are building. Both are needed. The noun makes the thing visible as infrastructure, not a habit. You can maintain infrastructure. You can upgrade infrastructure. You can compound with it over years. You can notice when someone else's infrastructure is better than yours and go learn from theirs.
-
-And naming it as a cortex puts it in the right category. It is not an assistant. It is not a chatbot. It is a layer of your thinking that happens to live outside your head, and the serious question is how well you are building it, how safely you own it, and what kind of signal you are letting it carry.
 
 ---
 
