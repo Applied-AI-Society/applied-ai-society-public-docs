@@ -27,6 +27,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Compounding Docs](/docs/concepts/compounding-docs): Documentation as a compounding asset. Every file you add makes every other file more useful.
 - [Context Overflow](/docs/concepts/context-overflow): The most dangerous form of overwhelm is the kind that feels like momentum
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The bottleneck is you, not the tools. Get what is inside your head into plain text so AI can read it and act on it.
+- [The Exocortex](/docs/concepts/the-exocortex): Your Jarvis is an externalized neocortex. The new default for competitive thinking, the substrate for your highest-level insights, and only really yours when it is sovereign.
 - [Command Centers](/docs/concepts/command-centers): The meta-concept. Personal Agentic OS, Sovereign Business OS, custom harnesses: they are all command centers. The command center is replacing the app.
 - [The Mission Harness](/docs/concepts/mission-harness): Everyone talks about AI alignment. A mission harness makes it concrete.
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): A system that gets better without human intervention is not science fiction. It is an engineering pattern with specific, observable principles.

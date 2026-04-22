@@ -75,6 +75,7 @@ With “progressive” as the modifier, sovereignty becomes a practice anyone ca
 
 ## Further Reading
 
+- [The Exocortex](/docs/concepts/the-exocortex): The thing whose sovereignty this is progressively ratcheting. If you have gotten serious business value from an AI that is not sovereign, you have given it too much.
 - [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): The full map of what can actually be sovereign, layer by layer.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system you build, where progressive sovereignty plays out in practice.
 - [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming): Why standing still on sovereignty is actively losing ground.
