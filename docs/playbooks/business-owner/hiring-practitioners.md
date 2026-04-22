@@ -87,4 +87,12 @@ The Applied AI Society exists to connect business owners with practitioners who 
 
 ---
 
+---
+
+## What You Cannot Hire Out
+
+This playbook is about what to hire for. The counterpart is [Don't Delegate Your AI Literacy](/docs/playbooks/business-owner/dont-delegate-your-ai-literacy): the operator-level literacy that determines how you personally think, communicate, decide, and lead is not a function you can hire a practitioner to perform for you. Read both to understand where the hire ends and where your own work begins.
+
+---
+
 *The people who can help you exist. The economy that connects you is forming. Let's build it together.*

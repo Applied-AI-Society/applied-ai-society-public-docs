@@ -57,6 +57,12 @@ Not sure where AI will create the most leverage across your org? Start with [AI 
 
 ---
 
+## Don't Delegate Your Own Literacy
+
+You can hire a practitioner to build your systems. You cannot hire one to be your foundational AI literacy. If there is a human interface between you and your own superintelligence, you have the wrong architecture. Read [Don't Delegate Your AI Literacy](/docs/playbooks/business-owner/dont-delegate-your-ai-literacy) for why the leverage shows up for the proxy instead of for you, and what the floor actually looks like for an executive.
+
+---
+
 ## Finding Help
 
 The Applied AI Society connects business owners with practitioners who are actually doing this work, not just talking about it.
