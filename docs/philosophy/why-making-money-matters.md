@@ -44,6 +44,7 @@ We would rather you build something useful, get paid for it, learn from the expe
 ## See Also
 
 - [North Star](/docs/philosophy/north-star): The metric that matters
+- [Be Selfish First](/docs/philosophy/be-selfish-first): The companion claim. Non-pity money is the proof that you have crossed from theory to practice, and that proof is the credential for helping anyone else do the same.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The trap of building your identity around tools instead of outcomes
 - [Five Levels of Value](/docs/playbooks/student/five-levels-of-value): Where you sit in the AI economy
 - [Business Outcomes Over Technology Fascination](/docs/philosophy/principles): Operating principle #3
