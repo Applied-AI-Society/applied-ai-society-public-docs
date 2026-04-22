@@ -90,6 +90,7 @@ The key insight is that the activation is a one-time event, but the progression 
 
 ## Further Reading
 
+- [The Socratic Trainer](/docs/concepts/the-socratic-trainer): The archetype this role is an implementation of. The trainer who produces trainers who produce trainers.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial you are teaching
 - [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): Logistics, pacing, and lessons learned
 - [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The full philosophy behind what participants are building toward

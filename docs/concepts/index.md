@@ -83,6 +83,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Crutching](/docs/concepts/crutching): The anti-pattern of leaning on AI so heavily your own capabilities atrophy. Use AI as a coach, not a replacement.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): Building your identity around playing with tools rather than applying them usefully. The market is the compass.
 - [Raise the Floor](/docs/concepts/raise-the-floor): One person's breakthrough should become everyone's baseline. The organizational flywheel of shared skills and infrastructure.
+- [The Socratic Trainer](/docs/concepts/the-socratic-trainer): The teacher of great teachers is the archetype you want leading your company's AI transformation. Three-generation lineage test, the master-chef metaphor, and the four-question interview for evaluating trainers.
 - [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The humanity-scale commitment to AI that lifts the people most likely to be left behind, not just the already-advantaged. The global floor, not just the team floor.
 - [See Your Own Thinking](/docs/concepts/see-your-own-thinking): The metacognition unlock. When AI reflects your thinking back to you, you gain self-awareness that most people have never experienced.
 - [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): Money and AI are multipliers that scale whatever you are, and smart hires cannot reach up and fix you from below. The only move out of being the bottleneck is internal.
