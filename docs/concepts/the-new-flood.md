@@ -71,6 +71,7 @@ The Applied AI Society exists to make that ark-building as fast, as high-quality
 
 ## Further Reading
 
+- [The Water Line](/docs/concepts/the-water-line): The specific mechanic of what the flood's water actually is. The minimum level of intelligence agency required to stay economically viable, rising every quarter.
 - [The Ark of One](/docs/concepts/the-ark-of-one): Why a sufficiently contexted, sovereignly designed Personal Agentic OS is an ark for this flood.
 - [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): The political version of the same claim. The fleet is the civilizational response to the flood.
 - [The Elevator Economy](/docs/concepts/the-elevator-economy): The economic shape of the flood. No standing still.
