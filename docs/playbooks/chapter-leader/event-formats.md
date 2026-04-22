@@ -69,7 +69,7 @@ The format is intentionally low-key. No stage, no slides, no formal agenda. Peop
 
 These are ideas on the roadmap. Not yet tested, but worth noting for chapter leaders planning ahead.
 
-**Coworking sessions.** Informal, recurring time blocks where practitioners work alongside each other. No agenda, just proximity and conversation. Good for chapters that want a low-effort touchpoint between bigger events.
+**Coworking sessions.** Informal, recurring time blocks where practitioners work alongside each other. No agenda, just proximity and conversation. Good for chapters that want a low-effort touchpoint between bigger events. For a concrete, business-owner-focused version of this format (the AI Implementation Club model in Austin), see [Organizing An Applied AI Business Community](/docs/playbooks/chapter-leader/organizing-an-applied-ai-business-community).
 
 **Screening and discussion.** Watch a keynote, demo, or documentary together, then discuss. Low logistics, high conversation quality. Works well when a major AI announcement or product launch creates natural discussion topics.
 

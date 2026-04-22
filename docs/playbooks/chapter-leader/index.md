@@ -17,6 +17,8 @@ Every AAS event is an **activation into the applied AI economy**: a landscape ma
 
 Start here: **[Event Formats](/docs/playbooks/chapter-leader/event-formats)** is a catalog of every event type we run or are developing, with guidance on when to use each one.
 
+For organizers whose primary audience is business owners, **[Organizing An Applied AI Business Community](/docs/playbooks/chapter-leader/organizing-an-applied-ai-business-community)** is the brand-agnostic playbook for the recurring implementer meetup (three principles, one working format).
+
 ---
 
 ## Event Playbooks
