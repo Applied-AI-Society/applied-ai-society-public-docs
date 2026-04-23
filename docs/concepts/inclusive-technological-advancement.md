@@ -59,6 +59,7 @@ AAS's bet is that the people who pass this test will outperform the people who d
 ## Further Reading
 
 - [Canon Tenet XII: Raise the floor, not just the ceiling](/docs/philosophy/canon)
+- [Regenerative AI Advancement](/docs/concepts/regenerative-ai-advancement): The ecological-and-human-systems dimension of the same family of commitments. Inclusive is about who benefits; regenerative is about whether the underlying substrate is left stronger.
 - [Raise the Floor](/docs/concepts/raise-the-floor): The team-scale version of the same principle
 - [Hyperagency](/docs/concepts/hyperagency): The K-shaped economy thesis that makes inclusion work urgent
 - [Applied AI Literacy](/docs/applied-ai-practice): AAS's approach to putting literacy in everyone's hands
