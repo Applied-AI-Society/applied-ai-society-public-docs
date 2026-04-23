@@ -33,6 +33,10 @@ Power is real, and most people consume a simulation of it through the news cycle
 
 The material world is not all there is. Different traditions describe this in different languages (God, the ground of being, the Tao, the higher realms), and the common thread is that there are orders of reality above the merely material. A life that ignores them tends to flatten out. Spiritual literacy is the capacity to relate honestly to that layer: prayer, contemplation, liturgy, scripture, silence, community, whatever form it takes in your tradition. You do not have to be religious to take this seriously. You do have to take it seriously if you want to be whole.
 
+### Scam literacy
+
+AI makes it trivially cheap to scam at scale. Hyper-personalized phishing, voice cloning, deepfake video calls, messages that know your dog's name and your last vacation. The defense has to evolve at the pace of the attack, which means a community, not a textbook. See [Scam Literacy](/docs/concepts/scam-literacy) for the full framing and how to plug in.
+
 ### And beyond
 
 The list keeps going. Health literacy (sovereignty over your own body). Relational literacy (the skill of knowing and being known). Ecological literacy (how actual land, water, food, and energy move). Legal and civic literacy. Artistic literacy. Ritual literacy. The point is not to check every box. The point is to see that a full human life in 2026 requires more than one kind of seeing.

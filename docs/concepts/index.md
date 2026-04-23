@@ -46,6 +46,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Every layer of your digital life has a default controlled by someone else. The full map from silicon to content, and what sovereign alternatives exist.
 - [Progressive Sovereignty](/docs/concepts/progressive-sovereignty): Sovereignty in the AI era is not a state you achieve, it's a frontier you keep moving. From privilege today toward democratized human right.
 - [Literacies That Matter](/docs/concepts/literacies-that-matter): Applied AI literacy gets the attention. Financial, sociopolitical, spiritual, and other literacies still matter. A prompt to audit what you need to flourish and stay sovereign.
+- [Scam Literacy](/docs/concepts/scam-literacy): A real-time, community-maintained awareness of how scams currently work. If you can sell at scale, you can scam at scale. Textbooks go stale; communities keep pace.
 - [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming): Every VC-backed hyperscaler will eventually move to lock you in. Own your data, own your models, own your harness, own your future.
 - [The Soul Harness](/docs/concepts/the-soul-harness): The systems wrapped around you that either liberate or extract. Predatory harnesses make you dependent. Liberating harnesses make you free.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building AI-powered layers on top of existing systems to free trapped value, rather than replacing what already works
