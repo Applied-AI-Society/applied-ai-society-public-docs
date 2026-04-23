@@ -24,7 +24,7 @@ A lot of the people this use case is built for have already done the hardest par
 
 That is latent leverage: the gap between the relationships you have built and the moves you have actually made through them.
 
-Picture the archetypal super-connector in an industry like hip hop or music. More relationships in their field than almost anyone on the planet. Every introduction they have made has landed. Every person in their network would take their call. And all of it lives in their head. The brain cannot search the internet for what their network has been up to this quarter. The brain cannot cross-reference the person they met five years ago with the opportunity that just appeared last week. Context this valuable deserves an operating system. A Jarvis is that operating system.
+Picture the archetypal super-connector in hip hop. More relationships in their field than almost anyone on the planet. Every introduction they have made has landed. Every person in their network would take their call. And all of it lives in their head. The brain cannot search the internet for what their network has been up to this quarter. The brain cannot cross-reference the person they met five years ago with the opportunity that just appeared last week. Context this valuable deserves an operating system. A Jarvis is that operating system.
 
 Trust like this is earned the slow way, by delivering again and again and again until people feel safe betting on you. It is worth naming what that trust actually is, because the word gets diluted.
 
@@ -78,7 +78,7 @@ Without a Jarvis, every new deal starts from a cold re-read of your notes or, wo
 
 [Strategy is the new execution](/docs/concepts/strategy-is-the-new-execution). In the AI economy, execution is commoditizing. The scarce and valuable skill is deciding which moves to make and which to decline.
 
-Dealmaking is strategy in its purest operational form. You are the main agent. Your Jarvis is not replacing your judgment. It is making sure your judgment is operating on the full context instead of the fragment you happen to be holding in working memory.
+Dealmaking is strategy in its purest operational form. You are the main agent. Your Jarvis keeps your judgment operating on the full context of every stakeholder, rather than the fragment you happen to be holding in working memory. The decision is still yours. The context the decision runs on is no longer the limiter.
 
 This is the Jarvis pattern in a single flagship use case: human genius on top, agentic infrastructure underneath, real artifacts (drafted deals, assessments, tear-ups) out the other side. The daily [applied AI practice](/docs/concepts/applied-ai-practice) is what keeps the context compounding, so the twenty-fifth deal this year is sharper than the first.
 

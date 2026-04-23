@@ -81,7 +81,7 @@ Running the predatory game at scale with modern AI tooling produces outcomes we 
 
 ---
 
-> **Wealth is a readout. Of what is the question. Imago Dei capitalism makes the readout a reflection of goodness created. Predatory capitalism makes it a reflection of harm absorbed elsewhere. Same number. Different species.**
+> **Wealth is a readout. The question is what it measures. Imago Dei capitalism makes it a reflection of goodness created. Predatory capitalism makes it a reflection of harm absorbed elsewhere. Same number on paper. Different species entirely.**
 
 ---
 

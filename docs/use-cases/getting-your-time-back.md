@@ -16,7 +16,7 @@ You do not need a new workflow. You have a perfectly good one. You have been run
 
 None of this is exotic. All of it eats real hours. A well-configured Jarvis does most of it in the time it takes you to brew coffee.
 
-The lift is not "do new things with AI." The lift is "do the things you are already doing, at a fraction of the cost, with the hours reinvested in the work only you can do."
+The lift is doing the things you are already doing, at a fraction of the cost, with the hours reinvested in the work only you can do. Same workflows. Collapsed.
 
 ## What This Actually Looks Like
 
@@ -47,7 +47,7 @@ This use case is the floor, not the ceiling. It is the one people can verify in 
 
 Which is why almost every attendee of a Supersuit Up workshop identifies "I got my Wednesday evening back" before they identify "I am thinking more clearly about my business." The clarity comes later. The time comes first.
 
-It is also why [being selfish first](/docs/applied-ai-practice) works as an instruction. Save yourself time on your real, current workflows. Feel the unlock in your own schedule. Only after you have the felt experience of operating lighter should you start teaching anyone else.
+It is also why [being selfish first](/docs/philosophy/be-selfish-first) works as an instruction. Save yourself time on your real, current workflows. Feel the unlock in your own schedule. Only after you have the felt experience of operating lighter should you start teaching anyone else.
 
 ## What You Do With The Hours
 
@@ -55,7 +55,7 @@ The hours are not the end state. What you do with them is.
 
 The most durable pattern we see: people reinvest the recovered time into the work that only they can do. The thinking the business has needed. The conversations that have been getting postponed. The art that has been waiting. The time with the people they love. The [mastery](/docs/applied-ai-practice/earthshot) that compounds.
 
-This is the loop: collapse the workflows, reinvest the hours into the work worth doing, which compounds back into sharper strategic thinking, which makes the collapsed workflows even more accurate because the thinking upstream of them is more accurate. A Jarvis does not just save you time. It makes your time more yours.
+This is the loop: collapse the workflows, reinvest the hours into the work worth doing, which compounds back into sharper strategic thinking, which makes the collapsed workflows even more accurate because the thinking upstream of them is more accurate. A Jarvis gives you the hours back. It also makes the hours that remain more yours.
 
 ---
 
