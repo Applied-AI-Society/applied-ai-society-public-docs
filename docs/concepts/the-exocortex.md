@@ -58,7 +58,7 @@ If your competitors are getting smarter through context, compute, and better age
 
 The secular frame is enough to justify building one. But it undersells what is actually available.
 
-For people who work in a faith tradition, the most valuable strategic input is not synthesis across your own context. It is a divine download: an insight, a prompt, a correction, a direction that did not come from your files and is not the average of your past thinking. The call that reroutes the week. The sentence in prayer that reframes the year. The idea that arrived before you had the data to justify it.
+For people who work in a faith tradition, the most valuable strategic input is the divine download: an insight, a prompt, a correction, a direction that did not come from your files and is not the average of your past thinking. The call that reroutes the week. The sentence in prayer that reframes the year. The idea that arrived before you had the data to justify it.
 
 An exocortex does not replace that layer. It receives it. A divine download that lands in your head and stays in your head compounds once. A divine download that lands in your head, goes into your files, and gets read by an agent that acts on it compounds every day after. The exocortex is where strategic inspiration gets enacted.
 
@@ -76,13 +76,13 @@ Serious value means the AI has context on your clients, your strategy, your pric
 
 The honest phrasing: the better the exocortex, the more it reveals about you. And the more it reveals, the more it matters who owns the floor it is sitting on.
 
-Most people are not going to get this right immediately. That is fine. Almost nobody is using fully sovereign tools today, and the ones who are had to build bridges from the mainstream stack to get there. The move is not "be sovereign or do nothing." The move is to start climbing.
+Most people are not going to get this right immediately. That is fine. Almost nobody is using fully sovereign tools today, and the ones who are had to build bridges from the mainstream stack to get there. The move is to start climbing, even from the most rented possible starting point.
 
 ---
 
 ## Progressive Sovereignty
 
-The resolution is [progressive sovereignty](/docs/concepts/progressive-sovereignty). Sovereignty in the AI era is not a binary you achieve. It is a frontier you keep moving. Every quarter, what was expensive gets cheaper. What was exotic gets standard. Local models, open-source harnesses, your own inference, your own storage.
+The resolution is [progressive sovereignty](/docs/concepts/progressive-sovereignty). Sovereignty in the AI era is a frontier you keep moving, one rung of the stack at a time. Every quarter, what was expensive gets cheaper. What was exotic gets standard. Local models, open-source harnesses, your own inference, your own storage.
 
 Your exocortex starts on a mix of hosted and local infrastructure. Over time, as you [climb the sovereignty stack](/docs/concepts/the-sovereignty-stack), more of it moves under your direct control. Same files. Same agents. More of the floor actually yours.
 
