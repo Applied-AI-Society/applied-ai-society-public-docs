@@ -152,6 +152,7 @@ You arrive at that call primed in a way that the other person can feel. You reme
 
 ## Further reading
 
+- [Dealmaking](/docs/use-cases/dealmaking): The flagship use case PRM unlocks. If your livelihood is downstream of the deals you make, PRM is what sharpens every one of them.
 - [The Context Lake](/docs/concepts/context-lake): The broader system PRM sits inside.
 - [Operational Reality](/docs/concepts/operational-reality): The layer PRM contributes to.
 - [Priming Your Jarvis](/docs/playbooks/practitioner/priming-your-jarvis): How PRM gets used in practice.

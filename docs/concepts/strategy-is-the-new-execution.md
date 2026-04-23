@@ -66,6 +66,7 @@ This loop, repeated daily, compounds. After 90 days your AI knows your prioritie
 
 ## Further reading
 
+- [Dealmaking](/docs/use-cases/dealmaking): The flagship expression of strategy-as-execution. Where agentic context compounds into the asymmetric returns of a well-made deal.
 - [Agentic Strategy](/docs/concepts/agentic-strategy): The full practice of using AI as a co-strategist
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that makes strategic AI partnership possible
 - [Operational Reality](/docs/concepts/operational-reality): The substrate your AI needs to co-strategize

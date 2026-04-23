@@ -1,0 +1,38 @@
+---
+sidebar_position: 1
+title: "Jarvis Use Cases"
+description: "Flagship reasons people walk into a Supersuit Up workshop and never look back. Concrete, high-leverage ways a Personal Agentic OS reshapes the work of leaders, operators, artists, and super-connectors."
+---
+
+# Jarvis Use Cases
+
+*What people actually do with their [Personal Agentic OS](/docs/concepts/personal-agentic-os). The flagship reasons the [literacy bar](/docs/applied-ai-practice/earthshot) is worth crossing, and the reasons the daily [applied AI practice](/docs/concepts/applied-ai-practice) compounds.*
+
+---
+
+## Why A Use Cases Section Exists
+
+Jarvis is a general-purpose system. That is a feature, and it is also a communication problem: when someone asks "what would I actually use this for?", an answer like "anything you want" is technically correct and practically useless.
+
+This section is the antidote. Each page in Use Cases is a single, flagship reason someone would invest the hours to get [Jarvised](/docs/get-jarvised) and stay in the daily practice. Written for the person who wants to see themselves in a specific scenario before they decide to walk through the door.
+
+The list will grow. Every use case we publish here has passed two tests: real people are living the outcome on their own laptops right now, and the value is legible to someone who has never opened Claude Code before.
+
+---
+
+## Current Use Cases
+
+- [**Dealmaking**](/docs/use-cases/dealmaking). The number-one use case for super-connectors, founders, investors, agents, and anyone whose livelihood depends on the quality of the deals they make. Your Jarvis reads your [PRM](/docs/concepts/prm) (relationship dossiers, meeting transcripts, strategic documents) and helps you draft, assess, and tear up deals with the full context no search engine can give you.
+
+More use cases are in the oven. If you have one you want us to document (and a Jarvis you are already running), [come talk to us in Discord](https://discord.gg/K7uWJBMFaN).
+
+---
+
+## How Use Cases Relate To The Rest Of The Docs
+
+- [**Applied AI Practice**](/docs/applied-ai-practice) is the umbrella: daily discipline, embodied, lifelong. Use cases are the flagship expressions of that practice.
+- [**Concepts**](/docs/concepts) are the building blocks (PRM, harness, context lake, skill files). Use cases assemble the blocks into outcomes.
+- [**Playbooks**](/docs/playbooks) are the step-by-step how-to. Use cases are the why-to.
+- [**Supersuit Up**](/docs/workshops/supersuit-up) is the activation moment. Every use case here assumes you have the baseline system running.
+
+If you are new, pick the use case you see yourself in, then come back to Supersuit Up to build the system that makes it real.
