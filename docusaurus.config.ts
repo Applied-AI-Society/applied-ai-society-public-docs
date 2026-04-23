@@ -86,6 +86,9 @@ const config: Config = {
           { from: '/docs/legacy/voice-transcriber', to: '/docs/concepts/legacy/voice-transcriber' },
           // Renamed from "Being Someone's Guy" to "Being Someone's Go-To Person" (more inclusive language)
           { from: '/docs/concepts/being-someones-guy', to: '/docs/concepts/being-someones-go-to-person' },
+          // Renamed section: applied-ai-literacy folder became applied-ai-practice (umbrella = practice, literacy = narrow white-belt rung)
+          { from: '/docs/applied-ai-literacy', to: '/docs/applied-ai-practice' },
+          { from: '/docs/applied-ai-literacy/earthshot', to: '/docs/applied-ai-practice/earthshot' },
         ],
       },
     ],

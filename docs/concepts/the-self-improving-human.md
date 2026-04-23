@@ -41,7 +41,7 @@ A self-improving human is not a better human. It is a human who has accepted tha
 
 - **Externalize your brain.** Get what is in your head into plain markdown your AI can read. This is the [externalization move](/docs/concepts/externalize-your-brain). Without it, every upgrade hits a ceiling of “the AI does not know who I am.”
 - **Keep a wish list of upgrades.** Anything you wish your system could do, write it down. A running list. Revisit it when you have 30 minutes to spend on tooling. Most people try to wire up everything at once, burn out, and quit. The wish list spreads the load across months and makes the work additive.
-- **Run a daily brain dump.** Ten minutes of voice-to-text into your [personal agentic OS](/docs/concepts/personal-agentic-os). The raw material of your life goes in. Over weeks, the system thickens into a thinking partner that actually knows you.
+- **Run a daily brain dump.** Ten minutes of voice-to-text into your [Personal Agentic OS](/docs/concepts/personal-agentic-os). The raw material of your life goes in. Over weeks, the system thickens into a thinking partner that actually knows you.
 - **Evaluate your stack every month.** What is degrading you. What is multiplying you. Cut the first. Upgrade the second. Treat your apps, subscriptions, and notification settings the way a mechanic treats a car. You get what you maintain.
 - **Learn the shape of the tools, not just the shortcuts.** Shortcuts age out in months. The shape of what a good harness, a good context lake, a good voice-to-text setup does lasts years. Lean into the concepts, let the implementations come and go.
 

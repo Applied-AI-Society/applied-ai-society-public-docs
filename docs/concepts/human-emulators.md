@@ -52,7 +52,7 @@ There are two ways to spend an hour with AI. They look identical from the outsid
 
 **Direction 1: You train the emulator.** You chat into a consumer product. You use default settings. You do not own the harness, the context, or the logs. Your words leave your machine and never come back. Over a year, you have handed the platform a high-fidelity corpus of you: your voice, your thinking, your judgment calls, your style. The platform pools it with millions of others. An emulator is assembled.
 
-**Direction 2: You train your own system.** You run a [personal agentic OS](/docs/concepts/personal-agentic-os). Your context lives in files you own. Every correction becomes a rule. Every example becomes a teaching signal. Every conversation deepens a system that belongs to you, runs on your machine, and answers to your standards. Over a year, you have built a [Jarvis](/docs/get-jarvised) that extends your capacity instead of siphoning it.
+**Direction 2: You train your own system.** You run a [Personal Agentic OS](/docs/concepts/personal-agentic-os). Your context lives in files you own. Every correction becomes a rule. Every example becomes a teaching signal. Every conversation deepens a system that belongs to you, runs on your machine, and answers to your standards. Over a year, you have built a [Jarvis](/docs/get-jarvised) that extends your capacity instead of siphoning it.
 
 The daily choice is small. The compounding destination is categorical. Direction 1 produces a machine that replaces you. Direction 2 produces a machine that is part of you.
 

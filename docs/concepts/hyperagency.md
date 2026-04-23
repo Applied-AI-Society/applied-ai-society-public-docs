@@ -27,7 +27,7 @@ We are entering the agentic economy. AI agents can now execute multi-step tasks,
 
 This creates a K-shaped divergence that will be the defining economic story of this decade:
 
-**The people who suit up** gain leverage that compounds daily. Their [personal agentic OS](/docs/concepts/personal-agentic-os) gets smarter. Their [command center](/docs/concepts/command-centers) accumulates context. Their output quality and volume increase while their input effort decreases. They become indispensable to every team, every company, every client they touch.
+**The people who suit up** gain leverage that compounds daily. Their [Personal Agentic OS](/docs/concepts/personal-agentic-os) gets smarter. Their [command center](/docs/concepts/command-centers) accumulates context. Their output quality and volume increase while their input effort decreases. They become indispensable to every team, every company, every client they touch.
 
 **The people who do not suit up** are competing against hyperagents with nothing but their unaugmented effort. It is not that they are bad at their jobs. It is that the game changed and they are still playing by the old rules. The gap between these two groups is widening every quarter, and it is accelerating.
 
@@ -41,7 +41,7 @@ A hyperagent has three things:
 
 **1. Self-knowledge.** They know what they are uniquely good at. They know what their time is worth. They know what problems they were made to solve. Without this, AI just makes you faster at the wrong things. You become what we call an [efficient drifter](/docs/concepts/ignorance-debt): high-agency, technically capable, building something that does not matter.
 
-**2. A personal agentic OS.** They have built a [command center](/docs/concepts/command-centers) that holds their context: their goals, relationships, decisions, principles, and history. An AI agent reads all of it and operates from that foundation. This is not a chatbot. It is a persistent system that compounds over time. At 90 days, it knows their operation well enough to draft in their voice, brief them before any meeting, and surface the right information at the right moment. This is the suit.
+**2. A Personal Agentic OS.** They have built a [command center](/docs/concepts/command-centers) that holds their context: their goals, relationships, decisions, principles, and history. An AI agent reads all of it and operates from that foundation. This is not a chatbot. It is a persistent system that compounds over time. At 90 days, it knows their operation well enough to draft in their voice, brief them before any meeting, and surface the right information at the right moment. This is the suit.
 
 **3. The reps.** Hyperagency is not a download. You do not install it and walk away. It is a practice. You feed the system daily (transcripts, brain dumps, decisions, reflections). You refine your [skill files](/docs/concepts/instruction-files). You [externalize your brain](/docs/concepts/externalize-your-brain) so the AI can carry more of the load. The system gets better because you put in the work. The people who treat it like a one-time setup get one-time results. The people who treat it like a discipline become superhuman.
 

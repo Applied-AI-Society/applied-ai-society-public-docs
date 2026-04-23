@@ -46,7 +46,7 @@ That is not losing your humanity to machines. That is getting your humanity back
 If you find yourself in a role where a significant portion of your job is robot mode:
 
 1. **Map it.** Identify every task in your week that does not require your judgment, creativity, or personal presence. Be honest. It is probably more than you think.
-2. **Automate it.** Use your [personal agentic OS](/docs/concepts/personal-agentic-os), AI tools, or simple scripts to handle those tasks. Start with the most repetitive, soul-draining ones first.
+2. **Automate it.** Use your [Personal Agentic OS](/docs/concepts/personal-agentic-os), AI tools, or simple scripts to handle those tasks. Start with the most repetitive, soul-draining ones first.
 3. **Reclaim the time.** Pour the freed-up hours into the work that actually requires you: building relationships, making creative decisions, solving novel problems, being present with people.
 4. **Compound.** As you automate more, your [flow state](/docs/concepts/flow-state-infra) deepens. You build infrastructure that eliminates friction permanently. Your creative output increases. The cycle accelerates.
 

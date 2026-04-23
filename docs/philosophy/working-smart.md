@@ -37,7 +37,7 @@ The old economy had a saying: “Ideas are cheap. Execution is everything.” Th
 
 ### 1. If you don't have a Jarvis, get one. Now.
 
-A [personal agentic OS](/docs/concepts/personal-agentic-os) is not optional anymore. It is the minimum viable infrastructure for operating in the AI economy. Every day you spend without one is a day your competitors are compounding and you are not.
+A [Personal Agentic OS](/docs/concepts/personal-agentic-os) is not optional anymore. It is the minimum viable infrastructure for operating in the AI economy. Every day you spend without one is a day your competitors are compounding and you are not.
 
 Getting suited up is not a weekend project you will get to eventually. It is the single highest-leverage thing you can do for your career, your business, and your capacity to think clearly. [The encounter](/docs/concepts/the-encounter) is step one. Everything else follows from it.
 

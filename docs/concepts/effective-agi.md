@@ -15,7 +15,7 @@ People argue about when AGI will arrive. They debate benchmarks, capabilities, w
 
 Here is the claim: **AGI is already effective for anyone who knows how to harness it.** Not perfect. Not sentient. Not the Hollywood version. But functionally capable of executing whatever you can clearly specify, given the right [context](/docs/concepts/context-engineering), the right [harness](/docs/concepts/harness-engineering), and the right human at the controls.
 
-A single person with a well-built [personal agentic OS](/docs/concepts/personal-agentic-os) can now do the work that required a team of ten five years ago. Not because AI replaced nine people. Because AI eliminated the bottlenecks that made ten people necessary in the first place: coordination overhead, context loss between handoffs, slow execution on well-specified tasks, and the sheer mechanical labor of translating intent into output.
+A single person with a well-built [Personal Agentic OS](/docs/concepts/personal-agentic-os) can now do the work that required a team of ten five years ago. Not because AI replaced nine people. Because AI eliminated the bottlenecks that made ten people necessary in the first place: coordination overhead, context loss between handoffs, slow execution on well-specified tasks, and the sheer mechanical labor of translating intent into output.
 
 That is effective AGI. It is not a future state. It is the present for a small and rapidly growing group of people.
 
@@ -48,7 +48,7 @@ For most people, effective AGI becomes real through three specific unlocks:
 
 **1. Context makes it personal.** The moment your AI agent has access to your goals, your relationships, your decision history, and your operating principles, it stops being a generic chatbot and starts being a genuine thinking partner. This is the [context engineering](/docs/concepts/context-engineering) unlock. Most people never experience it because they never give AI enough context to be useful.
 
-**2. Persistence makes it compound.** A single conversation with AI is useful. A persistent system that remembers everything, updates itself daily, and gets better over time is transformative. This is the [personal agentic OS](/docs/concepts/personal-agentic-os) unlock. At 90 days of compounding context, the system knows your operation well enough to anticipate what you need before you ask.
+**2. Persistence makes it compound.** A single conversation with AI is useful. A persistent system that remembers everything, updates itself daily, and gets better over time is transformative. This is the [Personal Agentic OS](/docs/concepts/personal-agentic-os) unlock. At 90 days of compounding context, the system knows your operation well enough to anticipate what you need before you ask.
 
 **3. Self-knowledge makes it aligned.** AI amplifies whatever you point it at. If you know your unique gifts, your mission, and the specific value you bring to the world, AI amplifies something real. If you do not, AI amplifies drift. This is the deepest unlock, and it is the one no technology can provide. You have to do the inner work. The [soul harness](/docs/concepts/the-soul-harness) makes the case for why this matters.
 

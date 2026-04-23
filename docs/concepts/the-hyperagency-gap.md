@@ -23,7 +23,7 @@ That is the gap. And it is not closing on its own.
 
 Three forces make the hyperagency gap self-reinforcing:
 
-**1. Compounding returns.** A person who builds a [personal agentic OS](/docs/concepts/personal-agentic-os) today is compounding every day after that. Their system gets smarter, their context gets richer, their output quality rises while their effort decreases. A person who starts six months later is not just six months behind. They are behind by six months of compounding. The gap between a Day 1 user and a Day 180 user is not linear. It is exponential.
+**1. Compounding returns.** A person who builds a [Personal Agentic OS](/docs/concepts/personal-agentic-os) today is compounding every day after that. Their system gets smarter, their context gets richer, their output quality rises while their effort decreases. A person who starts six months later is not just six months behind. They are behind by six months of compounding. The gap between a Day 1 user and a Day 180 user is not linear. It is exponential.
 
 **2. Invisible leverage.** From the outside, a hyperagent looks lucky. Things seem to fall into place for them. What is actually happening: their AI systems are doing work that nobody sees. Processing information, surfacing opportunities, drafting communications, maintaining relationships, organizing context. The leverage is real but invisible, which means the people who need it most do not know what they are missing.
 
@@ -41,7 +41,7 @@ These are capable people. They are not failing because they are incompetent. The
 
 The hyperagency gap is not inevitable. It is a literacy problem, and literacy problems have solutions.
 
-The first step is [activation](/docs/concepts/activation): getting someone from “I have heard about AI” to “I am using it and it is changing how I work.” This is what the [Supersuit Up Workshop](/docs/workshops/supersuit-up) is designed to do. People walk in with a laptop and walk out with a working [personal agentic OS](/docs/concepts/personal-agentic-os). That single experience shifts something fundamental. They feel what hyperagency feels like, and they cannot unfeel it.
+The first step is [activation](/docs/concepts/activation): getting someone from “I have heard about AI” to “I am using it and it is changing how I work.” This is what the [Supersuit Up Workshop](/docs/workshops/supersuit-up) is designed to do. People walk in with a laptop and walk out with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os). That single experience shifts something fundamental. They feel what hyperagency feels like, and they cannot unfeel it.
 
 The second step is Hyperagency 101: a self-paced course that teaches anyone, regardless of technical background, to become a 10x operator by creating their own personal Jarvis system. Workshops activate. The course scales activation.
 
