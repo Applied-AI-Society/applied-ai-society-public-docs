@@ -45,7 +45,7 @@ If you're building applied AI systems, whether for yourself or for clients, you 
 - **Design smarter systems.** Routing work to the right model tier, caching repeated computations, minimizing wasted tokens.
 - **Spot opportunities faster.** When the cost of a class of tokens drops, new use cases become viable. The practitioner who notices first wins.
 
-The token economy is not a future abstraction. It's the pricing layer of every AI service, every agentic system, and every business OS running today. Understanding it is part of [applied AI literacy](/docs/applied-ai-literacy).
+The token economy is not a future abstraction. It's the pricing layer of every AI service, every agentic system, and every business OS running today. Understanding it is part of [applied AI literacy](/docs/applied-ai-practice).
 
 ---
 

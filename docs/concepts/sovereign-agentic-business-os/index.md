@@ -95,7 +95,7 @@ If you're a business leader reading this, here's the practical reality:
 
 The endgame is not one company with one OS. It's millions of companies, each running sovereign agentic business operating systems, connected through trust-based relationships and compatible protocols. A distributed AI economy where intelligence flows between organizations without any single entity controlling the network.
 
-This is the vision Applied AI Society is building toward. Not by selling a product, but by equipping practitioners, publishing [open-source literacy material](/docs/applied-ai-literacy/earthshot), and creating communities where the people building this future can find each other.
+This is the vision Applied AI Society is building toward. Not by selling a product, but by equipping practitioners, publishing [open-source literacy material](/docs/applied-ai-practice/earthshot), and creating communities where the people building this future can find each other.
 
 The Sovereign Agentic Business OS is not just a technical architecture. It's a statement about who owns the future of work, and a commitment to building that future in a way that respects the most precious resource any human has: their attention, their energy, and their time on this earth.
 

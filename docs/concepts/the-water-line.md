@@ -15,7 +15,7 @@ When people hear [The New Flood](/docs/concepts/the-new-flood), most of them hea
 
 The water is the **minimum level of intelligence agency** that a person needs to earn a sustainable living in the applied AI economy. Call it what you want: minimum economic viability, the operator's floor, the threshold under which you cannot clear rent from your own output. The name matters less than the mechanism. The mechanism is that the line keeps rising.
 
-Last year, the floor was somewhere around "Google, Excel, decent judgment, and the ability to work a full day." This year, the floor includes a [Personal Agentic OS](/docs/concepts/personal-agentic-os), working [applied AI literacy](/docs/applied-ai-literacy), and at least one reusable piece of leverage. Next year it will be higher again. Models compound quarterly. Infrastructure compounds quarterly. Every month that passes, the baseline capability required to stay afloat goes up.
+Last year, the floor was somewhere around "Google, Excel, decent judgment, and the ability to work a full day." This year, the floor includes a [Personal Agentic OS](/docs/concepts/personal-agentic-os), working [applied AI literacy](/docs/applied-ai-practice), and at least one reusable piece of leverage. Next year it will be higher again. Models compound quarterly. Infrastructure compounds quarterly. Every month that passes, the baseline capability required to stay afloat goes up.
 
 ---
 

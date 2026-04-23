@@ -19,7 +19,7 @@ The list below is not exhaustive. It is a prompt. The real exercise is to ask yo
 
 ### Applied AI literacy
 
-The ability to [wield the supercomputational power of AI to advance your will in the world](/docs/applied-ai-literacy). This is the one Applied AI Society is organized around. It is not optional in 2026, and it compounds rapidly for the people who invest in it. If you are new, start with [Get Jarvised](/docs/get-jarvised).
+The ability to [wield the supercomputational power of AI to advance your will in the world](/docs/applied-ai-practice). This is the one Applied AI Society is organized around. It is not optional in 2026, and it compounds rapidly for the people who invest in it. If you are new, start with [Get Jarvised](/docs/get-jarvised).
 
 ### New financial literacy
 
@@ -49,7 +49,7 @@ The practical exercise: take your current situation and ask, honestly, where the
 
 ## Further Reading
 
-- [Applied AI Literacy](/docs/applied-ai-literacy): The one literacy Applied AI Society is organized around
+- [Applied AI Literacy](/docs/applied-ai-practice): The one literacy Applied AI Society is organized around
 - [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Infrastructure sovereignty, layer by layer
 - [Progressive Sovereignty](/docs/concepts/progressive-sovereignty): Sovereignty as a frontier you keep moving
 - [Hyperagency](/docs/concepts/hyperagency): What full agency looks like when AI is in the mix

@@ -61,7 +61,7 @@ AAS's bet is that the people who pass this test will outperform the people who d
 - [Canon Tenet XII: Raise the floor, not just the ceiling](/docs/philosophy/canon)
 - [Raise the Floor](/docs/concepts/raise-the-floor): The team-scale version of the same principle
 - [Hyperagency](/docs/concepts/hyperagency): The K-shaped economy thesis that makes inclusion work urgent
-- [Applied AI Literacy](/docs/applied-ai-literacy): AAS's approach to putting literacy in everyone's hands
+- [Applied AI Literacy](/docs/applied-ai-practice): AAS's approach to putting literacy in everyone's hands
 - [Build What Big AI Won't](/docs/concepts/build-what-big-ai-wont): Serving the niches that frontier labs will never reach
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): The adjacent concept about making expertise accessible without gatekeepers
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements to participate in the applied AI economy, and why they are higher than most people realize

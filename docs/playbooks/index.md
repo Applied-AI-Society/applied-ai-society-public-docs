@@ -5,7 +5,7 @@ title: Playbooks
 
 # Playbooks
 
-Practical guides for everyone the [Applied AI Society](/docs/about) serves: chapter leaders activating communities, practitioners building applied AI careers, business owners adopting AI in their operations, students launching into the economy, and presenters contributing to the field. Each playbook is a living field note, co-written by the people actually doing the work. These docs form part of [Pillar 2](/docs/applied-ai-literacy#how-applied-ai-society-is-leading-this) of our mission: the base layer of applied AI literacy for humanity.
+Practical guides for everyone the [Applied AI Society](/docs/about) serves: chapter leaders activating communities, practitioners building applied AI careers, business owners adopting AI in their operations, students launching into the economy, and presenters contributing to the field. Each playbook is a living field note, co-written by the people actually doing the work. These docs form part of [Pillar 2](/docs/applied-ai-practice#how-applied-ai-society-is-leading-this) of our mission: the base layer of applied AI literacy for humanity.
 
 ---
 

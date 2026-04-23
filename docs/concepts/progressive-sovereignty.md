@@ -48,7 +48,7 @@ The first move in progressive sovereignty for almost everyone is **awareness**: 
 
 Once that awareness lands, the rest follows. People start asking different questions. They start choosing different tools. They start owning what they can.
 
-[Applied AI literacy is personal supercomputer literacy.](/docs/applied-ai-literacy) That is the foundation. Sovereignty is what you build on top of it.
+[Applied AI literacy is personal supercomputer literacy.](/docs/applied-ai-practice) That is the foundation. Sovereignty is what you build on top of it.
 
 ---
 
