@@ -36,7 +36,7 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [First Git Setup](/docs/playbooks/practitioner/first-git-setup) | Version control basics for your workspace |
 | [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup) | The canonical one-prompt flow: create your private Jarvis from the MVJ template via `gh`, wire upstream, let `onboard` take over |
 | [Export Your AI History](/docs/playbooks/practitioner/export-your-ai-history) | Vendor-confirmed export steps (ChatGPT, Claude, Gemini) + filtered synthesis prompt to bootstrap your `user/USER.md` from years of old conversations |
-| [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop) | Instructor guide for running Personal Agentic OS workshops |
+| [Workshop Instructor Playbook](/docs/playbooks/practitioner/training-the-workshop) | Instructor guide for running Personal Agentic OS workshops: who the room is for, who it is not for, format, pacing, and lessons learned |
 | [Using the Docs with Your Jarvis](/docs/playbooks/practitioner/using-the-docs-with-your-jarvis) | How to give your Personal Agentic OS access to the full AAS knowledge base |
 | [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki) | Build a personal or organizational wiki: platform choice, the capture loop, cross-linking, and graduating ideas from personal to organizational truth |
 

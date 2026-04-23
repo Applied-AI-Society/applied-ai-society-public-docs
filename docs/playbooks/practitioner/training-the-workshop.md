@@ -1,10 +1,10 @@
 ---
-sidebar_label: "Training the Workshop"
-title: "Training the Personal Agentic OS Workshop: A Guide for Instructors"
-description: "How to run a Personal Agentic OS workshop. Logistics, format, pacing, common issues, and lessons learned from real sessions."
+sidebar_label: "Workshop Instructor Playbook"
+title: "Running a Personal Agentic OS Workshop: Instructor Playbook"
+description: "How to run a Personal Agentic OS workshop. Who it is for, who it is not for, logistics, format, pacing, and lessons learned from real sessions."
 ---
 
-# Training the Personal Agentic OS Workshop
+# Running a Personal Agentic OS Workshop
 
 *A playbook for anyone who wants to teach other people how to set up their Personal Agentic OS (what some people affectionately call the “Minimum Viable Jarvis,” a nod to Tony Stark's AI). Open source, evolving in real time based on actual workshop sessions.*
 
@@ -17,6 +17,58 @@ The [Supersuit Up Workshop](/docs/workshops/supersuit-up) tutorial is designed t
 The instructor is the person who gets participants across the finish line. Without one, a significant percentage of people will get stuck at installation and never make it to the part that actually changes their life: the user profile interview and the strategic blocker plan. The tutorial is the map. The instructor is the guide who keeps people moving when the terrain gets rough.
 
 This playbook captures what we are learning in real time about how to run these workshops effectively.
+
+---
+
+## Who the Workshop Is For
+
+Workshop energy is one of the biggest predictors of whether participants walk out transformed or polite. Curate the room. The two audiences we actively design for:
+
+### Non-Technical Business Leaders
+
+Business owners, operators, executives, and founders in non-software industries. People whose primary value creation is strategy and communication, not shipping code. For this audience, a [Personal Agentic OS](/docs/concepts/personal-agentic-os) is a 10x on exactly the skills they already get paid for: better strategy, faster drafts, sharper decision-making, a persistent second brain that keeps the thread across every client and quarter.
+
+We have run these with leaders from real estate, healthcare, legal, coaching, and professional services. They leave supercharged. The frame lands because they can see within the first hour that their existing judgment plus this infrastructure is a different person than they walked in as.
+
+### Non-Technical Students
+
+Students who plan to make their money in roles other than full-time software engineering. For this audience, the workshop is career infrastructure. They arrive without industry experience and leave with fluency in the tools every employer is trying to figure out right now. That is what they can bring into a first job that a senior hire often cannot: real facility with the new stack.
+
+For a student, "be the AI person who can supercharge an existing business" is a credible, high-leverage path. The workshop gives them the concrete skills and the confidence to walk into a room and be that person.
+
+### What "Non-Technical" Means Here
+
+"Non-technical" does not mean tech-averse. Anyone can vibe-code today, and many workshop participants will dabble. What we mean is: people whose primary money-making focus is not building software applications as an engineer. A real-estate broker who occasionally ships a little internal tool is still, for the purpose of this workshop, a non-technical business leader. The frame we are teaching is how a Personal Agentic OS amplifies a non-engineering operator.
+
+---
+
+## Who the Workshop Is Not For
+
+Software engineers and developers.
+
+Their default energy in this specific room is corrosive. Some of them do benefit personally from the content, and a room full of them reliably kills the activation dynamic for the non-technical cohort. That is the real constraint, and it is worth defending.
+
+### The Specific Failure Mode
+
+A developer who already uses AI assumes that what they are doing is "using AI correctly." They have read the docs, they have their IDE set up, they use Copilot or Cursor daily. From inside that frame, a Personal Agentic OS workshop looks like something they already know. That certainty leaks into the room as incurious energy, and incurious energy in a workshop of non-technical learners is lethal.
+
+The non-technical participants are being asked to do something that looks hard to them and feels vulnerable. They need a room where everyone is learning together, where nobody is signaling that this is trivial. One confidently-bored engineer in the corner and the whole cohort's courage drops a notch.
+
+### Why the Energy Call Is Real
+
+- **Most non-technical people have never opened a terminal.** They do not know where it is. They will stare at a blinking cursor with the full emotional weight of "I am not a tech person" on their shoulders. Their room needs patience, enthusiasm, and zero condescension.
+- **Most of them think a vendor desktop wrapper is what "advanced AI use" looks like.** It is not. See [learn the harness, not the wrapper](/docs/concepts/learn-the-harness-not-the-wrapper). The workshop is where that revelation lands, and the revelation requires room permission to be new at something.
+- **The developer's "I already know AI" frame is often the thing that most needs updating.** Using ChatGPT as a glorified Google, or using Copilot inside an IDE, is a tiny slice of what a Personal Agentic OS actually does. That update happens in rooms where everyone is learning together. A room of confident engineers is the wrong shape for it.
+
+### The Curation Move
+
+When a developer asks to attend, have a direct conversation about what they would actually get from it. Many self-select out once they hear the frame. Some self-select in with the right humility, and those are welcome. A filter that fails open toward room-energy-hygiene is the right filter.
+
+### Developers As a Separate Community
+
+Developers still belong in the Applied AI Society ecosystem. Their highest contribution is upstream: refining the open-source curriculum, stress-testing the harnesses, building new skills, surfacing edge cases. They help us discover what is true about AI. They are closer to researchers and curriculum contributors than the main recipients of an activation workshop.
+
+Route them to [hackathons](/docs/playbooks/chapter-leader/running-a-hackathon), practitioner guilds, or open-source contribution. The workshop is for the person who needs activation. The hackathon is for the person already operating.
 
 ---
 
