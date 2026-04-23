@@ -70,3 +70,4 @@ The organization is one of the few places deliberately holding both ends. Most A
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the code wrapped around the model matters as much as the model
 - [Creative Congestion](/docs/concepts/creative-congestion): What the degraded cyborg feels like from the inside
 - [See Your Own Thinking](/docs/concepts/see-your-own-thinking): The metacognition that gets unlocked once the suit is on
+- [Human Emulators](/docs/concepts/human-emulators): The dystopian twin. A degraded cyborg is training data for an emulator of themselves. A self-improving human is building the opposite ledger.

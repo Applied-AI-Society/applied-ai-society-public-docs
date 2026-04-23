@@ -69,6 +69,7 @@ If you work in one of these roles, the point of this page is not to make you fee
 
 ## Further Reading
 
+- [Human Emulators](/docs/concepts/human-emulators): The product being built from the dataset you are generating. xAI has named it publicly and described the assembly plan. The constructive counter is refining your own personal AI system weekly.
 - [Robot Mode](/docs/concepts/robot-mode): The adjacent pattern. Robot Mode is work that reduces you to a machine. Train-your-replacement work is work that exists to build one.
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): The inside-a-company version of the same sort. Adapt or get written out of the org chart.
 - [RIP To The Career Ladder](/docs/philosophy/rip-to-the-career-ladder): The research-backed view of which rungs are collapsing and what replaces them.

@@ -93,3 +93,4 @@ This is why the [Personal Agentic OS](/docs/concepts/personal-agentic-os) archit
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your agent knows
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where to start building the system
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where trained agents lead at the organizational level
+- [Human Emulators](/docs/concepts/human-emulators): The stakes. Train your own agent on purpose, or be the training data for someone else's emulator of you.
