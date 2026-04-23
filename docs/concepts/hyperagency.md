@@ -25,7 +25,7 @@ Think Iron Man. Tony Stark without the suit is a brilliant engineer. Tony Stark 
 
 We are entering the agentic economy. AI agents can now execute multi-step tasks, manage workflows, process information, and make decisions with minimal human input. The tools are powerful enough that a single person with the right [harness](/docs/concepts/harness-engineering) can do what used to require a team of ten.
 
-This creates a K-shaped divergence that will be the defining economic story of this decade:
+This creates the [elevator economy](/docs/concepts/the-elevator-economy), the defining economic story of this decade:
 
 **The people who suit up** gain leverage that compounds daily. Their [Personal Agentic OS](/docs/concepts/personal-agentic-os) gets smarter. Their [command center](/docs/concepts/command-centers) accumulates context. Their output quality and volume increase while their input effort decreases. They become indispensable to every team, every company, every client they touch.
 

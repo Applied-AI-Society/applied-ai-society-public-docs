@@ -30,7 +30,7 @@ AAS exists to empower leaders to apply the world's most advanced AI technologies
 
 This stance is locked into the [Applied AI Canon](/docs/philosophy/canon) as Tenet XII: *“Raise the floor, not just the ceiling.”* At the team scale, this is [Raise the Floor](/docs/concepts/raise-the-floor). At the humanity scale, this is inclusive technological advancement.
 
-The [K-shaped economy thesis](/docs/concepts/hyperagency) makes the stakes concrete. AI is splitting the world into hyperagents (humans amplified by AI) and everyone else. Without deliberate inclusion work, the split becomes permanent and global. AAS's entire operating model (free public docs, open-source playbooks, hyperlocal chapters, a talent pipeline that routes practitioners into underserved communities) is a bet that the split is still mutable.
+The [elevator economy](/docs/concepts/the-elevator-economy) makes the stakes concrete. AI is splitting the world into hyperagents (humans amplified by AI) and everyone else. Without deliberate inclusion work, the split becomes permanent and global. AAS's entire operating model (free public docs, open-source playbooks, hyperlocal chapters, a talent pipeline that routes practitioners into underserved communities) is a bet that the split is still mutable.
 
 ## What it looks like in practice
 
@@ -61,7 +61,8 @@ AAS's bet is that the people who pass this test will outperform the people who d
 - [Canon Tenet XII: Raise the floor, not just the ceiling](/docs/philosophy/canon)
 - [Regenerative AI Advancement](/docs/concepts/regenerative-ai-advancement): The ecological-and-human-systems dimension of the same family of commitments. Inclusive is about who benefits; regenerative is about whether the underlying substrate is left stronger.
 - [Raise the Floor](/docs/concepts/raise-the-floor): The team-scale version of the same principle
-- [Hyperagency](/docs/concepts/hyperagency): The K-shaped economy thesis that makes inclusion work urgent
+- [Hyperagency](/docs/concepts/hyperagency): Why the ascent side of the elevator compounds so hard, and why inclusion work is urgent
+- [The Elevator Economy](/docs/concepts/the-elevator-economy): The canonical frame for the split this page is working against
 - [Applied AI Literacy](/docs/applied-ai-practice): AAS's approach to putting literacy in everyone's hands
 - [Build What Big AI Won't](/docs/concepts/build-what-big-ai-wont): Serving the niches that frontier labs will never reach
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): The adjacent concept about making expertise accessible without gatekeepers

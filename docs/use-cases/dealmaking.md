@@ -12,7 +12,7 @@ description: "For super-connectors, founders, investors, and anyone whose liveli
 
 ## The Deal-Maker's Claim
 
-A certain class of person lives downstream of their deals. Super-connectors. Founders with a distribution advantage. Investors. Agents and managers. Advisors. Producers in the [imagination economy](https://wiki./glossary/lexicon) sense. Anyone whose core work is recognizing which pieces belong together and arranging them so value flows to everyone in the arrangement.
+A certain class of person lives downstream of their deals. Super-connectors. Founders with a distribution advantage. Investors. Agents and managers. Advisors. Producers in the [imagination economy](/docs/concepts/imagination-economy) sense. Anyone whose core work is recognizing which pieces belong together and arranging them so value flows to everyone in the arrangement.
 
 For these people, livelihood is a function of deal quality. Not deal volume. Not hustle. Quality: whether the deal gets made, whether it serves everyone it touches, whether it compounds into the next five deals or poisons the well.
 
@@ -22,7 +22,7 @@ Most of the work on a deal is not the deal memo. It is the upstream work of know
 
 A lot of the people this use case is built for have already done the hardest part. They have spent years, sometimes decades, earning the trust of people who matter in a specific world. Music. Media. Policy. Tech. Hospitality. Ministry. Culture. The relationships are real. The trust is deep. The deals that could run through those relationships are already possible. They just have not been activated yet.
 
-That is latent leverage: the gap between the relationships you have built and the moves you have actually made through them.
+That is [latent leverage](/docs/concepts/latent-leverage): the gap between the relationships you have built and the moves you have actually made through them.
 
 Picture the archetypal super-connector in hip hop. More relationships in their field than almost anyone on the planet. Every introduction they have made has landed. Every person in their network would take their call. And all of it lives in their head. The brain cannot search the internet for what their network has been up to this quarter. The brain cannot cross-reference the person they met five years ago with the opportunity that just appeared last week. Context this valuable deserves an operating system. A Jarvis is that operating system.
 
@@ -54,7 +54,7 @@ Under the public image, there are simpler and more durable drivers. Their kids l
 
 Knowing these drivers is what makes a deal favorable to everyone involved. Altruism is a thin base to bet on. If you build the deal on the actual motivations of each stakeholder (including yours), the deal holds because everyone is getting something they genuinely wanted.
 
-We call this edge intelligence **angels in the details**. Small, specific, easy-to-miss attributes of a person or situation that the search engines cannot see. Holding them in your own head does not scale. Writing them into your [PRM](/docs/concepts/prm) so your Jarvis can pull them into every deal conversation does.
+We call this edge intelligence the **[angels in the attributes](/docs/concepts/angels-in-the-attributes)**: the positive inversion of "devil in the details." Small, specific, easy-to-miss attributes of a person or situation that the search engines cannot see. Holding them in your own head does not scale. Writing them into your [PRM](/docs/concepts/prm) so your Jarvis can pull them into every deal conversation does.
 
 ## The System That Makes It Work
 
