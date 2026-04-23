@@ -134,8 +134,8 @@ export function getResult(score: number): Result {
     description:
       'You have a working Personal Agentic OS. You do not need the workshop. You are the kind of person who should be helping run one.',
     nextStep:
-      'If you want to help others suit up, read Training the Workshop and reach out on Discord. We need practitioners who can run these sessions in their cities.',
-    link: { text: 'Read: Training the Workshop', href: '/docs/playbooks/practitioner/training-the-workshop' },
+      'If you want to help others suit up, read the Workshop Instructor Playbook and reach out on Discord. We need practitioners who can run these sessions in their cities.',
+    link: { text: 'Read: Workshop Instructor Playbook', href: '/docs/playbooks/practitioner/workshop-instructor-playbook' },
   };
 }
 

@@ -29,4 +29,4 @@ Take the [Readiness Quiz](/docs/workshops/readiness-quiz). Eight questions, two 
 
 ## For Practitioners: Running a Workshop
 
-If you are a trained practitioner and want to run a Supersuit Up workshop, see the [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop) playbook for the full instructor guide.
+If you are a trained practitioner and want to run a Supersuit Up workshop, see the [Workshop Instructor Playbook](/docs/playbooks/practitioner/workshop-instructor-playbook) playbook for the full instructor guide.

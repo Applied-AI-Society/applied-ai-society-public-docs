@@ -17,7 +17,7 @@ The Applied AI Community Leader is the local operator for applied AI in their ar
 
 Three core functions:
 
-**1. Run events.** Practitioners sharing how they actually make money with applied AI. Hackathons where people build together. [workshops](/docs/playbooks/practitioner/training-the-workshop) where people set up their first [Personal Agentic OS](/docs/concepts/personal-agentic-os). The format matters less than the consistency. One event is a meetup. A recurring event is a movement.
+**1. Run events.** Practitioners sharing how they actually make money with applied AI. Hackathons where people build together. [workshops](/docs/playbooks/practitioner/workshop-instructor-playbook) where people set up their first [Personal Agentic OS](/docs/concepts/personal-agentic-os). The format matters less than the consistency. One event is a meetup. A recurring event is a movement.
 
 **2. Build the local network.** Know who the builders, founders, and operators are in your area. Connect people who should know each other. Find venues, speakers, photographers, and partners. Be the connective tissue between the global applied AI movement and your local community.
 
@@ -64,7 +64,7 @@ Everything you need to run events and build community is documented and freely a
 - [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): A proven practitioner showcase format with a master checklist
 - [Running a Hackathon](/docs/playbooks/chapter-leader/running-a-hackathon): Co-hosted building events
 - [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session): Real business owner + real engineer, live
-- [Personal Agentic OS Workshop](/docs/playbooks/practitioner/training-the-workshop): 4-hour hands-on Personal Agentic OS setup session
+- [Personal Agentic OS Workshop](/docs/playbooks/practitioner/workshop-instructor-playbook): 4-hour hands-on Personal Agentic OS setup session
 - [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue), [Speaker Outreach](/docs/playbooks/chapter-leader/speaker-outreach), [Event Promotion](/docs/playbooks/chapter-leader/event-promotion), [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships): The operational details
 - [CRM Setup](/docs/playbooks/chapter-leader/crm-setup): Tracking your community
 - [Writing Event Recaps](/docs/playbooks/chapter-leader/writing-and-sharing-event-recaps): Sharing what happened

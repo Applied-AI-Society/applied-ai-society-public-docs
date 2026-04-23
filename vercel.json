@@ -13,7 +13,12 @@
     },
     {
       "source": "/docs/playbooks/practitioner/training-the-mvj-workshop",
-      "destination": "/docs/playbooks/practitioner/training-the-workshop",
+      "destination": "/docs/playbooks/practitioner/workshop-instructor-playbook",
+      "permanent": true
+    },
+    {
+      "source": "/docs/playbooks/practitioner/training-the-workshop",
+      "destination": "/docs/playbooks/practitioner/workshop-instructor-playbook",
       "permanent": true
     },
     {

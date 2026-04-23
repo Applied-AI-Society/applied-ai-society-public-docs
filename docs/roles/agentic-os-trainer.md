@@ -25,7 +25,7 @@ This is the [Supersuit Up Workshop](/docs/workshops/supersuit-up). By the end, e
 - A strategic blocker plan: a concrete, written strategy for their biggest current challenge
 - The visceral experience of speaking into Claude Code and watching it route information into files
 
-The trainer's guide for running this session is at [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop).
+The trainer's guide for running this session is at [Workshop Instructor Playbook](/docs/playbooks/practitioner/workshop-instructor-playbook).
 
 ### The Progression (Sessions 2+)
 
@@ -82,7 +82,7 @@ The key insight is that the activation is a one-time event, but the progression 
 ## Getting Started
 
 1. **Complete the [Supersuit Up Workshop](/docs/workshops/supersuit-up) tutorial yourself.** Use it for at least 2-3 weeks.
-2. **Read the [trainer's guide](/docs/playbooks/practitioner/training-the-workshop).** Understand the format, pacing, and common issues.
+2. **Read the [trainer's guide](/docs/playbooks/practitioner/workshop-instructor-playbook).** Understand the format, pacing, and common issues.
 3. **Run your first workshop.** Start with friends, colleagues, or your local Applied AI Society chapter. Keep it small (4-6 people) for your first time.
 4. **Contribute back.** Share what you learned. Update the trainer's guide. Drop your notes in the [Discord](https://discord.gg/K7uWJBMFaN).
 
@@ -92,6 +92,6 @@ The key insight is that the activation is a one-time event, but the progression 
 
 - [The Socratic Trainer](/docs/concepts/the-socratic-trainer): The archetype this role is an implementation of. The trainer who produces trainers who produce trainers.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial you are teaching
-- [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): Logistics, pacing, and lessons learned
+- [Workshop Instructor Playbook](/docs/playbooks/practitioner/workshop-instructor-playbook): Logistics, pacing, and lessons learned
 - [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The full philosophy behind what participants are building toward
 - [The Question Bank](/docs/concepts/sovereign-agentic-business-os/question-bank): Questions for deeper user profile interviews and ongoing coaching

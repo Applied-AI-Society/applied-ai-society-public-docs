@@ -50,7 +50,7 @@ The ideal answer to all four is obvious. Most trainers fail at least two. Hire a
 
 The Applied AI Society treats this architecture as a design requirement.
 
-The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role explicitly exists to produce trainers who produce trainers. The [Supersuit Up workshop](/docs/workshops/supersuit-up) is open source. The [trainer's guide](/docs/playbooks/practitioner/training-the-workshop) that teaches people to run the workshop is published. Chapter leaders run the workshop locally, which produces more trainers, who run the workshop locally, which produces more trainers. That is three generations and counting.
+The [Agentic OS Trainer](/docs/roles/agentic-os-trainer) role explicitly exists to produce trainers who produce trainers. The [Supersuit Up workshop](/docs/workshops/supersuit-up) is open source. The [trainer's guide](/docs/playbooks/practitioner/workshop-instructor-playbook) that teaches people to run the workshop is published. Chapter leaders run the workshop locally, which produces more trainers, who run the workshop locally, which produces more trainers. That is three generations and counting.
 
 Nothing is held back as "the real secret." The real secret is the human who understands the system deeply enough to improvise whenever the system needs to change.
 

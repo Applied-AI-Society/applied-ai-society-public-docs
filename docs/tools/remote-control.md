@@ -200,5 +200,5 @@ Giving someone remote control of your computer is a serious trust action, even f
 
 ## Related
 
-- [Training the Workshop](/docs/playbooks/practitioner/training-the-workshop): trainer playbook for running Jarvis workshops, including remote sessions
+- [Workshop Instructor Playbook](/docs/playbooks/practitioner/workshop-instructor-playbook): trainer playbook for running Jarvis workshops, including remote sessions
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): the tutorial a coach is walking participants through

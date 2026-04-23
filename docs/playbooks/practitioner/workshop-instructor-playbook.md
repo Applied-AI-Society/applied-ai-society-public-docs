@@ -44,6 +44,10 @@ For a student, "be the AI person who can supercharge an existing business" is a 
 
 ## Who the Workshop Is Not For
 
+There is also a readiness dimension to this that sits underneath the audience call. See [sustained commercial success](/docs/concepts/sustained-commercial-success) for the prerequisites (meta-awareness, humility, bottleneck self-awareness, strategic direction) that the workshop assumes a participant brings into the room. Without those, even the right audience does not get the full activation.
+
+Beyond readiness, the most common non-fit is a familiar one.
+
 Software engineers and developers.
 
 Their default energy in this specific room is corrosive. Some of them do benefit personally from the content, and a room full of them reliably kills the activation dynamic for the non-technical cohort. That is the real constraint, and it is worth defending.
@@ -69,6 +73,44 @@ When a developer asks to attend, have a direct conversation about what they woul
 Developers still belong in the Applied AI Society ecosystem. Their highest contribution is upstream: refining the open-source curriculum, stress-testing the harnesses, building new skills, surfacing edge cases. They help us discover what is true about AI. They are closer to researchers and curriculum contributors than the main recipients of an activation workshop.
 
 Route them to [hackathons](/docs/playbooks/chapter-leader/running-a-hackathon), practitioner guilds, or open-source contribution. The workshop is for the person who needs activation. The hackathon is for the person already operating.
+
+---
+
+## Pre-Workshop Readiness
+
+The most-common avoidable failure mode is a participant who shows up with a machine that cannot install the tooling. Catching this 24 hours early is the difference between a smooth session and one where one or two people quietly fall behind and never recover. Send this checklist to every confirmed participant in the 24-to-48 hours before the workshop.
+
+### Hardware minimums
+
+- **Mac (recommended).** Any Apple Silicon MacBook (M1 or newer) from the last four years. 8GB RAM will work; 16GB is more comfortable for a day of Claude Code plus VS Code plus a browser plus a video call.
+- **Windows.** A modern laptop from the last three to four years with at least 16GB RAM. Older machines will technically install the tools but will feel slow and will burn instructor time on timeouts and lag.
+- **Linux.** Works but expect more edge cases around audio (voice-to-text) and terminal behavior. Plan for extra debugging time.
+- **Intel Macs older than 2020.** Often viable but slow. Warn the participant that the session may feel heavy on their machine and that upgrading to Apple Silicon within the next year is worth it for the AI work they are about to do.
+- **Chromebooks / iPads / phones.** Not viable for this workshop. They need an actual laptop running macOS, Windows, or Linux.
+
+### Software readiness
+
+- **OS up to date.** macOS and Windows both ship security updates that break Claude Code installs if the OS is more than a year behind. Tell participants to run the OS updater the day before.
+- **Admin rights on the machine.** They need to be able to install software. Corporate-managed laptops with locked-down install policies will not work. If someone is unsure, they should try installing a small free app the day before as a test.
+- **A recent version of Chrome or Arc.** Some install flows open a browser. Safari sometimes works, sometimes does not.
+- **Zoom desktop app installed and signed in** (for remote sessions), with macOS Accessibility permission granted. See the Setup section above.
+
+### Accounts ready
+
+- **A GitHub account** (free). They should be able to log in before arrival.
+- **Claude billing set up or credit on hand.** Claude Code requires a Claude account. A $20 Claude Pro subscription or a small API-credit top-up covers the workshop. Tell them to set this up the day before so they are not wrestling with billing while the rest of the room is building.
+- **A laptop charger.** Four hours of Claude Code on Wi-Fi drains a battery.
+
+### Environment
+
+- **Stable Wi-Fi.** The workshop downloads tooling and talks to Anthropic's API continuously. A weak connection kills the experience.
+- **A quiet-enough room they can hear themselves think.** They will be voice-dumping into Claude Code during the user-profile-interview segment. A crowded coffee shop is not a workshop venue.
+
+### The day-of "am I ready?" check
+
+Give participants a one-line test they can run the morning of the workshop: *"Open your terminal (Cmd+Space → type Terminal on Mac, or search Terminal on Windows). Type `node --version` and press Enter. If you see a number, you are ready. If you see command not found, flag it in the WhatsApp group when you arrive and we will fix it first thing."* That one-line filter catches most of the issues before the session opens.
+
+If your Antler / co-working / venue host will be attending, send them the same checklist. One of the most awkward moments in a workshop is when your kind host is the one whose laptop will not install the tooling.
 
 ---
 
@@ -115,6 +157,22 @@ A rough pacing guide:
 
 The most powerful thing you can do as an instructor is **use your own Personal Agentic OS in real time** while teaching. When a participant asks a question, answer it by talking to Claude Code on the big screen. When someone gives feedback about the tutorial, update the tutorial live using your system. This is not a bug; it is the demo. You are showing them what a mature Personal Agentic OS workflow looks like: speak, the system routes it, review the changes, push.
 
+### The Real-Time Wiki Demo (Required)
+
+There is one specific form of live demo that should be a required segment: **create or update a real public wiki post in front of the room, from a real conversation happening in the room**. The canonical example: at the TIME100 NYC workshop (April 2026), the lead instructor used a personal Jarvis, mid-workshop, to create the entire Use Cases sidebar section and the Dealmaking use case page at [docs.appliedaisociety.org](https://docs.appliedaisociety.org), from the conversation that was happening with the attendees about their own dealmaking. By the end of the session, a new page existed on the live public site, shipped by the very system they were learning to set up.
+
+This demo is load-bearing because it collapses the entire value proposition into a single visible artifact in under twenty minutes:
+
+- **The system listens.** Transcript auto-captured through a voice-to-text tool.
+- **The system thinks.** The skill file routes the raw transcript through the appropriate creation/update flow.
+- **The system produces real artifacts.** A new markdown file. Sidebar updated. Cross-links added. Build passes.
+- **The system ships.** Committed and pushed to GitHub, Vercel auto-deploys, the page is live.
+- **The operator stayed strategic.** The human decided what the use case should be about. The human did not type a single thing during the ship. This is [strategy is the new execution](/docs/concepts/strategy-is-the-new-execution) made visceral.
+
+You do not have to use the AAS public docs as the target. Any real output that lives in the world afterward works: updating your own company wiki, creating a real one-pager for a client, updating a README. The point is that the thing you ship during the workshop is not a toy; it is a real artifact with a URL you will actually use.
+
+Prepare by wiring your own Jarvis with a skill that handles the create-or-update flow for whichever system you are shipping into. If you do not have that skill yet, build it before your next workshop. It is the single most leveraged piece of instructor infrastructure you can invest in.
+
 ### Debug, Don't Prescribe
 
 Every participant's machine is different. Your job is not to anticipate every possible error. Your job is to sit next to someone when they are stuck and figure it out with them. Common issues you will encounter:
@@ -132,7 +190,26 @@ Before anyone touches a keyboard, spend time on the strategic framing:
 
 1. **“You are the bottleneck.”** This is empowering, not critical. The tools are not the problem. Their strategic clarity is.
 2. **Have everyone identify their top strategic blocker.** Give them 5-10 minutes of quiet thinking time. This becomes the input for Step 4B (the strategic plan), which is the payoff of the whole workshop.
-3. **The chief of staff metaphor.** Tools, context, SOPs. This gives people a mental model for why they are installing all this stuff.
+3. **The chief of staff metaphor.** Tools, context, SOPs. This gives people a mental model for why they are installing all this stuff. **Make this interactive.** Ask the room directly: *"If you wanted to take a one-month vacation and have a human chief of staff run your business while you were gone, what would they need to know about you?"* Let two or three participants answer out loud. They will say things like *calendar, priorities, relationships, what I care about, how I write, my taste, the history of past decisions*. That list is exactly the list of files a Personal Agentic OS needs. You are not lecturing the answer; the room is discovering it. This is the cleanest on-ramp to [Externalize Your Brain](/docs/concepts/externalize-your-brain) and the single best warmup for the Step 4B user profile interview.
+
+### Key Teaching Moments
+
+Over enough sessions, a handful of analogies and framings consistently unlock the "oh, I get it" moment for non-technical participants. Keep these in your teaching toolbox and deploy them when you see eyes glaze.
+
+**The soul, the body, and the harness.** When you need to explain what a harness (Claude Code, Hermes, Codex) actually is and why it matters, use this: *"Humans have a mind or soul, whatever you want to call it. The body is the harness. A floating mind by itself is just a ghost. It cannot reach out and interact with anything. The body is what lets the mind drink water, pick up a pen, sit at a table with another person. Claude is the mind. Claude Code is the body. Claude Code is what makes Claude fly."* This lands for people who have never thought about why the wrapper around the model matters. It also explains in one image why vendor desktop apps that do not give you a real harness are a half-product.
+
+**Markdown as open-standard DOCX.** For participants who are intimidated by "markdown files," tell them: *"Markdown files are basically docx files, except they are an open standard. Microsoft owns the docx format. Nobody owns markdown. The whole AI-native world adopted markdown because everyone can read it, everyone can write it, and no vendor can take it away."* Demystifies the format and smuggles in a lesson about sovereignty.
+
+**Skill files as digital SOPs.** If they run a business, they already know what SOPs (standard operating procedures) are. Tell them: *"A skill file is a digital SOP. You already document how you close out the restaurant, how you onboard a client, how you run a weekly review. A skill file is the same thing, written to your agent instead of to a human. Same content, different reader."* Maps the new concept onto one they already trust.
+
+**The slop factory warning.** Concrete, visceral, lands the "not every capability is worth using" point: *"Just because you can generate a random image of yourself on a horse does not mean you should. Applied AI is the daily discipline of wielding AI to serve yourself, the people around you, and the world you care about. Images of you on a horse are not serving anyone. That is a [slop factory](/docs/concepts/slop-factory)."*
+
+### Canonical Vocabulary to Land
+
+A mature workshop introduces specific AAS-canon terms and lets them start working inside participants' thinking during the session. The following three consistently earn their keep in a room of non-technical leaders and creative operators. Use them verbatim, link to the concept docs in your follow-up, and resist the urge to paraphrase them into something softer.
+
+- **[Latent leverage](/docs/concepts/latent-leverage).** The gap between the relationships a participant has already built and the deals those relationships can already produce. Almost every serious operator in the room will recognize themselves in the definition. It reframes "I have built a lot of trust" into "I am sitting on an undeployed asset." The archetype to describe: the super-connector with more relationships in their field than almost anyone on the planet, all of it sitting in their head, waiting for a system that can search it.
+- **[Angels in the attributes](/docs/concepts/angels-in-the-attributes).** The positive inversion of "the devil is in the details." Names the ungoogleable edge intelligence (what a counterparty actually wants under the public image) that determines whether deals land and relationships deepen. Lands the point that LLMs trained on the public web cannot touch this layer, only your own [PRM](/docs/concepts/prm) can.
 
 ### Success Criteria
 
@@ -211,7 +288,7 @@ The full workshop is still the right format for group sessions where people need
 
 ### March 31, 2026: Remote 1-on-1 Session with a Non-Technical Participant
 
-*Lessons from Tim Dort-Golts (Bordeaux chapter), from a session with someone who had never used a terminal and primarily uses a computer for basic office tasks. Conducted entirely over Zoom.*
+*Lessons from a session with someone who had never used a terminal and primarily uses a computer for basic office tasks. Conducted entirely over Zoom.*
 
 **Start with Cursor, not the terminal.** For someone who has never opened a terminal, jumping straight into Claude Code is too much. Start with [Cursor](https://cursor.com) instead: it is free for the first few prompts, has a visual file tree, and has a built-in AI chat. The familiar interface builds confidence. Once they grasp that they are talking to AI and it is modifying files, transitioning to the terminal is a much smaller leap.
 
@@ -229,6 +306,20 @@ The full workshop is still the right format for group sessions where people need
 
 **The real metric is whether they grasped the method.** The demos are means, not ends. Success is when the participant understands the loop: prototype idea, encounter a problem, ask the agent, follow the steps, iterate.
 
+### April 23, 2026: TIME100 NYC Afternoon Session (Antler VC, Flatiron)
+
+*A three-hour afternoon session at Antler VC in Flatiron, led by an AAS instructor, with a small group of non-technical leaders met or referred through the TIME100 Summit. Most lessons from this session are already absorbed into the playbook above. These are the remaining ones worth naming.*
+
+**The live wiki demo can be created from a real participant conversation.** Mid-workshop, the instructor used their Jarvis to create an entire new Use Cases section of the AAS public docs based on the dealmaking conversation that was happening in the room. The artifact existed on the live site by the end of the session. This is the most powerful single demo the workshop has produced and should now be a required segment. See "The Real-Time Wiki Demo" above.
+
+**New canon can emerge live.** Two AAS-canonical terms crystallized during this session (latent leverage and angels in the attributes) and have since been promoted to their own concept pages. When a participant's situation surfaces a framing that feels load-bearing, capture it in the moment and commit to writing it up after. The workshop is a vocabulary-forging venue, not just a transmission one.
+
+**One participant drove the strongest proof point of the day.** A music artist in the room had been gaslit by his label and suspected streaming-platform piracy. Within an hour of building his first Jarvis, he ran a metadata audit on his own streams and found seven pirates attributing millions of plays to his name. The recovered context produced immediate commercial leverage he could hand to his legal team. Proof points at this caliber cannot be scripted, but they can be invited: make sure at least one participant is ready to bring a real live blocker to the session.
+
+**The hardware checklist would have saved the host.** The Antler host who graciously gave us the room ended up being one of the participants whose machine had install issues. The pre-workshop readiness checklist (added above this section) is directly a response to this.
+
+**Schedule Part 2 before people leave.** Multiple participants asked for follow-up time as they were packing up. A scheduled weekend co-working Zoom was committed to on the spot. The commitment has now been promoted to a standard workshop practice. See "Schedule a Part 2 follow-up Zoom" above.
+
 ## Testimonials
 
 , real estate entrepreneur, recorded immediately after the March 31 2026 workshop:
@@ -243,7 +334,7 @@ March 31 2026 workshop participant:
 
 ## Build a Cohort Community Every Time You Run This
 
-A workshop is not a one-off event. It is the birth of a micro-community. The people in the room just spent four hours getting Jarvised together. They now share a vocabulary, a mental model, a set of recent screen-shares, and (if you do your job) real questions they want to keep answering together. Treat that as the asset it is.
+A workshop is the birth of a micro-community. The people in the room just spent four hours getting Jarvised together. They now share a vocabulary, a mental model, a set of recent screen-shares, and (if you do your job) real questions they want to keep answering together. Treat that as the asset it is.
 
 ### Spin up a WhatsApp group for every cohort
 
@@ -269,9 +360,22 @@ Put a **QR code for the WhatsApp group invite on a slide in every workshop deck 
 
 Post the WhatsApp link one more time in whatever channel invited people (Luma, email, Discord). Anyone who missed it during the live session should have a way in. The cohort should stay active for at least a few weeks while the system is compounding for each person.
 
+### Schedule a "Part 2" follow-up Zoom before the room clears
+
+Activating a Jarvis in a single session is the start of a relationship, not the end of one. Every workshop we run produces a handful of participants who need a second touchpoint: install edge cases that did not surface until they got home, a strategic blocker conversation that got started but was not finished, a specific use case they want to build but could not within the session's time budget. **Make the follow-up session a standard commitment, not an ad-hoc request.**
+
+The pattern that works:
+
+- **Name the Part 2 before participants leave the room.** On a closing slide or in the WhatsApp group, announce the date and time of the follow-up Zoom co-working session the same way you announced the workshop. One week out is usually right. Two hours is enough. The session is open to the cohort and nobody else.
+- **Frame it as co-working, not a class.** Participants come with their own laptop open, their own blocker in hand, and the instructor (plus anyone else from the cohort willing to help) debugs and builds alongside them. No curriculum. No slides. Just operators in a room working on their real thing with a trainer available.
+- **Offer a single 1:1 slot for anyone who still needs it.** Some participants need a focused thirty minutes with the instructor to cross a specific hurdle. Give everyone a calendar link that offers one 30-minute slot within the week after the workshop. Most will not use it. The ones who do are exactly the ones who get the most out of the program.
+- **Repeat monthly for cohort alumni.** Once you have run a few workshops, roll the Part 2s into a standing monthly co-working session for all alumni. This is where the cohort-level community becomes a genuine ongoing practice community, and where graduating a chapter becomes the natural next move. See [starting a chapter](/docs/playbooks/chapter-leader/starting-a-chapter).
+
+The commitment has a secondary effect: it changes how you run the live workshop. Knowing there is a Part 2 gives you permission to not finish everything in the room. Participants know they will get another touchpoint. You can teach for depth on the key activation moments rather than racing through every single feature. The workshop becomes the first of two sessions, not the only one.
+
 ### This is the pattern, not the exception
 
-Every cohort gets its own group. This is not overhead. This is the mechanism by which one workshop turns into an ongoing micro-community of applied-AI practitioners in your city, your company, or your network. Over time, several cohorts may want to merge into a single running group or graduate to a [local chapter](/docs/playbooks/chapter-leader/starting-a-chapter). That is exactly how scenes grow.
+Every cohort gets its own group. The group is the mechanism by which one workshop turns into an ongoing micro-community of applied-AI practitioners in your city, your company, or your network, rather than overhead to be minimized. Over time, several cohorts may want to merge into a single running group or graduate to a [local chapter](/docs/playbooks/chapter-leader/starting-a-chapter). That is exactly how scenes grow.
 
 ---
 

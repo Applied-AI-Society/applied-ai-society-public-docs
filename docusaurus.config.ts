@@ -52,6 +52,11 @@ const config: Config = {
             from: '/docs/playbooks/practitioner/mvp-personal-agentic-os',
             to: '/docs/workshops/supersuit-up',
           },
+          // Renamed: "training-the-workshop" was awkward phrasing; title is now Workshop Instructor Playbook
+          {
+            from: '/docs/playbooks/practitioner/training-the-workshop',
+            to: '/docs/playbooks/practitioner/workshop-instructor-playbook',
+          },
           // Renamed to center the verb "Jarvis" while keeping the ark metaphor in the body
           {
             from: '/docs/philosophy/build-the-ark-or-ai-is-doomed',
