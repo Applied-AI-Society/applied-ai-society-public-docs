@@ -22,7 +22,8 @@ The list will grow. Every use case we publish here has passed two tests: real pe
 
 ## Current Use Cases
 
-- [**Dealmaking**](/docs/use-cases/dealmaking). The number-one use case for super-connectors, founders, investors, agents, and anyone whose livelihood depends on the quality of the deals they make. Your Jarvis reads your [PRM](/docs/concepts/prm) (relationship dossiers, meeting transcripts, strategic documents) and helps you draft, assess, and tear up deals with the full context no search engine can give you.
+- [**Getting Your Time Back**](/docs/use-cases/getting-your-time-back). The floor, and the most common on-ramp. Before a Jarvis becomes a strategic partner it becomes a time machine: the workflows you are already running (email triage, meeting prep, recaps, status updates, research dossiers, drafts, follow-ups) collapse by 70 to 90 percent, giving you back hours every week for the work only you can do.
+- [**Dealmaking**](/docs/use-cases/dealmaking). The ceiling for anyone whose livelihood is downstream of the deals they make. Super-connectors, founders, investors, agents, producers. Your Jarvis reads your [PRM](/docs/concepts/prm) (relationship dossiers, meeting transcripts, strategic documents) and helps you draft, assess, and tear up deals with the full context no search engine can give you. Introduces the [Imago Dei vs predatory capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism) frame for what kind of deals this use case is for.
 
 More use cases are in the oven. If you have one you want us to document (and a Jarvis you are already running), [come talk to us in Discord](https://discord.gg/K7uWJBMFaN).
 

@@ -56,6 +56,7 @@ Holding the bar is the most generous thing we can do for the people we serve. It
 
 ## Further Reading
 
+- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): Which species of capitalism sustainable commercial success belongs to, and which one it refuses.
 - [Humanity-First Flywheel](/docs/about/humanity-first-flywheel): The ecosystem-level reason holding the bar matters.
 - [Who We Serve](/docs/about/who-we-serve): The four communities this commitment is for.
 - [You Are The Bottleneck](/docs/concepts/you-are-the-bottleneck): The self-awareness frame required before activation lands.

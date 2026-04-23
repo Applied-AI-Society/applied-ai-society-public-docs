@@ -18,6 +18,22 @@ For these people, livelihood is a function of deal quality. Not deal volume. Not
 
 Most of the work on a deal is not the deal memo. It is the upstream work of knowing who is in the room, what they actually want, where the overlapping interests are, and where the real traps live. That work is what a Jarvis is for.
 
+## Latent Leverage
+
+A lot of the people this use case is built for have already done the hardest part. They have spent years, sometimes decades, earning the trust of people who matter in a specific world. Music. Media. Policy. Tech. Hospitality. Ministry. Culture. The relationships are real. The trust is deep. The deals that could run through those relationships are already possible. They just have not been activated yet.
+
+That is latent leverage: the gap between the relationships you have built and the moves you have actually made through them.
+
+Picture the archetypal super-connector in an industry like hip hop or music. More relationships in their field than almost anyone on the planet. Every introduction they have made has landed. Every person in their network would take their call. And all of it lives in their head. The brain cannot search the internet for what their network has been up to this quarter. The brain cannot cross-reference the person they met five years ago with the opportunity that just appeared last week. Context this valuable deserves an operating system. A Jarvis is that operating system.
+
+Trust like this is earned the slow way, by delivering again and again and again until people feel safe betting on you. It is worth naming what that trust actually is, because the word gets diluted.
+
+> **A LinkedIn connection is a word. A real connection is: I trust you with my livelihood. I would introduce you to my colleagues. I am not worried about you sabotaging the mechanism through which I flourish.**
+
+People with real trust at that level are often people of color, people who came up without the usual scaffolding, people whose relational capital is genuinely enormous and whose financial capital has not yet caught up to it. The deals are there. The trust is there. The activation layer has been missing. That is exactly the gap a Jarvis closes. The point is not to extract from the network. The point is to make the win-win-win deals (the one that makes the product, that actually serves the community, that everyone in the arrangement is genuinely lifted by) happen at the rate they should be happening.
+
+If this is you, the single most valuable thing your Jarvis can do for you in the next year is turn the relationships you have built into deals, products, and institutions that pay you the way your trust is already paying everyone around you.
+
 ## What A Jarvis Does To A Deal
 
 Three verbs. Memorize them.
@@ -66,6 +82,18 @@ Dealmaking is strategy in its purest operational form. You are the main agent. Y
 
 This is the Jarvis pattern in a single flagship use case: human genius on top, agentic infrastructure underneath, real artifacts (drafted deals, assessments, tear-ups) out the other side. The daily [applied AI practice](/docs/concepts/applied-ai-practice) is what keeps the context compounding, so the twenty-fifth deal this year is sharper than the first.
 
+## Imago Dei Capitalism, Not Predatory Capitalism
+
+Two species of capitalism run on the same planet. One creates. One extracts. This use case is built for the first.
+
+**Predatory capitalism** is the default mode of certain industries and certain operators: 360 deals that bind artists into arrangements that do not honor their creativity or their soul, much less their finances. Funnels that extract from people who did not know what they were signing. A surveillance layer that, at every level, is trying to figure out how to keep people from being free. That mode is not what this use case is for.
+
+**Imago Dei capitalism**, from the  frame, is commerce in the image of a creator God. Creating net-new goodness in the world that people are willingly and happily paying for because it actually serves their lives. Your deal produces a product, a piece of art, an institution, a service that a community is better off having. Everyone at the table is lifted. An Imago Dei capitalist makes win-win-win deals by default: the creator wins, the collaborators win, the community that consumes the output wins.
+
+If you have been invited into an Applied AI Society room or an  conversation, it is because we see you as an Imago Dei capitalist: someone with a real product, a real audience, and a real possibility of building something that compounds goodness for decades. Your Jarvis is how you make deals at the caliber your soul can stand behind, at the speed the market will reward.
+
+See [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism) for the full framing, the asymmetry that is finally closing, and why Applied AI Society exists specifically to arm the first side and starve the second.
+
 ---
 
 > **The network you have is an asset. The deals you make are how that asset pays. Your Jarvis is how the deals get sharper every time you run one.**
@@ -74,8 +102,10 @@ This is the Jarvis pattern in a single flagship use case: human genius on top, a
 
 ## Further Reading
 
+- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): The canonical frame for which species of capitalism this use case is built to serve.
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): The three file types that make dealmaking context-rich by default.
 - [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution): Why dealmaking is the highest-leverage strategic work in the AI economy.
+- [Getting Your Time Back](/docs/use-cases/getting-your-time-back): The on-ramp use case. Collapse the existing workflows first; then there is room to deal.
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The habit that feeds the PRM that feeds the Jarvis that sharpens the deal.
 - [Context Lake](/docs/concepts/context-lake): The broader store of truth your Jarvis draws from when it reads a deal.
 - [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): Why no amount of agentic leverage fixes an un-externalized leader.
