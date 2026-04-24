@@ -67,7 +67,13 @@ At the highest level, any operation running on applied AI looks like this: the h
 
 In each case, the human still makes the call. The human is just making better calls, faster, with more information. See [strategy is the new execution](/docs/concepts/strategy-is-the-new-execution) for the operational form of this shift.
 
-One principle repeats everywhere: **do not scale what is not working.** AI accelerates volume. It does not fix a broken strategy. If your programs are not landing, your pitches are not converting, your relationships are not deepening, applied AI makes you do more of what is not working, faster. See [slopacalypse](/docs/concepts/slopacalypse) and [human slop factory](/docs/concepts/human-slop-factory) for the failure mode this principle is designed to prevent. The framework comes first. The tools serve the framework.
+Two discipline principles repeat everywhere.
+
+**Think in 80/20.** Applied AI amplifies whatever you point it at. The practitioner's discipline is asking, on every problem: what are the twenty percent of moves that unlock eighty percent of the leverage here? Most of what any operator could do with AI is not worth doing. The game is picking the few moves that are. "Highest and best use" is not a slogan; it is a filter applied every day.
+
+**Do not scale what is not working.** AI accelerates volume. It does not fix a broken strategy. If your programs are not landing, your pitches are not converting, your relationships are not deepening, applied AI makes you do more of what is not working, faster. See [slopacalypse](/docs/concepts/slopacalypse) and [human slop factory](/docs/concepts/human-slop-factory) for the failure mode this principle is designed to prevent.
+
+The framework comes first. The tools serve the framework. Pick the right twenty percent, refuse to scale the rest.
 
 ## The Human In Charge
 
