@@ -150,6 +150,7 @@ The tools have never been better. The cost has never been lower. The only scarce
 ## Further Reading
 
 - [The Spec Is the Product](/docs/concepts/spec-writing): Why the specification document is now the highest-leverage artifact
+- [Hunt Before You Build](/docs/playbooks/practitioner/hunt-before-you-build): Before you build the app, check whether the tool you actually need already exists. The discipline of finding instead of building.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): How to avoid building your identity around tools instead of outcomes
 - [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop): Why you need to fix the process before you automate it
 - [Hiring Applied AI Practitioners](/docs/playbooks/business-owner/hiring-practitioners): How to find and work with the right people
