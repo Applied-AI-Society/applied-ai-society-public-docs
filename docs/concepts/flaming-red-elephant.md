@@ -1,14 +1,14 @@
 ---
 sidebar_position: 1
-title: "The Red Fiery Elephant in the Room"
-description: "The obvious political reality that AI discourse keeps refusing to name. Red for the communist-revolutionary spirit rising in a generation locked out of the economy. Fiery for the firebombs already being thrown at AI executives and data centers. Elephant for the simple fact the cause is obvious and nobody at the top of the industry wants to look at it."
+title: "The Flaming Red Elephant in the Room"
+description: "The obvious political reality that AI discourse keeps refusing to name. Red for the communist-revolutionary spirit rising in a generation locked out of the economy. Flaming for the firebombs already being thrown at AI executives and data centers. Elephant for the simple fact the cause is obvious and nobody at the top of the industry wants to look at it."
 ---
 
-# The Red Fiery Elephant in the Room
+# The Flaming Red Elephant in the Room
 
-*The obvious political reality that AI discourse keeps refusing to name. Red for the communist-revolutionary spirit rising in a generation locked out of the economy. Fiery for the firebombs already being thrown at AI executives and data centers. Elephant for the simple fact the cause is obvious and nobody at the top of the industry wants to look at it.*
+*The obvious political reality that AI discourse keeps refusing to name. Red for the communist-revolutionary spirit rising in a generation locked out of the economy. Flaming for the firebombs already being thrown at AI executives and data centers. Elephant for the simple fact the cause is obvious and nobody at the top of the industry wants to look at it.*
 
-![A red, fiery elephant in the middle of a room, ignored by a crowd of light-orange silhouettes, while one solid blue silhouette in the foreground faces it directly.](/img/flaming-red-elephant.png)
+![A flaming red elephant in the middle of a room, ignored by a crowd of light-orange silhouettes, while one solid blue silhouette in the foreground faces it directly.](/img/flaming-red-elephant.png)
 
 ---
 
@@ -18,7 +18,7 @@ A generation of young people has been told publicly, by the people building AI, 
 
 The result is exactly what a careful observer would predict. Firebombs. Shot-up councilmen's houses. Comment sections cheering it on. A growing share of young people convinced that stopping AI by any means necessary is a heroic calling.
 
-AAS calls this the **Red Fiery Elephant in the Room**. Three parts, each one obvious once stated, each one actively ignored by AI industry leadership and AI doom leadership both.
+AAS calls this the **Flaming Red Elephant in the Room**. Three parts, each one obvious once stated, each one actively ignored by AI industry leadership and AI doom leadership both.
 
 ---
 
@@ -32,9 +32,9 @@ The political energy of 2026 is materially more desperate and ideologically more
 
 ---
 
-## Fiery
+## Flaming
 
-Fiery is the literal fire. It is not rhetoric. It is the Molotov cocktails thrown twice in two weeks at Sam Altman's house. It is the thirteen rounds fired into an Indianapolis city councilman's home over a data center vote with an eight-year-old asleep inside. It is the cheering in the comments under every news article covering those events. It is what is next.
+Flaming is the literal fire. It is not rhetoric. It is the Molotov cocktails thrown twice in two weeks at Sam Altman's house. It is the thirteen rounds fired into an Indianapolis city councilman's home over a data center vote with an eight-year-old asleep inside. It is the cheering in the comments under every news article covering those events. It is what is next.
 
 A recent guest on [Patrick O'Shaughnessy's podcast](https://x.com/patrick_oshag/status/2047390954382893514) named the trajectory directly:
 
@@ -62,7 +62,7 @@ That is the elephant. We cannot have an honest conversation about applied AI's p
 
 ## Why naming this matters
 
-Every AAS member who runs a workshop, hosts a chapter meeting, publishes a case study, or has a conversation about AI in public is operating in a political environment shaped by the Red Fiery Elephant. Pretending the landscape is neutral is a posture that only works for people already inside the gates.
+Every AAS member who runs a workshop, hosts a chapter meeting, publishes a case study, or has a conversation about AI in public is operating in a political environment shaped by the Flaming Red Elephant. Pretending the landscape is neutral is a posture that only works for people already inside the gates.
 
 The AAS counter-move is not to pick a side between the doomers and the techno-utopians. It is to close the actual exclusion that both sides feed on. Every person [Jarvised](/docs/get-jarvised) with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) is one less recruit for the stop-AI movement and one less data point for the "useless class" thesis. The [fleet of arks](/docs/concepts/the-ark-of-one), built one at a time, is the intervention that drains both reservoirs at once.
 

@@ -30,15 +30,15 @@ Every person who builds an ark of any size is a person the doom pipeline will st
 
 ---
 
-## The Red Fiery Elephant in the Room
+## The Flaming Red Elephant in the Room
 
-![A red, fiery elephant in the middle of a room, ignored by a crowd of light-orange silhouettes, while one solid blue silhouette in the foreground faces it directly.](/img/flaming-red-elephant.png)
+![A flaming red elephant in the middle of a room, ignored by a crowd of light-orange silhouettes, while one solid blue silhouette in the foreground faces it directly.](/img/flaming-red-elephant.png)
 
-Before the pipeline, there is what AAS names [the Red Fiery Elephant in the Room](/docs/concepts/red-fiery-elephant). Three parts, each one obvious once stated, each one actively ignored by AI industry leadership and AI doom leadership both.
+Before the pipeline, there is what AAS names [the Flaming Red Elephant in the Room](/docs/concepts/flaming-red-elephant). Three parts, each one obvious once stated, each one actively ignored by AI industry leadership and AI doom leadership both.
 
 **Red.** Red is the color of the communist-revolutionary spirit rising in a generation that feels abandoned by every existing institution, and the rise is understandable. When the people at the top of the wealth distribution tell you in public that you will be economically "useless," and the people who own the biggest new technology in the world market it as the thing that will "ruin your life," the red rising in response is a predictable historical pattern in every similar moment. Dismissing it as conspiracy or fringe is what the people who caused it would like everyone else to do. It is also what guarantees the spiral accelerates.
 
-**Fiery.** Fiery is the literal fire. Molotov cocktails thrown twice in two weeks at Sam Altman's house. Thirteen rounds fired into an Indianapolis city councilman's home over a data center vote, with an eight-year-old asleep inside. Comment sections cheering it on. The next target. That trajectory is what 2026 is showing. It does not stop on its own. It stops when the underlying exclusion stops.
+**Flaming.** Flaming is the literal fire. Molotov cocktails thrown twice in two weeks at Sam Altman's house. Thirteen rounds fired into an Indianapolis city councilman's home over a data center vote, with an eight-year-old asleep inside. Comment sections cheering it on. The next target. That trajectory is what 2026 is showing. It does not stop on its own. It stops when the underlying exclusion stops.
 
 A recent guest on [Patrick O'Shaughnessy's podcast](https://x.com/patrick_oshag/status/2047390954382893514) put the near-term prediction directly:
 
