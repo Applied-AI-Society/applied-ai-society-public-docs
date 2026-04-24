@@ -85,7 +85,7 @@ Skills are the level above prompts. They make the right behavior the default and
 
 This is what most people mean when they say "prompting," and it does matter. Inside a single session, before you ask for anything serious:
 
-- **Drag in the files that matter.** The relationship file for the person involved. The strategic doc for the project. The transcript of the relevant meeting. Your Jarvis can read in seconds what would take you ten minutes to summarize.
+- **Drag in the files that matter.** The relationship file for the person involved. The strategic doc for the project. The transcript of the relevant meeting. Your Jarvis can read in seconds what would take you ten minutes to summarize. Do not type file paths by hand. Long-press and drag: from the VS Code sidebar into the chat, or straight from your desktop or Finder window. The full path appends automatically. This is a small mechanical habit that eliminates a surprising amount of friction (and typos) from every prompt you write.
 - **Voice-dump the framing.** Speak ninety seconds of context instead of typing one paragraph. Capture the situation, the goal, what is at stake, what you have already tried, what you want to avoid.
 - **Define what good looks like.** State the success criterion plainly so the agent can self-check. "I'll know this draft is right when [X]." "Done means [Y]."
 
