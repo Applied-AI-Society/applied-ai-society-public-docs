@@ -89,7 +89,9 @@ See also [Interview Prompts](/docs/concepts/interview-prompts) for the canonical
 
 ## Layer 4: Per-Session Priming
 
-This is what most people mean when they say "prompting," and it does matter. Inside a single session, before you ask for anything serious:
+This is what most people mean when they say "prompting," and it does matter. The priming work can land in its own setup turn at the start of a session, or, more often, it can ride at the front of the actual prompt you are about to send. Same act, just compressed into one message. The five layers describe *what is happening*, not five separate things you have to type.
+
+Inside a single session, before you ask for anything serious:
 
 - **Drag in the files that matter.** The relationship file for the person involved. The strategic doc for the project. The transcript of the relevant meeting. Your Jarvis can read in seconds what would take you ten minutes to summarize. Do not type file paths by hand: long-press and drag from the VS Code sidebar, your desktop, or any Finder window directly into the chat. The full path appends automatically.
 - **Voice-dump the framing.** Speak ninety seconds of context instead of typing one paragraph. Capture the situation, the goal, what is at stake, what you have already tried, what you want to avoid.
@@ -103,7 +105,7 @@ This is the [priming](/docs/playbooks/practitioner/priming-your-jarvis) discipli
 
 Now, finally, the words you type. By the time you get here, the four layers above have done most of the work. The prompt's job is small: nudge the system in a specific direction.
 
-This is where CRIT lives. Use it as the structure: a Context paragraph (often shorter than a fresh-chat-CRIT, because the OS already carries most of it), a Role assignment, an instruction to Interview you, then the Task itself.
+This is where CRIT lives, and where Layer 4 priming usually lives too: dragged-in files, voice-dumped framing, and success criteria all stack into the same message as the actual ask. Use CRIT as the structure: a Context paragraph (which absorbs your priming, and is often shorter than a fresh-chat CRIT because the OS already carries most of it), a Role assignment, an instruction to Interview you, then the Task itself.
 
 A few moves that compound on top of CRIT once it is your default:
 
@@ -163,7 +165,7 @@ The compression is easier when the system already shares most of the context wit
 2. **Build the Personal Agentic OS first.** A two-line prompt to a well-contexted Jarvis beats a two-page prompt to a fresh chat. Daily discipline.
 3. **Plug in the tools you need.** Your agent's permission surface bounds what it can do, no matter how good the words are.
 4. **Promote repeated patterns to skill files.** Anything you prompt twice should become a skill on the third occurrence.
-5. **Prime every session.** Drag in the files. Voice-dump the framing. Define what good looks like. Then ask.
+5. **Prime every session.** Drag in the files. Voice-dump the framing. Define what good looks like. Often this lands in the same message as the actual ask, not as a separate setup turn.
 6. **Use CRIT as the structure for every non-trivial prompt.** Context, Role, Interview, Task. Internalize it, then move on. The output difference vs. unstructured prompting is large and immediate.
 7. **Configure your Jarvis to interview and push back.** No sycophancy, no flattery, no agreement-by-default. The CLAUDE.md block above is the entry point.
 8. **Treat your first prompt as a first draft of the brief, not the final brief.** Let your Jarvis ask for what it needs.
