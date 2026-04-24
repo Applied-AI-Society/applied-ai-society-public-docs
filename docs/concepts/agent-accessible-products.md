@@ -119,6 +119,7 @@ This is also why the [Personal Agentic OS architecture](/docs/workshops/supersui
 ## Further Reading
 
 **Internal:**
+- [Computer Use](/docs/concepts/computer-use): The universal fallback for every product that never shipped agent-accessible interfaces. Slower, more fragile, but leaves no category of digital work un-delegable.
 - [llms.txt and llms-full.txt](/docs/concepts/llms-txt): The cheapest form of agent accessibility for anyone with a docs site or wiki
 - [Forkable Is the New Sticky](/docs/concepts/forkable-is-the-new-sticky): The business-strategy layer. Agent-accessible is a necessary precondition. Forkable-by-default is what turns agent-accessibility from a feature into a moat.
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): The next evolution of agent-accessible software
