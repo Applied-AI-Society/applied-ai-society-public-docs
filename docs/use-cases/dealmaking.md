@@ -68,6 +68,93 @@ All of it cross-referenced. All of it local on your laptop. All of it legible to
 
 See [PRM](/docs/concepts/prm) for the concrete file layout and the habits that keep it alive.
 
+## A Worked Example: Music Industry Deal Proposal
+
+To see the file types in action, here is a concrete example of prompting a Jarvis to draft a deal proposal in the music industry. Every stakeholder, file, and scenario below is fictional; the shape of the brief is the transferable part. The principle this example illustrates is simple: when you are prompting for operational reality on a deal, the generic public layer is not enough. You want the inside layer too. Who the stakeholders actually are to each other. Who holds the real power in each organization. What each person is actually optimizing for, under the press-release version of their priorities. Where the trust lives and where the friction lives. The open web has some of this. Your Jarvis, if you have kept it fed, has the rest.
+
+Scenario: Jasmine runs a boutique label called Underline Music with three signed artists. She wants to propose a twelve-month artist development partnership with The Scale Studios, a larger music academy with distribution and publishing relationships she currently lacks. The pitch is going to Malik Ogun, Scale Studios' founder. Jasmine has met him once, has a mutual collaborator in Nova Reyes (one of her artists, who has a prior working relationship with Scale Studios' creative director), and knows via a recent dinner that Malik is privately worried about a specific strategic exposure that does not show up in his public messaging.
+
+Here is what the prompt looks like when Jasmine has done the context work properly. She drops this into her Jarvis verbatim:
+
+```
+I want to draft a deal proposal for a twelve-month artist development
+partnership between my label Underline Music and The Scale Studios.
+The proposal is going to Malik Ogun (Scale Studios' founder). Eventual
+sign-off likely also requires his creative director, Priya Nair.
+
+Role: Act as a senior music industry deal architect who has drafted
+hundreds of label-academy partnerships. Skeptical, direct, pushes back
+on weak asks, insists on win-win-win structure.
+
+Use the following files as primary context:
+
+- people/malik-ogun.md (his dossier: what he actually wants, angels
+  in the attributes, our prior touchpoints)
+- people/priya-nair.md (the other likely decision-maker; note her
+  prior working relationship with Nova)
+- people/nova-reyes.md (my artist, bridges both orgs, has edge
+  context on Scale Studios' internal culture)
+- projects/underline-music/2026-roadmap.md (my label's strategic
+  priorities, distribution pain points, the three artists' paths)
+- projects/underline-music/scale-partnership-thesis.md (the evolving
+  strategic doc for this specific deal)
+- transcripts/2026-02-14_dinner-with-rance.md (the conversation
+  where I learned what Malik is privately worried about re: major
+  label consolidation and his Warner relationship)
+- transcripts/2025-10-03_coffee-with-malik.md (my one-on-one with
+  Malik six months ago; read his body language on distribution)
+- transcripts/2026-03-20_nova-checkin.md (Nova's read on Priya's
+  frustrations at Scale Studios over the last quarter)
+
+Public layer to also pull in (worth doing even though it is less
+load-bearing than the inside layer):
+
+- Scale Studios' announced deals in the last 18 months (Warner
+  partnership, L.A. expansion, Suno collab)
+- Malik's last 5 public statements / podcast appearances; note
+  where the public framing diverges from what I learned at dinner
+- Underline Music's public footprint so the proposal is coherent
+  with what Malik can verify on his own
+
+Power map notes to check your work against:
+- Malik signs, but Priya has effective veto if she thinks it
+  threatens her creative autonomy.
+- Nova is the trust bridge. If the deal would put her in an
+  uncomfortable position between the two orgs, pull it and rework.
+- The mutual collaborator from the dinner (Rance) is a back-channel
+  sanity check, not a co-signer. Do not invoke his name in the
+  proposal itself.
+
+Success criteria: the proposal names a specific pilot (one artist,
+one quarter), a clear win for Scale Studios tied to Malik's real
+worry about consolidation, a clear win for Underline tied to the
+distribution gap, and a clear win for the artist involved. No
+boilerplate. No aspirational fluff. Two pages max.
+
+Before drafting, ask me up to four questions, one at a time, about
+anything that is still ambiguous after reading the files. Do not
+draft the proposal until I answer. In particular, challenge me on:
+any must-have I am treating as a screen that is actually a
+tiebreaker, and any assumption about Priya I am making from one
+transcript.
+
+Once you have the answers, draft the proposal.
+```
+
+Four things to notice about what that brief is actually doing:
+
+1. **It tags specific files, not categories.** "Read my notes on Malik" is weak. "Read `people/malik-ogun.md`, `transcripts/2026-02-14_dinner-with-rance.md`, and `transcripts/2025-10-03_coffee-with-malik.md`" is strong. The Jarvis is a literal system. It will read exactly what you point it at.
+
+2. **It stacks the public and the inside layers explicitly.** The public layer gets named (Scale Studios' press releases, Malik's podcast appearances). The inside layer gets named (what Jasmine learned at the dinner, Nova's read on Priya, Malik's body language from the coffee). The Jarvis knows which is which because the brief says so.
+
+3. **It writes the power map.** Who signs, who vetoes, who the trust bridge is, who is a back-channel rather than a co-signer. Most deal proposals read as if every stakeholder is interchangeable. The ones that actually close are written as if they are not.
+
+4. **It still asks for the interview.** Even with all that context loaded, Jasmine instructs her Jarvis to interview her before drafting. She names the two specific things she wants challenged. That is the CRIT "Interview" move doing work even inside a fully contexted brief. The interview is how the Jarvis catches the assumption you did not realize you were making.
+
+The Jarvis that drafts this proposal is not being asked to invent anything. It is being asked to synthesize a stack of files Jasmine has already kept into the specific artifact the moment requires. That is what dealmaking looks like when the PRM is alive and the briefs are honest.
+
+For the full stack of how to prompt (the five layers of leverage, not just the brief itself), see [How To Prompt Your Jarvis](/docs/playbooks/practitioner/how-to-prompt-your-jarvis). For the underlying concept this leans on, see [Angels In The Attributes](/docs/concepts/angels-in-the-attributes).
+
 ## Why This Is The Number-One Use Case For Super-Connectors
 
 If you are someone who does not personally implement 97% of the deals you are part of (you are the one who makes them happen and hands them off to the operators who execute), your core work is the deal itself. The context you hold about every stakeholder is the asset. The Jarvis is the force multiplier that turns that context into drafted deals, honest assessments, and well-sequenced moves.
