@@ -50,7 +50,7 @@ Removing drudgery is the floor, not the goal. Help people imagine and embody the
 ---
 
 **IX. Free people, not replace them.**
-The end state is humans doing the work only humans can do.
+The end state is humans doing the work only humans can do. Empower humans to create in ways only humans can create, and let machines handle the admin, operations, and everything else that was never artful to begin with.
 
 ---
 

@@ -5,9 +5,9 @@ title: "Roles in the Applied AI Economy"
 
 # Roles in the Applied AI Economy
 
-The applied AI economy is creating careers that didn't exist two years ago. Most people don't know to look for them. Job boards haven't caught up. Career advisors are working from an outdated map.
+The [applied AI](/docs/concepts/applied-ai) economy is creating careers that didn't exist two years ago. Most people don't know to look for them. Job boards haven't caught up. Career advisors are working from an outdated map.
 
-This section documents the roles that are forming now, across every industry, as organizations try to actually deploy AI at scale. Some of these have names. Some are still being named. All of them pay well, and most of them have more open seats than qualified people to fill them.
+This section documents the roles that are forming now, across every industry, as organizations try to actually deploy AI at scale. Some of these have names. Some are still being named. All of them pay well, and most of them have more open seats than qualified people to fill them. Each one is a pro shape of the broader [applied AI practitioner](/docs/concepts/applied-ai-practitioner) category: the subset who turn the daily practice into a livelihood.
 
 ---
 

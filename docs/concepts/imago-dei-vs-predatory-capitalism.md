@@ -69,7 +69,7 @@ The difference between the two species of capitalism is not primarily macroecono
 - How you respond when a customer could be quietly over-charged and they would not notice.
 - Whether the person downstream of your decision is better or worse off.
 
-No one performs these choices on a stage. They are small and cumulative. Over a decade, they are the difference between a career that produced real goodness and a career that produced a fortune off extraction. Both versions are called capitalism. Only one is [sustainable commercial success](/docs/concepts/sustainable-commercial-success).
+No one performs these choices on a stage. They are small and cumulative. Over a decade, they are the difference between a career that produced real goodness and a career that produced a fortune off extraction. Both versions are called capitalism. Only one is [sustained commercial success](/docs/concepts/sustained-commercial-success).
 
 ## Why Applied AI Society Exists On This Side
 
@@ -90,7 +90,7 @@ Running the predatory game at scale with modern AI tooling produces outcomes we 
 - [Applied AI](/docs/concepts/applied-ai): The upstream discipline. Imago Dei capitalism is the kind of commerce applied AI should be aimed at; predatory capitalism is the kind it should starve.
 - [Dealmaking](/docs/use-cases/dealmaking): The operational expression of Imago Dei capitalism. Win-win-win deals as the default.
 - [Getting Your Time Back](/docs/use-cases/getting-your-time-back): The practical on-ramp to the tooling parity that makes this choice real.
-- [Sustainable Commercial Success](/docs/concepts/sustainable-commercial-success): Why AAS holds the curriculum bar high rather than selling quick activation.
+- [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): Why AAS holds the curriculum bar high rather than selling quick activation.
 - [Who We Serve](/docs/about/who-we-serve): The four communities this frame is written for.
 - [Humanity-First Flywheel](/docs/about/humanity-first-flywheel): How those four communities compound value for each other the Imago Dei way.
 - [The Applied AI Literacy Earthshot](/docs/applied-ai-practice/earthshot): The commitment that underwrites the activation bar.

@@ -65,7 +65,7 @@ Every cohort of activated non-technical leaders makes the community more valuabl
 
 Three failure modes we guard against, because each collapses the loop:
 
-**Lowering the curriculum bar for business reasons.** The moment the curriculum is optimized to sell courses rather than activate humans, builders disengage, the bar drops, and the non-technical community starts getting yesterday's AI wisdom dressed up as today's. We refuse the tradeoff. See [sustainable commercial success](/docs/concepts/sustainable-commercial-success) for the commitment in full.
+**Lowering the curriculum bar for business reasons.** The moment the curriculum is optimized to sell courses rather than activate humans, builders disengage, the bar drops, and the non-technical community starts getting yesterday's AI wisdom dressed up as today's. We refuse the tradeoff. See [sustained commercial success](/docs/concepts/sustained-commercial-success) for the commitment in full.
 
 **Treating builders as unpaid labor.** Builders contribute because it compounds into commercial opportunity for them. If the ecosystem does not produce hires and clients for them, the contribution dries up. Every chapter leader, workshop instructor, and business owner we train is part of that demand side.
 

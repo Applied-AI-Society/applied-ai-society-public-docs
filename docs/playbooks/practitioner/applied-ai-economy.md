@@ -13,7 +13,7 @@ title: The Applied AI Economy
 
 Most people hear “make money with AI” and think of one thing: building chatbots or automating workflows. That's real work and it pays. But it's one corner of a much larger economy that is forming right now.
 
-The applied AI economy includes consulting, coaching, training, tool building, culture transformation, and entirely new startups that didn't exist two years ago. New categories are emerging every month. If you only see one path, you're not looking wide enough.
+The [applied AI](/docs/concepts/applied-ai) economy includes consulting, coaching, training, tool building, culture transformation, and entirely new startups that didn't exist two years ago. New categories are emerging every month. If you only see one path, you're not looking wide enough.
 
 Our advice: don't be too picky early in your applied AI career. Try different types of work. Find out what you're good at, what pays well, and what you actually enjoy. Those three circles may not overlap immediately, and that's fine. You need reps to figure it out.
 

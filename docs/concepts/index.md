@@ -67,6 +67,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 ### Economy and Roles
 
 - [Hyperagency](/docs/concepts/hyperagency): Two types of people are emerging: hyperagents (humans amplified by AI) and everyone else. The defining split of this economy.
+- [Soul Skills](/docs/concepts/soul-skills): Presence, taste, judgment, care, and the specific shape they take inside you. The skills AI cannot replicate, and the durable commercial edge underneath every sustained career in an AI-native market.
 - [Conjoined Agency](/docs/concepts/conjoined-agency): The second frame on what a hyperagent is. Real agency is the trust of other high-agency people who will help enact your will. Tool-agency is not agency. Vibe coding does not build the relational layer.
 - [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability): The floor below which you are no longer a credible commercial actor in 2026. Four load-bearing pieces: applied AI literacy, a working Personal Agentic OS, a body of public work, and active market engagement.
 - [The Water Line](/docs/concepts/the-water-line): The specific, mechanistic account of what is rising inside The New Flood. The minimum level of intelligence agency required to stay economically viable, going up every quarter. People below it are drowning.

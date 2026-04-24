@@ -191,6 +191,12 @@ We reject that story. The entire point of applied AI, when it is done with any d
 
 The violence is downstream of the exclusion. Every firebomb thrown in 2026 was incubated in a young mind that had been given no real path into the AI economy and every reason to believe it was being held outside the gates on purpose. The industry has the money to close that gap. What it lacks is the will to prioritize it.
 
+Some of your peers are starting to name the stakes directly. Will Manidis, [on X in April 2026](https://x.com/WillManidis/status/2047349458132717933):
+
+> "not getting your data centers blown up is the only factor input to scaling laws that still makes this game a toss up."
+
+Read that twice. The physical security of the AI buildout is now a scaling-laws-level input, sitting on the same list as compute, data, and algorithms. The inputs to that security are political and relational: jobs in the host communities, honest public communication about water and power, the absence of doomer marketing, and a visible path for ordinary people into the economy the infrastructure is enabling. Manidis, in the same thread, singled out Meta as the only company executing on those basics. The rest of the industry has not caught up.
+
 If you are building AI, build tools your grandmother, your neighbor, and the 20-year-old trying to afford rent in your city can all actually use. Fund the literacy. Fund the community. Fund the workshops. The counter-movement to stop-AI violence is a generation that feels included in what comes next. Better security at the data centers is a downstream consequence of getting that wrong.
 
 Fund ecological regeneration with the same urgency. The note at the councilman's shot-up house was "No Data Centers," and anyone who treats that as pure NIMBY rage is not listening. The AI industry is siting enormous energy and water infrastructure into communities that already felt abandoned by every previous wave of industrial decision-making. A data center with a restoration agenda for the watershed, the grid, and the neighborhood around it is a different political object than one without. We are going to find out which kind we built when the backlash matures. The right answer is the one where the industry led, not the one where the industry was forced to retreat.

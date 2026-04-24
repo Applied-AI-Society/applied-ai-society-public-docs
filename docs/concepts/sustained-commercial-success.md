@@ -1,9 +1,9 @@
 ---
-title: "Sustainable Commercial Success"
+title: "Sustained Commercial Success"
 description: "The outcome Applied AI Society optimizes for: the right onboarding to AI, which is a different road from the easiest onboarding. The kind that produces leaders who can actually build and sustain commercial edge in an economy that is rewriting itself."
 ---
 
-# Sustainable Commercial Success
+# Sustained Commercial Success
 
 *The outcome Applied AI Society optimizes for. The right onboarding to AI, which is a different road from the easiest onboarding, and a different road from feel-good AI theater. It is the kind that produces leaders who can build and hold commercial edge for decades.*
 
@@ -11,9 +11,9 @@ description: "The outcome Applied AI Society optimizes for: the right onboarding
 
 ## The Mission In One Line
 
-AAS exists to develop human potential in a way that enables **sustainable commercial success**. Every curriculum decision, every workshop, every page of these docs is accountable to that outcome.
+AAS exists to develop human potential in a way that enables **sustained commercial success**. Every curriculum decision, every workshop, every page of these docs is accountable to that outcome.
 
-"Sustainable" is doing work in that sentence. A weekend AI course can make someone feel activated for forty-eight hours. The bar is whether the person walks away equipped to keep compounding commercially for years, inside an economy that is being [rewritten underneath them](/docs/philosophy/rip-to-the-career-ladder).
+"Sustained" is doing work in that sentence. A weekend AI course can make someone feel activated for forty-eight hours. The bar is whether the person is still compounding commercially years later, inside an economy that is being [rewritten underneath them](/docs/philosophy/rip-to-the-career-ladder). Sustainable is a property of a system; sustained is a property of a career. We are accountable to the second.
 
 ## The Right Onboarding
 
@@ -50,17 +50,18 @@ Holding the bar is the most generous thing we can do for the people we serve. It
 
 ---
 
-> **AAS exists to develop human potential in a way that enables sustainable commercial success. That is the bar, and we do not lower it.**
+> **AAS exists to develop human potential in a way that enables sustained commercial success. That is the bar, and we do not lower it.**
 
 ---
 
 ## Further Reading
 
-- [Applied AI](/docs/concepts/applied-ai): The upstream concept. Sustainable commercial success is the commercial rung of the broader applied-AI discipline.
-- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): Which species of capitalism sustainable commercial success belongs to, and which one it refuses.
+- [Applied AI](/docs/concepts/applied-ai): The upstream concept. Sustained commercial success is the commercial rung of the broader applied-AI discipline.
+- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): Which species of capitalism sustained commercial success belongs to, and which one it refuses.
 - [Humanity-First Flywheel](/docs/about/humanity-first-flywheel): The ecosystem-level reason holding the bar matters.
 - [Who We Serve](/docs/about/who-we-serve): The four communities this commitment is for.
 - [You Are The Bottleneck](/docs/concepts/you-are-the-bottleneck): The self-awareness frame required before activation lands.
 - [Activation](/docs/concepts/activation): The specific shift this commitment protects.
-- [Hyperagency](/docs/concepts/hyperagency): What sustainable commercial success looks like in practice.
+- [Soul Skills](/docs/concepts/soul-skills): The non-automatable half of what the practice runs on. The specific-to-you shape of it is where the most durable edge lives.
+- [Hyperagency](/docs/concepts/hyperagency): What sustained commercial success looks like in practice.
 - [RIP To The Career Ladder](/docs/philosophy/rip-to-the-career-ladder): The economic context that makes the bar urgent.

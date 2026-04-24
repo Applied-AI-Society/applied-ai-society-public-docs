@@ -64,6 +64,18 @@ That is the elephant. We cannot have an honest conversation about applied AI's p
 
 Every AAS member who runs a workshop, hosts a chapter meeting, publishes a case study, or has a conversation about AI in public is operating in a political environment shaped by the Flaming Red Elephant. Pretending the landscape is neutral is a posture that only works for people already inside the gates.
 
+Some industry voices are starting to name it. Will Manidis, in [an April 2026 X thread](https://x.com/WillManidis/status/2047349458132717933), called out Meta specifically:
+
+> "its impossible to overstate how well facebook is doing on comms surrounding data centers and models right now. offer jobs and training, clearly state the truth over water and power usage, don't do doomer fiction. just a relentless execution of the basics. no one else is even close."
+
+And in a follow-up:
+
+> "not getting your data centers blown up is the only factor input to scaling laws that still makes this game a toss up."
+
+That second line is the elephant named from inside the industry. The physical security of the AI buildout is now a scaling-laws-level input, sitting next to compute, data, and algorithms on the list of things that determine whether the whole project works. The inputs to that security are not technical. They are political and relational: jobs in the communities hosting the infrastructure, honest public communication about water and power, the absence of doomer framing, and a visible path for ordinary people into the economy the buildout is enabling.
+
+Every one of those inputs is what AAS has been doing at the community level from day one. The [Jarvis workshops](/docs/workshops/supersuit-up), the [chapter network](/docs/playbooks/chapter-leader), the [public documentation](/docs/about), and the careers documented in the [applied AI economy](/docs/playbooks/practitioner/applied-ai-economy) are literally the "jobs and training" side of Manidis's prescription, delivered at the ground level rather than by corporate comms.
+
 The AAS counter-move is not to pick a side between the doomers and the techno-utopians. It is to close the actual exclusion that both sides feed on. Every person [Jarvised](/docs/get-jarvised) with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) is one less recruit for the stop-AI movement and one less data point for the "useless class" thesis. The [fleet of arks](/docs/concepts/the-ark-of-one), built one at a time, is the intervention that drains both reservoirs at once.
 
 See [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed) for the full strategic frame this concept lives inside.

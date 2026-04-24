@@ -5,7 +5,7 @@ title: Practitioner Playbooks
 
 # Practitioner Playbooks
 
-Guides for anyone applying AI professionally, whether you're just starting out or running engagements for clients.
+Guides for anyone applying AI professionally, whether you're just starting out or running engagements for clients. For the broader concept behind the term (who counts as one, the daily shape vs. the pro shape), see [Applied AI Practitioner](/docs/concepts/applied-ai-practitioner). The playbooks below are for the pro shape: turning the practice into a career.
 
 ---
 

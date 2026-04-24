@@ -5,7 +5,7 @@ description: "The daily discipline of living and operating with AI. A practice i
 
 # Applied AI Practice
 
-*A daily discipline, practiced the way a martial artist trains, the way a musician plays scales, the way a surgeon rounds. Lifelong, embodied, progressive. The daily form of [applied AI](/docs/concepts/applied-ai): what you build on the other side of the [literacy bar](/docs/applied-ai-practice/earthshot), in service of yourself, the people around you, and the world you care about.*
+*A daily discipline, practiced the way a martial artist trains, the way a musician plays scales, the way a surgeon rounds. Lifelong, embodied, progressive. The daily form of [applied AI](/docs/concepts/applied-ai): what you build on the other side of the [literacy bar](/docs/applied-ai-practice/earthshot), in service of yourself, the people around you, and the world you care about. The person walking this discipline is an [applied AI practitioner](/docs/concepts/applied-ai-practitioner).*
 
 ---
 
@@ -64,7 +64,7 @@ The point is daily presence.
 - [Applied AI](/docs/concepts/applied-ai): The upstream concept. What applied AI is, across any goal (commercial, creative, civic, personal). This concept page is the daily-discipline form of that.
 - [Applied AI Practice section](/docs/applied-ai-practice): The full AAS treatment of the practice, who it is for, and why it matters now.
 - [The Applied AI Literacy Earthshot](/docs/applied-ai-practice/earthshot): The AAS commitment to bring every human across the literacy bar. The rung AAS can earthshot for humanity; practice and mastery live with the individual on the other side.
-- [Sustainable Commercial Success](/docs/concepts/sustainable-commercial-success): Why we hold the bar on what the practice requires.
+- [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): Why we hold the bar on what the practice requires.
 - [Activation](/docs/concepts/activation): The flip that gets you to white belt.
 - [Hyperagency](/docs/concepts/hyperagency): The far state the practice produces.
 - [You Are The Bottleneck](/docs/concepts/you-are-the-bottleneck): The self-awareness baseline the practice requires.
