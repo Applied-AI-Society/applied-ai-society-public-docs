@@ -109,6 +109,8 @@ A few moves that compound on top of CRIT once it is your default:
 
 These are tactical, learnable, and useful. They are also still the smallest lever in the stack.
 
+For a concrete, end-to-end example of what all five layers look like composed into a single brief (file tags, public layer, inside layer, power map, CRIT structure, interview instruction), see the worked music-industry deal proposal in [Dealmaking](/docs/use-cases/dealmaking#a-worked-example-music-industry-deal-proposal).
+
 ---
 
 ## Make Interviewing The Default, Not The Exception
