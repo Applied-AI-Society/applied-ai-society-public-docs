@@ -27,6 +27,7 @@ AI is doing the same thing, faster. The roles forming now sit at the intersectio
 - [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The person who takes someone from zero to a working Personal Agentic OS, then coaches them through progressively deeper levels of integration.
 - [Applied AI Community Leader](/docs/roles/community-leader): The person who brings applied AI to their city, campus, or community through events, partnerships, and local network building.
 - [AI Enablement Architect](/docs/roles/ai-enablement-architect): The person who deploys company-wide AI upskilling infrastructure: the platform, the skill marketplace, the integrations, and the adoption mechanics that get every employee building with AI.
+- [Corporate Upskiller](/docs/roles/corporate-upskiller): The external practitioner (ideally a pair: a business-fluent lead plus a deeply technical practitioner) who runs multi-day engagements to install applied AI literacy across a company's teams. For-profit model, analysis-first, non-vendor-specific.
 - [Applied AI Streamliner](/docs/roles/applied-ai-streamliner): The person who builds hyper-personalized software for individual professionals. Sits with the person, decomposes their workflows, and builds custom apps that wrap agentic capabilities around exactly how they work.
 
 *More roles being added. If you're doing applied AI work that doesn't fit a known category, you may be early to something. [Tell us about it.](https://appliedaisociety.org/contribute)*

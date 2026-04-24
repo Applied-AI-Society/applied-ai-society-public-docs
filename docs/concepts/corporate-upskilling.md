@@ -88,3 +88,4 @@ The hyperscaler training model is "sign up for a course, watch the videos, recei
 - [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop): The failure mode when tools ship without literacy.
 - [Hiring Practitioners](/docs/playbooks/business-owner/hiring-practitioners): When to bring in outside practitioners to lead the rollout.
 - [Chief AI Officer](/docs/roles/chief-ai-officer): The internal role that owns this work on an ongoing basis.
+- [Corporate Upskiller](/docs/roles/corporate-upskiller): The external role that delivers the engagement. Ideal profile, pair-delivery pattern, multi-day cadence, and for-profit model.
