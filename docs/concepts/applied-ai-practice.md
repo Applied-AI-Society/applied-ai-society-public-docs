@@ -5,7 +5,7 @@ description: "The daily discipline of living and operating with AI. A practice i
 
 # Applied AI Practice
 
-*A daily discipline, practiced the way a martial artist trains, the way a musician plays scales, the way a surgeon rounds. Lifelong, embodied, progressive. What you build on the other side of the [applied AI literacy bar](/docs/applied-ai-practice/earthshot), in service of yourself, the people around you, and the world you care about.*
+*A daily discipline, practiced the way a martial artist trains, the way a musician plays scales, the way a surgeon rounds. Lifelong, embodied, progressive. The daily form of [applied AI](/docs/concepts/applied-ai): what you build on the other side of the [literacy bar](/docs/applied-ai-practice/earthshot), in service of yourself, the people around you, and the world you care about.*
 
 ---
 
