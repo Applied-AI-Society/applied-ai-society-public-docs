@@ -40,7 +40,7 @@ Every one of these is applied AI done correctly. The commercial frame is one of 
 
 The most widely-discussed version of applied AI is commercial: using AI so your organization stays, and becomes, commercially viable in an economy that is restructuring in real time. That version has immediate life-or-death stakes for most businesses, and those stakes are laid out in full in our published paper [The Writing On the Wall: the Rise of Applied AI and the Life-or-Death Choice Every CEO Must Make Now](https://digitalcommons.humboldt.edu/digitallab/13/) (Roberts and Sheng, *Journal of the Internet*, 2026).
 
-For the commercial rung specifically, see also [sustained commercial success](/docs/concepts/sustained-commercial-success) for why we hold the bar on what the practice requires, and [Imago Dei capitalism vs predatory capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism) for which kind of commerce applied AI should be producing.
+For the commercial rung specifically, see also [sustained commercial success](/docs/concepts/sustained-commercial-success) for why we hold the bar on what the practice requires.
 
 The point of calling out the commercial frame explicitly is not to confine applied AI to it. It is to say: the commercial frame is one of the first places the stakes become unignorable, and the frameworks you build there transfer. A nonprofit that develops real applied AI practice can serve its community at a scale its funders did not think was possible. An artist who develops it can reach audiences that used to require a label. A civic leader who develops it can deliver services that used to require a bureaucracy. Every domain is under the same pressure. Every domain rewards the same discipline.
 
@@ -95,7 +95,6 @@ If you are at the start of walking this discipline, see the [applied AI practice
 - [Applied AI Practice](/docs/concepts/applied-ai-practice): The daily discipline of walking applied AI. Literacy, practice, mastery as a ladder.
 - [The Applied AI Literacy Earthshot](/docs/applied-ai-practice/earthshot): AAS's specific commitment to the activation bar.
 - [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): The commercial rung of the same discipline, held to a non-negotiable bar.
-- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): Which kind of commerce applied AI should be aimed at, and which one it should starve.
 - [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution): The meta-shift applied AI makes real. Humans direct, systems execute.
 - [Hyperagency](/docs/concepts/hyperagency): The far state applied AI produces in a single operator.
 - [Slopacalypse](/docs/concepts/slopacalypse) and [Human Slop Factory](/docs/concepts/human-slop-factory): The failure modes applied AI is designed to avoid.

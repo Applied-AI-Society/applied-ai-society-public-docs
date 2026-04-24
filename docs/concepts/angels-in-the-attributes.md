@@ -55,7 +55,7 @@ Calling this the "devil in the details" puts the emphasis on catastrophe: what b
 
 Both framings are true. The one you organize around shapes which mode you live in. A deal can die because of one missed detail. A deal can also become a five-year compounding relationship because of one correctly-remembered attribute. You decide which mode your workspace is optimized for.
 
-The workspace that catches the details and forgets the angels is built around fear. The workspace that holds the angels as well as the details is built around sovereign operation and [Imago Dei capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism). Same files. Different posture. Different outcomes.
+The workspace that catches the details and forgets the angels is built around fear. The workspace that holds the angels as well as the details is built around sovereign operation and win-win-win work. Same files. Different posture. Different outcomes.
 
 ## The Test
 
@@ -78,4 +78,3 @@ If yes, the workspace is paying. Keep refining. If no, the workspace is not wher
 - [Priming Your Jarvis](/docs/playbooks/practitioner/priming-your-jarvis): How to get the angels into the prompt when you need them.
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The posture that moves angels from head to file.
 - [Legacy](/docs/concepts/legacy): The broader discipline the angels are one shape of.
-- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): The kind of work angels-in-the-attributes should be aimed at.

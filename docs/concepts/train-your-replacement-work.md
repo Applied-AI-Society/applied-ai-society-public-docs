@@ -78,6 +78,5 @@ If you work in one of these roles, the point of this page is not to make you fee
 - [Roles to Workflows](/docs/concepts/roles-to-workflows): How roles decompose into workflows, and how to see which workflows are on the chopping block.
 - [There Is No Demand for Average](/docs/concepts/there-is-no-demand-for-average): Why baseline work commoditizes and where demand concentrates.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): The positive construction. Design systems that liberate humans into higher-order work.
-- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): The broader economic shape train-your-replacement contracts are one instance of. Extraction by design.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The practical on-ramp for crossing the bridge.
 - [Conscious Spend](https://www.consciousspend.com): External resource. Company ratings on environmental impact, labor, and transparency.

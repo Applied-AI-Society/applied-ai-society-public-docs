@@ -38,7 +38,7 @@ A loose idea of "more imagination" would not be a useful frame if it were not pa
 
 "At the highest possible level" means the human is at the center of the design, the incentive structure, the compensation, the distribution, and the outcome. The product works because it makes specific human lives richer, clearer, freer, or more sovereign. The business model routes economic value to the humans who made and used the thing rather than extracting from them.
 
-This is the operational criterion that separates the imagination economy from its extractive twin. Any sufficiently capable AI-plus-imagination stack can also produce [predatory capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism) at terrifying scale. The imagination economy is the name for the version that does not.
+This is the operational criterion that separates the imagination economy from its extractive twin. Any sufficiently capable AI-plus-imagination stack can also produce extraction at terrifying scale: funnels, dark patterns, engineered dependency, attention traps. The imagination economy is the name for the version that does not.
 
 If what you are building:
 
@@ -75,7 +75,6 @@ When a Jarvis-activated operator starts producing 2026-native work, they become 
 
 - [Applied AI](/docs/concepts/applied-ai): The upstream discipline. The imagination economy is the economy a generation of applied-AI operators is building toward.
 - 
-- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): The ethical frame that separates the imagination economy from its extractive twin.
 - [Applied AI Practice](/docs/applied-ai-practice): The daily discipline that makes imagination-economy participation real.
 - [Humanity-First Flywheel](/docs/about/humanity-first-flywheel): The AAS ecosystem built for the three archetypes the imagination economy runs on.
 - [Hyperagency](/docs/concepts/hyperagency): What participation looks like at the individual level.

@@ -82,17 +82,14 @@ Dealmaking is strategy in its purest operational form. You are the main agent. Y
 
 This is the Jarvis pattern in a single flagship use case: human genius on top, agentic infrastructure underneath, real artifacts (drafted deals, assessments, tear-ups) out the other side. The daily [applied AI practice](/docs/concepts/applied-ai-practice) is what keeps the context compounding, so the twenty-fifth deal this year is sharper than the first.
 
-## Imago Dei Capitalism, Not Predatory Capitalism
+## Win-Win-Win Deals Only
 
-Two species of capitalism run on the same planet. One creates. One extracts. This use case is built for the first.
+This use case is built for a specific kind of operator: the one making deals where every party is better off when the deal closes.
 
-**Predatory capitalism** is the default mode of certain industries and certain operators: 360 deals that bind artists into arrangements that do not honor their creativity or their soul, much less their finances. Funnels that extract from people who did not know what they were signing. A surveillance layer that, at every level, is trying to figure out how to keep people from being free. That mode is not what this use case is for.
+The creator wins. The collaborators win. The community on the receiving end of the output wins. If any party is worse off after the deal lands than before, the deal is off-spec. That is the bar a Jarvis-augmented operator should hold themselves to, because the tooling makes both win-win-win and zero-sum deals dramatically easier to execute at scale. Intent is doing the work of choosing which game to play.
 
-**Imago Dei capitalism**, from the  frame, is commerce in the image of a creator God. Creating net-new goodness in the world that people are willingly and happily paying for because it actually serves their lives. Your deal produces a product, a piece of art, an institution, a service that a community is better off having. Everyone at the table is lifted. An Imago Dei capitalist makes win-win-win deals by default: the creator wins, the collaborators win, the community that consumes the output wins.
+If you have been invited into an Applied AI Society room, it is because we see you as someone with a real product, a real audience, and a real possibility of building something that compounds goodness for decades. Your Jarvis is how you make deals at the caliber your work can stand behind, at the speed the market will reward.
 
-If you have been invited into an Applied AI Society room or an  conversation, it is because we see you as an Imago Dei capitalist: someone with a real product, a real audience, and a real possibility of building something that compounds goodness for decades. Your Jarvis is how you make deals at the caliber your soul can stand behind, at the speed the market will reward.
-
-See [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism) for the full framing, the asymmetry that is finally closing, and why Applied AI Society exists specifically to arm the first side and starve the second.
 
 ---
 
@@ -102,7 +99,6 @@ See [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-p
 
 ## Further Reading
 
-- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): The canonical frame for which species of capitalism this use case is built to serve.
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): The three file types that make dealmaking context-rich by default.
 - [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution): Why dealmaking is the highest-leverage strategic work in the AI economy.
 - [Getting Your Time Back](/docs/use-cases/getting-your-time-back): The on-ramp use case. Collapse the existing workflows first; then there is room to deal.

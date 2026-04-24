@@ -48,7 +48,7 @@ People who have this kind of real trust are often also people whose relational c
 
 The deals are there. The trust is there. The activation layer has been missing. That is the specific gap a Jarvis closes.
 
-The point is not to extract from the network. The point is to make the **win-win-win deals** (the ones that produce real products, that serve the community, that lift everyone in the arrangement) happen at the rate they should be happening. That is [Imago Dei capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism) operationalized for the person with real trust and an under-deployed network.
+The point is not to extract from the network. The point is to make the **win-win-win deals** (the ones that produce real products, that serve the community, that lift everyone in the arrangement) happen at the rate they should be happening. Latent leverage is that discipline operationalized for the person with real trust and an under-deployed network.
 
 ## How To Activate It This Quarter
 
@@ -72,7 +72,6 @@ Ninety days of this is the difference between a network that quietly pays other 
 - [Dealmaking](/docs/use-cases/dealmaking): The flagship use case for activating latent leverage.
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): The three file types that turn latent leverage into readable context.
 - [Angels in the Attributes](/docs/concepts/angels-in-the-attributes): The ungoogleable edge intelligence that lives inside a mature PRM, and the difference between signed deals and lost ones.
-- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): Which kind of deals latent leverage should produce.
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The habit that transfers the network from your head into a system that can operate on it.
 - [Being Someone's Go-To Person](/docs/concepts/being-someones-go-to-person): The role that earns the trust in the first place.
 - [Capturing Conversations](/docs/tools/capturing-conversations): The pipeline for turning every real conversation into transcripts your agent can read.

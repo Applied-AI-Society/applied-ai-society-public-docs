@@ -121,5 +121,4 @@ The machine the industry is building is coming either way. The xAI disclosures m
 - [Human Slop Factory](/docs/concepts/human-slop-factory): The output-side failure mode. Human Emulators is the input-side extraction; Human Slop Factory is what the fluent-but-judgment-free operator ships once the tool is pointed back at them.
 - [The Tool Is Only As Powerful As The Beholder](/docs/concepts/the-tool-is-only-as-powerful-as-the-beholder): Tool overwhelm burns you out. The ontology is the durable part.
 - [Your Two Futures](/docs/philosophy/your-two-futures): The daily decision underneath all of this.
-- [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): The economic shape behind the emulator project. Extraction as a business model, and the counter-model Applied AI Society exists to arm.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The fastest practical on-ramp.
