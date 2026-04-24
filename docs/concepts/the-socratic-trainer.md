@@ -69,6 +69,7 @@ The multi-generational version costs more up front. It is also the only one that
 ## Further Reading
 
 - [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The concrete role. The Socratic Trainer is the archetype; the Agentic OS Trainer is one specific implementation of it.
+- [Corporate Upskilling](/docs/concepts/corporate-upskilling): The engagement shape a Socratic Trainer should be running inside a company, and the six criteria for hiring one.
 - [Hiring Applied AI Practitioners](/docs/playbooks/business-owner/hiring-practitioners): The broader hiring guide for business owners.
 - [Raise The Floor](/docs/concepts/raise-the-floor): Why shared, propagated knowledge beats hoarded expertise inside an organization.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Why open-sourcing the curriculum is a multiplier.

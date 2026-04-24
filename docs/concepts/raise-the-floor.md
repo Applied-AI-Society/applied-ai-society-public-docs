@@ -88,6 +88,7 @@ The ceiling takes care of itself. Power users will always push the boundaries. T
 ## Further Reading
 
 - [Ramp: Glass](/docs/case-studies/ramp-glass): The corporate case study. 700 employees, 350 shared skills, and the Dojo marketplace that made it compound.
+- [Corporate Upskilling](/docs/concepts/corporate-upskilling): The engagement shape that installs the floor-raising flywheel at a company in the first place.
 - [Instruction Files](/docs/concepts/instruction-files): The unit of shareable knowledge. Skill files are how breakthroughs get packaged.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): The related pattern for scaling one expert's knowledge to many. Raise the Floor is the organizational, peer-to-peer version.
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where the flywheel leads at the systems level.

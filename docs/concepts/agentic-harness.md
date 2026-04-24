@@ -93,6 +93,7 @@ The [Supersuit Up Workshop](/docs/workshops/supersuit-up) walks you through sett
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): Deep architectural analysis of Claude Code's source code and the ten engineering patterns that make it work.
 - [The Case for Simple Harnesses](/docs/concepts/the-case-for-simple-harnesses): Why minimal harnesses keep winning as the field matures.
 - [Learn the Harness, Not the Wrapper](/docs/concepts/learn-the-harness-not-the-wrapper): Why we teach primitives instead of abstractions.
+- [Agentic Harnesses Are For Everyone](/docs/concepts/agentic-harnesses-for-everyone): Harnesses are for every knowledge worker, not just coders. Jensen Huang's NVIDIA rollout memo as receipt.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system you build on top of your harness. Your files, your context, your compounding knowledge.
 - [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming): Why harness portability and file sovereignty matter more than most people realize.
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what information the harness feeds to the model at each step.
