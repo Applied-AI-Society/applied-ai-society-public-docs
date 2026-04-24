@@ -11,19 +11,21 @@ title: "How To Prompt Your Jarvis"
 
 ## The Reframe
 
-Open a fresh chat with a public LLM, type a question, get a generic answer. Conclude that AI is not that impressive. This is the most common path to underwhelmed.
+Open a fresh chat with a public LLM, type a question, get a generic answer. Conclude that AI is not that impressive. This is the most common path to feeling underwhelmed by the whole field.
 
 The mistake is treating the prompt as the unit of work. The prompt is the *trigger*. The unit of work is the entire context stack standing behind it: who your Jarvis already knows you to be, what files it can read, what skills it can run, what tools it can execute, what intellectual posture it has been told to take.
 
 When two practitioners type the same words into their agents and get wildly different results, the difference is almost never in the words. It is in everything that loaded before the words were typed.
 
-The implication is uncomfortable but freeing: if you want better outputs, do not get better at writing prompts. Get better at building the system the prompt runs against.
+The implication is uncomfortable and freeing at the same time: if you want better outputs, do not get better at writing prompts. Get better at building the system the prompt runs against.
+
+If you have not yet built that system, this page will probably read more as an orientation than as something you can act on tomorrow. That is fine. Start with [Get Jarvised](/docs/get-jarvised) and the [Supersuit Up workshop](/docs/workshops/supersuit-up), then come back. The reason this page exists in the practitioner section is that the leverage starts compounding the day the system is real.
 
 ---
 
 ## CRIT: A Good Place To Start, And Where It Stops
 
-If you want a tactical starting point on the prompt itself, the cleanest framework going around right now is **CRIT** (Context, Role, Interview, Task), popularized by [Geoff Woods](https://www.linkedin.com/in/geoffwoodscompoundeffect/), author of *The AI-Driven Leader*. The four moves:
+If you want a tactical starting point on the prompt itself, the cleanest structured framework I have seen recently is **CRIT** (Context, Role, Interview, Task), popularized by [Geoff Woods](https://www.linkedin.com/in/geoffwoodscompoundeffect/), author of *The AI-Driven Leader*. The four moves:
 
 - **Context.** Give the AI your world. Who you are, what you are working on, who your audience is, what your constraints are. The paragraph that sets the table.
 - **Role.** Tell the AI who to be. "Act as a strategy coach." "Act as a senior brand designer." "Act as an editor who pushes back on weak claims." Assigning a role shifts the agent from a search engine into a specific kind of collaborator.
@@ -77,7 +79,11 @@ A [skill file](/docs/concepts/instruction-files) is a reusable block of context 
 
 When you find yourself writing the same kind of prompt twice, promote it to a skill. The third time you need it, the skill runs and you do not have to remember the structure. Over months, your skill library becomes a fleet of pre-baked workflows your Jarvis can execute on demand: a daily briefing skill, a meeting recap skill, a draft-and-publish skill, a research dossier skill, an outreach skill, a deploy skill.
 
-Skills are the level above prompts. They make the right behavior the default and the wrong behavior require effort, instead of the other way around. See also [Interview Prompts](/docs/concepts/interview-prompts) for the canonical pattern of a skill that interviews you for what it needs instead of asking you to fill in placeholders.
+Skills are the level above prompts. They make the right behavior the default and the wrong behavior take effort. The win is twofold. You stop relying on memory for the structure of recurring work. And the structure of recurring work becomes a versioned, editable, share-able artifact, the same way good code is, instead of a habit that lives only in your head and degrades when you are tired.
+
+The leverage is also network-shaped: a well-written skill can be lifted out of your workspace and given to a teammate, a community, or an open-source repo, and it runs in their harness the same way it runs in yours. Skills are how individual prompting craft turns into shared infrastructure.
+
+See also [Interview Prompts](/docs/concepts/interview-prompts) for the canonical pattern of a skill that interviews you for what it needs instead of asking you to pre-fill placeholders.
 
 ---
 
@@ -85,7 +91,7 @@ Skills are the level above prompts. They make the right behavior the default and
 
 This is what most people mean when they say "prompting," and it does matter. Inside a single session, before you ask for anything serious:
 
-- **Drag in the files that matter.** The relationship file for the person involved. The strategic doc for the project. The transcript of the relevant meeting. Your Jarvis can read in seconds what would take you ten minutes to summarize. Do not type file paths by hand. Long-press and drag: from the VS Code sidebar into the chat, or straight from your desktop or Finder window. The full path appends automatically. This is a small mechanical habit that eliminates a surprising amount of friction (and typos) from every prompt you write.
+- **Drag in the files that matter.** The relationship file for the person involved. The strategic doc for the project. The transcript of the relevant meeting. Your Jarvis can read in seconds what would take you ten minutes to summarize. Do not type file paths by hand: long-press and drag from the VS Code sidebar, your desktop, or any Finder window directly into the chat. The full path appends automatically.
 - **Voice-dump the framing.** Speak ninety seconds of context instead of typing one paragraph. Capture the situation, the goal, what is at stake, what you have already tried, what you want to avoid.
 - **Define what good looks like.** State the success criterion plainly so the agent can self-check. "I'll know this draft is right when [X]." "Done means [Y]."
 
@@ -137,7 +143,7 @@ Add a section to your workspace `CLAUDE.md` (or equivalent) that explicitly inst
   the right one before you start solving the proposed one.
 ```
 
-This single block changes the texture of every conversation you have with your agent. You are no longer being agreed with. You are being interrogated by an interlocutor that has read your files and knows enough about you to challenge you specifically. That is iron sharpening iron, and it is the only relationship with an AI that produces real upgrades to your work.
+This single block changes the texture of every conversation you have with your agent. You are no longer being agreed with. You are being interrogated by an interlocutor that has read your files and knows enough about you to challenge you specifically. That is iron sharpening iron, and it is the kind of working relationship with an AI that consistently produces real upgrades to your thinking, not just polished restatements of it.
 
 For the prompt-pattern version of this same discipline (an instruction in the prompt itself that asks the agent to interview you for missing variables), see [Interview Prompts](/docs/concepts/interview-prompts).
 
@@ -159,7 +165,7 @@ The compression is easier when the system already shares most of the context wit
 4. **Promote repeated patterns to skill files.** Anything you prompt twice should become a skill on the third occurrence.
 5. **Prime every session.** Drag in the files. Voice-dump the framing. Define what good looks like. Then ask.
 6. **Use CRIT as the structure for every non-trivial prompt.** Context, Role, Interview, Task. Internalize it, then move on. The output difference vs. unstructured prompting is large and immediate.
-7. **Configure your Jarvis to interview and push back.** Iron sharpening iron. No sycophancy. The CLAUDE.md block above is the entry point.
+7. **Configure your Jarvis to interview and push back.** No sycophancy, no flattery, no agreement-by-default. The CLAUDE.md block above is the entry point.
 8. **Treat your first prompt as a first draft of the brief, not the final brief.** Let your Jarvis ask for what it needs.
 
 The compound effect of getting all five layers right is enormous. Practitioners who treat prompting as a craft, isolated from the OS underneath, plateau quickly. Practitioners who treat the whole stack as the craft compound for years.
