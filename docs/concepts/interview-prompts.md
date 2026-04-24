@@ -153,4 +153,4 @@ A prompt library where every prompt is copy-paste runnable. No placeholders, no 
 - [Intent Engineering](/docs/concepts/intent-engineering): The adjacent skill of making your intent explicit to agents
 - [Train Your Agent](/docs/concepts/train-your-agent): Interview prompts are a training mechanism, not just a querying mechanism
 - [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki): Contains worked examples of interview prompts for wiki workflows
-- [Hunt Before You Build](/docs/playbooks/practitioner/hunt-before-you-build): Includes a paste-able interview prompt that gets your Jarvis to extract a tool-hunt spec from your operational reality
+- [Solution Hunting](/docs/use-cases/use-ai-to-hunt-for-the-right-solution): Includes a paste-able interview prompt that gets your Jarvis to extract a solution-hunt spec from your operational reality

@@ -160,5 +160,5 @@ This is the work. This is where practitioners in the applied AI economy create r
 - [Context Engineering](./context-engineering): Curating the information state that agents operate within, the “what” the spec references
 - [Don't Scale Slop](../playbooks/business-owner/dont-scale-slop): Why clarity matters before you automate anything
 - [Building the App of Your Dreams](../playbooks/business-owner/building-your-app): A practical walkthrough that puts spec writing at the center of building with AI
-- [Hunt Before You Build](../playbooks/practitioner/hunt-before-you-build): A lighter-weight cousin of this discipline. Spec out what you need so you can find an existing tool instead of building one.
+- [Solution Hunting](../use-cases/use-ai-to-hunt-for-the-right-solution): A lighter-weight cousin of this discipline. Spec out what you need so you can find an existing solution instead of building one.
 - [The Judgment Line](./the-judgment-line): The design rule for splitting work between judgment and deterministic execution, a principle that should appear in every agentic system spec

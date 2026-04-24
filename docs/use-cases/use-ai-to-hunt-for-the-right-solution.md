@@ -1,21 +1,22 @@
 ---
-sidebar_position: 17
-title: "Hunt Before You Build"
+sidebar_position: 5
+title: "Use AI To Hunt For The Right Solution"
+description: "Almost every tool you need already exists. The use case is using your Jarvis to write a tight requirements spec from your operational reality, then hunting the catalog like a recruiter hunts a candidate, instead of low-coding a brittle custom workflow."
 ---
 
-# Hunt Before You Build
+# Use AI To Hunt For The Right Solution
 
-*Almost every tool you need already exists. Spec it, then go find it. Building should be the rare exception, not the reflex.*
+*Almost every tool you need already exists. The use case is having your Jarvis interview you into a sharp requirements spec, then helping you find the existing CLI, binary, web app, agent, or harness skill that already solves your problem. Building should be the rare exception, not the reflex.*
 
 ---
 
-## The Reflex to Build Is the Mistake
+## The Claim, Plainly
 
-The cheapest moment in software has produced the most expensive habit: when a practitioner hits a workflow gap, the first instinct is to open a low-code platform and start assembling. Sometimes it is a no-code app builder. Sometimes it is a custom Zapier rats-nest. Sometimes it is a half-baked CLI script. The pattern is the same: skip the search, jump to construction, ship something brittle, maintain it forever.
+When a workflow gap shows up, most professionals reach for a low-code platform and start assembling. Sometimes it is a no-code app builder. Sometimes it is a custom Zapier rats-nest. Sometimes it is a half-baked CLI script. The pattern is the same: skip the search, jump to construction, ship something brittle, maintain it forever.
 
-This was a defensible move three years ago, when the tool catalog was smaller and AI could not help you find the long tail. It is not defensible now. The catalog has exploded. Most use cases a practitioner runs into in 2026 are already covered by an existing CLI tool, downloadable binary, web app, agent, or harness skill. Often by several of them. The job is not to build the thing. The job is to find the right one.
+This was a defensible move three years ago, when the tool catalog was smaller and AI could not help you find the long tail. It is not defensible now. The catalog has exploded. Most workflow gaps a professional runs into in 2026 are already covered by an existing CLI tool, downloadable binary, web app, agent, or harness skill. Often by several of them. The job is not to build the thing. The job is to find the right one.
 
-The discipline is simple to state and surprisingly hard to practice: **assume the tool exists. Spec out exactly what you need. Then hunt for it like a recruiter hunts for a candidate.** Build only when the hunt has genuinely failed.
+Your Jarvis is the discriminator. Without it, the search is too noisy and the spec is too vague. With it, you can write a real requirements spec from your operational reality in 15 minutes, screen candidates against that spec at speed, and stop confusing motion with progress. **Assume the solution exists. Spec out exactly what you need. Then go hunting for it like a recruiter hunts a candidate.** Build only when solution hunting has genuinely failed.
 
 ---
 
@@ -33,13 +34,13 @@ There are real exceptions. We will cover them at the end. But the exception bar 
 
 ---
 
-## The Tool-Hunt Spec
+## The Solution-Hunt Spec
 
-If finding is the discipline, the artifact is **the tool-hunt spec**. Think of it the way a recruiter thinks of a job description. The job description is not the candidate. The job description is what makes finding the right candidate possible. Without it, you screen on vibes, get sold on the wrong fit, and waste weeks discovering the misalignment.
+If solution hunting is the discipline, the artifact is **the solution-hunt spec**. Think of it the way a recruiter thinks of a job description. The job description is not the candidate. The job description is what makes finding the right candidate possible. Without it, you screen on vibes, get sold on the wrong fit, and waste weeks discovering the misalignment.
 
-A tool-hunt spec sits between [The Spec Is the Product](/docs/concepts/spec-writing) and the actual search. It is shorter than a product spec. It does not describe the system you are going to build. It describes the system you are going to find.
+A solution-hunt spec sits between [The Spec Is the Product](/docs/concepts/spec-writing) and the actual search. It is shorter than a product spec. It does not describe the system you are going to build. It describes the system you are going to find.
 
-A good tool-hunt spec has six sections:
+A good solution-hunt spec has six sections:
 
 1. **The job.** One paragraph. What problem are you solving and for whom? Who uses this tool, in what moment, to do what?
 2. **Must-haves.** The non-negotiables. If a candidate tool fails any of these, it is out. Be ruthless. Long must-have lists shrink your candidate pool to zero.
@@ -48,7 +49,7 @@ A good tool-hunt spec has six sections:
 5. **Form factor preferences.** CLI, downloadable binary, web app, hosted SaaS, agent, harness skill, browser extension. Some practitioners have strong preferences here for sovereignty or speed reasons. Name them.
 6. **Anti-patterns.** Tools you have already tried and rejected, with one line each on why. Saves your team from suggesting the things you already eliminated.
 
-Two pages, max. If your tool-hunt spec is longer than two pages, you are probably trying to find something that does not exist as a single tool, and you should split it into two specs for two tools.
+Two pages, max. If your solution-hunt spec is longer than two pages, you are probably trying to find something that does not exist as a single tool, and you should split it into two specs for two tools.
 
 ---
 
@@ -71,14 +72,14 @@ The goal is to give a candidate tool the best possible chance of slotting into y
 
 ---
 
-## The Jarvis Interview for Your Tool-Hunt Spec
+## The Jarvis Interview for Your Solution-Hunt Spec
 
 Most practitioners do not have a clean spec in their head. They have a vague sense that something is missing, and a hunch about what would help. The fastest way to convert that hunch into a real spec is to have your Jarvis interview you.
 
 Below is a paste-able prompt. Drop it into your Jarvis with no edits. It follows the [Interview Prompts](/docs/concepts/interview-prompts) pattern: it infers what it can from your operational reality, then asks you only the questions it cannot answer on its own.
 
 ```
-I want to write a tool-hunt spec. I think I need a new tool to do
+I want to write a solution-hunt spec. I think I need a new tool to do
 something, but before I go searching (or worse, building), I want
 to spec out exactly what I am looking for so my team can sanity
 check it and so I have a real screen to evaluate candidates against.
@@ -127,7 +128,7 @@ The output is a draft spec your Jarvis produced from your operational reality pl
 
 ---
 
-## Get Team Feedback Before You Hunt
+## Get Team Feedback Before You Go Hunting
 
 The spec is not done when you and your Jarvis finish it. The spec is done when at least one other person on your team has read it and tried to break it.
 
@@ -144,7 +145,7 @@ Standard flow:
 2. Tag the people whose work touches this workflow. Tag the person who is most likely to inherit the maintenance.
 3. Ask for two specific things in the comment thread: *"Which must-haves are not actually screens?"* and *"What candidate tools should I look at first?"*
 4. Revise the spec from the comments. Keep the comment thread visible so the trail is preserved.
-5. Only then, start the hunt.
+5. Only then, start solution hunting.
 
 This step takes a day. It saves weeks. Practitioners who skip it routinely buy or build the wrong thing.
 
@@ -154,35 +155,35 @@ This step takes a day. It saves weeks. Practitioners who skip it routinely buy o
 
 The bar for building should be high. The bar is not zero. Build when at least one of these is genuinely true:
 
-- **The hunt has been thorough and turned up nothing.** "Thorough" means you have searched the obvious catalogs, asked your community, and posted the spec publicly to invite suggestions. Not a 20 minute Google session.
+- **Solution hunting has been thorough and turned up nothing.** "Thorough" means you have searched the obvious catalogs, asked your community, and posted the spec publicly to invite suggestions. Not a 20 minute Google session.
 - **All candidates fail a hard must-have, and the must-have cannot be relaxed.** Sovereignty constraints, regulatory constraints, hardware constraints. Not "it is missing my favorite color theme."
 - **The composition of existing tools is the build.** Sometimes the right answer is gluing two existing tools together with a thin script. That is closer to a configuration than a build, and it is fine. The anti-pattern is reimplementing what one of the tools already does.
 - **The build is small enough to be its own well-scoped tool.** If your build can itself be packaged as a CLI tool, a harness skill, a small web app that other practitioners could fork, you are not adding to the slop. You are adding to the catalog.
 
-If you are building, write a real spec, not a tool-hunt spec. See [The Spec Is the Product](/docs/concepts/spec-writing) and [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app). The same discipline applies, with more rigor, because now you own the thing forever.
+If you are building, write a real product spec, not a solution-hunt spec. See [The Spec Is the Product](/docs/concepts/spec-writing) and [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app). The same discipline applies, with more rigor, because now you own the thing forever.
 
 ---
 
 ## The Bottom Line
 
-1. **Default to finding, not building.** The reflex to build is the mistake. The catalog is enormous and growing.
-2. **Write a tool-hunt spec.** Six sections. Two pages max.
-3. **Spend real time on operational reality.** Workflows are bound by hardware and adjacent tools, not just preferences. A tool that ignores your reality will force expensive workflow changes.
+1. **Default to solution hunting, not building.** The reflex to build is the mistake. The catalog is enormous and growing.
+2. **Write a solution-hunt spec.** Six sections. Two pages max.
+3. **Spend real time on operational reality.** Workflows are bound by hardware and adjacent tools, not just preferences. A solution that ignores your reality will force expensive workflow changes.
 4. **Use your Jarvis to interview you into the spec.** Paste the prompt above. Talk for 15 minutes. Get a draft.
-5. **Run the spec by your team before hunting.** Google Doc, two specific questions, one day of feedback.
-6. **Hunt like a recruiter.** Treat candidate tools the way a hiring manager treats candidate engineers: screen on the must-haves, weigh on the nice-to-haves, check the operational fit, prefer maintained over clever.
-7. **Build only when the hunt genuinely fails.** And when you do, write a real spec and treat the build as a tool you might one day open-source.
+5. **Run the spec by your team before you start hunting.** Google Doc, two specific questions, one day of feedback.
+6. **Hunt like a recruiter.** Treat candidate solutions the way a hiring manager treats candidate engineers: screen on the must-haves, weigh on the nice-to-haves, check the operational fit, prefer maintained over clever.
+7. **Build only when solution hunting genuinely fails.** And when you do, write a real product spec and treat the build as a solution you might one day open-source for the next person.
 
-The world has plenty of capable execution. The scarce resource is practitioners who can describe what they need with enough precision that the right tool can be found, not invented.
+The world has plenty of capable execution. The scarce resource is practitioners who can describe what they need with enough precision that the right solution can be found, instead of invented.
 
 ---
 
 ## Further Reading
 
-- [The Spec Is the Product](/docs/concepts/spec-writing): The deeper case for why specs are the highest-leverage artifact in the AI era. The tool-hunt spec is a lighter-weight cousin.
-- [Operational Reality](/docs/concepts/operational-reality): The substrate your new tool needs to fit into. The most-skipped section of any tool-hunt spec.
+- [The Spec Is the Product](/docs/concepts/spec-writing): The deeper case for why specs are the highest-leverage artifact in the AI era. The solution-hunt spec is a lighter-weight cousin.
+- [Operational Reality](/docs/concepts/operational-reality): The substrate your new solution needs to fit into. The most-skipped section of any solution-hunt spec.
 - [Interview Prompts](/docs/concepts/interview-prompts): The pattern behind the Jarvis interview prompt above. Useful any time you want your agent to extract requirements from you.
-- [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app): Where to go if the hunt has genuinely failed and you do need to build.
-- [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The identity trap that pulls practitioners toward building instead of finding.
+- [Building the App of Your Dreams](/docs/playbooks/business-owner/building-your-app): Where to go if solution hunting has genuinely failed and you do need to build.
+- [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The identity trap that pulls practitioners toward building instead of solution hunting.
 - [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop): The principle applied to client work. The same logic applies to your own personal stack.
 - [Slopacalypse](/docs/concepts/slopacalypse): The macro version of what happens when everyone defaults to building.

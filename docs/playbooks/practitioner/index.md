@@ -39,7 +39,6 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [Workshop Instructor Playbook](/docs/playbooks/practitioner/workshop-instructor-playbook) | Instructor guide for running Personal Agentic OS workshops: who the room is for, who it is not for, format, pacing, and lessons learned |
 | [Using the Docs with Your Jarvis](/docs/playbooks/practitioner/using-the-docs-with-your-jarvis) | How to give your Personal Agentic OS access to the full AAS knowledge base |
 | [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki) | Build a personal or organizational wiki: platform choice, the capture loop, cross-linking, and graduating ideas from personal to organizational truth |
-| [Hunt Before You Build](/docs/playbooks/practitioner/hunt-before-you-build) | The discipline of finding existing tools instead of building custom ones: the tool-hunt spec, the Jarvis interview, and when building is actually right |
 
 ## Coming Soon
 

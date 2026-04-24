@@ -69,4 +69,4 @@ Documented operational reality is also what lets you [see your own thinking](/do
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why it has to be in files, not in your head
 - [Capture, Process, Compound](/docs/concepts/capture-process-compound): The daily loop that keeps it alive
 - [Legacy](/docs/concepts/legacy): The deeper practice of operational truth
-- [Hunt Before You Build](/docs/playbooks/practitioner/hunt-before-you-build): Why operational reality is the most-skipped section of any tool-hunt spec, and what that costs you
+- [Solution Hunting](/docs/use-cases/use-ai-to-hunt-for-the-right-solution): Why operational reality is the most-skipped section of any solution-hunt spec, and what that costs you
