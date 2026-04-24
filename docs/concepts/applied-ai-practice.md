@@ -61,6 +61,7 @@ The point is daily presence.
 
 ## Further Reading
 
+- [Applied AI](/docs/concepts/applied-ai): The upstream concept. What applied AI is, across any goal (commercial, creative, civic, personal). This concept page is the daily-discipline form of that.
 - [Applied AI Practice section](/docs/applied-ai-practice): The full AAS treatment of the practice, who it is for, and why it matters now.
 - [The Applied AI Literacy Earthshot](/docs/applied-ai-practice/earthshot): The AAS commitment to bring every human across the literacy bar. The rung AAS can earthshot for humanity; practice and mastery live with the individual on the other side.
 - [Sustainable Commercial Success](/docs/concepts/sustainable-commercial-success): Why we hold the bar on what the practice requires.

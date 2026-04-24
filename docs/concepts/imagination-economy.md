@@ -73,6 +73,7 @@ When a Jarvis-activated operator starts producing 2026-native work, they become 
 
 ## Further Reading
 
+- [Applied AI](/docs/concepts/applied-ai): The upstream discipline. The imagination economy is the economy a generation of applied-AI operators is building toward.
 - 
 - [Imago Dei Capitalism vs Predatory Capitalism](/docs/concepts/imago-dei-vs-predatory-capitalism): The ethical frame that separates the imagination economy from its extractive twin.
 - [Applied AI Practice](/docs/applied-ai-practice): The daily discipline that makes imagination-economy participation real.

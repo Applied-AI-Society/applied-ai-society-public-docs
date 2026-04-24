@@ -87,6 +87,7 @@ Running the predatory game at scale with modern AI tooling produces outcomes we 
 
 ## Further Reading
 
+- [Applied AI](/docs/concepts/applied-ai): The upstream discipline. Imago Dei capitalism is the kind of commerce applied AI should be aimed at; predatory capitalism is the kind it should starve.
 - [Dealmaking](/docs/use-cases/dealmaking): The operational expression of Imago Dei capitalism. Win-win-win deals as the default.
 - [Getting Your Time Back](/docs/use-cases/getting-your-time-back): The practical on-ramp to the tooling parity that makes this choice real.
 - [Sustainable Commercial Success](/docs/concepts/sustainable-commercial-success): Why AAS holds the curriculum bar high rather than selling quick activation.
