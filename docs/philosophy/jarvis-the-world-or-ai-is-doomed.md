@@ -30,25 +30,27 @@ Every person who builds an ark of any size is a person the doom pipeline will st
 
 ---
 
-## The Flaming Red Elephant
+## The Red Fiery Elephant in the Room
 
-![A flaming red elephant in the middle of a room, ignored by a crowd of light-orange silhouettes, while one solid blue silhouette in the foreground faces it directly.](/img/flaming-red-elephant.png)
+![A red, fiery elephant in the middle of a room, ignored by a crowd of light-orange silhouettes, while one solid blue silhouette in the foreground faces it directly.](/img/flaming-red-elephant.png)
 
-Before the pipeline, there is a flaming red elephant in the middle of the AI conversation that almost nobody wants to name.
+Before the pipeline, there is what AAS names [the Red Fiery Elephant in the Room](/docs/concepts/red-fiery-elephant). Three parts, each one obvious once stated, each one actively ignored by AI industry leadership and AI doom leadership both.
 
-Polite AI discourse treats the industry as a meritocratic collaboration of curious researchers. The reality is that the top of the industry is steered in meaningful part by a small class of transhumanist billionaires whose public statements have equivocated on whether ordinary human flourishing is even the point of AI. Many of them are personally entangled in the Epstein scandal, which ordinarily disqualifies anyone from stewarding anything. Some openly hold a "religion of intelligence" worldview in which AGI is treated as a successor species rather than a tool built for human service. None of this is hidden or obscure. It is on the record, in their own books, interviews, and open letters.
+**Red.** Red is the color of the communist-revolutionary spirit rising in a generation that feels abandoned by every existing institution, and the rise is understandable. When the people at the top of the wealth distribution tell you in public that you will be economically "useless," and the people who own the biggest new technology in the world market it as the thing that will "ruin your life," the red rising in response is a predictable historical pattern in every similar moment. Dismissing it as conspiracy or fringe is what the people who caused it would like everyone else to do. It is also what guarantees the spiral accelerates.
+
+**Fiery.** Fiery is the literal fire. Molotov cocktails thrown twice in two weeks at Sam Altman's house. Thirteen rounds fired into an Indianapolis city councilman's home over a data center vote, with an eight-year-old asleep inside. Comment sections cheering it on. The next target. That trajectory is what 2026 is showing. It does not stop on its own. It stops when the underlying exclusion stops.
+
+A recent guest on [Patrick O'Shaughnessy's podcast](https://x.com/patrick_oshag/status/2047390954382893514) put the near-term prediction directly:
+
+> "I think there will be a large-scale protest against Anthropic. End up at AI. People hate AI. AI is less popular than ICE, less popular than politicians... You look at the comments of news articles where Sam Altman had a Molotov cocktail thrown in his house twice in like two weeks. They're like, people are cheering it on. And this is just the beginning. So I think we'll see large-scale protests against AI in three months."
+
+His prescription to AI leadership in that same clip was a messaging rebrand and a shift toward uplifting, concrete uses of AI in ordinary people's lives. Worth noting for anyone about to treat that as a full playbook: a cosmetic rebrand without a real floor-raising agenda underneath it will accelerate the backlash. The only rebrand that holds is one where the inclusion work is actually being done.
+
+**Elephant.** Elephant is the fact that the cause is obvious and the industry will not say it out loud. Polite AI discourse treats the field as a meritocratic collaboration of curious researchers. The reality is that the top of the industry is steered in meaningful part by a small class of transhumanist billionaires whose public statements have equivocated on whether ordinary human flourishing is even the point of AI. Many are personally entangled in the Epstein scandal, which ordinarily disqualifies anyone from stewarding anything. Some openly hold a "religion of intelligence" worldview in which AGI is treated as a successor species rather than a tool built for human service. None of this is hidden or obscure. It is on the record in their own books, interviews, and open letters.
 
 The AI doom movement on the other side of the conversation is funded by money that overlaps with these same networks. The two loudest sides of the AI debate trace back to a remarkably small set of people whose incentives diverge sharply from the public's. One side tells ordinary people they will be economically useless. The other side tells them the whole project is extinction-level evil. Both sides are currently speaking past the actual 20-year-old trying to afford rent.
 
-That is the elephant. We cannot have an honest conversation about applied AI's promise for humanity while pretending the top of the industry is stewarded by people who unambiguously want that outcome. The AAS position is that naming this is the first honest move available. Closing the exclusion is how it gets fixed.
-
-The elephant is **flaming** **red** for three reasons.
-
-First, it is on fire, and nobody wants to look at it.
-
-Second, red is the color of the communist-revolutionary spirit rising in a generation that feels abandoned by every existing institution, and the rise is understandable. When the people at the top of the wealth distribution tell you in public that you will be economically "useless," and the people who own the biggest new technology market it as the thing that will "ruin your life," the red rising in response is a predictable historical pattern in every similar moment. Dismissing it as conspiracy or fringe is what the people who caused it would like to do. It is also what guarantees the spiral accelerates.
-
-Third, red is the literal color of the firebombs already being thrown at the physical symbols of that system. Altman's house. Data centers in small towns. The next target. When a population decides that the institutions in front of them are actively sabotaging their agency and their future, some fraction of that population will set those institutions on fire. That trajectory is what 2026 is showing. It does not stop on its own. It stops when the underlying exclusion stops.
+That is the elephant. We cannot have an honest conversation about applied AI's promise for humanity while pretending the top of the industry is stewarded by people who unambiguously want that outcome. Naming the elephant is the first honest move available. Closing the exclusion is how the elephant stops being on fire.
 
 The faithful response is to address what caused the flames. Dismissing the people carrying them is how the country ends up with many more flames, and eventually with a grid that actually goes out.
 
