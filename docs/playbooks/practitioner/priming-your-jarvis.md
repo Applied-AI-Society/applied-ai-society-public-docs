@@ -162,3 +162,4 @@ Three seconds of discipline at the front of every prompt. Orders of magnitude of
 - [Agentic Strategy](/docs/concepts/agentic-strategy): Strategy as the new execution, practiced in every session.
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): The file architecture that makes priming possible for anything relationship-related.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial that sets up the workspace priming depends on.
+- [How To Prompt Your Jarvis](/docs/playbooks/practitioner/how-to-prompt-your-jarvis): The umbrella doc. Priming is one of the five layers. Start there if you want the whole stack, not just the per-session routine.
