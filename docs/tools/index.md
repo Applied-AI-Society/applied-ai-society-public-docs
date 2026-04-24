@@ -31,4 +31,8 @@ Every code block on this site has a **copy button** (top-right of the block). Wh
 
 - [Capturing Conversations](/docs/tools/capturing-conversations): Get every meeting, voice memo, and phone call into files your Jarvis can read. Granola + alternatives for meetings, built-in voice recorders for solo capture, native iPhone / Pixel call recording for phone conversations.
 
+## Tool Setups
+
+The reference pages above describe what each tool is. The [Tool Setups](/docs/tools/tool-setups) sub-section walks you through installing and configuring the tools that need step-by-step setup for a Personal Agentic OS: harnesses (Claude Code, Codex, Hermes), git, and the workspace bootstrap.
+
 More tools will be added as workshops reference them.

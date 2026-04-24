@@ -24,7 +24,7 @@ You are not being asked to become a developer. You are being asked to take **one
 
 Two terms to keep straight.
 
-**An agentic harness** is the actual engine that reads your files, runs skills, calls models, and executes tool calls. [Claude Code](/docs/playbooks/practitioner/claude-code-setup) is a harness. [Hermes](/docs/playbooks/practitioner/hermes-setup) is a harness. [Codex](/docs/playbooks/practitioner/codex-setup) is a harness. Cursor's agent is a harness. These run in the terminal (or an IDE) and give you direct access to the full agentic loop: context, files, skills, commands, tools.
+**An agentic harness** is the actual engine that reads your files, runs skills, calls models, and executes tool calls. [Claude Code](/docs/tools/tool-setups/claude-code-setup) is a harness. [Hermes](/docs/tools/tool-setups/hermes-setup) is a harness. [Codex](/docs/tools/tool-setups/codex-setup) is a harness. Cursor's agent is a harness. These run in the terminal (or an IDE) and give you direct access to the full agentic loop: context, files, skills, commands, tools.
 
 **A wrapper** is a friendlier UI built on top of a specific harness, usually by the vendor that makes the harness. Claude Cowork is a wrapper: it is [Anthropic's Desktop-app layer over Claude Code](https://claude.com/product/cowork), billed as “Claude Code without the code.” You point it at a folder, it reads and writes files in that folder, and you interact through a chat window. It is the same underlying harness, with the primitives hidden behind an opinionated interface.
 
@@ -161,6 +161,6 @@ The friction is real. The upside is uncapped.
 - [Operational Reality](/docs/concepts/operational-reality): What your files should contain
 - [Ramp: Glass](/docs/case-studies/ramp-glass): A custom Jarvis viewer at scale
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where we walk you through setting this up
-- [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup): The default harness we teach
-- [Hermes Setup](/docs/playbooks/practitioner/hermes-setup): A second harness to prove your skills transfer
+- [Claude Code Setup](/docs/tools/tool-setups/claude-code-setup): The default harness we teach
+- [Hermes Setup](/docs/tools/tool-setups/hermes-setup): A second harness to prove your skills transfer
 - [The Case for Simple Harnesses](/docs/concepts/the-case-for-simple-harnesses): Why minimal harnesses keep winning and kitchen-sink defaults are the failure mode

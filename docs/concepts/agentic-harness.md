@@ -17,7 +17,7 @@ The equation is simple: **Agent = Model + Harness.**
 
 The model provides intelligence. The harness provides hands, eyes, memory, and safety boundaries. The same model inside two different harnesses will produce wildly different results. Research from Stanford, MIT, and Krafton ([MetaHarness paper, March 2026](https://arxiv.org/abs/2603.28052)) demonstrated that changing the harness around the same model can produce a **6x performance gap** on the same benchmark. Same engine, wildly different outcomes.
 
-This is the most important concept in applied AI right now, and the one most people miss. Two people can use the exact same AI model. One is chatting through a browser window (minimal harness). The other is running [Claude Code](/docs/playbooks/practitioner/claude-code-setup) with a workspace full of context files, skill files, and tool access (rich harness). The model is identical. The harness is the reason the outcomes are completely different.
+This is the most important concept in applied AI right now, and the one most people miss. Two people can use the exact same AI model. One is chatting through a browser window (minimal harness). The other is running [Claude Code](/docs/tools/tool-setups/claude-code-setup) with a workspace full of context files, skill files, and tool access (rich harness). The model is identical. The harness is the reason the outcomes are completely different.
 
 ---
 

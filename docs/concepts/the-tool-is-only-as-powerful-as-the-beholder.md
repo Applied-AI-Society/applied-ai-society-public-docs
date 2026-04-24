@@ -55,7 +55,7 @@ The practical upshot for most operators: you do not need to chase every new tool
 
 For a new practitioner, the startup pack is roughly:
 
-- One harness ([Hermes](/docs/playbooks/practitioner/hermes-setup), [Claude Code](/docs/playbooks/practitioner/claude-code-setup), or [Codex](/docs/playbooks/practitioner/codex-setup))
+- One harness ([Hermes](/docs/tools/tool-setups/hermes-setup), [Claude Code](/docs/tools/tool-setups/claude-code-setup), or [Codex](/docs/tools/tool-setups/codex-setup))
 - One Personal Agentic OS template (the [Supersuit Up workshop](/docs/workshops/supersuit-up) installs this in an afternoon)
 - One context-capture pipeline (voice-to-text, external tools wired in)
 - One publishing surface (a wiki, a Substack, or a public GitHub repo)

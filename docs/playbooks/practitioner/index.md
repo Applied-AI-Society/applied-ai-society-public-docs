@@ -30,11 +30,7 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [Finding Clients Through Trust](/docs/playbooks/practitioner/finding-clients) | Why cold outreach fails and how to build a practice through your warm network |
 | [The Pilot Pitch](/docs/playbooks/practitioner/pilot-pitch) | How to propose a 2-4 week pilot that's almost impossible to say no to |
 | [Supersuit Up Workshop](/docs/workshops/supersuit-up) | Setting up your personal AI business OS for legacy and compounding context |
-| [Hermes Setup](/docs/playbooks/practitioner/hermes-setup) | Installing Hermes Agent (free, open source harness) |
-| [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup) | Installing Claude Code (Anthropic's commercial harness) |
-| [Codex Setup](/docs/playbooks/practitioner/codex-setup) | Installing OpenAI Codex (open source, works with ChatGPT subscription) |
-| [First Git Setup](/docs/playbooks/practitioner/first-git-setup) | Version control basics for your workspace |
-| [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup) | The canonical one-prompt flow: create your private Jarvis from the MVJ template via `gh`, wire upstream, let `onboard` take over |
+| [Tool Setups](/docs/tools/tool-setups) | Setup tutorials for the harnesses (Claude Code, Codex, Hermes), git, and the workspace bootstrap. Pick a harness, follow the setup, then come back here. |
 | [Export Your AI History](/docs/playbooks/practitioner/export-your-ai-history) | Vendor-confirmed export steps (ChatGPT, Claude, Gemini) + filtered synthesis prompt to bootstrap your `user/USER.md` from years of old conversations |
 | [Workshop Instructor Playbook](/docs/playbooks/practitioner/workshop-instructor-playbook) | Instructor guide for running Personal Agentic OS workshops: who the room is for, who it is not for, format, pacing, and lessons learned |
 | [Using the Docs with Your Jarvis](/docs/playbooks/practitioner/using-the-docs-with-your-jarvis) | How to give your Personal Agentic OS access to the full AAS knowledge base |

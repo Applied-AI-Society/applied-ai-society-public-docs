@@ -15,9 +15,9 @@ import TabItem from '@theme/TabItem';
 
 ## Why Claude Code
 
-Claude Code is Anthropic's agentic coding tool. It reads your workspace, runs commands, writes files, and supports persistent [instruction files](/docs/concepts/instruction-files) (CLAUDE.md) that shape how it operates across sessions. It is available as a CLI, a desktop app (Mac and Windows), and a web app. It is one of several harnesses that work well for building a Personal Agentic OS. Others include [OpenAI Codex](/docs/playbooks/practitioner/codex-setup), [Hermes](/docs/playbooks/practitioner/hermes-setup), OpenCode, and Cursor.
+Claude Code is Anthropic's agentic coding tool. It reads your workspace, runs commands, writes files, and supports persistent [instruction files](/docs/concepts/instruction-files) (CLAUDE.md) that shape how it operates across sessions. It is available as a CLI, a desktop app (Mac and Windows), and a web app. It is one of several harnesses that work well for building a Personal Agentic OS. Others include [OpenAI Codex](/docs/tools/tool-setups/codex-setup), [Hermes](/docs/tools/tool-setups/hermes-setup), OpenCode, and Cursor.
 
-The tradeoff: Claude Code requires a paid Anthropic subscription (Claude Max at $100/mo or $200/mo, or API usage). If cost is a constraint, see [Hermes Setup](/docs/playbooks/practitioner/hermes-setup) for a zero-cost open source alternative, or [Codex Setup](/docs/playbooks/practitioner/codex-setup) if you already have a ChatGPT subscription. All harnesses work with the same Personal Agentic OS folder structure. Your files are portable.
+The tradeoff: Claude Code requires a paid Anthropic subscription (Claude Max at $100/mo or $200/mo, or API usage). If cost is a constraint, see [Hermes Setup](/docs/tools/tool-setups/hermes-setup) for a zero-cost open source alternative, or [Codex Setup](/docs/tools/tool-setups/codex-setup) if you already have a ChatGPT subscription. All harnesses work with the same Personal Agentic OS folder structure. Your files are portable.
 
 ---
 
@@ -198,7 +198,7 @@ WSL is also supported (both WSL 1 and WSL 2). If you use WSL, install Claude Cod
 
 Installing Claude Code gives you the harness. Next, create your private Jarvis workspace.
 
-**Go to the canonical [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup) doc.** Follow the single-prompt flow there. It is shared across all harnesses and stays in sync with the [Minimum Viable Jarvis template](https://github.com/Applied-AI-Society/minimum-viable-jarvis) so these instructions never drift.
+**Go to the canonical [Set Up Your Workspace](/docs/tools/tool-setups/workspace-setup) doc.** Follow the single-prompt flow there. It is shared across all harnesses and stays in sync with the [Minimum Viable Jarvis template](https://github.com/Applied-AI-Society/minimum-viable-jarvis) so these instructions never drift.
 
 The short version: launch `claude`, paste one prompt, and it uses `gh` to create a private repo from the template on your GitHub account, clones it, and wires the upstream remote with a disabled push URL. Then you launch Claude Code from inside the new workspace and the repo's built-in `onboard` skill handles personalization (profile, AI history import, strategic interview).
 
@@ -313,7 +313,7 @@ Output accumulates in `.jarvis-sync.log`. Remove the cron later with `crontab -l
 ## Further Reading
 
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The full self-paced tutorial covering the entire system
-- [Hermes Setup](/docs/playbooks/practitioner/hermes-setup): Zero-cost alternative harness using open source models
+- [Hermes Setup](/docs/tools/tool-setups/hermes-setup): Zero-cost alternative harness using open source models
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The concept behind what you just built
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the code around the model matters as much as the model
 - [Instruction Files](/docs/concepts/instruction-files): How CLAUDE.md and skill files shape agent behavior

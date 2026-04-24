@@ -8,7 +8,7 @@ title: "Export Your AI History (and Bootstrap Your Jarvis From It)"
 
 ---
 
-This is the canonical reference for exporting your chat history from major LLM vendors and turning it into context your Jarvis can use. It is referenced from the [Supersuit Up Workshop](/docs/workshops/supersuit-up) and from the workspace [onboard flow](/docs/playbooks/practitioner/workspace-setup).
+This is the canonical reference for exporting your chat history from major LLM vendors and turning it into context your Jarvis can use. It is referenced from the [Supersuit Up Workshop](/docs/workshops/supersuit-up) and from the workspace [onboard flow](/docs/tools/tool-setups/workspace-setup).
 
 ## Why Export?
 
@@ -156,7 +156,7 @@ You have a `USER.md`. Your Jarvis now knows the shape of you. Every future conve
 
 ## Further Reading
 
-- [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup): The one-prompt flow for creating your private Jarvis workspace
+- [Set Up Your Workspace](/docs/tools/tool-setups/workspace-setup): The one-prompt flow for creating your private Jarvis workspace
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where this export step fits in the full workshop
 - [Operational Reality](/docs/concepts/operational-reality): Why the file-level truth you give your Jarvis matters so much
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating what your AI knows

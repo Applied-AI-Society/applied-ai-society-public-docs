@@ -142,7 +142,7 @@ Be honest, not flattering. Cite specific files and patterns. This is a mirror, n
 
 </details>
 
-To run it, save the skill file to your workspace's `.agents/skills/bible-character-assessment/SKILL.md` (the canonical [skills location](/docs/playbooks/practitioner/workspace-setup) that Codex auto-discovers and Claude Code sees via the `.claude/skills` symlink). Then tell your AI agent:
+To run it, save the skill file to your workspace's `.agents/skills/bible-character-assessment/SKILL.md` (the canonical [skills location](/docs/tools/tool-setups/workspace-setup) that Codex auto-discovers and Claude Code sees via the `.claude/skills` symlink). Then tell your AI agent:
 
 ```text
 /bible-character-assessment

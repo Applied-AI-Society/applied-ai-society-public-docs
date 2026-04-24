@@ -14,7 +14,7 @@ description: "A practical guide to installing and configuring OpenAI Codex CLI a
 
 Codex is OpenAI's answer to the terminal agent category. It is lightweight, open source ([GitHub](https://github.com/openai/codex)), and works with your existing ChatGPT subscription or OpenAI API key. If you are already paying for ChatGPT Plus or Pro, Codex is included at no extra cost.
 
-It is one of several harnesses that work for building a Personal Agentic OS. Others include [Claude Code](/docs/playbooks/practitioner/claude-code-setup), [Hermes](/docs/playbooks/practitioner/hermes-setup), OpenCode, and Cursor. All of them read the same folder structure and skill files. Your files are portable across any harness.
+It is one of several harnesses that work for building a Personal Agentic OS. Others include [Claude Code](/docs/tools/tool-setups/claude-code-setup), [Hermes](/docs/tools/tool-setups/hermes-setup), OpenCode, and Cursor. All of them read the same folder structure and skill files. Your files are portable across any harness.
 
 ---
 
@@ -77,7 +77,7 @@ You will be prompted to sign in with your ChatGPT account or enter an OpenAI API
 
 Installing Codex gives you the harness. Next, create your private Jarvis workspace.
 
-**Go to the canonical [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup) doc.** Follow the single-prompt flow there. Launch `codex`, paste one prompt, and your harness uses `gh` to create a private repo from the template on your GitHub account, clone it, and wire the upstream remote with a disabled push URL. Then launch Codex from inside the new workspace and the repo's built-in `onboard` skill handles personalization.
+**Go to the canonical [Set Up Your Workspace](/docs/tools/tool-setups/workspace-setup) doc.** Follow the single-prompt flow there. Launch `codex`, paste one prompt, and your harness uses `gh` to create a private repo from the template on your GitHub account, clone it, and wire the upstream remote with a disabled push URL. Then launch Codex from inside the new workspace and the repo's built-in `onboard` skill handles personalization.
 
 Codex reads `AGENTS.md`, which the template ships with and configures correctly.
 
@@ -176,7 +176,7 @@ All three read the same workspace folder structure. Pick the one that fits your 
 - [OpenAI Codex Documentation](https://developers.openai.com/codex/quickstart): Official quickstart
 - [GitHub Repository](https://github.com/openai/codex): Source code and issues
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The full self-paced tutorial
-- [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup): Alternative harness from Anthropic
-- [Hermes Setup](/docs/playbooks/practitioner/hermes-setup): Zero-cost open source alternative
+- [Claude Code Setup](/docs/tools/tool-setups/claude-code-setup): Alternative harness from Anthropic
+- [Hermes Setup](/docs/tools/tool-setups/hermes-setup): Zero-cost open source alternative
 - [Harness Engineering](/docs/concepts/harness-engineering): Why the wrapper matters as much as the model
 - [Hyperagency](/docs/concepts/hyperagency): What becomes possible when your system compounds

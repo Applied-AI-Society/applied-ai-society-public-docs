@@ -153,7 +153,7 @@ curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scri
 
 Installing Hermes gives you the harness. Next, create your private Jarvis workspace (the folder of markdown files your Jarvis reads and writes).
 
-**Go to the canonical [Set Up Your Workspace](/docs/playbooks/practitioner/workspace-setup) doc.** Follow the single-prompt flow there. Launch `hermes`, paste one prompt, and your harness uses `gh` to create a private repo from the template on your GitHub account, clone it, and wire the upstream remote with a disabled push URL. Then launch Hermes from inside the new workspace and the repo's built-in `onboard` skill handles personalization.
+**Go to the canonical [Set Up Your Workspace](/docs/tools/tool-setups/workspace-setup) doc.** Follow the single-prompt flow there. Launch `hermes`, paste one prompt, and your harness uses `gh` to create a private repo from the template on your GitHub account, clone it, and wire the upstream remote with a disabled push URL. Then launch Hermes from inside the new workspace and the repo's built-in `onboard` skill handles personalization.
 
 Hermes reads `AGENTS.md`, which the template ships with and configures correctly. Your workspace will work immediately with natural-language triggers (e.g., *“onboard me”*, *“sync with upstream”*) routed via AGENTS.md.
 
@@ -174,5 +174,5 @@ Use the absolute path to *your* workspace (where you cloned the MVJ template). H
 - [Hermes Agent Documentation](https://hermes-agent.nousresearch.com)
 - [GitHub Repository](https://github.com/NousResearch/hermes-agent)
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The full workshop guide
-- [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup): Alternative harness using Anthropic's commercial agent
-- [Codex Setup](/docs/playbooks/practitioner/codex-setup): Alternative harness using OpenAI's open source agent
+- [Claude Code Setup](/docs/tools/tool-setups/claude-code-setup): Alternative harness using Anthropic's commercial agent
+- [Codex Setup](/docs/tools/tool-setups/codex-setup): Alternative harness using OpenAI's open source agent

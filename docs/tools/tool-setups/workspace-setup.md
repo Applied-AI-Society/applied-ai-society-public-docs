@@ -8,7 +8,7 @@ title: "Set Up Your Workspace"
 
 ---
 
-This is the canonical setup flow, referenced by [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup), [Hermes Setup](/docs/playbooks/practitioner/hermes-setup), [Codex Setup](/docs/playbooks/practitioner/codex-setup), and the [Supersuit Up Workshop](/docs/workshops/supersuit-up). It assumes your harness is installed and you have the GitHub CLI (`gh`) authenticated.
+This is the canonical setup flow, referenced by [Claude Code Setup](/docs/tools/tool-setups/claude-code-setup), [Hermes Setup](/docs/tools/tool-setups/hermes-setup), [Codex Setup](/docs/tools/tool-setups/codex-setup), and the [Supersuit Up Workshop](/docs/workshops/supersuit-up). It assumes your harness is installed and you have the GitHub CLI (`gh`) authenticated.
 
 ## Why a Template, Not a Clone
 
@@ -23,7 +23,7 @@ Why it matters:
 
 ## Prerequisites
 
-- A working harness: [Claude Code](/docs/playbooks/practitioner/claude-code-setup), [Hermes](/docs/playbooks/practitioner/hermes-setup), or [Codex](/docs/playbooks/practitioner/codex-setup)
+- A working harness: [Claude Code](/docs/tools/tool-setups/claude-code-setup), [Hermes](/docs/tools/tool-setups/hermes-setup), or [Codex](/docs/tools/tool-setups/codex-setup)
 - [GitHub CLI](https://cli.github.com/) installed (`brew install gh` on Mac, `winget install GitHub.cli` on Windows)
 - GitHub CLI authenticated: `gh auth status` should show a logged-in user. If not: `gh auth login` and follow the prompts.
 
@@ -100,7 +100,7 @@ You cannot accidentally push to the template. The push URL is `DISABLED` and you
   powershell -ExecutionPolicy Bypass -File scripts/setup-claude-skills-windows.ps1
   ```
   This creates a directory junction from `.claude/skills` to `.agents/skills/` so Claude Code discovers the skills. It does not require admin rights.
-- **Hermes does not auto-register slash commands from your workspace**: that is expected. By default Hermes only auto-registers skills from `~/.hermes/skills/`. See the [Hermes Setup doc](/docs/playbooks/practitioner/hermes-setup) for adding your workspace's `.agents/skills/` to Hermes's `external_dirs` config if you want slash-command discovery. Natural-language triggers (via `AGENTS.md` routing) work regardless.
+- **Hermes does not auto-register slash commands from your workspace**: that is expected. By default Hermes only auto-registers skills from `~/.hermes/skills/`. See the [Hermes Setup doc](/docs/tools/tool-setups/hermes-setup) for adding your workspace's `.agents/skills/` to Hermes's `external_dirs` config if you want slash-command discovery. Natural-language triggers (via `AGENTS.md` routing) work regardless.
 
 ## What You Now Have
 
@@ -117,8 +117,8 @@ You are ready to build.
 ## Further Reading
 
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The full guided workshop this setup flow lives inside
-- [Claude Code Setup](/docs/playbooks/practitioner/claude-code-setup): Install Claude Code as your harness
-- [Hermes Setup](/docs/playbooks/practitioner/hermes-setup): Install Hermes as your harness
-- [Codex Setup](/docs/playbooks/practitioner/codex-setup): Install Codex as your harness
+- [Claude Code Setup](/docs/tools/tool-setups/claude-code-setup): Install Claude Code as your harness
+- [Hermes Setup](/docs/tools/tool-setups/hermes-setup): Install Hermes as your harness
+- [Codex Setup](/docs/tools/tool-setups/codex-setup): Install Codex as your harness
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): What you are building
 - [Learn the Harness, Not the Wrapper](/docs/concepts/learn-the-harness-not-the-wrapper): Why this pattern matters

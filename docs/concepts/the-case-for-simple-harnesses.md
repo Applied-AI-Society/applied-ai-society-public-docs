@@ -94,7 +94,7 @@ Simple is not "stripped." Simple is "small core + sharp edges + clear extension 
 - **YOLO by default, with enough rope.** Every user's security posture is different. A pop-up that asks "do you approve running bash?" every ten seconds is not a security model. It is friction theater. Give the user enough hooks to wire the exact guardrails their situation requires.
 - **Legible internals.** You should be able to see the system prompt. The full tool definitions. Every event the harness emits. Every byte in the context. Opacity is the anti-pattern.
 
-This is the pattern Terminus 2 expresses in the benchmark setting. It is the pattern [Pi](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/) expresses in a general-purpose setting. And it is the same pattern that makes a plain terminal plus [Claude Code](/docs/playbooks/practitioner/claude-code-setup), [Hermes](/docs/playbooks/practitioner/hermes-setup), or [Codex](/docs/playbooks/practitioner/codex-setup) more powerful in expert hands than a kitchen-sink IDE wrapper in novice hands.
+This is the pattern Terminus 2 expresses in the benchmark setting. It is the pattern [Pi](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/) expresses in a general-purpose setting. And it is the same pattern that makes a plain terminal plus [Claude Code](/docs/tools/tool-setups/claude-code-setup), [Hermes](/docs/tools/tool-setups/hermes-setup), or [Codex](/docs/tools/tool-setups/codex-setup) more powerful in expert hands than a kitchen-sink IDE wrapper in novice hands.
 
 ---
 
