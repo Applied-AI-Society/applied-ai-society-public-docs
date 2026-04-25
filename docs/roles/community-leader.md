@@ -98,8 +98,17 @@ This support is optional. The playbooks work without it. But if you want to be p
 
 ---
 
+## Applied Politics Is Half The Job
+
+The visible work is events, content, and the network. The other half is **[applied politics](/docs/concepts/applied-politics)** at community scale. Who are the existing players in the local AI scene? Which ones are you allying with and which ones are you complementing? How do you build the chapter without alienating the meetup organizer who has been running things for three years? Which local business owners need to hear about you from a peer, and which need to hear about you from you?
+
+Community Leaders who treat this as a real skill (not as something they hope happens by accident) are the ones whose chapters become connective tissue for a city's applied AI economy. The ones who skip it run aground inside six months because nobody warned the founder which fights to skip.
+
+---
+
 ## Further Reading
 
+- [Applied Politics](/docs/concepts/applied-politics): The relational and institutional skill that decides whether community-building actually compounds.
 - [Chapter Leader Playbooks](/docs/playbooks/chapter-leader): The full operational guide (24 pages covering events, partnerships, content, CRM, and more)
 - [The Encounter](/docs/concepts/the-encounter): Why in-person experiences matter
 - [Agentic OS Trainer](/docs/roles/agentic-os-trainer): The role that pairs naturally with Community Leader (run Personal Agentic OS workshops at your events)

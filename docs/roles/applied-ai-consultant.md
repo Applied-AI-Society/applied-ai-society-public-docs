@@ -28,6 +28,14 @@ The defining skill isn't technical ability alone. It's the combination of buildi
 
 ---
 
+## Applied Politics: The Other Half Of The Job
+
+The technical work above is the visible half. The other half, less written about, is **[applied politics](/docs/concepts/applied-politics)**: navigating the social and political reality of the client organization so the deployment actually lands. Reading which stakeholders have informal power. Building a coalition before the kickoff. Sequencing the rollout so the wins land in front of the people who fund the next phase. Naming the politics in private rooms so the politics do not blow up the project in public ones.
+
+Consultants who treat applied politics as a side concern have higher project failure rates. Consultants who treat it as a co-equal skill alongside the technical build are the ones whose deployments stick and whose referral networks compound.
+
+---
+
 ## Why This Role Is Emerging Now
 
 Every business knows AI matters. Very few have anyone on the team who can build with it. The demand for people who can show up, understand the business problem, and ship a working AI system is enormous and growing.

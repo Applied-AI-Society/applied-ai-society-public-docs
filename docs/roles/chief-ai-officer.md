@@ -25,6 +25,14 @@ Three core functions:
 
 ---
 
+## Applied Politics Is The Central Skill
+
+Underneath the three functions above sits the load-bearing skill that determines whether any of them ship: **[applied politics](/docs/concepts/applied-politics)**. The CAIO has to build a coalition across executive peers, navigate the threat the role poses to incumbent CIOs and CTOs, manage the ambition of an enthusiastic CEO without overpromising, and shepherd the workforce through real change without losing the people whose tacit knowledge is the most valuable input to the AI deployment.
+
+The CAIOs who succeed treat applied politics as a co-equal competency alongside the technical work. The technical decisions matter. The political decisions decide which technical decisions get made.
+
+---
+
 ## Why This Role Is Emerging Now
 
 Three forces are converging.
