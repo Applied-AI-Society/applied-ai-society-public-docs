@@ -105,5 +105,4 @@ Here is how to build one:
 - [Game Design](/docs/concepts/game-design): The meta-skill behind designing any AI system, including a sorting hat
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The foundation that makes a sorting hat possible
 - [Context Lake](/docs/concepts/context-lake): The accumulated context that gives the sorting hat its power
-- [Zero-Question Assessments](/docs/concepts/zero-question-assessments): A related pattern where AI assesses people from existing context instead of asking them questions
 - [Context Overflow](/docs/concepts/context-overflow): The problem the sorting hat solves

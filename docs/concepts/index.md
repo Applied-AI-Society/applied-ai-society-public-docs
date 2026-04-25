@@ -109,7 +109,6 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 
 ### Design Patterns
 
-- [Zero-Question Assessments](/docs/concepts/zero-question-assessments): Your context lake already has the answers to every personality quiz. Derive insights without asking questions.
 - [Agentic UX Rules](/docs/concepts/agentic-ux-rules): A growing list of UX rules for the agentic age. Every setting needs search. Settings are natural language. Every setting should be agent-modifiable. Every non-destructive action should be agent-executable.
 - [Game Design](/docs/concepts/game-design): The meta-skill of composing context engineering and intent engineering into coherent systems
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose into AI systems so agents optimize for what actually matters
