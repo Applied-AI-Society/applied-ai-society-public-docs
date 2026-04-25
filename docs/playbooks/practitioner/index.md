@@ -36,6 +36,7 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [Workshop Instructor Playbook](/docs/playbooks/practitioner/workshop-instructor-playbook) | Instructor guide for running Personal Agentic OS workshops: who the room is for, who it is not for, format, pacing, and lessons learned |
 | [Using the Docs with Your Jarvis](/docs/playbooks/practitioner/using-the-docs-with-your-jarvis) | How to give your Personal Agentic OS access to the full AAS knowledge base |
 | [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki) | Build a personal or organizational wiki: platform choice, the capture loop, cross-linking, and graduating ideas from personal to organizational truth |
+| [PRM Tutorials](/docs/playbooks/practitioner/prm) | Hands-on guides for getting conversations into your [PRM](/docs/concepts/prm). Starts with auto-syncing Granola notes plus the manual TurboScribe path for voice memos and wearable recorders. |
 
 ## Coming Soon
 

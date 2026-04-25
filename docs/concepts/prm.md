@@ -152,6 +152,7 @@ You arrive at that call primed in a way that the other person can feel. You reme
 
 ## Further reading
 
+- [PRM Tutorials](/docs/playbooks/practitioner/prm): Hands-on guides for getting conversations into your PRM (Granola auto-sync, TurboScribe manual path, wearable recorders).
 - [Dealmaking](/docs/use-cases/dealmaking): The flagship use case PRM unlocks. If your livelihood is downstream of the deals you make, PRM is what sharpens every one of them.
 - [The Context Lake](/docs/concepts/context-lake): The broader system PRM sits inside.
 - [Operational Reality](/docs/concepts/operational-reality): The layer PRM contributes to.
