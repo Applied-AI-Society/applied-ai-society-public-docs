@@ -17,7 +17,7 @@ Flood is more honest. A flood is fast, is simultaneous across a wide area, resha
 
 ## This Is Not An AI Event. It Is The Omni-Crisis.
 
-The new flood is the sum of many collapses happening at the same time, pouring into the same already-fragile civilizational substrate. The AI revolution is one current among several. The intellectual community that studies civilizational risk calls this the **[omni-crisis](https://faithwalk.garysheng.com/perspectives/only-grace-will-save-us-from-the-omni-crisis)** (sometimes "poly-crisis" or "meta-crisis"). AAS endorses the observation while treating it with urgency most of that community does not.
+The new flood is the sum of many collapses happening at the same time, pouring into the same already-fragile civilizational substrate. The AI revolution is one current among several. The intellectual community that studies civilizational risk calls this the **omni-crisis** (sometimes "poly-crisis" or "meta-crisis"). AAS endorses the observation while treating it with urgency most of that community does not.
 
 The coinciding currents feeding the flood:
 
@@ -25,7 +25,7 @@ The coinciding currents feeding the flood:
 
 **Social media saturation and the attention economy.** A generation raised inside dopamine-engineered feeds is experiencing measurable increases in anxiety, depression, isolation, and inability to concentrate long enough to build anything. The attention infrastructure most people rely on for information is simultaneously the infrastructure degrading their capacity to process information.
 
-**A collapse of shared meaning frameworks.** The secular drift of the post-1960s West hollowed out the meaning frameworks most humans relied on for thousands of years, and nothing at scale replaced them. People are living in the downstream of that loss. The resulting vacuum produces nihilism, which is downstream of despair, which is downstream of meaninglessness. For a specifically theological read on this current, see [Only Grace Will Save Us From The Omni-Crisis](https://faithwalk.garysheng.com/perspectives/only-grace-will-save-us-from-the-omni-crisis) (FaithWalk OS).
+**A collapse of shared meaning frameworks.** The secular drift of the post-1960s West hollowed out the meaning frameworks most humans relied on for thousands of years, and nothing at scale replaced them. People are living in the downstream of that loss. The resulting vacuum produces nihilism, which is downstream of despair, which is downstream of meaninglessness.
 
 **Environmental and ecological devastation.** Habitat loss, soil collapse, fresh water depletion, climate instability, species extinction. The biosphere is being depleted at a rate that cannot continue for much longer without triggering cascading failures downstream of food, water, and weather. The young generation feeling abandoned by every other system is also reading the ecological news.
 

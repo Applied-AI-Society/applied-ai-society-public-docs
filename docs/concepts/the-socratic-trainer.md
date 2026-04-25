@@ -31,7 +31,7 @@ A useful metaphor. Most companies hiring an AI trainer think they are buying the
 
 The sauce is a trap. In a field that updates quarterly, the sauce expires faster than the invoice clears. What you actually want is the **master chef**: the person who can generate new sauce recipes whenever the kitchen changes. The sauce recipe generator.
 
-Human capital here is [divine capital](https://faithwalk.garysheng.com/perspectives/human-capital-is-divine-capital): the image-bearer who can receive new patterns and translate them into sauce for whichever kitchen they walk into. A template is a snapshot of a generator's output. The generator is the asset.
+Human capital here is divine capital: the image-bearer who can receive new patterns and translate them into sauce for whichever kitchen they walk into. A template is a snapshot of a generator's output. The generator is the asset.
 
 If your budget allows for it, hire the generator.
 
@@ -74,5 +74,4 @@ The multi-generational version costs more up front. It is also the only one that
 - [Raise The Floor](/docs/concepts/raise-the-floor): Why shared, propagated knowledge beats hoarded expertise inside an organization.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Why open-sourcing the curriculum is a multiplier.
 - [Learn The Harness, Not The Wrapper](/docs/concepts/learn-the-harness-not-the-wrapper): The same meta-over-specific principle applied to tools.
-- [Human Capital Is Divine Capital](https://faithwalk.garysheng.com/perspectives/human-capital-is-divine-capital): The spiritual version. The human is the irreplaceable asset; the template is a photograph of one of their outputs.
 - [Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): Where in the adoption curve Socratic trainers pay off hardest.

@@ -109,9 +109,9 @@ A well-published llms-full.txt has:
 
 ## Worked Example
 
-Faith Walk OS ([faithwalk.garysheng.com](https://faithwalk.garysheng.com)) is a personal wiki that documents one person's Christian worldview across 135 entries. It originally shipped with a hosted RAG chat using OpenAI embeddings. The chat worked, but it cost money on every query and carried a real risk of the model paraphrasing theology in ways the author hadn't sanctioned.
+A personal wiki documenting one writer's worldview across 135 entries originally shipped with a hosted RAG chat using OpenAI embeddings. The chat worked, but it cost money on every query and carried a real risk of the model paraphrasing the writer's positions in ways they hadn't sanctioned.
 
-In April 2026 it was rebuilt around llms.txt. The chat got removed. The embeddings got removed. The OpenAI dependency got removed. In its place, two static files: [/llms.txt](https://faithwalk.garysheng.com/llms.txt) (143 lines indexing every entry) and [/llms-full.txt](https://faithwalk.garysheng.com/llms-full.txt) (about 15,000 lines of the full corpus). Anyone who wants to ask the wiki a question now drops the URL into the LLM they already use.
+In April 2026 it was rebuilt around llms.txt. The chat got removed. The embeddings got removed. The OpenAI dependency got removed. In its place, two static files: an `llms.txt` (143 lines indexing every entry) and an `llms-full.txt` (about 15,000 lines of the full corpus). Anyone who wants to ask the wiki a question now drops the URL into the LLM they already use.
 
 Net result: 83 npm packages removed, ongoing inference costs dropped to zero, the surface area for “the chat misrepresented what I believe” went to zero, and the wiki became more useful to power-readers, not less.
 
