@@ -31,7 +31,7 @@ Power is real, and most people consume a simulation of it through the news cycle
 
 ### Spiritual literacy
 
-The material world is not all there is. Different traditions describe this in different languages (God, the ground of being, the Tao, the higher realms), and the common thread is that there are orders of reality above the merely material. A life that ignores them tends to flatten out. Spiritual literacy is the capacity to relate honestly to that layer: prayer, contemplation, liturgy, scripture, silence, community, whatever form it takes in your tradition. You do not have to be religious to take this seriously. You do have to take it seriously if you want to be whole.
+The material world is not all there is. Different traditions describe this in different languages (the ground of being, the Tao, the higher realms), and the common thread is that there are orders of reality above the merely material. A life that ignores them tends to flatten out. Spiritual literacy is the capacity to relate honestly to that layer: prayer, contemplation, liturgy, scripture, silence, community, whatever form it takes in your tradition. You do not have to be religious to take this seriously. You do have to take it seriously if you want to be whole.
 
 ### Scam literacy
 

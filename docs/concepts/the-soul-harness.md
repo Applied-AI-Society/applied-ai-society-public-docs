@@ -35,7 +35,7 @@ Your soul's harness is everything you build around your raw talent to make it pr
 - **The workplace you participate in.** Your job is a harness. A good one gives you resources, relationships, and runway to grow. A bad one extracts your talent and gives you a paycheck that keeps you compliant.
 - **Your health, security, and stability.** You need good food, rest, safety, and peace of mind to operate at full capacity. These are your infrastructure. Neglect them and everything else degrades.
 
-Collectively, these are your harness. They are what channel your God-given talent into productive, meaningful output for the world.
+Collectively, these are your harness. They are what channel your innate talent into productive, meaningful output for the world.
 
 ## Predatory vs. Liberating
 

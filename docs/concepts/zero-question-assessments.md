@@ -53,12 +53,12 @@ This is the assessment that makes the pattern click for people.
 
 The skill reads your context lake and maps you to a Bible character archetype based on your actual life, not a multiple-choice quiz. The archetypes include:
 
-- **David.** The warrior-worshipper. Creative, passionate, intimate with God. Rises from nothing. Falls hard. Repents harder.
+- **David.** The warrior-worshipper. Creative, passionate, spiritually intense. Rises from nothing. Falls hard. Repents harder.
 - **Joseph.** The long-game strategist. Betrayed, imprisoned, patient. Ends up running everything because he never lost faith in the vision.
-- **Moses.** The reluctant leader. Does not feel qualified. God uses him anyway. Liberates a nation.
+- **Moses.** The reluctant leader. Does not feel qualified. Called anyway. Liberates a nation.
 - **Paul.** The converted zealot. Brilliant mind, radical transformation, tireless builder of infrastructure.
 - **Daniel.** The faithful exile. Thrives in enemy territory without compromising. Political savvy combined with spiritual purity.
-- **Nehemiah.** The builder-organizer. Sees broken walls, mobilizes people, rebuilds. The project manager of God.
+- **Nehemiah.** The builder-organizer. Sees broken walls, mobilizes people, rebuilds. The project manager of the rebuild.
 - **Esther.** The positioned one. Placed in a position of influence for a specific divine purpose. “For such a time as this.”
 - **Abraham.** The faith pioneer. Leaves everything on a promise. Walks by faith, not sight.
 - **Peter.** The impulsive loyalist. Bold, messy, passionate. Fails publicly. Gets back up. Becomes the rock.
@@ -109,15 +109,15 @@ A zero-question personality assessment. Reads your context lake and maps you to 
 ## Instructions
 
 1. Scan all markdown files in this workspace: user profiles, principles, relationship files, strategic documents, transcripts, decision records, journal entries.
-2. Build a profile across these dimensions: leadership style, relationship to God, relationship to people, relationship to power, core strength, core vulnerability, response to adversity, what drives them, how they create change.
+2. Build a profile across these dimensions: leadership style, spiritual life, relationship to people, relationship to power, core strength, core vulnerability, response to adversity, what drives them, how they create change.
 3. Map to one PRIMARY and 1-2 SECONDARY Bible character archetypes from the list below.
 4. Write the result to `bible-character-assessment.md` at the workspace root.
 
 ## Archetypes
 
-- **David.** Warrior-worshipper. Creative, passionate, intimate with God. Rises from nothing, falls when appetite goes unchecked.
+- **David.** Warrior-worshipper. Creative, passionate, spiritually intense. Rises from nothing, falls when appetite goes unchecked.
 - **Joseph.** Long-game strategist. Betrayed, imprisoned, patient. Ends up running the system. Forgives.
-- **Moses.** Reluctant leader. Feels unqualified. God equips in real time. Liberates nations.
+- **Moses.** Reluctant leader. Feels unqualified. Grows into it in real time. Liberates nations.
 - **Paul.** Converted zealot. Radical transformation. Tireless infrastructure builder. Brilliant and suffering.
 - **Daniel.** Faithful exile. Thrives in hostile territory without compromising. Politically savvy, spiritually pure.
 - **Nehemiah.** Builder-organizer. Sees broken walls, mobilizes people, rebuilds. Prays AND plans.

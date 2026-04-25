@@ -70,7 +70,7 @@ An interview or brainstorm is different. Conversation for the sake of exploring 
 
 ---
 
-*God forbid the chat disappears. If you have done your job, it does not matter.*
+*Suppose the chat disappears tomorrow. If you have done your job, it does not matter.*
 
 ---
 

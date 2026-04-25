@@ -17,7 +17,7 @@ title: "Fat Skills"
 - Push fuzzy operations (the ones that require human judgment, taste, or domain knowledge) into **fat skill files**.
 - Push must-be-perfect deterministic operations into code.
 
-The failure mode in the other direction: a fat harness with thin skills. Forty tool definitions eating half the context window. God-tools with 2 to 5 second round-trips. REST API wrappers that turn every endpoint into a tool. The result is 3x the tokens, 3x the latency, 3x the failure rate, and outputs that still feel generic because you never actually encoded what good looks like.
+The failure mode in the other direction: a fat harness with thin skills. Forty tool definitions eating half the context window. Kitchen-sink tools with 2 to 5 second round-trips. REST API wrappers that turn every endpoint into a tool. The result is 3x the tokens, 3x the latency, 3x the failure rate, and outputs that still feel generic because you never actually encoded what good looks like.
 
 ## What a Fat Skill Actually Is
 
