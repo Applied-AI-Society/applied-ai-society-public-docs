@@ -102,6 +102,7 @@ In a world of AI-generated everything, the work with a soul in it is the work th
 - [Applied AI](/docs/concepts/applied-ai): The upstream discipline. Applied AI is the deployment; soul skills are the irreducibly human half of what gets deployed.
 - [Applied AI Practitioner](/docs/concepts/applied-ai-practitioner): The person walking the practice. Soul skills are the half that does not automate.
 - [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): The outcome soul skills produce in an AI-native market.
+- [Soulful Comparative Advantage](/docs/concepts/soulful-comparative-advantage): What it looks like when an applied AI engineer builds the supersuit around someone else's soul skills, instead of building their own.
 - [Hyperagency](/docs/concepts/hyperagency): The far state of a human who has installed AI leverage *and* developed their soul skills seriously.
 - [Strategy Is The New Execution](/docs/concepts/strategy-is-the-new-execution): What happens to a knowledge worker's day when the "hard" skills automate. Strategy is a soul skill.
 - [The Slopacalypse](/docs/concepts/slopacalypse): What happens to a market when nobody brings soul skills to the work.

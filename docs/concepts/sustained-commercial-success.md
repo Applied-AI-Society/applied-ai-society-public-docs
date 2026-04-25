@@ -62,5 +62,6 @@ Holding the bar is the most generous thing we can do for the people we serve. It
 - [You Are The Bottleneck](/docs/concepts/you-are-the-bottleneck): The self-awareness frame required before activation lands.
 - [Activation](/docs/concepts/activation): The specific shift this commitment protects.
 - [Soul Skills](/docs/concepts/soul-skills): The non-automatable half of what the practice runs on. The specific-to-you shape of it is where the most durable edge lives.
+- [Soulful Comparative Advantage](/docs/concepts/soulful-comparative-advantage): How a pro applied AI practitioner compounds another human's commercial success by engineering the supersuit around their soul work.
 - [Hyperagency](/docs/concepts/hyperagency): What sustained commercial success looks like in practice.
 - [RIP To The Career Ladder](/docs/philosophy/rip-to-the-career-ladder): The economic context that makes the bar urgent.
