@@ -21,7 +21,7 @@ The trap is the gap between the AI most people have seen and the AI that exists.
 
 ## Karpathy On Why The Two Groups Talk Past Each Other
 
-[Andrej Karpathy laid this out directly](https://x.com/karpathy/status/2042334451611693415) in October 2025. The argument is worth reading in his own words:
+[Andrej Karpathy laid this out directly](https://x.com/karpathy/status/2042334451611693415) in a recent X post. The argument is worth reading in his own words:
 
 > "The first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like 'should I drive or walk to the carwash'. The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code."
 >
