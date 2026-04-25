@@ -34,6 +34,8 @@ For organizers whose primary audience is business owners, **[Organizing An Appli
 | [Hosting an Event](/docs/playbooks/chapter-leader/hosting-an-event) | The soft skills and scripts for being the host |
 | [Speaker Outreach](/docs/playbooks/chapter-leader/speaker-outreach) | Finding and recruiting practitioners to present |
 | [Event Promotion](/docs/playbooks/chapter-leader/event-promotion) | Getting the word out and filling the room |
+| [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions) | Crafting Luma copy and event pages that fill the room |
+| [Generating Flyers](/docs/playbooks/chapter-leader/generating-flyers) | Spinning up on-brand event flyers with the AAS Remotion pipeline |
 
 ---
 
@@ -42,6 +44,7 @@ For organizers whose primary audience is business owners, **[Organizing An Appli
 | Playbook | Description |
 |----------|-------------|
 | [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create profiles |
+| [Writing & Sharing Event Recaps](/docs/playbooks/chapter-leader/writing-and-sharing-event-recaps) | Turning every event into a newsletter, social, and YouTube recap |
 | [Content Distribution](/docs/playbooks/chapter-leader/content-distribution) | Where to publish content and why |
 
 ---
@@ -51,6 +54,7 @@ For organizers whose primary audience is business owners, **[Organizing An Appli
 | Playbook | Description |
 |----------|-------------|
 | [Starting a Chapter or Community](/docs/playbooks/chapter-leader/starting-a-chapter) | How to launch an Applied AI Society community in your city or on your campus (formal chapter, student group, or embedded in an existing AI club) |
+| [Launching on Campus](/docs/playbooks/chapter-leader/launching-on-campus) | The campus-specific path: student groups, university clubs, and on-campus events |
 | [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) | Win-win partnerships for chapter growth |
 | [Tools](/docs/playbooks/chapter-leader/tools) | Meetup, Luma, and other tools that help run chapters |
 | [Getting Things Done](/docs/playbooks/chapter-leader/getting-things-done) | Using Cursor as a command center (stub) |

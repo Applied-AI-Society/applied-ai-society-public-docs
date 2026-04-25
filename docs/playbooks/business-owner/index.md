@@ -72,3 +72,36 @@ The Applied AI Society connects business owners with practitioners who are actua
 **Applied AI Live events.** Our recurring event series brings together practitioners and business owners in person. See real implementations, hear real field notes, and connect with the people doing the work. [Learn more →](/docs/playbooks/chapter-leader/applied-ai-live)
 
 You can also reach out directly at [appliedaisociety.org](https://appliedaisociety.org).
+
+---
+
+## Complete Playbook Library
+
+The narrative above is the recommended path. The full library lives here.
+
+### Getting Started
+
+| Playbook | Description |
+|----------|-------------|
+| [Why Your Business Needs AI](/docs/playbooks/business-owner/why-ai) | A primer for business owners who keep hearing about AI but have not found the on-ramp yet |
+| [Quick Check](/docs/playbooks/business-owner/quick-check) | Six questions to find out if you are ready, close, or early |
+| [Situation Map](/docs/playbooks/business-owner/situation-map) | Map your current workflows, data, team, and gaps |
+| [Pilot Scope](/docs/playbooks/business-owner/pilot-scope) | Translate the map into one well-scoped pilot ready for execution |
+
+### Strategy and Mindset
+
+| Playbook | Description |
+|----------|-------------|
+| [Beyond Automation](/docs/playbooks/business-owner/beyond-automation) | Why the goal is continuous improvement, not faster versions of the same task |
+| [AI Readiness by Function](/docs/playbooks/business-owner/ai-readiness-by-function) | Which departments are ready for applied AI pilots today and which need groundwork |
+| [Don't Delegate Your AI Literacy](/docs/playbooks/business-owner/dont-delegate-your-ai-literacy) | Why you cannot hire your way out of being your own AI literacy floor |
+| [Don't Scale Slop](/docs/playbooks/business-owner/dont-scale-slop) | What happens when AI multiplies bad inputs into more bad outputs at scale, and how to avoid it |
+
+### Execution and Operations
+
+| Playbook | Description |
+|----------|-------------|
+| [Workflow Decomposition](/docs/playbooks/business-owner/workflow-decomposition) | Breaking workflows into pieces an AI agent can actually execute |
+| [Hiring Practitioners](/docs/playbooks/business-owner/hiring-practitioners) | How to think about finding and working with the people who can help you actually use AI |
+| [Building Your App](/docs/playbooks/business-owner/building-your-app) | A higher-level walkthrough for business owners who want to build an app with AI, from spec to MVP |
+| [AI-Native by Configuration](/docs/playbooks/business-owner/ai-native-by-configuration) | You do not have to build the platform to get the platform. The same outcomes are now available as configuration on top of mature agent platforms |
