@@ -99,6 +99,20 @@ We can change that. Bringing AI to every person as a tool for service of humanit
 
 ---
 
+## This Distrust Is Mainstream, Not Fringe
+
+It is tempting to read the firebombings and the cheering comment sections as a fringe phenomenon. The polling says otherwise. The recruitment pool for the doom pipeline is the whole country.
+
+[YouGov (December 2025)](https://yougov.com/en-us/articles/53701-most-americans-use-ai-but-still-dont-trust-it) found that **77 percent of Americans are concerned AI could threaten humanity**, with 39 percent "very concerned" and only 17 percent saying they are not concerned. In the same survey, 35 percent of Americans use AI weekly (Gen Z: 51 percent), and only 5 percent say they trust AI "a lot." Forty-one percent actively distrust it.
+
+[Quinnipiac (March 2026)](https://poll.qu.edu/poll-release?releaseid=3955) found the trust gap and the concern gap both widening. Seventy-six percent now say they trust AI "hardly ever" or only "some of the time." Eighty percent are "very" or "somewhat" concerned. Fifty-five percent expect AI to do more harm than good in daily life, up from 44 percent the year before. Seventy percent believe AI will decrease job opportunities (Gen Z: 81 percent). Sixty-five percent oppose building AI data centers in their own community. The numbers move the wrong way every quarter.
+
+The framing this data deserves is straightforward. A tool that 35 percent of the country uses weekly and only 5 percent trust deeply is not a fringe-distrust object. It is the largest mass-adoption technology in modern memory entering with a public sentiment baseline closer to fluoride or genetically modified food than to the smartphone. The doom movement is recruiting against the grain of broad-based unease, not against the grain of acceptance. Industry leaders who keep behaving as though the distrust is a Twitter problem are reading their own room and not the country.
+
+The fleet-of-arks intervention has to land at the scale of that distrust. Workshops in every city. Activation pathways for every demographic. Real visibility into how AI advances the lives of people who currently feel surveilled or replaced by it. The polling is not the obstacle. The polling is the assignment.
+
+---
+
 ## How The Doom Movement Converts Anger Into Violence
 
 The first loud answer is that AI is an extinction event and the righteous response is to sabotage it.
@@ -196,6 +210,12 @@ Some of your peers are starting to name the stakes directly. Will Manidis, [on X
 > "not getting your data centers blown up is the only factor input to scaling laws that still makes this game a toss up."
 
 Read that twice. The physical security of the AI buildout is now a scaling-laws-level input, sitting on the same list as compute, data, and algorithms. The inputs to that security are political and relational: jobs in the host communities, honest public communication about water and power, the absence of doomer marketing, and a visible path for ordinary people into the economy the infrastructure is enabling. Manidis, in the same thread, singled out Meta as the only company executing on those basics. The rest of the industry has not caught up.
+
+[Andrew Yeung](https://x.com/andruyeung), on X on April 25, 2026, addressed the storytelling layer of the same problem:
+
+> "What most San Francisco tech CEOs need to realize: regular people do not like AI. 35% of Americans use AI weekly, but only 5% say they trust it a lot. 77% believe AI could pose a threat to humanity. Most people do not want agents, digital twins, or OpenClaw poking around in their lives. This is because Silicon Valley is horrible at storytelling and messaging. There are few to no aspirational tech figures that everyday people are inspired by. Causing a massive disconnect between SF and the rest of the world. San Francisco is not indicative of the mass consumer. Not even close."
+
+That gap is the assignment. The aspirational figure ordinary people respond to is not the founder telling them they will be useless. It is the neighbor who got Jarvised and is now running a small business that did not exist eighteen months ago, the chapter leader running activation workshops at the local library, the church administrator using AI to coordinate hospitality for a community that has felt forgotten. The industry's storytelling problem is upstream of its security problem and downstream of its inclusion problem. Fix the inclusion and the stories show up on their own.
 
 If you are building AI, build tools your grandmother, your neighbor, and the 20-year-old trying to afford rent in your city can all actually use. Fund the literacy. Fund the community. Fund the workshops. The counter-movement to stop-AI violence is a generation that feels included in what comes next. Better security at the data centers is a downstream consequence of getting that wrong.
 
