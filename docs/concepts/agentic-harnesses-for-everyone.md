@@ -58,6 +58,16 @@ The practitioner who crosses the harness boundary first on a team often ends up 
 
 ---
 
+## Beyond Office Roles: Every Essential Leader Needs A Harness
+
+The same logic runs past office work into public life. A mayor, a school principal, a judge, a head coach, a chief medical officer, a head of state. Every essential leadership seat is a knowledge-work role with a specific mandate, a deep context, and a constituent population that benefits when the holder of the seat operates at harness speed.
+
+Imagine a mayor walking into office on day one with a Jarvis that already knows the live constituent threads, the open zoning files, the contracts coming up for renewal, the prior administration's commitments, and the political relationships that have to be tended. The mayor pilots from hour one. Two cities equal otherwise, one with a suited-up mayor and one without, look very different inside two months. The suited one is faster, sharper, and visibly more responsive. Voters notice.
+
+This is the civic version of [the Personal Agentic OS argument](/docs/concepts/personal-agentic-os). Every seat has a mandate. Every mandate has a context. The job of an applied AI movement is to suit up the people who hold those seats. That work falls to movement infrastructure.
+
+---
+
 ## The Ask
 
 If you run a team that does knowledge work, the experiment is small and specific. Pick one non-developer on the team, preferably the person closest to strategy or operations. Get them through a hands-on Jarvis install, either the open-source [Supersuit Up](/docs/workshops/supersuit-up) format or an equivalent engagement run by a qualified [corporate upskilling partner](/docs/concepts/corporate-upskilling). Give them a month. Evaluate the output. Almost every team that runs this experiment ends up wanting to scale it across the roster.
