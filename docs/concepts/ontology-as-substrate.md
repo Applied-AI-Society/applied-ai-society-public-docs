@@ -81,6 +81,7 @@ When you build a domain-specific applied AI tool, you are building two things: t
 
 ## Further Reading
 
+- [Ontology-Driven Development](/docs/concepts/ontology-driven-development): The development methodology that turns this substrate into compounding software, with the lineage back to Domain-Driven Design and the Palantir framing.
 - [Operational Reality](/docs/concepts/operational-reality): The substrate the ontology describes.
 - [Context Lake](/docs/concepts/context-lake): The populated instance of operational reality for a specific operator, sitting on top of an ontology.
 - [Legacy](/docs/concepts/legacy): The discipline of maintaining the substrate over time.
