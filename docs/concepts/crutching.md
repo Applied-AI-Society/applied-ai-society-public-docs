@@ -79,3 +79,4 @@ That is not crutching. That is [suiting up](/docs/concepts/hyperagency).
 - [Ignorance Debt](/docs/concepts/ignorance-debt): The gap between what you know and what you need to know. Crutching widens it.
 - [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): The sibling failure mode. Crutching hides from your own atrophy. Being the bottleneck hides from your own limits. Same root avoidance, different surface.
 - [Judgment Burnout](/docs/concepts/judgment-burnout): The mirror failure mode. Crutching is underuse of your judgment. Burnout is overuse of your judgment on the wrong work. Both miss the same lever: spending judgment where it actually compounds.
+- [LLM Psychosis](/docs/concepts/llm-psychosis): The shipped output of late-stage crutching. When the discriminatory posture has atrophied, the operator cannot tell the model is wrong, even when they should be the one most able to.

@@ -107,3 +107,4 @@ For young ambitious operators: the goal is not to outwork everyone. The goal is 
 - [Crutching](/docs/concepts/crutching): The sibling failure mode. Judgment burnout is overuse of your own judgment on the wrong work. Crutching is underuse of your judgment because you handed it to the model.
 - [Slop Factory](/docs/concepts/slop-factory): What gets produced when burnt-out operators stop reviewing carefully. Volume without judgment is just expensive noise.
 - [The Overconfidence Trap](/docs/concepts/the-overconfidence-trap): Why the early honeymoon of running many agents feels like proof you can keep going. The signal lies right when you most need it.
+- [LLM Psychosis](/docs/concepts/llm-psychosis): What burnt-out judgment actually ships. Generation without discrimination. The hard cap on parallel agents is set by your discriminatory bandwidth, not your subscription.

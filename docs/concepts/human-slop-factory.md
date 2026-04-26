@@ -98,4 +98,5 @@ The goal is not to be the fastest factory. It is to stop being a factory.
 - [The Judgment Line](/docs/concepts/the-judgment-line): Where human judgment becomes load-bearing once execution is automated.
 - [There Is No Demand For Average](/docs/concepts/there-is-no-demand-for-average): The market signal that slop-factory output eventually collides with.
 - [Crutching](/docs/concepts/crutching): The adjacent failure mode. Over-reliance on AI until your own capabilities atrophy.
+- [LLM Psychosis](/docs/concepts/llm-psychosis): The build-side root cause. Generation without discrimination. The factory ships because the operator stopped reading the output.
 - Kim, Yu, and Yi (2026). *The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows.* [arXiv:2604.14807](https://arxiv.org/abs/2604.14807). The conceptual framework for why the factory is invisible to itself: opacity, fluency, and interactional immediacy mediate attribution ambiguity and cognitive outsourcing, producing capability divergence.

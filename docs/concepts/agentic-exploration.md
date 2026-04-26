@@ -105,4 +105,5 @@ This is the practical shape of [Strategy Is the New Execution](/docs/concepts/st
 - [Jevons Paradox](/docs/concepts/jevons-paradox): The economic engine. As execution gets cheaper, total demand for exploration expands.
 - [The Token Economy](/docs/concepts/the-token-economy): Why spending aggressively on exploration is rational economics, not waste.
 - [Signalmaxxing](/docs/concepts/signalmaxxing): The discipline of taste applied across your inputs and outputs. Sharper taste makes every narrow faster and truer.
+- [LLM Psychosis](/docs/concepts/llm-psychosis): The failure mode when the narrow phase collapses. Generation without discrimination. Real exploration is generation followed by ruthless taste, not 500 mediocre variants of the same thought.
 - [Unified Intelligence with Amit Jain (Stanford CS153, April 2026)](https://x.com/AnjneyMidha/status/2045274349121556533): Source of the "execution used to be at a premium, now you can execute all of them" framing.
