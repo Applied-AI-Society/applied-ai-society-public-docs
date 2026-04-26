@@ -84,3 +84,4 @@ The design rule extends naturally: code handles determinism, the LLM handles rou
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): Systems that get the layer separation right can improve themselves
 - [The Permission Surface](/docs/concepts/the-permission-surface): How to enforce the human layer in practice
 - [The Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): Level 4 (Build) is where the judgment line becomes a daily design decision
+- [Judgment Burnout](/docs/concepts/judgment-burnout): What happens to the operator when too much work crosses onto the human side of the line. The body-level reason this design rule matters.

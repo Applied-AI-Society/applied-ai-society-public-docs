@@ -75,3 +75,4 @@ This loop, repeated daily, compounds. After 90 days your AI knows your prioritie
 - [Scaling Slop](/docs/concepts/slop-factory): What happens when you automate a bad strategy
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where the strategic foundation gets built
 - [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): The personal version. If strategy is the bottleneck, and strategy lives in you, then you are the bottleneck. No hire, tool, or multiplier fixes that from outside.
+- [Judgment Burnout](/docs/concepts/judgment-burnout): The human cost when you skip the strategy layer and try to brute-force output by spinning up more agents. Why "high output" has to be redefined.

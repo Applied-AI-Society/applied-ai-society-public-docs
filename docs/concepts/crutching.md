@@ -78,3 +78,4 @@ That is not crutching. That is [suiting up](/docs/concepts/hyperagency).
 - [The Slopacalypse](/docs/concepts/slopacalypse): What happens when an entire economy crutches on AI. Volume without purpose.
 - [Ignorance Debt](/docs/concepts/ignorance-debt): The gap between what you know and what you need to know. Crutching widens it.
 - [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): The sibling failure mode. Crutching hides from your own atrophy. Being the bottleneck hides from your own limits. Same root avoidance, different surface.
+- [Judgment Burnout](/docs/concepts/judgment-burnout): The mirror failure mode. Crutching is underuse of your judgment. Burnout is overuse of your judgment on the wrong work. Both miss the same lever: spending judgment where it actually compounds.

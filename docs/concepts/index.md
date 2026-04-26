@@ -135,6 +135,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Why Your Business Needs a Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The shift from scattered SaaS to a sovereign operating system
 - [Ignorance Debt](/docs/concepts/ignorance-debt): The gap between what you know and what you need to know, and why starting where your debt is lowest is smartest
 - [The Token Economy](/docs/concepts/the-token-economy): Tokens as the atomic unit of AI economics
+- [Judgment Burnout](/docs/concepts/judgment-burnout): Agents compress work onto the human judgment layer, and judgment has a hard daily limit. The wall ambitious 22-year-olds are walking into, and why the answer is sharper strategy, not more agents.
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Treating every friction point as a feature request
 - [Signalmaxxing](/docs/concepts/signalmaxxing): Curating the signal quality of your inputs
 - [Vibe Curation](/docs/concepts/vibe-curation): The most valuable engineers in the world will only work in environments where they feel safe. Someone has to foster those environments.
