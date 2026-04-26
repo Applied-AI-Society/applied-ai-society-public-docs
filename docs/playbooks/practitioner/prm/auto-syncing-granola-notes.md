@@ -46,7 +46,7 @@ The `sync-granola` skill ships in the MVJ template. It uses the Granola API (via
 ### Prerequisites
 
 - [Granola](https://granola.ai) installed and signed in on the same Mac as your Jarvis workspace.
-- Your workspace cloned from the MVJ template. If you cloned before this skill existed, run `/sync-with-upstream` first to pull it in.
+- Your workspace cloned from the MVJ template. If you cloned before this skill existed, follow the focused upgrade guide: [Update Your MVJ Fork to Get Granola Sync](/docs/playbooks/practitioner/prm/update-your-mvj-fork-for-granola-sync).
 - Mac. Windows support is a known gap; the auth path the script reads is macOS-specific.
 
 ### Daily flow
