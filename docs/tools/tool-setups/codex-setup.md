@@ -136,13 +136,18 @@ Same patterns as any harness. Talk to your agent:
 
 ## Resuming a Session
 
-Codex keeps history of your past sessions and supports resuming them. The exact subcommand and flags evolve with the CLI, so the safest move is to run:
+Codex keeps per-workspace history of your past sessions. To come back to one:
+
+**Inside a running session,** type `/resume` to open a picker of recent sessions. Pick one and the conversation history reloads.
+
+**From the terminal,** use the `codex resume` subcommand:
 
 ```bash title="Terminal"
-codex --help
+codex resume              # picker scoped to the current workspace
+codex resume --last       # skip the picker, jump into the most recent session
+codex resume --all        # picker including sessions from any directory
+codex resume <SESSION_ID> # specific session by ID
 ```
-
-and look for the `resume` (or `continue`) entry. As of writing, `codex resume` opens a picker of recent sessions for the current workspace.
 
 **To start fresh instead,** just run `codex` and start typing. Your context lives in your workspace files, not in the chat history, so nothing is lost by starting fresh. If the previous session got tangled or you are switching topics, fresh is usually faster than resume.
 

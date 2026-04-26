@@ -124,9 +124,19 @@ hermes --model qwen/qwen3.6-plus:free
 
 ## Resuming a Session
 
-Hermes keeps history of your past sessions. To pick one back up:
+Hermes stores session history in SQLite, so resuming restores the full conversation, tool calls, and responses, exactly as you left them.
 
-**Inside a running session,** type `/resume` to open a picker of recent sessions. Pick one and the full conversation history reloads.
+**Inside a running session,** type `/resume` to open a picker of recent sessions.
+
+**From the terminal:**
+
+```bash title="Terminal"
+hermes --continue              # or -c, resume the most recent session
+hermes --resume <session_id>   # or -r, specific session by ID
+hermes --resume "session title" # resume by title (most recent in that lineage)
+```
+
+**Tip: name your sessions.** Inside a session, type `/title My Session Name` to give it a memorable name. Browse them later with `hermes sessions list` or rename them with `hermes sessions rename <id> <title>`. Named sessions make `hermes -c "project x"` a much faster way back in than scrolling a picker.
 
 **To start fresh instead,** just run `hermes` and start typing. Your context lives in your workspace files, not in the chat history, so nothing is lost by starting fresh. If the previous session got tangled or you are switching topics, fresh is usually faster than resume.
 
