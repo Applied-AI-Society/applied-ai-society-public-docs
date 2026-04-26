@@ -122,6 +122,16 @@ hermes --model qwen/qwen3.6-plus:free
 | `/yolo` | Toggle approval prompts inside a session |
 | `/exit` | End the session |
 
+## Resuming a Session
+
+Hermes keeps history of your past sessions. To pick one back up:
+
+**Inside a running session,** type `/resume` to open a picker of recent sessions. Pick one and the full conversation history reloads.
+
+**To start fresh instead,** just run `hermes` and start typing. Your context lives in your workspace files, not in the chat history, so nothing is lost by starting fresh. If the previous session got tangled or you are switching topics, fresh is usually faster than resume.
+
+For the full daily-flow guidance (when to resume, when to start fresh, running multiple sessions in the same file-viewer window, ending cleanly), see the canonical [Restart Your Jarvis](/docs/playbooks/practitioner/restart-your-jarvis) playbook.
+
 ## Updating
 
 ```bash

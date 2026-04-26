@@ -134,6 +134,22 @@ Same patterns as any harness. Talk to your agent:
 
 ---
 
+## Resuming a Session
+
+Codex keeps history of your past sessions and supports resuming them. The exact subcommand and flags evolve with the CLI, so the safest move is to run:
+
+```bash title="Terminal"
+codex --help
+```
+
+and look for the `resume` (or `continue`) entry. As of writing, `codex resume` opens a picker of recent sessions for the current workspace.
+
+**To start fresh instead,** just run `codex` and start typing. Your context lives in your workspace files, not in the chat history, so nothing is lost by starting fresh. If the previous session got tangled or you are switching topics, fresh is usually faster than resume.
+
+For the full daily-flow guidance (when to resume, when to start fresh, running multiple sessions in the same file-viewer window, ending cleanly), see the canonical [Restart Your Jarvis](/docs/playbooks/practitioner/restart-your-jarvis) playbook.
+
+---
+
 ## Codex vs Claude Code vs Hermes
 
 | | Codex | Claude Code | Hermes |

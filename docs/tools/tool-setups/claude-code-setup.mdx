@@ -241,6 +241,25 @@ The core loop is simple: talk to your Jarvis. Some examples of what to say:
 
 ---
 
+## Resuming a Session
+
+Claude Code keeps per-workspace history of your past sessions. Three ways to come back to one:
+
+**Inside a running session,** type `/resume` to open a picker of recent sessions. Pick one and the full conversation history reloads.
+
+**From the terminal,** launch with one of these flags instead of plain `claude`:
+
+```bash title="Terminal"
+claude --resume     # opens the picker before the session starts
+claude --continue   # skips the picker and jumps into the most recent session
+```
+
+**To start fresh instead,** just run `claude` (or `clauded`) and start typing. Your context lives in your workspace files, not in the chat history, so nothing is lost by starting fresh. If the previous session went down a wrong path or you are switching topics, fresh is usually faster than resume.
+
+For the full daily-flow guidance (when to resume, when to start fresh, running multiple sessions in the same VS Code window, ending cleanly), see the canonical [Restart Your Jarvis](/docs/playbooks/practitioner/restart-your-jarvis) playbook.
+
+---
+
 ## Useful Alias
 
 One alias makes launching Claude Code a lot faster once you are using it daily:
