@@ -63,6 +63,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 ### Relationship layer
 
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): The relationship layer of your Personal Agentic OS. One file per person, transcripts per conversation, artifacts per strategic move, all cross-referenced.
+- [Agentic Relationship Management](/docs/concepts/agentic-relationship-management): The active practice on top of PRM. Interview-driven build-out, automated meeting capture, prompts that surface the right call to make on Tuesday morning. The highest-leverage practice most practitioners are not running yet.
 
 ### Economy and Roles
 

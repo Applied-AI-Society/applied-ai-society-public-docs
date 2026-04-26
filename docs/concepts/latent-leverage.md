@@ -71,6 +71,7 @@ Ninety days of this is the difference between a network that quietly pays other 
 
 - [Dealmaking](/docs/use-cases/dealmaking): The flagship use case for activating latent leverage.
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): The three file types that turn latent leverage into readable context.
+- [Agentic Relationship Management](/docs/concepts/agentic-relationship-management): The practice that converts a populated PRM into actively-flowing latent leverage. The activation engine.
 - [Angels in the Attributes](/docs/concepts/angels-in-the-attributes): The ungoogleable edge intelligence that lives inside a mature PRM, and the difference between signed deals and lost ones.
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The habit that transfers the network from your head into a system that can operate on it.
 - [Being Someone's Go-To Person](/docs/concepts/being-someones-go-to-person): The role that earns the trust in the first place.
