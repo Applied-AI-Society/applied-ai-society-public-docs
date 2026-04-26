@@ -16,7 +16,6 @@ The PRM concept page covers the why and the shape of the system: dossiers, trans
 | Tutorial | What It Covers |
 |----------|---------------|
 | [Auto-Syncing Granola Notes](/docs/playbooks/practitioner/prm/auto-syncing-granola-notes) | Skill that pulls recent Granola meetings into `meeting-transcripts/` on demand. Plus the manual fallback (TurboScribe) for voice memos and wearable recorders like Plaud. |
-| [Update Your MVJ Fork to Get Granola Sync](/docs/playbooks/practitioner/prm/update-your-mvj-fork-for-granola-sync) | Three-step upgrade for Jarvisees who cloned MVJ before April 2026: pull the new `sync-granola` skill from upstream, test it on your real meetings, report any issues to Gary. |
 
 ## What's Next
 
