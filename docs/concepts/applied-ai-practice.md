@@ -1,9 +1,9 @@
 ---
-title: "Applied AI Discipline"
+title: "The Applied AI Discipline"
 description: "The daily discipline of living and operating with AI. Embodied, progressive, lifelong. Everyone who intends to stay commercially and creatively relevant is now a daily applied AI practitioner."
 ---
 
-# Applied AI Discipline
+# The Applied AI Discipline
 
 *A daily discipline, walked the way a martial artist trains, the way a musician plays scales, the way a surgeon rounds. Lifelong, embodied, progressive. The daily form of [applied AI](/docs/concepts/applied-ai): what you build on the other side of the [literacy bar](/docs/applied-ai-practice/earthshot), in service of yourself, the people around you, and the world you care about. The person walking this discipline is an [applied AI practitioner](/docs/concepts/applied-ai-practitioner).*
 
@@ -62,7 +62,7 @@ The point is daily presence.
 ## Further Reading
 
 - [Applied AI](/docs/concepts/applied-ai): The upstream concept. What applied AI is, across any goal (commercial, creative, civic, personal). This concept page is the daily-discipline form of that.
-- [Applied AI Discipline section](/docs/applied-ai-practice): The full AAS treatment of the discipline, who it is for, and why it matters now.
+- [The Applied AI Discipline section](/docs/applied-ai-practice): The full AAS treatment of the discipline, who it is for, and why it matters now.
 - [The Applied AI Literacy Earthshot](/docs/applied-ai-practice/earthshot): The AAS commitment to bring every human across the literacy bar. The rung AAS can earthshot for humanity; the discipline and mastery live with the individual on the other side.
 - [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): Why we hold the bar on what the discipline requires.
 - [Activation](/docs/concepts/activation): The flip that gets you to white belt.

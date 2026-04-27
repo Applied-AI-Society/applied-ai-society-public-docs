@@ -75,7 +75,7 @@ When a Jarvis-activated operator starts producing 2026-native work, they become 
 
 - [Applied AI](/docs/concepts/applied-ai): The upstream discipline. The imagination economy is the economy a generation of applied-AI operators is building toward.
 - 
-- [Applied AI Discipline](/docs/applied-ai-practice): The daily discipline that makes imagination-economy participation real.
+- [The Applied AI Discipline](/docs/applied-ai-practice): The daily discipline that makes imagination-economy participation real.
 - [Humanity-First Flywheel](/docs/about/humanity-first-flywheel): The AAS ecosystem built for the three archetypes the imagination economy runs on.
 - [Hyperagency](/docs/concepts/hyperagency): What participation looks like at the individual level.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The baseline infrastructure for building 2026-native things.

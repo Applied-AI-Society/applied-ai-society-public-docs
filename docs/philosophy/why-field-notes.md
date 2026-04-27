@@ -21,7 +21,7 @@ It is tempting to think the answer is “better textbooks, updated more frequent
 
 The problem is the format itself. Any educational material that is frozen at the point of publication is making an implicit promise: “this was true when we wrote it, and it will remain true long enough to be worth learning.” In applied AI, that promise has a shelf life measured in weeks, not years.
 
-Consider what has changed in just the last six months of applied AI discipline:
+Consider what has changed in just the last six months of the applied AI discipline:
 - New roles have emerged that did not exist before
 - Pricing models for AI consulting have shifted as the market matures
 - Implementation patterns that were cutting-edge are now table stakes

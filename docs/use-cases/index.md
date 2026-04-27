@@ -33,7 +33,7 @@ More use cases are in the oven. If you have one you want us to document (and a J
 
 ## How Use Cases Relate To The Rest Of The Docs
 
-- [**Applied AI Discipline**](/docs/applied-ai-practice) is the umbrella: daily discipline, embodied, lifelong. Use cases are the flagship expressions of that practice.
+- [**The Applied AI Discipline**](/docs/applied-ai-practice) is the umbrella: daily discipline, embodied, lifelong. Use cases are the flagship expressions of it.
 - [**Concepts**](/docs/concepts) are the building blocks (PRM, harness, context lake, skill files). Use cases assemble the blocks into outcomes.
 - [**Playbooks**](/docs/playbooks) are the step-by-step how-to. Use cases are the why-to.
 - [**Supersuit Up**](/docs/workshops/supersuit-up) is the activation moment. Every use case here assumes you have the baseline system running.

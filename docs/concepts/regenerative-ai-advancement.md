@@ -54,7 +54,7 @@ Near-term commitments:
 
 - **Practitioner-led fieldwork on efficiency.** The practitioner who can deploy the smaller, cheaper, more efficient AI system that fits the job is more valuable to the regenerative thesis than anyone optimizing for tokens used.
 - **Transparent sourcing.** Where we recommend specific tools, we account for the ecological profile of the provider.
-- **Ecological literacy inside applied AI discipline.** Data-center siting, grid composition, water footprint. All of it is part of what a serious practitioner should understand.
+- **Ecological literacy inside the applied AI discipline.** Data-center siting, grid composition, water footprint. All of it is part of what a serious practitioner should understand.
 - **Supporting open, local, energy-efficient alternatives.** When the open-source, locally-run model is good enough, we use it and teach it.
 
 ## The Posture

@@ -69,6 +69,6 @@ This is the loop: collapse the workflows, reinvest the hours into the work worth
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The habit that turns ambient context into the material your Jarvis runs on.
 - [Context Lake](/docs/concepts/context-lake): The store of truth that makes delegation cheap.
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): Why meeting prep and follow-through collapse so cleanly.
-- [Applied AI Discipline](/docs/applied-ai-practice): The daily discipline that keeps the compounding running.
+- [The Applied AI Discipline](/docs/applied-ai-practice): The daily discipline that keeps the compounding running.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The activation moment where the first workflows get collapsed live.
 - [Soulful Comparative Advantage](/docs/concepts/soulful-comparative-advantage): The same time-back loop applied from the other side, when an applied AI engineer engineers the supersuit around an essential human role.
