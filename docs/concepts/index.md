@@ -25,6 +25,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Fat Skills](/docs/concepts/fat-skills): Thin harness, fat skills. Where your judgment lives and compounds. One person writes a 50-page slide design skill; every output downstream operates at that ceiling.
 - [Instruction Files](/docs/concepts/instruction-files): The persistent directives that configure how your AI agent operates. CLAUDE.md, AGENTS.md, skill files, memory files.
 - [Interview Prompts](/docs/concepts/interview-prompts): A prompt-design pattern where the prompt itself instructs the agent to interview the user for any missing variables, instead of asking the user to Mad Lib placeholders.
+- [Superprompt](/docs/concepts/superprompt): The unit of work in the agentic era. A prompt that activates the full context and utility of your Jarvis: OS, tools, skills, priming, and CRIT, all firing together. Different category from a fresh-chat-window prompt.
 - [Compounding Docs](/docs/concepts/compounding-docs): Documentation as a compounding asset. Every file you add makes every other file more useful.
 - [Context Overflow](/docs/concepts/context-overflow): The most dangerous form of overwhelm is the kind that feels like momentum
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The bottleneck is you, not the tools. Get what is inside your head into plain text so AI can read it and act on it.

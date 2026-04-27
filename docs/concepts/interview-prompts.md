@@ -155,3 +155,4 @@ A prompt library where every prompt is copy-paste runnable. No placeholders, no 
 - [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki): Contains worked examples of interview prompts for wiki workflows
 - [Solution Hunting](/docs/use-cases/use-ai-to-hunt-for-the-right-solution): Includes a paste-able interview prompt that gets your Jarvis to extract a solution-hunt spec from your operational reality
 - [How To Prompt Your Jarvis](/docs/playbooks/practitioner/how-to-prompt-your-jarvis): Includes a paste-able CLAUDE.md block that configures your Jarvis to be interrogative and skeptical instead of sycophantic
+- [Superprompt](/docs/concepts/superprompt): The interview pattern is one of the moves that turns a regular prompt into a superprompt

@@ -155,6 +155,8 @@ For the prompt-pattern version of this same discipline (an instruction in the pr
 
 Strip the labels off and you find one underlying skill: getting what you want out of a computer interaction. People call it prompting, [intent engineering](/docs/concepts/intent-engineering), [context engineering](/docs/concepts/context-engineering), [spec writing](/docs/concepts/spec-writing). They all point at the same activity from different angles. The labels are useful, but the underlying work is to compress your intent into a form that an extraordinarily capable, extraordinarily literal system can act on faithfully.
 
+The AAS-canonical name for the activated form, the one that rides on all five layers above, is the **[superprompt](/docs/concepts/superprompt)**. When practitioners say *prompt*, they mean the words. When they say *superprompt*, they mean the words plus the OS, the tools, the skills, and the priming that fire together. The two words point at categorically different units of work.
+
 The compression is easier when the system already shares most of the context with you. So the highest-leverage move is almost never to write a better prompt. It is to invest, daily, in the system the prompt is going to run against.
 
 ---
@@ -176,6 +178,7 @@ The compound effect of getting all five layers right is enormous. Practitioners 
 
 ## Further Reading
 
+- [Superprompt](/docs/concepts/superprompt): The AAS-canonical name for the activated form of the prompt. The unit of work this whole page is teaching you to assemble.
 - [Priming Your Jarvis](/docs/playbooks/practitioner/priming-your-jarvis): The per-session discipline of dragging in files, voice-dumping framing, and defining success before you ask.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The foundation. The persistent system that makes every prompt land inside a pre-loaded picture of your life.
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the information state your agent operates inside.
