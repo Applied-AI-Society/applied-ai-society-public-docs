@@ -28,7 +28,7 @@ Picture the archetypal super-connector in hip hop. More relationships in their f
 
 Trust like this is earned the slow way, by delivering again and again and again until people feel safe betting on you. It is worth naming what that trust actually is, because the word gets diluted.
 
-> **A LinkedIn connection is a word. A real connection is: I trust you with my livelihood. I would introduce you to my colleagues. I am not worried about you sabotaging the mechanism through which I flourish.**
+> **A LinkedIn "connection" is a misleading word. A real connection is: I trust you with my livelihood. I would introduce you to my colleagues. I am not worried about you sabotaging the mechanism through which I flourish.**
 
 People with real trust at that level are often people of color, people who came up without the usual scaffolding, people whose relational capital is genuinely enormous and whose financial capital has not yet caught up to it. The deals are there. The trust is there. The activation layer has been missing. That is exactly the gap a Jarvis closes. The point is not to extract from the network. The point is to make the win-win-win deals (the one that makes the product, that actually serves the community, that everyone in the arrangement is genuinely lifted by) happen at the rate they should be happening.
 
