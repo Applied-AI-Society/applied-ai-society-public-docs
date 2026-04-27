@@ -68,6 +68,8 @@ A dealmaking Jarvis is not an app. It is your existing Jarvis plus disciplined [
 
 All of it cross-referenced. All of it local on your laptop. All of it legible to your agent the same way it is legible to you.
 
+> **Clearly documented ontology is critical to helping your agents advance your life mapped to your operational reality.** That is what these three file types are: named categories that match how your work actually flows, so your agent does not have to guess where anything lives or what it means. The categories you write down are the operating reality your agent gets to act on.
+
 See [PRM](/docs/concepts/prm) for the concrete file layout and the habits that keep it alive.
 
 ## A Worked Example: Music Industry Deal Proposal
