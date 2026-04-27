@@ -71,4 +71,4 @@ At every scale, the worth of AI progress is measured by how fast it lifts the pe
 
 ---
 
-*These beliefs are the foundation. For how they translate into daily practice, and who we serve first, see our [Principles](/docs/philosophy/principles).*
+*These beliefs are the foundation. For how they translate into daily discipline, and who we serve first, see our [Principles](/docs/philosophy/principles).*

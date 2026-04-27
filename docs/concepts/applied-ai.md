@@ -42,7 +42,7 @@ The most widely-discussed version of applied AI is commercial: using AI so your 
 
 For the commercial rung specifically, see also [sustained commercial success](/docs/concepts/sustained-commercial-success) for why we hold the bar on what the practice requires.
 
-The point of calling out the commercial frame explicitly is not to confine applied AI to it. It is to say: the commercial frame is one of the first places the stakes become unignorable, and the frameworks you build there transfer. A nonprofit that develops real applied AI practice can serve its community at a scale its funders did not think was possible. An artist who develops it can reach audiences that used to require a label. A civic leader who develops it can deliver services that used to require a bureaucracy. Every domain is under the same pressure. Every domain rewards the same discipline.
+The point of calling out the commercial frame explicitly is not to confine applied AI to it. It is to say: the commercial frame is one of the first places the stakes become unignorable, and the frameworks you build there transfer. A nonprofit that develops real applied AI discipline can serve its community at a scale its funders did not think was possible. An artist who develops it can reach audiences that used to require a label. A civic leader who develops it can deliver services that used to require a bureaucracy. Every domain is under the same pressure. Every domain rewards the same discipline.
 
 ## The Two Schools
 
@@ -81,7 +81,7 @@ Applied AI puts the human in charge. It is not something that happens to an orga
 
 This is load-bearing. The version of AI that does not keep the human in charge is the one optimized by [human emulators](/docs/concepts/human-emulators) and the predatory side of the economy. The version that does is the one AAS exists to activate. The tool is the same. The intention determines which version you are running.
 
-If you are at the start of walking this discipline, see the [applied AI practice](/docs/concepts/applied-ai-practice) umbrella for how the daily work compounds into fluency, then mastery. See the [Literacy Earthshot](/docs/applied-ai-practice/earthshot) for what AAS can commit to on humanity's behalf: the best open-source source material in the world for crossing the activation bar.
+If you are at the start of walking this discipline, see the [applied AI discipline](/docs/concepts/applied-ai-practice) umbrella for how the daily work compounds into fluency, then mastery. See the [Literacy Earthshot](/docs/applied-ai-practice/earthshot) for what AAS can commit to on humanity's behalf: the best open-source source material in the world for crossing the activation bar.
 
 ---
 
@@ -92,7 +92,7 @@ If you are at the start of walking this discipline, see the [applied AI practice
 ## Further Reading
 
 - [The Writing On the Wall (Roberts and Sheng, 2026)](https://digitalcommons.humboldt.edu/digitallab/13/): The published paper that names the commercial stakes in full. The life-or-death version of applied AI for CEOs.
-- [Applied AI Practice](/docs/concepts/applied-ai-practice): The daily discipline of walking applied AI. Literacy, practice, mastery as a ladder.
+- [Applied AI Discipline](/docs/concepts/applied-ai-practice): The daily discipline of walking applied AI. Literacy, practice, mastery as a ladder.
 - [The Applied AI Literacy Earthshot](/docs/applied-ai-practice/earthshot): AAS's specific commitment to the activation bar.
 - [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): The commercial rung of the same discipline, held to a non-negotiable bar.
 - [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution): The meta-shift applied AI makes real. Humans direct, systems execute.

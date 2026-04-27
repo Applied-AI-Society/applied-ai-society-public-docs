@@ -21,7 +21,7 @@ It is tempting to think the answer is “better textbooks, updated more frequent
 
 The problem is the format itself. Any educational material that is frozen at the point of publication is making an implicit promise: “this was true when we wrote it, and it will remain true long enough to be worth learning.” In applied AI, that promise has a shelf life measured in weeks, not years.
 
-Consider what has changed in just the last six months of applied AI practice:
+Consider what has changed in just the last six months of applied AI discipline:
 - New roles have emerged that did not exist before
 - Pricing models for AI consulting have shifted as the market matures
 - Implementation patterns that were cutting-edge are now table stakes
@@ -48,7 +48,7 @@ This matters as much as the format.
 
 Field notes must come from practitioners who are doing the work and making money providing genuine value for real people. Not commentators. Not analysts. Not people who talk about AI on social media for engagement. People who are in the room with a business owner, understanding their problems, building the system, and measuring whether it actually helped.
 
-The reason is simple: applied AI is a practice, not a theory. The gap between “what sounds good in a blog post” and “what actually works when you implement it” is enormous. Only people who have crossed that gap repeatedly can produce source material worth learning from.
+The reason is simple: applied AI is a discipline, not a theory. The gap between “what sounds good in a blog post” and “what actually works when you implement it” is enormous. Only people who have crossed that gap repeatedly can produce source material worth learning from.
 
 This is why the Applied AI Society's documentation is written and updated by the community's own practitioners. We are not aggregating secondhand knowledge. We are documenting firsthand experience as it happens.
 

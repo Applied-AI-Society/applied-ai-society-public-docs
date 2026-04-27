@@ -169,7 +169,7 @@ Without a Jarvis, every new deal starts from a cold re-read of your notes or, wo
 
 Dealmaking is strategy in its purest operational form. You are the main agent. Your Jarvis keeps your judgment operating on the full context of every stakeholder, rather than the fragment you happen to be holding in working memory. The decision is still yours. The context the decision runs on is no longer the limiter.
 
-This is the Jarvis pattern in a single flagship use case: human genius on top, agentic infrastructure underneath, real artifacts (drafted deals, assessments, tear-ups) out the other side. The daily [applied AI practice](/docs/concepts/applied-ai-practice) is what keeps the context compounding, so the twenty-fifth deal this year is sharper than the first.
+This is the Jarvis pattern in a single flagship use case: human genius on top, agentic infrastructure underneath, real artifacts (drafted deals, assessments, tear-ups) out the other side. The daily [applied AI discipline](/docs/concepts/applied-ai-practice) is what keeps the context compounding, so the twenty-fifth deal this year is sharper than the first.
 
 ## Win-Win-Win Deals Only
 

@@ -27,7 +27,7 @@ The analogy is regenerative agriculture. A regenerative farm puts more carbon in
 **On the people side, regenerative AI:**
 
 - Gives users more time for the work that requires a [human soul](/docs/philosophy/canon), and less time for the work that does not.
-- Builds individual capability that compounds ([applied AI practice](/docs/concepts/applied-ai-practice)), rather than outsourcing judgment to a platform.
+- Builds individual capability that compounds ([applied AI discipline](/docs/concepts/applied-ai-practice)), rather than outsourcing judgment to a platform.
 - Strengthens local community ties through chapters and co-learning, rather than replacing human connection with a chat window.
 - Distributes sovereignty over data, context, and models, rather than concentrating it in a handful of hyperscalers.
 - Closes the [hyperagency gap](/docs/concepts/the-hyperagency-gap) instead of letting it widen into permanent class stratification.
@@ -54,7 +54,7 @@ Near-term commitments:
 
 - **Practitioner-led fieldwork on efficiency.** The practitioner who can deploy the smaller, cheaper, more efficient AI system that fits the job is more valuable to the regenerative thesis than anyone optimizing for tokens used.
 - **Transparent sourcing.** Where we recommend specific tools, we account for the ecological profile of the provider.
-- **Ecological literacy inside applied AI practice.** Data-center siting, grid composition, water footprint. All of it is part of what a serious practitioner should understand.
+- **Ecological literacy inside applied AI discipline.** Data-center siting, grid composition, water footprint. All of it is part of what a serious practitioner should understand.
 - **Supporting open, local, energy-efficient alternatives.** When the open-source, locally-run model is good enough, we use it and teach it.
 
 ## The Posture

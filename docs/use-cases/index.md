@@ -6,7 +6,7 @@ description: "Flagship reasons people walk into a Supersuit Up workshop and neve
 
 # Jarvis Use Cases
 
-*What people actually do with their [Personal Agentic OS](/docs/concepts/personal-agentic-os). The flagship reasons the [literacy bar](/docs/applied-ai-practice/earthshot) is worth crossing, and the reasons the daily [applied AI practice](/docs/concepts/applied-ai-practice) compounds.*
+*What people actually do with their [Personal Agentic OS](/docs/concepts/personal-agentic-os). The flagship reasons the [literacy bar](/docs/applied-ai-practice/earthshot) is worth crossing, and the reasons the daily [applied AI discipline](/docs/concepts/applied-ai-practice) compounds.*
 
 ---
 
@@ -14,7 +14,7 @@ description: "Flagship reasons people walk into a Supersuit Up workshop and neve
 
 Jarvis is a general-purpose system. That is a feature, and it is also a communication problem: when someone asks "what would I actually use this for?", an answer like "anything you want" is technically correct and practically useless.
 
-This section is the antidote. Each page in Use Cases is a single, flagship reason someone would invest the hours to get [Jarvised](/docs/get-jarvised) and stay in the daily practice. Written for the person who wants to see themselves in a specific scenario before they decide to walk through the door.
+This section is the antidote. Each page in Use Cases is a single, flagship reason someone would invest the hours to get [Jarvised](/docs/get-jarvised) and stay in the daily discipline. Written for the person who wants to see themselves in a specific scenario before they decide to walk through the door.
 
 The list will grow. Every use case we publish here has passed two tests: real people are living the outcome on their own laptops right now, and the value is legible to someone who has never opened Claude Code before.
 
@@ -33,7 +33,7 @@ More use cases are in the oven. If you have one you want us to document (and a J
 
 ## How Use Cases Relate To The Rest Of The Docs
 
-- [**Applied AI Practice**](/docs/applied-ai-practice) is the umbrella: daily discipline, embodied, lifelong. Use cases are the flagship expressions of that practice.
+- [**Applied AI Discipline**](/docs/applied-ai-practice) is the umbrella: daily discipline, embodied, lifelong. Use cases are the flagship expressions of that practice.
 - [**Concepts**](/docs/concepts) are the building blocks (PRM, harness, context lake, skill files). Use cases assemble the blocks into outcomes.
 - [**Playbooks**](/docs/playbooks) are the step-by-step how-to. Use cases are the why-to.
 - [**Supersuit Up**](/docs/workshops/supersuit-up) is the activation moment. Every use case here assumes you have the baseline system running.

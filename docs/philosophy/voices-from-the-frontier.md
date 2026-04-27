@@ -36,7 +36,7 @@ Karpathy describes a moment in December 2025 when his workflow flipped from 80/2
 
 > “Even if things don't work, I think to a large extent you feel like it's skill issue. It's not that the capability is not there. It's that you just haven't found a way to string it together. I just didn't give good enough instructions in the agents MD file. I don't have a nice enough memory tool. So it all kind of feels like skill issue when it doesn't work.”
 
-This is the emotional reality of the [imagination economy](/docs/concepts/intent-engineering): the bottleneck is no longer the tools. The bottleneck is you. Your ability to articulate intent, structure context, and design the system that does the work. That can feel overwhelming (“AI psychosis,” as Karpathy calls it), but it is also profoundly empowering, because it means you can always get better.
+This is the emotional reality of the [imagination economy](/docs/concepts/imagination-economy): the bottleneck is no longer the tools. The bottleneck is you. Your ability to articulate intent, structure context, and design the system that does the work. That can feel overwhelming (“AI psychosis,” as Karpathy calls it), but it is also profoundly empowering, because it means you can always get better.
 
 ### Token throughput is the new metric
 

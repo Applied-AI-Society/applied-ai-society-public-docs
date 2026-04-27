@@ -12,7 +12,7 @@ description: "A real-time, community-maintained awareness of how scams currently
 
 ## Why It Matters Now
 
-Scam literacy is one of the most load-bearing pieces of [applied AI practice](/docs/concepts/applied-ai-practice), and the easiest one to skip until it costs you or someone you love. AI makes it trivially cheap to scam at scale. **If you can sell at scale, you can scam at scale.** That is the new baseline.
+Scam literacy is one of the most load-bearing pieces of [applied AI discipline](/docs/concepts/applied-ai-practice), and the easiest one to skip until it costs you or someone you love. AI makes it trivially cheap to scam at scale. **If you can sell at scale, you can scam at scale.** That is the new baseline.
 
 The specific new shape is **hyper-personalized scams**. A language model looks at a target's public footprint, infers their voice, their relationships, and their current stress, and writes the exact message that gets them to click, wire, or share credentials. What used to require a human con artist running one target at a time now runs at the scale of every inbox, every phone, every feed, simultaneously. The attack cost drops to near zero; the conversion rate stays brutal.
 
@@ -52,7 +52,7 @@ If you want to help maintain it, bring your field notes. Join the [Discord](http
 ## Further Reading
 
 - [Literacies That Matter](/docs/concepts/literacies-that-matter): The broader set of literacies that compound. Scam literacy is one of them.
-- [Applied AI Practice](/docs/concepts/applied-ai-practice): The daily discipline inside which scam literacy is maintained.
+- [Applied AI Discipline](/docs/concepts/applied-ai-practice): The daily discipline inside which scam literacy is maintained.
 - [The New Flood](/docs/concepts/the-new-flood): Why the threat landscape is accelerating on every axis at once.
 - [Legacy](/docs/concepts/legacy): Related discipline for keeping what your systems act on aligned with reality.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Why open, community-maintained knowledge beats gated products in a fast-moving threat landscape.

@@ -61,7 +61,7 @@ The imagination economy is the economy those three types produce together. It is
 
 ## AAS's Relationship To The Frame
 
- coined *imagination economy*. Applied AI Society is the activation layer that makes imagination-economy participation possible for the person who does not yet know they are going to be a participant. The [Literacy Earthshot](/docs/applied-ai-practice/earthshot) cross is the on-ramp. The [applied AI practice](/docs/applied-ai-practice) is the discipline. The [use cases](/docs/use-cases) are the concrete places the practice compounds into real builds.
+ coined *imagination economy*. Applied AI Society is the activation layer that makes imagination-economy participation possible for the person who does not yet know they are going to be a participant. The [Literacy Earthshot](/docs/applied-ai-practice/earthshot) cross is the on-ramp. The [applied AI discipline](/docs/applied-ai-practice) is the discipline. The [use cases](/docs/use-cases) are the concrete places the practice compounds into real builds.
 
 When a Jarvis-activated operator starts producing 2026-native work, they become a participant in the imagination economy whether they use the phrase or not. The purpose of naming the frame is so the operators, collaborators, and partners stop pattern-matching their work onto the predatory shapes their industry has pre-installed and start pattern-matching onto the shape their work actually is.
 
@@ -75,7 +75,7 @@ When a Jarvis-activated operator starts producing 2026-native work, they become 
 
 - [Applied AI](/docs/concepts/applied-ai): The upstream discipline. The imagination economy is the economy a generation of applied-AI operators is building toward.
 - 
-- [Applied AI Practice](/docs/applied-ai-practice): The daily discipline that makes imagination-economy participation real.
+- [Applied AI Discipline](/docs/applied-ai-practice): The daily discipline that makes imagination-economy participation real.
 - [Humanity-First Flywheel](/docs/about/humanity-first-flywheel): The AAS ecosystem built for the three archetypes the imagination economy runs on.
 - [Hyperagency](/docs/concepts/hyperagency): What participation looks like at the individual level.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The baseline infrastructure for building 2026-native things.

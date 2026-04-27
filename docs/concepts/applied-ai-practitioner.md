@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2.6
 title: "Applied AI Practitioner"
-description: "The person walking the applied AI practice. Anyone who wants to stay relevant, commercially viable, and sustainably successful in the work they care about needs to become one. A daily practitioner at minimum; a pro practitioner if they make it their career."
+description: "The person walking the applied AI discipline. Anyone who wants to stay relevant, commercially viable, and sustainably successful in the work they care about needs to become one. A daily practitioner at minimum; a pro practitioner if they make it their career."
 ---
 
 # Applied AI Practitioner
@@ -28,7 +28,7 @@ The defining behaviors:
 - **Compounding context.** They treat their [context lake](/docs/concepts/context-lake) like any other lasting asset. It grows every day. It makes every future task cheaper.
 - **Progressive skill.** They keep learning. The field changes weekly. A good practitioner is always a slightly better practitioner three months from now than they are today.
 
-For the full daily form of this discipline, see [applied AI practice](/docs/concepts/applied-ai-practice).
+For the full daily form of this discipline, see [applied AI discipline](/docs/concepts/applied-ai-practice).
 
 ## Two Shapes: Daily and Pro
 
@@ -63,7 +63,7 @@ If you do knowledge work, there is an applied AI practitioner form of your role 
 
 ## Why This Matters
 
-An organization that does not employ applied AI practitioners will be out-produced by one that does. That is already measurable. A career that is not walking an applied AI practice will compound slower than one that is. That is already measurable. A community without applied AI practitioners will rely on others to solve its problems. That is already visible in every city where chapters are forming.
+An organization that does not employ applied AI practitioners will be out-produced by one that does. That is already measurable. A career that is not walking an applied AI discipline will compound slower than one that is. That is already measurable. A community without applied AI practitioners will rely on others to solve its problems. That is already visible in every city where chapters are forming.
 
 The good news is that the door is wide. The [activation bar](/docs/applied-ai-practice/earthshot) is learnable. The tools are accessible. Every daily applied AI practitioner was, not long ago, a person who had not yet felt what this work could do inside their own life.
 
@@ -76,7 +76,7 @@ The good news is that the door is wide. The [activation bar](/docs/applied-ai-pr
 ## Further Reading
 
 - [Applied AI](/docs/concepts/applied-ai): The discipline the practitioner is walking.
-- [Applied AI Practice](/docs/concepts/applied-ai-practice): The daily form of that discipline. Literacy, practice, mastery as a ladder.
+- [Applied AI Discipline](/docs/concepts/applied-ai-practice): The daily form of that discipline. Literacy, practice, mastery as a ladder.
 - [The Applied AI Literacy Earthshot](/docs/applied-ai-practice/earthshot): The activation bar AAS commits to on humanity's behalf.
 - [Roles in the Applied AI Economy](/docs/roles): The pro-practitioner archetypes forming right now.
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The on-ramp for going pro.
