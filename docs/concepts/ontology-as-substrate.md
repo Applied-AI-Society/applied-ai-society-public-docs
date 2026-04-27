@@ -51,6 +51,10 @@ A canonical Event has a `payments` attribute. Reading it is safe. Modifying a pa
 
 Every applied AI implementation eventually arrives at the same realization: the agent is only as good as the substrate it reads from. See [Operational Reality](/docs/concepts/operational-reality) for the broader version of this claim. Ontology is the layer that makes operational reality machine-readable in a way that survives multiple operators, multiple roles, and multiple time horizons.
 
+> **Clearly documented ontology is critical to helping your agents advance your life mapped to your operational reality.**
+
+The same claim scales from one operator to a multinational platform. At the personal scale, "your life" is the operational reality, and your [Personal Agentic OS](/docs/concepts/personal-agentic-os) is the ontology your agent reads from. At the company scale, the operational reality is the business, and the [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) is the ontology. The discipline is the same. Skip the documentation, and the agent guesses. Document it, and the agent operates on rails.
+
 You can think of the layers as a stack:
 
 1. **Operational Reality.** The raw truth of how the business actually runs.
