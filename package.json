@@ -2,6 +2,7 @@
   "name": "applied-ai-society-docs",
   "version": "0.0.0",
   "private": true,
+  "license": "MIT AND CC-BY-4.0",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

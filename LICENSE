@@ -1,0 +1,87 @@
+Applied AI Society Public Documentation: License
+
+This repository contains two kinds of work, each licensed appropriately for what
+it is.
+
+================================================================================
+PROSE, DOCUMENTATION, FRAMEWORKS, METHODOLOGIES, AND CONCEPTUAL CONTENT
+================================================================================
+
+All documentation files (markdown content under docs/, including but not limited
+to concepts, playbooks, philosophy, workshops, roles, case studies, and brand
+content) are licensed under:
+
+  Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+Summary (not a substitute for the full license):
+
+  You are free to:
+    - Share: copy and redistribute the material in any medium or format
+    - Adapt: remix, transform, and build upon the material for any purpose,
+      including commercial use
+
+  Under the following terms:
+    - Attribution: You must give appropriate credit, provide a link to the
+      license, and indicate if changes were made. You may do so in any
+      reasonable manner, but not in any way that suggests the licensor endorses
+      you or your use.
+
+  Suggested attribution format:
+    "Source: Applied AI Society, https://docs.appliedaisociety.org"
+
+================================================================================
+CODE, CONFIGURATION, BUILD INFRASTRUCTURE, AND CODE SAMPLES
+================================================================================
+
+All code in this repository (TypeScript, JavaScript, configuration files,
+shell scripts, build scripts, code examples embedded in documentation, and
+the Docusaurus build infrastructure itself) is licensed under:
+
+  MIT License
+
+  Copyright (c) 2026 Applied AI Society
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+  THE SOFTWARE.
+
+================================================================================
+THIRD-PARTY CONTENT
+================================================================================
+
+Where this repository quotes, embeds, or references third-party material, that
+material remains under its original license. The licenses above apply only to
+content originally authored by Applied AI Society contributors.
+
+================================================================================
+INTENT
+================================================================================
+
+Applied AI Society is, and always has been, an open-source knowledge base. The
+README at the root of this repository has stated that intent since the
+repository's inception. This LICENSE file is the formal expression of that
+long-stated intent.
+
+The combined effect of these licenses is simple: anyone may freely use, share,
+adapt, build on, fork, or commercialize the work in this repository, with
+attribution for the prose content. We want this work used. We want it forked.
+We want it built on. The mission is universal applied AI literacy, and the
+content here belongs to anyone who wants to wield it.
+
+For questions, contact the Applied AI Society via https://docs.appliedaisociety.org.
