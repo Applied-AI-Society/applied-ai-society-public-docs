@@ -39,21 +39,6 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki) | Build a personal or organizational wiki: platform choice, the capture loop, cross-linking, and graduating ideas from personal to organizational truth |
 | [PRM Tutorials](/docs/playbooks/practitioner/prm) | Hands-on guides for getting conversations into your [PRM](/docs/concepts/prm). Starts with auto-syncing Granola notes plus the manual TurboScribe path for voice memos and wearable recorders. |
 
-## Coming Soon
-
-We're developing additional guides covering:
-
-- **Getting Started as a Practitioner:** How to go from “I use AI every day” to “I apply AI professionally”
-- **Building Your Portfolio:** Documenting your first projects to land clients or jobs
-- **Culture Transformation Engagements:** Helping organizations develop an AI-first mindset
-- **Forward Deployed Hackathons:** Running internal hackathon weekends inside companies to shift culture
-- **Discovery Sessions:** Assessing an organization's AI readiness and culture
-- **Executive Coaching:** Helping leaders understand the elevator economy and what it means for their business
-
-These playbooks are informed by real engagements and interviews with practitioners in the field. Check back for updates.
-
----
-
 ## Learn from Practitioners
 
 New to applied AI? Start by attending an [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) event in your city.

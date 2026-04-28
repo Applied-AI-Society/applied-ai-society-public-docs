@@ -57,7 +57,7 @@ For organizers whose primary audience is business owners, **[Organizing An Appli
 | [Launching on Campus](/docs/playbooks/chapter-leader/launching-on-campus) | The campus-specific path: student groups, university clubs, and on-campus events |
 | [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) | Win-win partnerships for chapter growth |
 | [Tools](/docs/playbooks/chapter-leader/tools) | Meetup, Luma, and other tools that help run chapters |
-| [Getting Things Done](/docs/playbooks/chapter-leader/getting-things-done) | Using Cursor as a command center (stub) |
+| [Getting Things Done](/docs/playbooks/chapter-leader/getting-things-done) | Using IDE as a command center |
 
 ---
 

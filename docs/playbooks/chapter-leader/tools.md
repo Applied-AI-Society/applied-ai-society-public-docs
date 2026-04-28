@@ -97,7 +97,7 @@ Markdown-based, version controlled, easy to update. If you can write markdown, y
 
 ---
 
-## Cursor
+## IDE
 
 **What it is:** AI-powered code editor built on VS Code.
 
@@ -110,7 +110,7 @@ Markdown-based, version controlled, easy to update. If you can write markdown, y
 - Building out new playbooks and pages
 
 **Why it's useful:**
-Cursor's AI can help you write, edit, and refactor. Ask it to draft a section, fix a typo, or restructure a document. It understands the codebase context, so it can make changes that fit the existing style.
+IDE's AI can help you write, edit, and refactor. Ask it to draft a section, fix a typo, or restructure a document. It understands the codebase context, so it can make changes that fit the existing style.
 
 **Tips:**
 - Use Cmd+K to ask the AI to edit selected text

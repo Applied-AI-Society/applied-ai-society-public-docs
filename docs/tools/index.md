@@ -34,5 +34,3 @@ Every code block on this site has a **copy button** (top-right of the block). Wh
 ## Tool Setups
 
 The reference pages above describe what each tool is. The [Tool Setups](/docs/tools/tool-setups) sub-section walks you through installing and configuring the tools that need step-by-step setup for a Personal Agentic OS: harnesses (Claude Code, Codex, Hermes), git, and the workspace bootstrap.
-
-More tools will be added as workshops reference them.
