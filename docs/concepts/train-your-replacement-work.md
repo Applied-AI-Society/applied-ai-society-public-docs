@@ -57,7 +57,7 @@ The practical move is to shift into roles that remain valuable on the far side o
 - **Taste, judgment, strategic thinking.** The ability to look at a system's output and say *this is not quite right, and here is what would make it true.* The practitioners pulling ahead are the ones who train this muscle deliberately. (See [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution).)
 - **Teaching others to make the transition.** The [Community Leader](/docs/roles/community-leader), the trainer, the [activator](/docs/concepts/activation). Every person who needs to cross the line will need a human to help them cross it.
 
-If your current job is in train-your-replacement work, the move is to use the paycheck to buy the time and tools to build something that is not. Learn a [harness](/docs/concepts/the-soul-harness). Start a [Personal Agentic OS](/docs/concepts/personal-agentic-os). Take the [Supersuit Up workshop](/docs/workshops/supersuit-up). Find a [local chapter](/docs/playbooks/chapter-leader/starting-a-chapter). Get Jarvised before the bridge comes down.
+If your current job is in train-your-replacement work, the move is to use the paycheck to buy the time and tools to build something that is not. Learn a [harness](/docs/concepts/the-life-harness). Start a [Personal Agentic OS](/docs/concepts/personal-agentic-os). Take the [Supersuit Up workshop](/docs/workshops/supersuit-up). Find a [local chapter](/docs/playbooks/chapter-leader/starting-a-chapter). Get Jarvised before the bridge comes down.
 
 ## A Note on Seeing It From Above
 

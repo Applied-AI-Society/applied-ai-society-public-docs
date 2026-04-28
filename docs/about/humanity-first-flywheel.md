@@ -14,7 +14,7 @@ description: "How the four Applied AI Society communities (business leaders, art
 
 Most AI roadmaps lead with compute. Scale the model, hope the humans catch up.
 
-We lead with the human. The question that drives everything here is: **what does it take for a human to get more of their humanity back as AI gets more capable?** More time for art. More time for real presence. More time to be a soulful operator in a commercial context. More time for the work that requires a [human soul](/docs/philosophy/canon).
+We lead with the human. The question that drives everything here is: **what does it take for a human to get more of their humanity back as AI gets more capable?** More time for art. More time for real presence. More time to be a deep operator in a commercial context. More time for the human-only work (see [the Canon](/docs/philosophy/canon)).
 
 If the curriculum we publish does not produce that outcome, the curriculum is wrong. That is the criterion.
 
@@ -69,7 +69,7 @@ Three failure modes we guard against, because each collapses the loop:
 
 **Treating builders as unpaid labor.** Builders contribute because it compounds into commercial opportunity for them. If the ecosystem does not produce hires and clients for them, the contribution dries up. Every chapter leader, workshop instructor, and business owner we train is part of that demand side.
 
-**Forgetting humanity.** If we activate people into hyperagency and they come out with less soul, less presence, less time for art and the people they love, the mission failed. See [the Applied AI Canon](/docs/philosophy/canon).
+**Forgetting humanity.** If we activate people into hyperagency and they come out with less presence, less depth, less time for art and the people they love, the mission failed. See [the Applied AI Canon](/docs/philosophy/canon).
 
 ---
 
@@ -95,8 +95,8 @@ Regardless of which of the four communities you belong to, the first move is the
 ## Further Reading
 
 - [Who We Serve](/docs/about/who-we-serve): The four communities in detail.
-- [The Applied AI Canon](/docs/philosophy/canon): The soul-work, necessary-work distinction that drives everything.
+- [The Applied AI Canon](/docs/philosophy/canon): The human-only-work, necessary-work distinction that drives everything.
 - [Hyperagency](/docs/concepts/hyperagency): What a Jarvised human looks like operating.
 - [Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The commercial landscape for builders.
-- [Jarvis The World Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): Why the fleet-of-arks strategy.
+- [Jarvis The World Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): Why the network-of-activated-practitioners strategy.
 - [The Amplification Effect](/docs/philosophy/the-amplification-effect): Why activating one person matters.

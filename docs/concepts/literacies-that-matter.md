@@ -29,9 +29,13 @@ The rules of money are changing. A multipolar fiat world. Programmable assets on
 
 Power is real, and most people consume a simulation of it through the news cycle. Real power dynamics operate at different **holonic scales**: the family, the community, the city, the state, the nation, the civilizational bloc. What is true at one scale does not automatically hold at the next. Being literate here means being able to read the actual forces moving in your life, your city, and your civilization, instead of the cable-news caricature. Most people are profoundly illiterate here, which is why their will gets routed by forces they cannot see.
 
-### Spiritual literacy
+### Self-knowledge literacy
 
-The material world is not all there is. Different traditions describe this in different languages (the ground of being, the Tao, the higher realms), and the common thread is that there are orders of reality above the merely material. A life that ignores them tends to flatten out. Spiritual literacy is the capacity to relate honestly to that layer: prayer, contemplation, liturgy, scripture, silence, community, whatever form it takes in your tradition. You do not have to be religious to take this seriously. You do have to take it seriously if you want to be whole.
+A life lived only at the surface of inputs and outputs tends to flatten out. Self-knowledge literacy is the capacity to relate honestly to your own inner life: silence, reflection, deep practice, attention to the patterns running underneath your decisions, and the discipline of asking what you actually want and what you actually believe. You do not have to belong to any tradition to take this seriously. You do have to take it seriously if you want to be whole.
+
+### Ritual literacy
+
+Stable practices that compound a person over years: how you start the day, how you mark important moments, how you tend the relationships and communities that hold you up. Most modern lives are short on durable rituals and long on reactive consumption. The literacy here is recognizing which practices reliably make you more yourself and protecting them.
 
 ### Scam literacy
 
@@ -43,9 +47,9 @@ The list keeps going. Health literacy (sovereignty over your own body). Relation
 
 ## Why This Matters
 
-The Applied AI Society [north star](/docs/philosophy/north-star) is human flourishing, not AI adoption. Applied AI literacy is load-bearing for that flourishing, and only when it sits inside a broader picture. A superhuman Jarvis in the hands of someone who cannot read power, cannot read markets, cannot read their own soul, and cannot read the people closest to them will amplify the same blindness at higher resolution.
+The Applied AI Society [north star](/docs/philosophy/north-star) is human flourishing, not AI adoption. Applied AI literacy is load-bearing for that flourishing, and only when it sits inside a broader picture. A superhuman Jarvis in the hands of someone who cannot read power, cannot read markets, cannot read themselves, and cannot read the people closest to them will amplify the same blindness at higher resolution.
 
-[Sovereignty](/docs/concepts/the-sovereignty-stack) follows the same logic. You can own every layer of the digital stack and still be controlled by a belief you never examined, a financial system you never understood, or a political narrative you inherited without knowing. Sovereignty over the infrastructure is necessary. It is not sufficient.
+Sovereignty follows the same logic. You can own every layer of the digital stack and still be controlled by a belief you never examined, a financial system you never understood, or a political narrative you inherited without knowing. Sovereignty over the infrastructure is necessary. It is not sufficient.
 
 The practical exercise: take your current situation and ask, honestly, where the literacies are that, if improved by even one grade, would change how you move through the world. Then go.
 
@@ -54,7 +58,6 @@ The practical exercise: take your current situation and ask, honestly, where the
 ## Further Reading
 
 - [Applied AI Literacy](/docs/applied-ai-practice): The one literacy Applied AI Society is organized around
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Infrastructure sovereignty, layer by layer
 - [Progressive Sovereignty](/docs/concepts/progressive-sovereignty): Sovereignty as a frontier you keep moving
 - [Hyperagency](/docs/concepts/hyperagency): What full agency looks like when AI is in the mix
 - [North Star](/docs/philosophy/north-star): Flourishing over adoption

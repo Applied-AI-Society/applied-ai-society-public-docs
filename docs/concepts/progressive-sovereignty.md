@@ -11,7 +11,7 @@ title: "Progressive Sovereignty"
 
 ## The Definition
 
-Progressive sovereignty is the recognition that **the sovereignty available to you today is not the sovereignty available to you next year**, and that genuine sovereignty in the AI era is something you continuously expand by climbing the [sovereignty stack](/docs/concepts/the-sovereignty-stack) one rung at a time.
+Progressive sovereignty is the recognition that **the sovereignty available to you today is not the sovereignty available to you next year**, and that genuine sovereignty in the AI era is something you continuously expand by climbing one rung at a time.
 
 A [Personal Agentic OS](/docs/concepts/personal-agentic-os) starts out modestly sovereign: your files live on your machine, but you depend on a hosted model API, a vendor's harness, and someone else's compute. Over time, as you migrate to local models, swap to open-source harnesses, run your own inference, and own more of the stack, your sovereignty deepens. Same operator. Same files. More of the stack actually yours.
 
@@ -34,7 +34,7 @@ The intersection of these two trends is why sovereignty has to be progressive. S
 
 Right now, deep sovereignty is a privilege. The people who can stand up their own inference cluster, run their own models, and operate fully outside vendor surveillance are the people with the technical chops, the time, and the capital to do it.
 
-**That is not the world we want.** Real human sovereignty over the tools that increasingly mediate every part of life is, ultimately, a [human right](/docs/concepts/inclusive-technological-advancement). Right now it is a privilege. The mission is to democratize it: to make every rung of the sovereignty stack progressively cheaper, easier, and more accessible until it is in reach for anyone who wants to climb.
+**That is not the world we want.** Real human sovereignty over the tools that increasingly mediate every part of life is, ultimately, a [human right](/docs/concepts/inclusive-technological-advancement). Right now it is a privilege. The mission is to democratize it: to make every layer of sovereignty progressively cheaper, easier, and more accessible until it is in reach for anyone who wants to climb.
 
 That mission has economic, technical, and educational dimensions. Cheaper hardware. Better open-source harnesses. And, foundationally, the literacy to know what to ask for.
 
@@ -44,7 +44,7 @@ That mission has economic, technical, and educational dimensions. Cheaper hardwa
 
 You cannot climb a stack you have never seen.
 
-The first move in progressive sovereignty for almost everyone is **awareness**: understanding that there even *is* a sovereignty stack, knowing which rung you are currently standing on, and developing the literacy to evaluate the next rung up. Most people are not even aware that their AI is hosted, their context is in someone else's database, and their workflows are tied to platforms that can change terms tomorrow.
+The first move in progressive sovereignty for almost everyone is **awareness**: understanding that sovereignty has many layers, knowing which layer you are currently standing on, and developing the literacy to evaluate the next rung up. Most people are not even aware that their AI is hosted, their context is in someone else's database, and their workflows are tied to platforms that can change terms tomorrow.
 
 Once that awareness lands, the rest follows. People start asking different questions. They start choosing different tools. They start owning what they can.
 
@@ -69,20 +69,19 @@ Without “progressive” as the modifier, sovereignty becomes a binary that alm
 
 With “progressive” as the modifier, sovereignty becomes a practice anyone can begin today, at whatever rung they can reach, and keep advancing. That reframe is the difference between sovereignty being a movement and sovereignty being a club for the already-empowered.
 
-> **Progressive sovereignty: the practice of climbing the sovereignty stack one rung at a time, every year, until what was once a privilege becomes a democratized human right.**
+> **Progressive sovereignty: the practice of climbing the layers of sovereignty one at a time, every year, until what was once a privilege becomes a democratized human right.**
 
 ---
 
 ## Further Reading
 
 - [The Exocortex](/docs/concepts/the-exocortex): The thing whose sovereignty this is progressively ratcheting. If you have gotten serious business value from an AI that is not sovereign, you have given it too much.
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): The full map of what can actually be sovereign, layer by layer.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system you build, where progressive sovereignty plays out in practice.
 - [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming): Why standing still on sovereignty is actively losing ground.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): The pattern of building sovereign layers on top of existing systems.
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The literacy floor required to even begin climbing.
 - [Learn the Harness, Not the Wrapper](/docs/concepts/learn-the-harness-not-the-wrapper): A specific instance of choosing the more sovereign path.
-- [The Soul Harness](/docs/concepts/the-soul-harness): What is at stake on the other side of the sovereignty question.
+- [The Life Harness](/docs/concepts/the-life-harness): What is at stake on the other side of the sovereignty question.
 - [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The ethical commitment that makes the sovereignty mission a movement, not a club.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): The educational counterpart of sovereign infrastructure.
 - [Get Jarvised](/docs/get-jarvised): The practical entry point to start climbing.

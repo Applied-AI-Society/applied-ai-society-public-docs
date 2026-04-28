@@ -45,12 +45,11 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 
 ### Sovereignty
 
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Every layer of your digital life has a default controlled by someone else. The full map from silicon to content, and what sovereign alternatives exist.
 - [Progressive Sovereignty](/docs/concepts/progressive-sovereignty): Sovereignty in the AI era is not a state you achieve, it's a frontier you keep moving. From privilege today toward democratized human right.
-- [Literacies That Matter](/docs/concepts/literacies-that-matter): Applied AI literacy gets the attention. Financial, sociopolitical, spiritual, and other literacies still matter. A prompt to audit what you need to flourish and stay sovereign.
+- [Literacies That Matter](/docs/concepts/literacies-that-matter): Applied AI literacy gets the attention. Financial, sociopolitical, and other literacies still matter. A prompt to audit what you need to flourish and stay sovereign.
 - [Scam Literacy](/docs/concepts/scam-literacy): A real-time, community-maintained awareness of how scams currently work. If you can sell at scale, you can scam at scale. Textbooks go stale; communities keep pace.
 - [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming): Every VC-backed hyperscaler will eventually move to lock you in. Own your data, own your models, own your harness, own your future.
-- [The Soul Harness](/docs/concepts/the-soul-harness): The systems wrapped around you that either liberate or extract. Predatory harnesses make you dependent. Liberating harnesses make you free.
+- [The Life Harness](/docs/concepts/the-life-harness): The systems wrapped around you that either liberate or extract. Predatory harnesses make you dependent. Liberating harnesses make you free.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building AI-powered layers on top of existing systems to free trapped value, rather than replacing what already works
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements to participate in the applied AI economy. They are higher than most people realize.
 - [Learn the Harness, Not the Wrapper](/docs/concepts/learn-the-harness-not-the-wrapper): Claude Code and Hermes are harnesses (primitives). Claude Cowork is a wrapper over Claude Code. We teach the harness directly so your skills transfer across every agent you will ever use. (See also: [Harness Engineering](/docs/concepts/harness-engineering))
@@ -69,8 +68,8 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 ### Economy and Roles
 
 - [Hyperagency](/docs/concepts/hyperagency): Two types of people are emerging: hyperagents (humans amplified by AI) and everyone else. The defining split of this economy.
-- [Soul Skills](/docs/concepts/soul-skills): Presence, taste, judgment, care, and the specific shape they take inside you. The skills AI cannot replicate, and the durable commercial edge underneath every sustained career in an AI-native market.
-- [Soulful Comparative Advantage](/docs/concepts/soulful-comparative-advantage): The applied AI engineer's job is to engineer the supersuit around an essential human role. Collapse the drudgery, protect the soul work, give the practitioner their time back to do the thing only they can do.
+- [Human Skills](/docs/concepts/human-skills): Presence, taste, judgment, care, and the specific shape they take inside you. The skills AI cannot replicate, and the durable commercial edge underneath every sustained career in an AI-native market.
+- [Human Comparative Advantage](/docs/concepts/human-comparative-advantage): The applied AI engineer's job is to engineer the supersuit around an essential human role. Collapse the drudgery, protect the human work, give the practitioner their time back to do the thing only they can do.
 - [Conjoined Agency](/docs/concepts/conjoined-agency): The second frame on what a hyperagent is. Real agency is the trust of other high-agency people who will help enact your will. Tool-agency is not agency. Vibe coding does not build the relational layer.
 - [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability): The floor below which you are no longer a credible commercial actor in 2026. Four load-bearing pieces: applied AI literacy, a working Personal Agentic OS, a body of public work, and active market engagement.
 - [The Water Line](/docs/concepts/the-water-line): The specific, mechanistic account of what is rising inside The New Flood. The minimum level of intelligence agency required to stay economically viable, going up every quarter. People below it are drowning.
@@ -108,7 +107,7 @@ Key ideas shaping the applied AI economy. Some of these are established terms. S
 - [Personal Software](/docs/concepts/personal-software): Software built for one person's exact workflow. The future of personal AI for non-technical professionals.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): If people need a meeting with you to access what you know, your knowledge is in a bottleneck. And that bottleneck is you.
 - [Community of Practice](/docs/concepts/community-of-practice): A living people-centered organism that compounds. Not a meetup, not a Discord. People actively applying a craft, sharing field notes, making each other better.
-- [Soul of a Scene](/docs/concepts/soul-of-a-scene): Every scene exists because a person, or a small group of people, decided it would. The scene does not exist in cities where nobody has.
+- [Anchor of a Scene](/docs/concepts/anchor-of-a-scene): Every scene exists because a person, or a small group of people, decided it would. The scene does not exist in cities where nobody has.
 
 ### Design Patterns
 

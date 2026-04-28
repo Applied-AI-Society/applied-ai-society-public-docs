@@ -65,7 +65,7 @@ As [agent-accessible products](/docs/concepts/agent-accessible-products) prolife
 
 ## Sovereignty Implications
 
-A computer-use agent operating on your behalf sees everything on your screen. Credentials. Customer data. Banking information. Every document you happen to have open. See [the sovereignty stack](/docs/concepts/the-sovereignty-stack) for the broader frame.
+A computer-use agent operating on your behalf sees everything on your screen. Credentials. Customer data. Banking information. Every document you happen to have open. 
 
 Two guardrails that are load-bearing:
 
@@ -92,7 +92,6 @@ Strategy stays with you. Execution moves to the agent. [Strategy is the new exec
 
 - [Agent-Accessible Products](/docs/concepts/agent-accessible-products): The first-choice alternative. Why CLIs, APIs, and MCP servers are preferable when available, and why the products with them will outcompete the ones without.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that computer use plugs into.
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): The broader frame for why running capable agents on your own infrastructure matters.
 - [Harness Engineering](/docs/concepts/harness-engineering): What wraps the model. Computer use is a harness capability, not a model capability.
 - [Human Emulators](/docs/concepts/human-emulators): The extractive twin of the same capability. Same instrument, opposite direction.
 - [Strategy Is the New Execution](/docs/concepts/strategy-is-the-new-execution): The meta-shift computer use makes complete for all digital work.

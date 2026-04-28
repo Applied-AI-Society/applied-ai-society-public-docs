@@ -26,7 +26,7 @@ The analogy is regenerative agriculture. A regenerative farm puts more carbon in
 
 **On the people side, regenerative AI:**
 
-- Gives users more time for the work that requires a [human soul](/docs/philosophy/canon), and less time for the work that does not.
+- Gives users more time for the human-only work (see [the Canon](/docs/philosophy/canon)), and less time for the work that does not.
 - Builds individual capability that compounds ([applied AI discipline](/docs/concepts/applied-ai-practice)), rather than outsourcing judgment to a platform.
 - Strengthens local community ties through chapters and co-learning, rather than replacing human connection with a chat window.
 - Distributes sovereignty over data, context, and models, rather than concentrating it in a handful of hyperscalers.
@@ -48,7 +48,7 @@ Framing matters because framing sets the policy, the investment posture, the nor
 
 ## What AAS Is Committing To
 
-Applied AI Society builds, teaches, and funds toward the regenerative frame. Our three pillars (workshops, open docs, local chapters) are designed to distribute capability widely and hold the physical infrastructure of AI to account at the same time. See [about](/docs/about) for the four scales of our responsibility (business, community, humanity, planet) and [the new flood](/docs/concepts/the-new-flood) for the convergence of crises that makes the regenerative posture non-optional.
+Applied AI Society builds, teaches, and funds toward the regenerative frame. Our three pillars (workshops, open docs, local chapters) are designed to distribute capability widely and hold the physical infrastructure of AI to account at the same time. See [about](/docs/about) for the four scales of our responsibility (business, community, humanity, planet) and [the new flood](/docs/concepts/the-omni-crisis) for the convergence of crises that makes the regenerative posture non-optional.
 
 Near-term commitments:
 
@@ -72,7 +72,6 @@ Refusing to engage because AI is often extractive today hands the entire future 
 ## Further Reading
 
 - [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The adjacent frame on who gets to benefit from the advance. Inclusive is the distribution dimension; regenerative is the ecological-and-human-systems dimension. Both matter.
-- [The New Flood](/docs/concepts/the-new-flood): The convergence of crises that makes the regenerative posture load-bearing.
+- [The Omni-Crisis](/docs/concepts/the-omni-crisis): The convergence of crises that makes the regenerative posture load-bearing.
 - [Humanity-First Flywheel](/docs/about/humanity-first-flywheel): The mechanism by which AAS's work compounds toward the regenerative frame.
-- [Applied AI Canon](/docs/philosophy/canon): The soul-work vs necessary-work distinction under the regenerative commitment.
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Why distributed capability is load-bearing for the regenerative outcome.
+- [Applied AI Canon](/docs/philosophy/canon): The human-only work vs necessary-work distinction under the regenerative commitment.

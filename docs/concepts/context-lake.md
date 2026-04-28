@@ -78,7 +78,7 @@ A context lake starts personal but can scale to teams and organizations:
 
 - **Personal context lake:** Your Personal Agentic OS workspace. Everything about you and your operation.
 - **Shared context lake:** An [agentic project OS](/docs/concepts/lossy-ai-telephone) where a team collaborates from the same source of truth, eliminating [lossy AI telephone](/docs/concepts/lossy-ai-telephone).
-- **Organizational context lake:** The “company bible” ([start yours here](/docs/concepts/legacy/start-your-company-bible)). The living, version-controlled single source of truth for how the organization works.
+- **Organizational context lake:** The “company handbook” ([start yours here](/docs/concepts/legacy/start-your-company-handbook)). The living, version-controlled single source of truth for how the organization works.
 - **Federated context lakes:** The [Hypercontext Protocol](/docs/concepts/hypercontext-protocol) vision, where trusted agents query each other's context lakes directly.
 
 Each level builds on the one before it. Start with yours.

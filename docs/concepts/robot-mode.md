@@ -13,7 +13,7 @@ title: "Robot Mode"
 
 Robot mode is what happens when a job reduces a human being to a set of repeatable, mechanical tasks. Cranking out widgets on an assembly line. Giving the same tour script for the eighth time today. Copy-pasting data between spreadsheets. Filling out the same form fields. Sending the same follow-up email.
 
-You know you are in robot mode when your soul feels empty. When you are physically present but mentally checked out. When the work does not require your judgment, your creativity, or your personality. Just your hands and your time.
+You know you are in robot mode when your engagement feels empty. When you are physically present but mentally checked out. When the work does not require your judgment, your creativity, or your personality. Just your hands and your time.
 
 A lot of the old economy was built on robot mode. Entire industries were structured around training people to suppress their humanity and behave like machines: consistent, predictable, fast. And for a long time, that was a viable economic path. There was no alternative. Someone had to do the repetitive work.
 
@@ -46,7 +46,7 @@ That is not losing your humanity to machines. That is getting your humanity back
 If you find yourself in a role where a significant portion of your job is robot mode:
 
 1. **Map it.** Identify every task in your week that does not require your judgment, creativity, or personal presence. Be honest. It is probably more than you think.
-2. **Automate it.** Use your [Personal Agentic OS](/docs/concepts/personal-agentic-os), AI tools, or simple scripts to handle those tasks. Start with the most repetitive, soul-draining ones first.
+2. **Automate it.** Use your [Personal Agentic OS](/docs/concepts/personal-agentic-os), AI tools, or simple scripts to handle those tasks. Start with the most repetitive, draining ones first.
 3. **Reclaim the time.** Pour the freed-up hours into the work that actually requires you: building relationships, making creative decisions, solving novel problems, being present with people.
 4. **Compound.** As you automate more, your [flow state](/docs/concepts/flow-state-infra) deepens. You build infrastructure that eliminates friction permanently. Your creative output increases. The cycle accelerates.
 

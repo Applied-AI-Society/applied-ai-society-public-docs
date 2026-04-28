@@ -158,7 +158,7 @@ AI proficiency also moved into performance management. It is not optional. It is
 
 ## Why They Built Instead of Bought
 
-Ramp's reasoning for building in-house maps directly to the [sovereignty](/docs/concepts/the-sovereignty-stack) argument:
+Ramp's reasoning for building in-house maps directly to the sovereignty argument:
 
 **Internal productivity is a moat.** The companies that make every employee effective with AI will move faster, serve customers better, and compound advantages their competitors cannot match. You do not hand your moat to a vendor.
 
@@ -180,7 +180,7 @@ The Ramp story validates, at corporate scale, nearly every core AAS concept:
 | [Context Engineering](/docs/concepts/context-engineering) | Auto-built memory from authenticated connections. |
 | [Always-On Agents](/docs/concepts/always-on-agents) | Scheduled automations, Slack assistants, headless mode. |
 | [Flow-State Infra](/docs/concepts/flow-state-infra) | Workspace with split panes, persistent layout, inline rendering. |
-| [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack) | Built in-house because internal AI infra is a competitive moat. |
+| sovereignty over your tools | Built in-house because internal AI infra is a competitive moat. |
 | [Self-Improving Enterprise](/docs/concepts/self-improving-enterprise) | The Dojo flywheel plus creative destruction: tools improve weekly. |
 | [The Encounter](/docs/concepts/the-encounter) | “The product is the enablement.” 700-person hackathon as mass encounter. |
 | [Four Levels](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses) | L0-L3 proficiency ladder mirrors the AAS levels framework. |
@@ -238,7 +238,6 @@ The most important lesson is the simplest one: just get started.
 - [Instruction Files](/docs/concepts/instruction-files): The unit of shared knowledge. Ramp's Dojo runs on markdown skill files.
 - [The Four Levels of Applied AI](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): The diagnostic ladder. Ramp's L0-L3 proficiency framework mirrors it.
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where the Dojo flywheel leads. Every skill shared makes the next one more useful.
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Why Ramp built instead of bought. Own your infrastructure, own your moat.
 - [The Encounter](/docs/concepts/the-encounter): Why the product teaches faster than any workshop. The 700-person hackathon as mass encounter.
 - [See Your Own Thinking](/docs/concepts/see-your-own-thinking): What happens when every employee has a thinking partner with their full context. The metacognition unlock at organizational scale.
 - [Your Two Futures](/docs/philosophy/your-two-futures): The fork every organization faces. Ramp chose Future A. The question is whether you will.

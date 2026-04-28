@@ -14,7 +14,7 @@ description: "Flagship reasons people walk into a Supersuit Up workshop and neve
 
 Jarvis is a general-purpose system. That is a feature, and it is also a communication problem: when someone asks "what would I actually use this for?", an answer like "anything you want" is technically correct and practically useless.
 
-This section is the antidote. Each page in Use Cases is a single, flagship reason someone would invest the hours to get [Jarvised](/docs/get-jarvised) and stay in the daily discipline. Written for the person who wants to see themselves in a specific scenario before they decide to walk through the door.
+This section is the antidote. Each page in Use Cases is a single, flagship reason someone would invest the hours to get [Jarvised](/docs/get-jarvised) and stay in the daily practice. Written for the person who wants to see themselves in a specific scenario before they decide to walk through the door.
 
 The list will grow. Every use case we publish here has passed two tests: real people are living the outcome on their own laptops right now, and the value is legible to someone who has never opened Claude Code before.
 

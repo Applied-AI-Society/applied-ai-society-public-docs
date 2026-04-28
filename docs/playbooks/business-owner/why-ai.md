@@ -41,7 +41,7 @@ Every business has manual work that drains valuable hours from the team. Data en
 
 AI can take over the repetitive parts so your team focuses on the highest-value activities: building relationships, making strategic decisions, serving customers in ways that require human judgment.
 
-A media company we worked with had content creators spending hours on production mechanics (downloading videos, reformatting images, adding captions). After building custom AI tools for those workflows, the team spent almost all their time on editorial decisions instead. Same team, dramatically more output, higher quality. ([Read the full case study](/docs/case-studies/gary-sheng-media-automation))
+A media company we worked with had content creators spending hours on production mechanics (downloading videos, reformatting images, adding captions). After building custom AI tools for those workflows, the team spent almost all their time on editorial decisions instead. Same team, dramatically more output, higher quality.
 
 ### 2. Connect With the Right People
 

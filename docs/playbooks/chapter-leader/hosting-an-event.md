@@ -282,9 +282,9 @@ Let me introduce you to [Business Owner Name].
 
 Here's the interesting thing about [Business Owner].
 
-They have this philosophy: [their frame, e.g., "there's soul work and there's soulless work"].
+They have this philosophy: [their frame, e.g., "there's human work and there's rote work"].
 
-[Soul work description: the stuff that requires them, should never be automated].
+[Human work description: the stuff that requires them, should never be automated].
 
 [Soulless work description: the infrastructure that can be delegated].
 

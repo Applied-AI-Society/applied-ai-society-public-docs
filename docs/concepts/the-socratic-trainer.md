@@ -31,7 +31,7 @@ A useful metaphor. Most companies hiring an AI trainer think they are buying the
 
 The sauce is a trap. In a field that updates quarterly, the sauce expires faster than the invoice clears. What you actually want is the **master chef**: the person who can generate new sauce recipes whenever the kitchen changes. The sauce recipe generator.
 
-Human capital here is divine capital: the image-bearer who can receive new patterns and translate them into sauce for whichever kitchen they walk into. A template is a snapshot of a generator's output. The generator is the asset.
+Human capital here is rare capital: the image-bearer who can receive new patterns and translate them into sauce for whichever kitchen they walk into. A template is a snapshot of a generator's output. The generator is the asset.
 
 If your budget allows for it, hire the generator.
 

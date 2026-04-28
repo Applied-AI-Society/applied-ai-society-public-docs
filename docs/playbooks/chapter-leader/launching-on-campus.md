@@ -164,7 +164,7 @@ If people attend your event, join the group chat, come to co-works, and one of t
 ## See Also
 
 - [Starting a Chapter or Community](/docs/playbooks/chapter-leader/starting-a-chapter): The general guide for any chapter type
-- [Soul of a Scene](/docs/concepts/soul-of-a-scene): Why the person who decides is the bottleneck on any city's applied AI scene
+- [Anchor of a Scene](/docs/concepts/anchor-of-a-scene): Why the person who decides is the bottleneck on any city's applied AI scene
 - [Community of Practice](/docs/concepts/community-of-practice): What a chapter is actually cultivating
 - [Event Formats](/docs/playbooks/chapter-leader/event-formats): Full catalog of event types
 - [The Five Levels of Value](/docs/playbooks/student/five-levels-of-value): Framework for understanding where you sit in the AI economy

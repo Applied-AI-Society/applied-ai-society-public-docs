@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2.5
 title: "Applied AI"
-description: "The highest and best use of AI in service of whatever you are working toward. Not confined to business. Any goal a human can hold (commercial, creative, civic, spiritual, personal, public good) qualifies. The defining question is not what AI can do; it is what a human has decided to use it to accomplish."
+description: "The highest and best use of AI in service of whatever you are working toward. Not confined to business. Any goal a human can hold (commercial, creative, civic, personal, public good) qualifies. The defining question is not what AI can do; it is what a human has decided to use it to accomplish."
 ---
 
 # Applied AI
@@ -38,7 +38,7 @@ Every one of these is applied AI done correctly. The commercial frame is one of 
 
 ## Commercial Success Is One Important Application
 
-The most widely-discussed version of applied AI is commercial: using AI so your organization stays, and becomes, commercially viable in an economy that is restructuring in real time. That version has immediate life-or-death stakes for most businesses, and those stakes are laid out in full in our published paper [The Writing On the Wall: the Rise of Applied AI and the Life-or-Death Choice Every CEO Must Make Now](https://digitalcommons.humboldt.edu/digitallab/13/) (Roberts and Sheng, *Journal of the Internet*, 2026).
+The most widely-discussed version of applied AI is commercial: using AI so your organization stays, and becomes, commercially viable in an economy that is restructuring in real time. That version has immediate life-or-death stakes for most businesses.
 
 For the commercial rung specifically, see also [sustained commercial success](/docs/concepts/sustained-commercial-success) for why we hold the bar on what the discipline requires.
 
@@ -91,7 +91,6 @@ If you are at the start of walking this discipline, see the [applied AI discipli
 
 ## Further Reading
 
-- [The Writing On the Wall (Roberts and Sheng, 2026)](https://digitalcommons.humboldt.edu/digitallab/13/): The published paper that names the commercial stakes in full. The life-or-death version of applied AI for CEOs.
 - [Applied AI Discipline](/docs/concepts/applied-ai-practice): The daily discipline of walking applied AI. Literacy, practice, mastery as a ladder.
 - [The Applied AI Literacy Earthshot](/docs/applied-ai-practice/earthshot): AAS's specific commitment to the activation bar.
 - [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): The commercial rung of the same discipline, held to a non-negotiable bar.

@@ -69,7 +69,7 @@ Super suits for all.
 
 ## How to Survive the Slopacalypse
 
-The businesses and technologies that will stand out are the ones built from something deeper than opportunity analysis. You can obviously build apps without any spiritual conviction. Many successful products are born from pure market insight. But the ones that break through the noise of a million AI-generated competitors tend to share a quality that is hard to manufacture: the builder knows, with a conviction that precedes the spreadsheet, that this thing is supposed to exist. That conviction might come from years of domain experience, from a problem that kept you up at night, from a community that is begging for a solution. Or it might come from somewhere higher. Whatever the source, the clearest specs come from downloads, not pivot tables.
+The businesses and technologies that will stand out are the ones built from something deeper than opportunity analysis. You can obviously build apps without any deep conviction. Many successful products are born from pure market insight. But the ones that break through the noise of a million AI-generated competitors tend to share a quality that is hard to manufacture: the builder knows, with a conviction that precedes the spreadsheet, that this thing is supposed to exist. That conviction might come from years of domain experience, from a problem that kept you up at night, from a community that is begging for a solution. Or it might come from somewhere higher. Whatever the source, the clearest specs come from downloads, not pivot tables.
 
 What survives the slopacalypse:
 
@@ -106,5 +106,5 @@ This is the applied AI economy. Not shipping more slop. Shipping super suits.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The individual command center
 - [Harness Engineering](/docs/concepts/harness-engineering): The technical foundation for custom systems
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): What gets built on top of harnesses
-- [The Soul Harness](/docs/concepts/the-soul-harness): Choosing systems that liberate rather than extract
+- [The Life Harness](/docs/concepts/the-life-harness): Choosing systems that liberate rather than extract
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where continuous feedback loops lead at the business level

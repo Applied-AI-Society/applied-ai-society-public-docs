@@ -79,7 +79,7 @@ Tools like RDFOX and other graph-database systems can hold the ontology once you
 
 ## Why This Matters For AAS
 
-Applied AI Society is itself an example of this principle in action. The [canonical vocabulary](/docs/about) of the discipline ([Personal Agentic OS](/docs/concepts/personal-agentic-os), [Jarvising](/docs/get-jarvised), [Activation](/docs/concepts/activation), [Hyperagent](/docs/concepts/hyperagency), [Applied AI](/docs/concepts/applied-ai), [the Elevator Economy](/docs/concepts/the-elevator-economy), [the Ark of One](/docs/concepts/the-ark-of-one), [the New Flood](/docs/concepts/the-new-flood)) is an ontology for applied AI. Without it, every chapter and every practitioner would invent their own vocabulary, and no insight would compound across the network.
+Applied AI Society is itself an example of this principle in action. The [canonical vocabulary](/docs/about) of the discipline ([Personal Agentic OS](/docs/concepts/personal-agentic-os), [Jarvising](/docs/get-jarvised), [Activation](/docs/concepts/activation), [Hyperagent](/docs/concepts/hyperagency), [Applied AI](/docs/concepts/applied-ai), [the Elevator Economy](/docs/concepts/the-elevator-economy), [the Omni-Crisis](/docs/concepts/the-omni-crisis)) is an ontology for applied AI. Without it, every chapter and every practitioner would invent their own vocabulary, and no insight would compound across the network.
 
 When you build a domain-specific applied AI tool, you are building two things: the agent that does the work, and the ontology the agent operates on. The ontology is the moat.
 

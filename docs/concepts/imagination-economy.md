@@ -20,13 +20,13 @@ The imagination economy sits on top of three converging facts:
 
 1. **AI compresses the cost of bringing an imagined thing into existence.** What used to require a team of twenty and eighteen months now requires a team of three and six weeks. Implementation is no longer the gate.
 2. **Distribution has been democratized.** Anyone with a laptop can reach a global audience. Reach is not the gate either.
-3. **The remaining gate is the quality and specificity of the thing being imagined.** Vision, taste, soul, coherence, emotional truth. Not things you can buy with venture capital.
+3. **The remaining gate is the quality and specificity of the thing being imagined.** Vision, taste, presence, coherence, emotional truth. Not things you can buy with venture capital.
 
 Put those three together and the bottleneck settles on imagination itself, the uniquely human capacity to see what is not yet there.
 
 ## Why It Matters Now, Specifically
 
-The defining companies and technologies of this decade will be the ones **that couldn't have existed before 2026**. Before now, the imagination required for them was not matched by the tooling to build them. The operator who imagined them could not access the capacity to ship them. The operator with the capacity to ship did not have the soul to imagine them. Everyone was gated.
+The defining companies and technologies of this decade will be the ones **that couldn't have existed before 2026**. Before now, the imagination required for them was not matched by the tooling to build them. The operator who imagined them could not access the capacity to ship them. The operator with the capacity to ship did not have the conviction to imagine them. Everyone was gated.
 
 The 2026 unlock is the moment the two halves of that equation converged in the hands of individual operators. A single committed practitioner, with a [Personal Agentic OS](/docs/concepts/personal-agentic-os) and a clear vision, can now build and release things that required whole companies five years ago. What they are bringing into existence is the imagination economy's catalog.
 

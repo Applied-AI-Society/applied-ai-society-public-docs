@@ -10,7 +10,7 @@ description: "Applied AI Society champions the applied AI discipline: the daily 
 
 Applied AI discipline is the daily, embodied form of **[applied AI](/docs/concepts/applied-ai)**: the discipline of **wielding the supercomputational power of AI to serve yourself, serve the people around you, and serve the world you care about**. Whatever that service looks like in your life: a company, a calling, a craft, a community, a family, a cause.
 
-That includes business: scoping projects, evaluating tools, building or commissioning real solutions for real organizations. It includes everything else. Your creative practice. Your relationships. Your parenting. Your fitness. Your spiritual life. Your community. Your learning. Your craft. Your unfinished personal projects. The vision you have been carrying that nobody else can pursue for you.
+That includes business: scoping projects, evaluating tools, building or commissioning real solutions for real organizations. It includes everything else. Your creative practice. Your relationships. Your parenting. Your fitness. Your inner life. Your community. Your learning. Your craft. Your unfinished personal projects. The vision you have been carrying that nobody else can pursue for you.
 
 Applied AI discipline means you can look at any of those domains, see where AI fits, and deploy it. The most leveraged version of that deployment is the **[Personal Agentic OS](/docs/concepts/personal-agentic-os) (also called your Jarvis)**: a system that lives on your computer, knows you, and helps you execute on your will every day. See [Get Jarvised](/docs/get-jarvised) for the on-ramp. See the [Applied AI Discipline concept](/docs/concepts/applied-ai-practice) for why "discipline" is the load-bearing word.
 
@@ -20,7 +20,7 @@ Think of it this way: knowing that electricity exists did not change anyone's li
 
 ## Why It Matters Now
 
-We are in the middle of [the New Flood](/docs/concepts/the-new-flood).
+We are in the middle of [the New Flood](/docs/concepts/the-omni-crisis).
 
 Jobs are shifting faster than institutions can adapt. Information overload makes it harder to separate signal from noise. Deepfakes erode trust. The economy is splitting into [the elevator economy](/docs/concepts/the-elevator-economy): those who can wield AI are compounding, and those who cannot are falling behind.
 
@@ -78,11 +78,11 @@ Applied AI discipline is for anyone with a will to advance in the world. That is
 
 **International communities** where the AI economy is arriving fast and the infrastructure, education, and support systems have yet to catch up.
 
-**Creatives and artists** who want a thinking partner for the work, not a replacement. Who want to spend more of their time on the soul of the craft and less on the busywork around it.
+**Creatives and artists** who want a thinking partner for the work, not a replacement. Who want to spend more of their time on the heart of the craft and less on the busywork around it.
 
 **Parents** who want to model serious learning for their kids, manage the operational chaos of family life, and stay present for the moments that matter.
 
-**Pastors, faith leaders, and spiritually serious people** who want their AI to honor the fullness of who they are, including the parts that do not show up in a quarterly business review.
+**Mission-driven leaders and deeply convicted people** who want their AI to honor the fullness of who they are, including the parts that do not show up in a quarterly business review.
 
 **Athletes, coaches, and performers** who want to externalize their training data, their game film, and their evolving theory of their craft into a system that compounds.
 

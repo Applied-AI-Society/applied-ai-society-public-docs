@@ -13,7 +13,7 @@ The Applied AI Society does not run Corporate Upskiller engagements. This page d
 
 ## What They Do
 
-The Corporate Upskiller walks a company's leadership and teams through a real transition into the applied AI discipline. An in-depth, analysis-first, hands-on engagement that leaves every participant with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) installed on their actual machine and a daily discipline that compounds.
+The Corporate Upskiller walks a company's leadership and teams through a real transition into the applied AI discipline. An in-depth, analysis-first, hands-on engagement that leaves every participant with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) installed on their actual machine and a daily practice that compounds.
 
 Concretely:
 

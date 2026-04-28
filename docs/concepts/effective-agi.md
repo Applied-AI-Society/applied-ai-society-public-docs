@@ -50,7 +50,7 @@ For most people, effective AGI becomes real through three specific unlocks:
 
 **2. Persistence makes it compound.** A single conversation with AI is useful. A persistent system that remembers everything, updates itself daily, and gets better over time is transformative. This is the [Personal Agentic OS](/docs/concepts/personal-agentic-os) unlock. At 90 days of compounding context, the system knows your operation well enough to anticipate what you need before you ask.
 
-**3. Self-knowledge makes it aligned.** AI amplifies whatever you point it at. If you know your unique gifts, your mission, and the specific value you bring to the world, AI amplifies something real. If you do not, AI amplifies drift. This is the deepest unlock, and it is the one no technology can provide. You have to do the inner work. The [soul harness](/docs/concepts/the-soul-harness) makes the case for why this matters.
+**3. Self-knowledge makes it aligned.** AI amplifies whatever you point it at. If you know your unique gifts, your mission, and the specific value you bring to the world, AI amplifies something real. If you do not, AI amplifies drift. This is the deepest unlock, and it is the one no technology can provide. You have to do the inner work. The [life harness](/docs/concepts/the-life-harness) makes the case for why this matters.
 
 ## The Practical Implication
 
@@ -69,6 +69,6 @@ The tools are ready. Suit up.
 - [Context Engineering](/docs/concepts/context-engineering): The discipline that makes AGI effective for your specific situation
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The prerequisite practice that removes the human bottleneck
 - [Harness Engineering](/docs/concepts/harness-engineering): Building the persistent system around the model
-- [The Soul Harness](/docs/concepts/the-soul-harness): Why self-knowledge is the deepest unlock
+- [The Life Harness](/docs/concepts/the-life-harness): Why self-knowledge is the deepest unlock
 - [The Survivor Economy](/docs/concepts/the-survivor-economy): The economic reality created by effective AGI
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): Where to start building your system

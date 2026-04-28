@@ -67,7 +67,7 @@ If the person or firm you are evaluating cannot pass at least five of these six,
 
 The frame is sustainable long-term empowerment activation. Each word is load-bearing.
 
-- **Sustainable.** The company does not become dependent on any vendor's cost curve or roadmap. Skills and context are owned by the people who built them and by the organization that houses them. See [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack) and [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming).
+- **Sustainable.** The company does not become dependent on any vendor's cost curve or roadmap. Skills and context are owned by the people who built them and by the organization that houses them. See sovereignty over your tools and [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming).
 - **Long-term.** The investment compounds. Every skill file an employee writes is an asset the rest of the team inherits. Every harness a team learns is reusable across every future vendor transition. The more the company invests early, the more the returns compound.
 - **Empowerment.** The employee is upgraded. Empowerment refuses the "useless class" narrative and insists on co-authorship of what the company builds next. See [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed).
 - **Activation.** The felt crossing into [hyperagency](/docs/concepts/hyperagency), the specific psychological shift that turns a license into a practice. Without activation, the rest of the structure is scaffolding around a skill that never arrived.

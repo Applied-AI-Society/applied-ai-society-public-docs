@@ -87,13 +87,13 @@ This is not premature optimization. This is the foundational habit of anyone who
 
 A cron job is a task that runs on a schedule without you thinking about it. Most people underestimate how much of their cognitive load comes from remembering to do recurring tasks. Check the inbox. Sync the data. Review the dashboard. Follow up on the email.
 
-When those tasks run automatically, you do not just save time. You save mental energy. You free up the part of your brain that was tracking fifteen open loops so it can focus on the one thing that matters right now. [Always-on agents](/docs/concepts/always-on-agents) are the natural extension of this idea: systems that work while you sleep, think, or do the soul-requiring work that no machine can touch.
+When those tasks run automatically, you do not just save time. You save mental energy. You free up the part of your brain that was tracking fifteen open loops so it can focus on the one thing that matters right now. [Always-on agents](/docs/concepts/always-on-agents) are the natural extension of this idea: systems that work while you sleep, think, or do the human-only work that no machine can touch.
 
 ### 10. Get out of robot mode.
 
 This is the foundation everything else sits on. [Robot mode](/docs/concepts/robot-mode) is when your work does not require your judgment, your creativity, or your personality. Just your hands and your time. If the job description is “be a robot,” a robot will take your job.
 
-Working smart means recognizing what you, in your unique human soul, should be doing versus what a machine should be doing. Then ruthlessly delegating the machine work to machines. Not someday. Today.
+Working smart means recognizing what you, in your unique self, should be doing versus what a machine should be doing. Then ruthlessly delegating the machine work to machines. Not someday. Today.
 
 ---
 

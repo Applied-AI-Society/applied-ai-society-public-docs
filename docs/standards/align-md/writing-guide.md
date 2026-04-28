@@ -139,7 +139,7 @@ Tips for writing dealbreakers:
 
 - **Be specific about the behavior, not the character.** “Dishonest people” is a character judgment. “Organizations that misrepresent their AI capabilities to clients” is a behavior you can observe.
 - **Include structural dealbreakers.** Some misalignment isn't about values. It's about structure. “Partners who require 90-day payment terms” is structural. “Organizations without a technical co-founder” is structural. These matter.
-- **Include the ones that feel awkward to state.** If you have spiritual convictions that affect partnership decisions, say so. If you won't work with certain industries, say so. If you have strong opinions about specific technologies or business models, say so. The point of this section is to be upfront about the things that usually stay unsaid until they cause problems.
+- **Include the ones that feel awkward to state.** If you have deep convictions that affect partnership decisions, say so. If you won't work with certain industries, say so. If you have strong opinions about specific technologies or business models, say so. The point of this section is to be upfront about the things that usually stay unsaid until they cause problems.
 - **Update this section when partnerships fail.** Every failed partnership teaches you a new dealbreaker. Add it.
 
 ### Current Priorities
@@ -189,7 +189,7 @@ Guidelines:
 
 - **Lead with the synthesis, not the list.** Your Identity section should describe how your roles connect, not list them separately.
 - **Surface tensions honestly.** If your ministry work and your business have different priorities, that's useful information. Don't hide it.
-- **Show the hierarchy.** Which commitments take priority? If your faith comes first and your business comes second, say so. Partners need to know what they're working with.
+- **Show the hierarchy.** Which commitments take priority? If your civic mission comes first and your business comes second, say so. Partners need to know what they're working with.
 - **Reference the org-level files.** Link to each organization's ALIGN.md if they exist. Your personal file is the synthesis. The org files are the details.
 
 Bad:
@@ -197,7 +197,7 @@ Bad:
 # Identity
 
 I am the co-steward of AAS. I also co-founded . I also have a
-faith blog.
+personal blog.
 ```
 
 Good:
@@ -207,7 +207,7 @@ Good:
 Co-steward of Applied AI Society (making the world applied AI
 literate), co-founder of a cultural-infrastructure studio at the
 intersection of AI, culture, and sovereignty, and author of a documented
-Christian worldview that shapes every decision. These aren't
+deep mission-driven worldview that shapes every decision. These aren't
 side projects. They're the same mission from different angles: shepherding
 people through the Great Transition with agency, dignity, and truth intact.
 ```

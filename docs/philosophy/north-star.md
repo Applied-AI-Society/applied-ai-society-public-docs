@@ -33,7 +33,7 @@ Events pull people into the applied AI economy. Content builds awareness. Playbo
 
 ## Why These Metrics
 
-The [Canon](/docs/philosophy/canon) says efficiency is a tool, not the goal. The goal is more soul-requiring work in the world. Our [Principles](/docs/philosophy/principles) say business outcomes over technology fascination.
+The [Canon](/docs/philosophy/canon) says efficiency is a tool, not the goal. The goal is more human-only work in the world. Our [Principles](/docs/philosophy/principles) say business outcomes over technology fascination.
 
 Jarvises, literacy reach, active chapters, and opportunity matches sit at the intersection of both. Getting someone their Jarvis puts real leverage in real hands. Seeding derivative courses puts the base layer into the hands of communities we could never serve directly. Active chapters are where the literacy actually compounds into mastery. Matching a practitioner with a client puts a real person in a position to do real work that matters. That's the path we're building: from “I want to do this” to “I'm getting paid to do this,” and the same path for founders, operators, and creatives who want their own lives to 10x through applied AI.
 

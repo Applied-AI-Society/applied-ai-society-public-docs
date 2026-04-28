@@ -51,7 +51,7 @@ The landscape moves fast. These are the major agentic harnesses as of this writi
 | **[Cursor](https://cursor.com)** | Cursor | $20/mo+ | IDE-native. Best for people who want AI integrated into their code editor rather than the terminal. |
 | **[Aider](https://aider.chat)** | Community | Free (open source) | Lightweight, Git-native. Excels at pair programming with version control awareness. |
 
-The critical insight: **the harness is interchangeable. Your files are not.** A [Personal Agentic OS](/docs/concepts/personal-agentic-os) built on plain Markdown files works with any harness that can read files. You can switch from Claude Code to Hermes to Codex tomorrow and keep everything. That is [sovereignty](/docs/concepts/the-sovereignty-stack).
+The critical insight: **the harness is interchangeable. Your files are not.** A [Personal Agentic OS](/docs/concepts/personal-agentic-os) built on plain Markdown files works with any harness that can read files. You can switch from Claude Code to Hermes to Codex tomorrow and keep everything. That is sovereignty.
 
 ---
 

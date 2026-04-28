@@ -30,7 +30,7 @@ There's a framing that resonates with most business owners:
 
 > There's a bucket of work you're dying to get to. The stuff that puts you in flow state. The work that actually moves the needle. And then there's the other stuff. The infrastructure. The admin. The things that make the business run but drain your energy.
 
-Every business has this tension. The best candidates feel it acutely. They're not looking to “automate everything.” They want to protect the parts that require their soul while offloading the parts that don't.
+Every business has this tension. The best candidates feel it acutely. They're not looking to “automate everything.” They want to protect the parts that require their judgment while offloading the parts that don't.
 
 ---
 
@@ -42,7 +42,7 @@ This is the pitch. Adjust the language for your audience, but the structure work
 
 **Soulless Work:** The infrastructure that keeps things running. Accounting, scheduling, contract generation, logistics, lead qualification. This can and should be delegated or automated.
 
-When you talk to potential candidates, help them articulate what falls into each bucket. If they light up when describing the soul work and sigh when listing the soulless work, they're a good fit.
+When you talk to potential candidates, help them articulate what falls into each bucket. If they light up when describing the human work and sigh when listing the rote work, they're a good fit.
 
 ### Example Categories
 
@@ -114,7 +114,7 @@ The problem brief is a document you give to the practitioner at least **one week
 
 2. **Core Offerings:** What products/services do they provide?
 
-3. **The Business Problem:** What's broken? What's the tension between soul work and soulless work?
+3. **The Business Problem:** What's broken? What's the tension between human work and rote work?
 
 4. **Current Pain Points:** Specific issues, listed clearly.
 

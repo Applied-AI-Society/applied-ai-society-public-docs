@@ -76,7 +76,7 @@ That second line is the elephant named from inside the industry. The physical se
 
 Every one of those inputs is what AAS has been doing at the community level from day one. The [Jarvis workshops](/docs/workshops/supersuit-up), the [chapter network](/docs/playbooks/chapter-leader), the [public documentation](/docs/about), and the careers documented in the [applied AI economy](/docs/playbooks/practitioner/applied-ai-economy) are literally the "jobs and training" side of Manidis's prescription, delivered at the ground level rather than by corporate comms.
 
-The AAS counter-move is not to pick a side between the doomers and the techno-utopians. It is to close the actual exclusion that both sides feed on. Every person [Jarvised](/docs/get-jarvised) with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) is one less recruit for the stop-AI movement and one less data point for the "useless class" thesis. The [fleet of arks](/docs/concepts/the-ark-of-one), built one at a time, is the intervention that drains both reservoirs at once.
+The AAS counter-move is not to pick a side between the doomers and the techno-utopians. It is to close the actual exclusion that both sides feed on. Every person [Jarvised](/docs/get-jarvised) with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) is one less recruit for the stop-AI movement and one less data point for the "useless class" thesis. The [network of activated practitioners](/docs/philosophy/jarvis-the-world-or-ai-is-doomed), built one at a time, is the intervention that drains both reservoirs at once.
 
 See [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed) for the full strategic frame this concept lives inside.
 
@@ -87,7 +87,7 @@ See [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-wo
 - [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): The strategic frame this concept lives inside.
 - [The Hyperagency Gap](/docs/concepts/the-hyperagency-gap): The defining inequality the elephant is fueled by.
 - [The Elevator Economy](/docs/concepts/the-elevator-economy): The material reality underneath the political rage.
-- [The New Flood](/docs/concepts/the-new-flood): The omni-crisis landscape this fire is burning inside.
+- [The Omni-Crisis](/docs/concepts/the-omni-crisis): The omni-crisis landscape this fire is burning inside.
 - [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement): The design principle that actually closes the exclusion.
 - [Regenerative AI Advancement](/docs/concepts/regenerative-ai-advancement): Data centers as restoration infrastructure instead of extraction infrastructure.
 - [RIP To The Career Ladder](/docs/philosophy/rip-to-the-career-ladder): The labor-market reality underneath the anger.

@@ -41,7 +41,7 @@ No amount of money, talent, or AI leverage closes the gap. The gap is internal.
 
 And harder than anything you can buy.
 
-The internal work has no price tag and no delegate. Humility. Self-awareness. The willingness to sit alone and ask an honest question: *what do I need to see about myself that I have been unwilling to see?* For many operators, that question becomes most honest in prayer.
+The internal work has no price tag and no delegate. Humility. Self-awareness. The willingness to sit alone and ask an honest question: *what do I need to see about myself that I have been unwilling to see?* For many operators, that question becomes most honest in stillness.
 
 This is the move multipliers cannot replace. [See Your Own Thinking](/docs/concepts/see-your-own-thinking) opens with the same observation: most people have never had their own thinking clearly reflected back to them, and the shift happens when they do. AI can help accelerate that reflection once you have [externalized your brain](/docs/concepts/externalize-your-brain) and given the system enough context to see your patterns. The AI is a mirror. The human still has to look and act.
 
@@ -53,7 +53,7 @@ Most of the people reading this are not the billionaire. Most are working for a 
 
 **If you cannot help them see it, leave.** Your career is too short to pour talent into a vessel with an unfixable leak at the top. Standing, relationship, and timing matter. If you have none of the three, staying does not help them and it slowly diminishes you. Staying becomes its own form of complicity in the drift.
 
-**You are almost certainly the bottleneck somewhere too.** In your marriage. In your fitness. In your spiritual life. In the one project you keep starting over. The humility to see it in yourself is the same humility that earns you the standing to call it in someone else. There is no version of this frame that applies only to billionaires.
+**You are almost certainly the bottleneck somewhere too.** In your marriage. In your fitness. In your inner life. In the one project you keep starting over. The humility to see it in yourself is the same humility that earns you the standing to call it in someone else. There is no version of this frame that applies only to billionaires.
 
 ## The First Move
 

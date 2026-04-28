@@ -9,7 +9,7 @@ title: The Applied AI Canon
 
 ---
 
-**I. Protect soul-requiring work.**
+**I. Protect human-only work.**
 Some work requires presence, judgment, taste, care, and responsibility. It is diminished by automation.
 
 ---
@@ -35,12 +35,12 @@ Own your capabilities. Reject dependency where autonomy is possible.
 ---
 
 **VI. Refuse to worship efficiency.**
-Efficiency is a tool, not a goal. The goal is more soul-requiring work in the world.
+Efficiency is a tool, not a goal. The goal is more human-only work in the world.
 
 ---
 
 **VII. Demand that automation increases humanity.**
-If it reduces presence, judgment, or care, reject it. If it frees humans for soul-requiring work, pursue it.
+If it reduces presence, judgment, or care, reject it. If it frees humans for human-only work, pursue it.
 
 ---
 
@@ -71,4 +71,4 @@ At every scale, the worth of AI progress is measured by how fast it lifts the pe
 
 ---
 
-*These beliefs are the foundation. For how they translate into daily discipline, and who we serve first, see our [Principles](/docs/philosophy/principles).*
+*These beliefs are the foundation. For how they translate into daily practice, and who we serve first, see our [Principles](/docs/philosophy/principles).*

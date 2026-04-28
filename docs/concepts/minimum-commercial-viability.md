@@ -128,4 +128,3 @@ If you are not a practitioner and not running a business, you are an operator in
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): practitioner-specific roadmap to MCV and past it.
 - [Four Levels of Applied AI for Existing Businesses](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): the business-specific version of the same ladder.
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): the infrastructure floor that supports everything above.
-- [Supersuit Up or Get Left Behind: Why A Personal Agentic OS Is Required For Commercial Viability In The New Economy](https://digitalcommons.humboldt.edu/digitallab/14/) (Sheng & Roberts, April 2026): the paper-length version of the MCV argument, focused on the Personal Agentic OS piece. Companion to *[The Writing on the Wall](https://digitalcommons.humboldt.edu/digitallab/13/)*.

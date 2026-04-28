@@ -5,7 +5,7 @@ title: "Specs"
 
 # Specs
 
-*Public design specifications for the systems we wish existed. Train yourself to think from divine first principles, not from the catalog of what is already on the shelf.*
+*Public design specifications for the systems we wish existed. Train yourself to think from first principles, not from the catalog of what is already on the shelf.*
 
 ---
 
@@ -22,15 +22,15 @@ We publish specs for two reasons:
 
 ---
 
-## Divine First Principle Design
+## First Principle Design
 
-The phrase we keep using around here is **divine first principle design**. Two ideas pressed together:
+The phrase we keep using around here is **first principle design**. Two ideas pressed together:
 
 **First principle design** is the engineering discipline of asking: *if I designed this system from scratch, ignoring everything that currently exists, what would actually serve the people on both sides best?* It is the rigor of refusing to be fooled by the path-dependent shape of legacy products.
 
 **Divine** is the qualifier that pulls the design above mere optimization. It asks: *what would honor the dignity of every person involved? What would create genuine win-win? What is the design that honors everyone touched by it, not just the design that maximizes engagement metrics?* It is the willingness to refuse extractive defaults even when they would be profitable.
 
-A divine first principle spec starts from the human reality, names what would actually be good for everyone touched by the system, and then describes the mechanism that would make it so. The right platform falls out of that. Not the other way around.
+A first principle spec starts from the human reality, names what would actually be good for everyone touched by the system, and then describes the mechanism that would make it so. The right platform falls out of that. Not the other way around.
 
 For the broader case on why specs are the load-bearing artifact in the AI era, see [The Spec Is the Product](/docs/concepts/spec-writing). For the related discipline of encoding purpose into systems, see [Intent Engineering](/docs/concepts/intent-engineering).
 
@@ -51,7 +51,7 @@ Every spec here should be readable by both a serious technologist and a serious 
 
 ## Specs So Far
 
-1. **[Practitioner Matching](/docs/specs/practitioner-matching)**: A talent-allocation system where projects upload unlimited verified context, practitioners upload unlimited verified context, and the matching is a ranked list with the rationale exposed. Built to demonstrate what a context-rich, divine first principle alternative to the resume-and-cover-letter platform model looks like.
+1. **[Practitioner Matching](/docs/specs/practitioner-matching)**: A talent-allocation system where projects upload unlimited verified context, practitioners upload unlimited verified context, and the matching is a ranked list with the rationale exposed. Built to demonstrate what a context-rich, first principle alternative to the resume-and-cover-letter platform model looks like.
 
 If you want to contribute a spec for a problem worth designing for openly, [open a PR](https://github.com/Applied-AI-Society/applied-ai-society-public-docs) or post in the [AAS Discord](https://discord.gg/K7uWJBMFaN).
 

@@ -570,7 +570,7 @@ Transcript path:
 
 Your AI reads the transcript, understands the feedback, and rewrites the strategy doc incorporating everything. Neither of you had to write a single comment. Neither of you had to sit in a Google Doc making tracked changes. The boring work took zero time.
 
-This is the real shift. Your job as a leader is not editing documents. Your job is to network, build relationships, have strategic conversations, meditate, read something inspiring, have time for divine downloads. The document work happens in the background, powered by the conversations you are already having.
+This is the real shift. Your job as a leader is not editing documents. Your job is to network, build relationships, have strategic conversations, meditate, read something inspiring, have time for strategic insights. The document work happens in the background, powered by the conversations you are already having.
 
 ### Step 4C: “Who Do I Know?” (10 minutes)
 
@@ -719,7 +719,7 @@ When you're ready to bring other people in, the business OS scales with access c
 
 - **Each person gets a role-scoped view.** Not everyone needs to see everything. The intern doesn't need board-level strategy docs. The sales lead doesn't need HR records.
 - **AI agents that act on behalf of team members** only have access to documents relevant to their role. This is where the [Sovereign Agentic Business OS principles](/docs/concepts/sovereign-agentic-business-os/principles) around identity and access management become critical.
-- **The vision:** a living “company bible” (see [Start Your Company Bible](/docs/concepts/legacy/start-your-company-bible)) that everyone, human and AI, operates from. Continuously updated. Version-controlled. The single source of truth for how your organization works.
+- **The vision:** a living “company handbook” (see [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook)) that everyone, human and AI, operates from. Continuously updated. Version-controlled. The single source of truth for how your organization works.
 
 ---
 
@@ -742,7 +742,7 @@ That's the shift. And it starts with the Supersuit Up workshop.
 - [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The full philosophy behind building your own AI operations hub
 - [Legacy](/docs/concepts/legacy): The framework for documenting and organizing the truth your business OS draws on
 - [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki): The tutorial for building the personal or organizational wiki that sits at the heart of your Personal Agentic OS
-- [Start Your Company Bible](/docs/concepts/legacy/start-your-company-bible): Scaling legacy across an organization
+- [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook): Scaling legacy across an organization
 - [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable): Making your operation grep-able and editable by AI agents
 - [Voice Transcriber](/docs/concepts/legacy/voice-transcriber): Deeper dive on the voice-to-text tools that power the brain dump workflow
 - [The Question Bank](/docs/concepts/sovereign-agentic-business-os/question-bank): High-leverage questions to program into your business OS

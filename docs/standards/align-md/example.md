@@ -20,7 +20,7 @@ Notice what makes this effective: specific dealbreakers (not platitudes), concre
 
 Maya Torres. Founder of Rootstock Education (open source STEM curriculum for
 community colleges), co-founder of Verdant Labs with James Okafor (local-first
-software tools for small businesses), and elder at Grace Fellowship Church in
+software tools for small businesses), and board chair at Mountain West Open Source Coalition in
 Denver, CO.
 
 These are the same mission from different angles: making sure working people
@@ -30,8 +30,8 @@ most people don't have a guide.
 # Mission
 
 Make STEM education accessible and sovereign through Rootstock. Build software
-that small businesses own outright through Verdant. Serve the local church and
-community as an elder and mentor through Grace Fellowship.
+that small businesses own outright through Verdant. Serve the regional open source
+community as a board chair and mentor through Mountain West Open Source Coalition.
 
 The North Star across all of these: number of people who move from dependent
 on systems they don't understand to fluent operators of the tools shaping
@@ -55,21 +55,22 @@ newsletter subscribers.
 - Quality over quantity. I say no to most partnerships, speaking requests,
   and grant applications. If it doesn't compound, it's a distraction.
 
-- Faith shapes everything. I am a Christian. Every major decision runs
-  through prayer and discernment before strategy. Partners don't need to
+- Mission shapes everything. Every major decision runs
+  through reflection and discernment before strategy. Partners don't need to
   share this, but they should know it influences timelines and priorities.
 
-# Spiritual Values
+# Core Values
 
-I am a follower of Christ and an elder at Grace Fellowship Church in Denver.
+This work runs on a deep, non-negotiable mission orientation that shapes every major decision.
 
 Practically, this means:
-- Sunday is Sabbath. I don't take meetings, reply to emails, or ship code
-  on Sundays.
-- I tithe 10% of all revenue (personal and organizational) before expenses.
+- One full day a week is offline. I don't take meetings, reply to emails, or ship code
+  on that day.
+- I direct 10% of all revenue (personal and organizational) to charitable causes
+  before expenses.
 - If a partnership conflicts with my convictions, I walk away regardless of
   the financial implications.
-- "I don't have peace about this yet" is a real answer and I will use it.
+- "I'm not aligned on this yet" is a real answer and I will use it.
 
 # Capabilities
 
@@ -89,8 +90,8 @@ Verdant Labs (with James Okafor):
 
 Personal:
 - Curriculum design for technical education
-- Community organizing in faith and education spaces
-- Network of educators, small business owners, and church leaders in the
+- Community organizing in education and open source spaces
+- Network of educators, small business owners, and civic leaders in the
   Mountain West
 
 In development: Rootstock certification recognized by state workforce boards.
@@ -111,7 +112,7 @@ Verdant collaborations:
 
 Personal:
 - People who build for communities, not for exits
-- Mentors and peers in the faith + technology intersection
+- Mentors and peers in the open source + civic technology intersection
 - Patient capital, not venture capital
 
 # Dealbreakers
@@ -133,8 +134,8 @@ These are non-negotiable. If any apply, we are not a fit.
   scale?" instead of "does this actually work?", we're operating from
   different assumptions.
 
-- Disrespect for faith. You don't need to share my beliefs. But if you're
-  uncomfortable that I pray before board meetings or that my Sabbath practice
+- Disrespect for boundaries. You don't need to share my convictions. But if you're
+  uncomfortable that I hold deep deliberation before board meetings or that my one-day-offline practice
   is non-negotiable, we won't work well together.
 
 # Network
@@ -142,7 +143,7 @@ These are non-negotiable. If any apply, we are not a fit.
 - James Okafor (Verdant Labs co-founder, local-first software architect)
 - Colorado Community College System (3 pilot campuses)
 - Mountain West Open Source Education Consortium
-- Grace Fellowship Church leadership and community
+- Mountain West Open Source Coalition leadership and member network
 
 # Current Priorities (Q2 2026)
 
@@ -180,23 +181,23 @@ so we can do bilateral evaluation: https://docs.appliedaisociety.org/docs/standa
 
 ## What Makes This Example Effective
 
-### The Spiritual Disclosure
+### The Conviction Disclosure
 
-The Spiritual Values section states plainly: “I am a follower of Christ.” It doesn't apologize. It doesn't minimize. It doesn't over-explain. It states the fact and then explains the practical implications (Sabbath practice, tithing, prayer before board meetings, willingness to walk away).
+The Core Values section states plainly: "This work runs on a deep, non-negotiable mission orientation that shapes every major decision." It doesn't apologize. It doesn't minimize. It doesn't over-explain. It states the fact and then explains the practical implications (one-day-offline practice, charitable giving, deep deliberation before board meetings, willingness to walk away).
 
 A partner who reads this knows exactly what they're working with. They can decide whether that's compatible before anyone takes a call. No surprises at month three.
 
 ### The Dealbreakers
 
-Five specific, testable dealbreakers. Not “we prefer aligned partners” but “we have walked away from six-figure grants over curriculum control.” An agent can check whether a potential partner triggers any of these.
+Five specific, testable dealbreakers. Not "we prefer aligned partners" but "we have walked away from six-figure grants over curriculum control." An agent can check whether a potential partner triggers any of these.
 
-The last dealbreaker (“disrespect for faith”) is relational rather than structural. That's fine. Not everything can be mechanically evaluated. Including it tells the agent: even if all objective criteria pass, there's a cultural compatibility requirement. This is honest and useful.
+The last dealbreaker ("disrespect for boundaries") is relational rather than structural. That's fine. Not everything can be mechanically evaluated. Including it tells the agent: even if all objective criteria pass, there's a cultural compatibility requirement. This is honest and useful.
 
 ### The Union Principle in Action
 
-The file synthesizes three organizations (Rootstock, Verdant, Grace Fellowship) into one coherent identity. The Identity section shows how they connect (“the same mission from different angles”). The Capabilities section separates them clearly. The Dealbreakers apply across all of them.
+The file synthesizes three organizations (Rootstock, Verdant, Mountain West Open Source Coalition) into one coherent identity. The Identity section shows how they connect ("the same mission from different angles"). The Capabilities section separates them clearly. The Dealbreakers apply across all of them.
 
-A potential community college partner reads this and knows: Maya's education work is shaped by her faith and connected to a software sovereignty project. That's the full picture. No surprises.
+A potential community college partner reads this and knows: Maya's education work is shaped by her open source convictions and connected to a software sovereignty project. That's the full picture. No surprises.
 
 ### The “NOT Currently Focused On” Line
 

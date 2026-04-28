@@ -93,7 +93,7 @@ If you are consulting with business owners on what to build, this is the convers
 
 The business argument turns out to be the sovereignty argument, re-derived from the opposite direction.
 
-Customers owning their code is [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming) inverted. The vendor chooses up-front not to lock the customer in, and the market rewards them for it. Customers owning their customizations is [The Soul Harness](/docs/concepts/the-soul-harness) applied to the products they use. Agents preferring open alternatives is [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack) becoming the default market preference, not just a movement.
+Customers owning their code is [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming) inverted. The vendor chooses up-front not to lock the customer in, and the market rewards them for it. Customers owning their customizations is [The Life Harness](/docs/concepts/the-life-harness) applied to the products they use. Agents preferring open alternatives is sovereignty over your tools becoming the default market preference, not just a movement.
 
 The [Applied AI Society](https://appliedaisociety.org) has been arguing for sovereignty on principle. Theo and Mitchell are arguing for the same shape on business grounds. They converge on the same recommendation: build the thing customers can take away from you, and they will choose not to.
 
@@ -105,8 +105,7 @@ The [Applied AI Society](https://appliedaisociety.org) has been arguing for sove
 
 - [Agent-Accessible Products](/docs/concepts/agent-accessible-products): The product-design layer of this argument. CLIs, APIs, MCP. If agents cannot use your product, agents will replace your product.
 - [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming): The counter-force. Every VC-backed hyperscaler eventually moves to close in. Forkable-by-default is the counter-strategy.
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): The full stack customers are increasingly unwilling to rent. Forkable products are the application-layer answer.
-- [The Soul Harness](/docs/concepts/the-soul-harness): Predatory vs. liberating systems. Forkable products are the structural form of a liberating harness.
+- [The Life Harness](/docs/concepts/the-life-harness): Predatory vs. liberating systems. Forkable products are the structural form of a liberating harness.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Wrap, do not replace. Forkable-by-default extends the same logic from enterprise legacy systems to your own new products.
 - [Build What Big AI Won't](/docs/concepts/build-what-big-ai-wont): The other half of the strategic landscape. Big AI absorbs the unabsorbable. Forkable, opinionated, community-owned products are harder to absorb.
 - [Personal Software](/docs/concepts/personal-software): The per-customer endpoint. Every customer running a fork is, in effect, running personal software with a vendor-maintained core.

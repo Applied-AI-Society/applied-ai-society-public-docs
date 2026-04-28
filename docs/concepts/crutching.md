@@ -60,9 +60,9 @@ If you are not experiencing AI as something that expands your creativity and mak
 
 What we recommend is building a [Personal Agentic OS](/docs/concepts/personal-agentic-os) where AI operates from your context, your principles, your frameworks. You [externalize your brain](/docs/concepts/externalize-your-brain) so the AI knows you well enough to challenge you, hold you accountable, and catch your blind spots. The AI becomes a thinking partner that makes you sharper, not a replacement that makes you dull.
 
-This requires the inner work first. You cannot outsource a brain you have never examined. If you do not know your own vision, your own principles, your own decision-making frameworks, then any AI you use will just reflect back confusion. The [Soul Harness](/docs/concepts/the-soul-harness) insight applies directly: a harness is only as good as what it wraps around.
+This requires the inner work first. You cannot outsource a brain you have never examined. If you do not know your own vision, your own principles, your own decision-making frameworks, then any AI you use will just reflect back confusion. The [Life Harness](/docs/concepts/the-life-harness) insight applies directly: a harness is only as good as what it wraps around.
 
-The people who get this right describe a transformation. Their metacognition gets sharper. Their writing improves. Their strategic thinking deepens. They become more human, not less. The AI handles the [robot mode](/docs/concepts/robot-mode) work so they can pour their energy into the work that actually requires their soul: the creative leaps, the relationship building, the judgment calls that no system can make for them.
+The people who get this right describe a transformation. Their metacognition gets sharper. Their writing improves. Their strategic thinking deepens. They become more human, not less. The AI handles the [robot mode](/docs/concepts/robot-mode) work so they can pour their energy into the human-only work: the creative leaps, the relationship building, the judgment calls that no system can make for them.
 
 That is not crutching. That is [suiting up](/docs/concepts/hyperagency).
 
@@ -74,7 +74,7 @@ That is not crutching. That is [suiting up](/docs/concepts/hyperagency).
 - [Hyperagency](/docs/concepts/hyperagency): The opposite of crutching. Humans amplified by AI, not replaced by it.
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The right way to give AI your context without giving away your thinking.
 - [The Four Levels of Applied AI](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses): Level 2 (Think) is where crutching stops and real partnership begins.
-- [The Soul Harness](/docs/concepts/the-soul-harness): Predatory harnesses encourage crutching. Liberating harnesses build your capability.
+- [The Life Harness](/docs/concepts/the-life-harness): Predatory harnesses encourage crutching. Liberating harnesses build your capability.
 - [The Slopacalypse](/docs/concepts/slopacalypse): What happens when an entire economy crutches on AI. Volume without purpose.
 - [Ignorance Debt](/docs/concepts/ignorance-debt): The gap between what you know and what you need to know. Crutching widens it.
 - [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): The sibling failure mode. Crutching hides from your own atrophy. Being the bottleneck hides from your own limits. Same root avoidance, different surface.

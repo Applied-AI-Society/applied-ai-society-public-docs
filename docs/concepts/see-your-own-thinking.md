@@ -92,6 +92,6 @@ This is what [crutching](/docs/concepts/crutching) is NOT. You are not asking th
 - [Context Lake](/docs/concepts/context-lake): Where your externalized thinking lives. The deeper it gets, the more powerful the reflection becomes.
 - [Crutching](/docs/concepts/crutching): The anti-pattern. Seeing your own thinking makes you stronger. Crutching makes you weaker. Know the difference.
 - [The Encounter](/docs/concepts/the-encounter): The moment someone first experiences AI reflecting their own situation back to them with real insight. That is when everything clicks.
-- [The Soul Harness](/docs/concepts/the-soul-harness): A harness is only as good as what it wraps around. Seeing your own thinking is how you develop what the harness amplifies.
+- [The Life Harness](/docs/concepts/the-life-harness): A harness is only as good as what it wraps around. Seeing your own thinking is how you develop what the harness amplifies.
 - [The Unlock Question](/docs/concepts/the-unlock-question): The single question every leader of agents and humans should ask themselves. The simplest entry point to seeing your own thinking clearly.
 - [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): The companion concept. Seeing your own thinking is how you discover the bottleneck; admitting the bottleneck is what makes the work possible.

@@ -175,7 +175,6 @@ That is the work.
 
 ### External research and framing
 
-- [The Writing on the Wall](https://digitalcommons.humboldt.edu/digitallab/13/) (Sheng & Roberts, March 2026): The framing piece. Names the applied-AI transition as the life-or-death choice every leader now faces.
 - [Canaries in the Coal Mine](https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf) (Brynjolfsson, Chandar, Chen, Stanford Digital Economy Lab, Nov 2025): The paper that named the employment signal.
 - [Anthropic Economic Index: Learning Curves](https://www.anthropic.com/research/economic-index-march-2026-report) (March 2026): Skill-biased technological change already visible in Claude usage; experienced users pull ahead.
 - [Anthropic Economic Index: Labor market impacts](https://www.anthropic.com/research/labor-market-impacts) (March 2026): Observed-exposure framework. Slower hiring into entry-level AI-exposed roles rather than mass layoffs.

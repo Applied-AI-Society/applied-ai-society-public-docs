@@ -13,9 +13,9 @@ title: "Be Selfish First"
 
 I tell people to be selfish about their applied AI development, and I tell myself the same thing even louder.
 
-You can have the right heart. You can see [The New Flood](/docs/concepts/the-new-flood) coming. You can feel in your bones that billions of people will be affected and that the work you want to do is for them. All of that is real, and none of that is sufficient.
+You can have the right heart. You can see [the omni-crisis](/docs/concepts/the-omni-crisis) coming. You can feel in your bones that billions of people will be affected and that the work you want to do is for them. All of that is real, and none of that is sufficient.
 
-If you have not demonstrated the capacity to operate above [the water line](/docs/concepts/the-water-line) yourself, your altruism is theory. The people you want to help do not need another theoretical ally. They need an ark-builder who has built one. See [The Ark of One](/docs/concepts/the-ark-of-one) for the shape of the credential.
+If you have not demonstrated the capacity to operate above [the water line](/docs/concepts/the-water-line) yourself, your altruism is theory. The people you want to help do not need another theoretical ally. They need a practitioner who has activated their own system first. See [Personal Agentic OS](/docs/concepts/personal-agentic-os) for the shape of the credential.
 
 ## Non-Pity Money Is The Proof
 
@@ -29,7 +29,7 @@ See [Why Making Money Matters](/docs/philosophy/why-making-money-matters) for th
 
 Selfish here names a sequencing discipline. Put your own activation first in time, ahead of everyone else's.
 
-The usual failure mode goes the other way. A generous person feels the urgency of the flood, wants to help, and starts teaching or advising or organizing before they have their own system working at scale. The generosity is real. The credentials are absent. A few months in, the generous person is running a workshop about a practice they have not actually internalized, giving advice on a trajectory they have not actually walked, and quietly losing the respect of the people they most wanted to help.
+The usual failure mode goes the other way. A generous person feels the urgency of the convergence, wants to help, and starts teaching or advising or organizing before they have their own system working at scale. The generosity is real. The credentials are absent. A few months in, the generous person is running a workshop about a practice they have not actually internalized, giving advice on a trajectory they have not actually walked, and quietly losing the respect of the people they most wanted to help.
 
 Nobody benefits from that pattern. The teacher loses ground. The students learn to perform the pose rather than the practice. The field fills with advocates who sound right and are not yet right. See [The Overconfidence Trap](/docs/concepts/the-overconfidence-trap) for why AI fluency manufactures this exact failure mode, and [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse) for the adjacent version in tool-land.
 
@@ -58,7 +58,7 @@ See [Raise The Floor](/docs/concepts/raise-the-floor): the person whose own ceil
 
 **Then:** turn around and help as many people as you can, for the rest of your life.
 
-The order is the whole thing. Reverse it and you drift into the impostor pattern. Get it right and you become the kind of operator the flood actually needs more of.
+The order is the whole thing. Reverse it and you drift into the impostor pattern. Get it right and you become the kind of operator the moment actually needs more of.
 
 Be selfish first. Then be useful for decades.
 
@@ -67,8 +67,8 @@ Be selfish first. Then be useful for decades.
 ## Further Reading
 
 - [Why Making Money Matters](/docs/philosophy/why-making-money-matters): The underlying claim about currency as a truth signal for applied AI work.
-- [The Water Line](/docs/concepts/the-water-line) and [The New Flood](/docs/concepts/the-new-flood): The civilizational frame. Staying above the water line is the relevant credential.
-- [The Ark of One](/docs/concepts/the-ark-of-one): The shape of self-augmentation completed. What you build for yourself before you help others build theirs.
+- [The Water Line](/docs/concepts/the-water-line) and [The Omni-Crisis](/docs/concepts/the-omni-crisis): The civilizational frame. Staying above the water line is the relevant credential.
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The shape of self-augmentation completed. What you build for yourself before you help others build theirs.
 - [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability): The floor this doc is pointing you to clear.
 - [The Overconfidence Trap](/docs/concepts/the-overconfidence-trap): Why AI fluency manufactures false credentials and how to avoid helping from one.
 - [The Tinkerer's Curse](/docs/concepts/the-tinkerers-curse): The adjacent trap. Playing with tools instead of shipping value someone will pay for.

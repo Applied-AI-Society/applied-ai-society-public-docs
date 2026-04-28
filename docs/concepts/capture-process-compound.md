@@ -87,6 +87,6 @@ You can have this edge. It does not require special talent. It requires a daily 
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The operating system you are feeding
 - [Harness Engineering](/docs/concepts/harness-engineering): The agentic harness that makes processing fast
 - [Signalmaxxing](/docs/concepts/signalmaxxing): Keeping your knowledge base high-signal
-- [The Soul Harness](/docs/concepts/the-soul-harness): Your operating system as one component of your full life harness
+- [The Life Harness](/docs/concepts/the-life-harness): Your operating system as one component of your full life harness
 - [Legacy](/docs/concepts/legacy): The discipline of keeping your documented truth current
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Building tools that reduce friction in the capture-process loop

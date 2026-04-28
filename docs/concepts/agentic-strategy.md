@@ -22,7 +22,7 @@ The quality of your life is downstream of the quality of your decisions. Your de
 
 - **Not delegating authority.** Your AI does not decide for you. It thinks with you.
 - **Not naive prompting.** “What should I do?” to a context-less chatbot is not agentic strategy. It is the opposite.
-- **Not replacing your judgment.** Your judgment, your taste, your values, your creative instincts, your faith-led guidance: these stay yours. Agentic strategy is how you make them sharper.
+- **Not replacing your judgment.** Your judgment, your taste, your values, your creative instincts, your conviction-led guidance: these stay yours. Agentic strategy is how you make them sharper.
 
 ## What It Is
 

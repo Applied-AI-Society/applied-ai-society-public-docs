@@ -151,7 +151,6 @@ The industry is going to sort itself out over the next few years. Some products 
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): The components every harness shares.
 - [Learn the Harness, Not the Wrapper](/docs/concepts/learn-the-harness-not-the-wrapper): Why we teach primitives over opinionated desktop layers.
 - [Progressive Sovereignty](/docs/concepts/progressive-sovereignty): Simple harnesses are the tool-layer expression of this principle.
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Where the harness sits in the larger stack you own.
 - [The Lock-in Is Coming](/docs/concepts/the-lock-in-is-coming): The countervailing pressure simple harnesses resist.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): The design philosophy minimal harnesses embody.
 - [The Spec Is the Product](/docs/concepts/spec-writing): When the spec is the product, the harness should get out of the way.

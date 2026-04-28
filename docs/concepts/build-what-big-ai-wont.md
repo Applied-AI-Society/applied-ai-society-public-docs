@@ -149,7 +149,6 @@ The question for every builder in 2026 is how to build something Anthropic canno
 
 - [Harness Engineering](/docs/concepts/harness-engineering): The harness is the leverage, not the model. And the harness is human-configurable.
 - [AI-Native by Configuration](/docs/playbooks/business-owner/ai-native-by-configuration): Use the frontier labs' primitives as your absorption-proof foundation.
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Infrastructure outside the lab cloud.
 - [Signalmaxxing](/docs/concepts/signalmaxxing): Trust and reach mechanics that labs cannot replicate.
 - [Raise the Floor](/docs/concepts/raise-the-floor): Communities that share what they learn stay ahead of platforms that hoard it.
 - [Forkable Is the New Sticky](/docs/concepts/forkable-is-the-new-sticky): Another structural defense. Forkable, opinionated, community-owned products are harder for neutral-default labs to absorb.

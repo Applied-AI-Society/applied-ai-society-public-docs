@@ -49,7 +49,7 @@ The progression looks like this:
 
 **Build the command center.** The endgame for any business: a central system where the operator can see everything, direct everything, and trust that the AI systems underneath are executing faithfully. The human is outside the machine, steering it.
 
-Each business you work with is XP. Each problem you solve builds the pattern library in your head. Each failure teaches you something a course never could. Over time, you develop something that goes beyond technical skill. It's a kind of spiritual confidence: the deep knowing that you can take any problem, any domain, any vision, and build the system that delivers it. That confidence is not arrogance. It's the earned result of thousands of hours of practice.
+Each business you work with is XP. Each problem you solve builds the pattern library in your head. Each failure teaches you something a course never could. Over time, you develop something that goes beyond technical skill. It's a kind of deep confidence: the deep knowing that you can take any problem, any domain, any vision, and build the system that delivers it. That confidence is not arrogance. It's the earned result of thousands of hours of practice.
 
 ---
 

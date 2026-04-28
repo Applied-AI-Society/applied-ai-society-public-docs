@@ -27,11 +27,11 @@ Everyone who wants to stay commercially and creatively successful in this econom
 
 ## Everyone Is A Practitioner
 
-An applied AI practitioner is anyone walking the daily discipline. Business owners, artists, students, engineers, pastors, parents, athletes, teachers. Scope and style vary. The daily commitment does not.
+An applied AI practitioner is anyone walking the daily practice. Business owners, artists, students, engineers, pastors, parents, athletes, teachers. Scope and style vary. The daily commitment does not.
 
 There is also a specific professional track called [applied AI practitioner](/docs/playbooks/practitioner/applied-ai-economy), where you make your living building applied AI implementations for others. That track is a subset. Every professional practitioner is a daily practitioner first. Most daily practitioners never go professional, and that is fine.
 
-## What The Daily Discipline Looks Like
+## What The Daily Practice Looks Like
 
 Some mix of:
 
@@ -45,11 +45,11 @@ None of this is glamorous. All of it compounds. A person who has done this daily
 
 ## The Progression: Literacy → Discipline → Mastery
 
-Three rungs. The discipline is both the middle rung and the thing that runs through all of them. Fluency is a milestone inside the discipline, not a rung of its own.
+Three rungs. The discipline is both the middle rung and the thing that runs through all of them. Fluency is a milestone inside the practice, not a rung of its own.
 
 - **Literacy (first rung).** You know what AI can do. You have opened Claude Code or Cursor. You have had one real conversation with an agent that produced something useful. Baseline awareness plus one felt experience of a real AI system operating inside your work. The rung AAS can commit to for every human.
-- **Discipline (middle rung, ongoing).** The daily work on the other side of the literacy bar. A [Personal Agentic OS](/docs/concepts/personal-agentic-os) running on your laptop. Daily brain-dumps into it. A [context lake](/docs/concepts/context-lake) that deepens. A [harness](/docs/concepts/harness-engineering) tuned to you. Over months, the discipline reshapes your operating system. You become someone who thinks and works differently. Fluency lives inside the discipline: after enough daily reps, you can hold good conversations about applied AI with anyone.
-- **Mastery (horizon).** Developed only through the daily discipline, measured against real goals, built in community with other people seeking mastery, and expressed in service to humanity. Nobody crosses a finish line. Black belts still train every day.
+- **Discipline (middle rung, ongoing).** The daily work on the other side of the literacy bar. A [Personal Agentic OS](/docs/concepts/personal-agentic-os) running on your laptop. Daily brain-dumps into it. A [context lake](/docs/concepts/context-lake) that deepens. A [harness](/docs/concepts/harness-engineering) tuned to you. Over months, the practice reshapes your operating system. You become someone who thinks and works differently. Fluency lives inside the practice: after enough daily reps, you can hold good conversations about applied AI with anyone.
+- **Mastery (horizon).** Developed only through the daily practice, measured against real goals, built in community with other people seeking mastery, and expressed in service to humanity. Nobody crosses a finish line. Black belts still train every day.
 
 The point is daily presence.
 
@@ -64,9 +64,9 @@ The point is daily presence.
 - [Applied AI](/docs/concepts/applied-ai): The upstream concept. What applied AI is, across any goal (commercial, creative, civic, personal). This concept page is the daily-discipline form of that.
 - [The Applied AI Discipline section](/docs/applied-ai-practice): The full AAS treatment of the discipline, who it is for, and why it matters now.
 - [The Applied AI Literacy Earthshot](/docs/applied-ai-practice/earthshot): The AAS commitment to bring every human across the literacy bar. The rung AAS can earthshot for humanity; the discipline and mastery live with the individual on the other side.
-- [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): Why we hold the bar on what the discipline requires.
+- [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): Why we hold the bar on what the practice requires.
 - [Activation](/docs/concepts/activation): The flip that gets you to white belt.
-- [Hyperagency](/docs/concepts/hyperagency): The far state the discipline produces.
-- [You Are The Bottleneck](/docs/concepts/you-are-the-bottleneck): The self-awareness baseline the discipline requires.
-- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The infrastructure the discipline runs on.
+- [Hyperagency](/docs/concepts/hyperagency): The far state the practice produces.
+- [You Are The Bottleneck](/docs/concepts/you-are-the-bottleneck): The self-awareness baseline the practice requires.
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The infrastructure the practice runs on.
 - [Compounding Docs](/docs/concepts/compounding-docs): Why daily inputs compound over years.

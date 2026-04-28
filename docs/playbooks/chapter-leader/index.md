@@ -7,7 +7,7 @@ title: Chapter Leader Playbooks
 
 Guides for running Applied AI Society chapters and events.
 
-The job of a chapter is to cultivate a [community of practice](/docs/concepts/community-of-practice): a living, people-centered organism that compounds. Not a meetup, not a Discord. A room of real practitioners who are actively applying the craft, sharing field notes, and making each other better. Every chapter needs a [soul](/docs/concepts/soul-of-a-scene): a person (or small group) who has decided to take personal responsibility for that room existing in their city.
+The job of a chapter is to cultivate a [community of practice](/docs/concepts/community-of-practice): a living, people-centered organism that compounds. Not a meetup, not a Discord. A room of real practitioners who are actively applying the craft, sharing field notes, and making each other better. Every chapter needs an [anchor](/docs/concepts/anchor-of-a-scene): a person (or small group) who has decided to take personal responsibility for that room existing in their city.
 
 Every AAS event is an **activation into the applied AI economy**: a landscape map where real practitioners share how they actually make money. The audience leaves knowing what paths exist, what's real, and what's hype. The formats below are all ways to deliver on that promise.
 

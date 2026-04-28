@@ -9,7 +9,7 @@ title: Start Your Wiki
 
 ---
 
-This is the practitioner-scale companion to [Start Your Company Bible](/docs/concepts/legacy/start-your-company-bible). Company Bible is framed for organizations. This playbook is framed for an individual leader or practitioner who wants to start smaller, prove the practice to themselves, and then graduate ideas into organizational truth when they earn it.
+This is the practitioner-scale companion to [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook). Company Handbook is framed for organizations. This playbook is framed for an individual leader or practitioner who wants to start smaller, prove the practice to themselves, and then graduate ideas into organizational truth when they earn it.
 
 If you want the philosophical case for why any of this matters, read [Legacy](/docs/concepts/legacy) and [Why It Matters](/docs/concepts/legacy/why-it-matters) first. If you're ready to actually build one, start here.
 
@@ -21,7 +21,7 @@ A wiki is the layer where your thinking becomes legible, searchable, and reusabl
 
 **You're tired of saying the same thing twice.** Every time you explain something to a new client, a new teammate, or a new AI agent, you're paying a tax. A wiki converts that tax into a one-time investment.
 
-**Your way of doing things is not quite like other people's.** If you operate anywhere near your [divine edge](/docs/concepts/the-self-improving-human), you're charting new territory. You have a unique read on reality. “You are not just the training data of AI. You're not the weights of AI.” That edge is worth documenting, and the act of writing it down sharpens it.
+**Your way of doing things is not quite like other people's.** If you operate anywhere near your [unique edge](/docs/concepts/the-self-improving-human), you're charting new territory. You have a unique read on reality. “You are not just the training data of AI. You're not the weights of AI.” That edge is worth documenting, and the act of writing it down sharpens it.
 
 **Documented truth is how your agents become actually useful.** An agent operating without your written context is stuck at “generic expert.” An agent operating with your wiki as context is stuck at “knows how I think.” This is the core of [context engineering](/docs/concepts/context-engineering) and the foundation of a [Personal Agentic OS](/docs/concepts/personal-agentic-os).
 
@@ -52,7 +52,7 @@ Both individuals and organizations can have wikis. Both can have private wikis a
 The practical difference between personal and organizational wikis is **gravitas**.
 
 - **Personal wiki** is a playground. You're sketching ideas, testing concepts, developing vocabulary. You can be wrong quickly and often. Nothing is promised to anyone.
-- **Organizational wiki** is a contract. Every entry is a commitment that the organization stands behind. It's the [Company Bible](/docs/concepts/legacy/start-your-company-bible). It binds how agents act, how teammates align, how clients understand you.
+- **Organizational wiki** is a contract. Every entry is a commitment that the organization stands behind. It's the [Company Handbook](/docs/concepts/legacy/start-your-company-handbook). It binds how agents act, how teammates align, how clients understand you.
 
 There is something more serious about saying an idea “graduated into the wiki” than saying it “lives in a Google Doc.” That seriousness is useful. Use it.
 
@@ -112,7 +112,7 @@ The pattern that works:
 ~/Documents/github-repos/
 ├── your-jarvis/              # Your Personal Agentic OS
 ├── your-personal-wiki/       # Your personal wiki
-├── your-org-wiki/            # Your organizational wiki (company bible)
+├── your-org-wiki/            # Your organizational wiki (company handbook)
 ├── your-client-project-a/
 ├── your-client-project-b/
 └── ...
@@ -451,7 +451,7 @@ That's the practice.
 
 ## Further Reading
 
-- [Start Your Company Bible](/docs/concepts/legacy/start-your-company-bible): The organizational-scale version of this playbook
+- [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook): The organizational-scale version of this playbook
 - [Legacy](/docs/concepts/legacy): The framework this playbook operationalizes
 - [Why It Matters](/docs/concepts/legacy/why-it-matters): The three-claim argument for documented truth
 - [Legacy: Getting Started](/docs/concepts/legacy/getting-started): Day 1 to Week 4 plan for the infrastructure side

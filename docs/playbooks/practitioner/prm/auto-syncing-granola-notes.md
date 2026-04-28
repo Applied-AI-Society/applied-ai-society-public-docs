@@ -141,7 +141,7 @@ That system uses Deepgram + pyannoteAI + voiceprint enrollment, costs ~$25 to $3
 
 **What if the same meeting gets recorded by both Granola and a voice memo?** The Granola sync deduplicates against existing files in `meeting-transcripts/` by Granola URL, so re-runs do not produce duplicates of the same Granola meeting. Cross-source dedup (the same meeting captured two ways) is on you for now: the simplest move is to delete one of the two files before running `/process-transcript`.
 
-**Why not just have my Jarvis read the Granola UI directly?** Browser-driving is slow, fragile, and harder to reason about than file-based pipelines. Files in your workspace are the [sovereignty stack](/docs/concepts/the-sovereignty-stack). If Granola disappears tomorrow, your imported transcripts stay.
+**Why not just have my Jarvis read the Granola UI directly?** Browser-driving is slow, fragile, and harder to reason about than file-based pipelines. Files in your workspace are what keep you sovereign. If Granola disappears tomorrow, your imported transcripts stay.
 
 ---
 

@@ -133,7 +133,7 @@ The timing of CLIPs is not accidental. There is a structural collapse happening 
 
 Companies with massive market caps built on subscription-based, seat-based pricing are getting crushed. Not because their products stopped working, but because the economics changed underneath them. When a single person with an agentic harness can build a custom solution in an afternoon that does 80% of what the SaaS product does, the pricing model breaks. Why pay $50/seat/month for a CRM when your agent can manage contacts in plain markdown files that you own? Why pay $200/month for a project management tool when your [Personal Agentic OS](/docs/concepts/personal-agentic-os) already tracks everything?
 
-The stranglehold that SaaS companies have had is loosening because people are realizing something fundamental: they do not need to upload all their contacts, all their documents, all their institutional knowledge to random companies anymore. The data was always the value. The SaaS product was just a wrapper around it. Now the wrapper is commoditized and the [sovereignty](/docs/concepts/the-sovereignty-stack) of the data matters more than ever.
+The stranglehold that SaaS companies have had is loosening because people are realizing something fundamental: they do not need to upload all their contacts, all their documents, all their institutional knowledge to random companies anymore. The data was always the value. The SaaS product was just a wrapper around it. Now the wrapper is commoditized and the sovereignty of the data matters more than ever.
 
 This does not mean every SaaS company dies. The ones with genuine network effects, deep integrations, or regulatory moats will survive. But the long tail of “we put a dashboard on a database” companies is in trouble. The value is shifting to two places:
 
@@ -176,4 +176,3 @@ The harnesses are here. Now clip in.
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): Deep technical analysis of how harnesses work
 - [Agent-Accessible Products](/docs/concepts/agent-accessible-products): The broader shift toward agent-native software
 - [Instruction Files](/docs/concepts/instruction-files): How skills differ from CLIPs (knowledge vs. execution)
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Why owning your tools matters

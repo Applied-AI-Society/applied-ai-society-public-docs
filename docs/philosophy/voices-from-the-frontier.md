@@ -76,7 +76,7 @@ Karpathy sees education shifting from “teacher explains to student” to “te
 
 > “I simultaneously feel like I'm talking to an extremely brilliant PhD student who's been a systems programmer for their entire life, and a 10-year-old. Humans have a lot less of that kind of jaggedness.”
 
-Karpathy is honest about the limits. Agents are extraordinarily capable in domains that have clear metrics (verifiable tasks, code that passes tests), and surprisingly weak in domains that require nuance, taste, or judgment. This maps to the Canon's distinction between [soul-requiring work and non-soul work](/docs/philosophy/canon). The things AI struggles with (knowing when to ask clarifying questions, understanding what you actually intended, humor, taste) are precisely the things the Canon says only humans can do.
+Karpathy is honest about the limits. Agents are extraordinarily capable in domains that have clear metrics (verifiable tasks, code that passes tests), and surprisingly weak in domains that require nuance, taste, or judgment. This maps to the Canon's distinction between [human-only work](/docs/philosophy/canon). The things AI struggles with (knowing when to ask clarifying questions, understanding what you actually intended, humor, taste) are precisely the things the Canon says only humans can do.
 
 ---
 
@@ -158,7 +158,7 @@ Travis's one-line advice to every business owner considering AI adoption. The co
 
 > “Your particular uniqueness is what's so critical, and it's actually going to be the oil of the future. Every individual has a makeup of DNA and experiences that is unique in the universe. It can't be replicated.”
 
-This maps to what the Canon calls [soul-requiring work](/docs/philosophy/canon): presence, judgment, taste, care, responsibility. AI can generate text, code, images, and analysis. It cannot replicate the specific combination of experience, relationships, and discernment that makes you irreplaceable. The applied AI practitioner's edge is not technical skill (that is commoditizing). The edge is domain expertise, trust networks, and the taste to know what matters. These are the things Travis calls “the oil of the future.”
+This maps to what the Canon calls [human-only work](/docs/philosophy/canon): presence, judgment, taste, care, responsibility. AI can generate text, code, images, and analysis. It cannot replicate the specific combination of experience, relationships, and discernment that makes you irreplaceable. The applied AI practitioner's edge is not technical skill (that is commoditizing). The edge is domain expertise, trust networks, and the taste to know what matters. These are the things Travis calls “the oil of the future.”
 
 ### Accountability is human
 
@@ -184,7 +184,7 @@ Travis is clear-eyed about both the opportunity and the risk. AI can create extr
 
 > “It's more important than ever that we have a moral foundation, that humans understand what it means to treat each other morally. AI amplifies the power of humans that aren't behaving morally.”
 
-> “AI doesn't have a soul. It can simulate. It can evaluate. It can help you reason about your own sense. But it doesn't have that part that makes us human.”
+> “AI doesn't have a self. It can simulate. It can evaluate. It can help you reason about your own sense. But it doesn't have that part that makes us human.”
 
 Travis brings something the other voices do not: an explicit statement that AI is a moral amplifier. Good intentions plus AI creates more good. Bad intentions plus AI creates more harm. The tool is neutral. The human is not. This is [Canon X](/docs/philosophy/canon): the tool mirrors the wielder. And it is why the Applied AI Society leads with [philosophy](/docs/philosophy) before playbooks: because the “how” only matters if the “why” is right.
 
@@ -202,7 +202,7 @@ But on the things that matter most, they converge:
 
 3. **Ownership matters.** Karpathy builds his own home automation rather than subscribing to six apps. Jensen says every company needs its own agentic strategy. Travis insists on data sovereignty above all else. The [Canon](/docs/philosophy/canon) says it plainly: own your AI.
 
-4. **Human judgment is irreplaceable.** Karpathy describes “jaggedness” in AI capabilities. Jensen says carpenters become architects (not obsolete). Travis says machines cannot be accountable. The soul-requiring work the Canon describes is exactly the work that all three say will define human value going forward.
+4. **Human judgment is irreplaceable.** Karpathy describes “jaggedness” in AI capabilities. Jensen says carpenters become architects (not obsolete). Travis says machines cannot be accountable. The human-only work the Canon describes is exactly the work that all three say will define human value going forward.
 
 5. **The stakes are real, and the window is now.** None of these people are casual about what is happening. Karpathy is in “perpetual AI psychosis.” Jensen sees a trillion-dollar infrastructure buildout. Travis worries about concentration of power. The common thread: this is not a drill. The people closest to the technology are the most urgent about responding to it.
 

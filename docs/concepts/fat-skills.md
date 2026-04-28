@@ -46,7 +46,7 @@ This changes the character of creative and operational work:
 
 ## Fat Skills vs. Thin Skills
 
-A **thin skill** is a few bullet points and a hope. "Write in a warm tone. Keep paragraphs short. Use examples." The model reads it, nods, and produces output that is technically on-brief and spiritually generic.
+A **thin skill** is a few bullet points and a hope. "Write in a warm tone. Keep paragraphs short. Use examples." The model reads it, nods, and produces output that is technically on-brief and generic and flat.
 
 A **fat skill** looks different:
 

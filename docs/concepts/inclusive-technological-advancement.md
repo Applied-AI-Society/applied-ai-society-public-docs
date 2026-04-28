@@ -36,7 +36,7 @@ The [elevator economy](/docs/concepts/the-elevator-economy) makes the stakes con
 
 - **Literacy as a public good.** The [public docs](/docs/about) are free. The [Supersuit Up workshop playbook](/docs/workshops/supersuit-up) is open source. Chapter leaders and universities run derivative courses in their own communities without permission or license fees. Nothing is gatekept.
 - **Hyperlocal over centralized.** Applied AI Society runs through [local chapters](/docs/playbooks/chapter-leader), not through one centralized product. The chapter model is deliberately lightweight so a student group, a community leader, or a church can stand one up without needing resources only wealthy cities have.
-- **Portable tooling over lock-in.** We [teach the harness, not the wrapper](/docs/concepts/learn-the-harness-not-the-wrapper). We build on [portable, sovereign foundations](/docs/concepts/the-sovereignty-stack) so that practitioners in low-resource contexts are not dependent on subscription economies they cannot afford.
+- **Portable tooling over lock-in.** We [teach the harness, not the wrapper](/docs/concepts/learn-the-harness-not-the-wrapper). We build on portable, sovereign foundations so that practitioners in low-resource contexts are not dependent on subscription economies they cannot afford.
 - **Design for the edge case.** Curriculum must work in low-bandwidth contexts, on older hardware, across languages, and for people who are not already AI-fluent. If it only works for practitioners in Austin or LA, it is not actually inclusive.
 - **Partnership with inclusion-first institutions.** We align with global organizations doing this work at scale and learn from their frameworks.
 

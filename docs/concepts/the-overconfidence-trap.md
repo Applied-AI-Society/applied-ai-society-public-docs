@@ -57,7 +57,7 @@ The way out of the trap is not a better tool. It is the three things AI does not
 
 To actually level up as an operator, you have to tear down how you currently work and rebuild around AI-native practice. That means retiring workflows you are good at, admitting that your hard-earned way of doing things is now the slow way, and submitting to a learning curve in public. Most operators will not do this. Pride is the blocker. The tool does not help. You have to want the teardown.
 
-This is the spiritual layer of the trap. The operator who is best positioned to pull away in the AI economy is the one willing to say: *I have been doing this wrong, and I am going to start over*. The operator who stays stuck is the one whose self-image cannot survive that sentence.
+This is the inner layer of the trap. The operator who is best positioned to pull away in the AI economy is the one willing to say: *I have been doing this wrong, and I am going to start over*. The operator who stays stuck is the one whose self-image cannot survive that sentence.
 
 ### Taste
 

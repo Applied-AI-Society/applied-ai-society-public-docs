@@ -18,7 +18,7 @@ This is not a prediction about the future. It is a description of the economy as
 
 ## What An Applied AI Practitioner Actually Does
 
-An applied AI practitioner wields the supercomputational power of modern AI to advance whatever mission they carry. The mission can be commercial, creative, civic, scientific, spiritual, educational, or personal. The practitioner's job is to see where AI fits inside the work, deploy it deliberately, and keep the irreplaceably human parts of the work intact.
+An applied AI practitioner wields the supercomputational power of modern AI to advance whatever mission they carry. The mission can be commercial, creative, civic, scientific, educational, or personal. The practitioner's job is to see where AI fits inside the work, deploy it deliberately, and keep the irreplaceably human parts of the work intact.
 
 The defining behaviors:
 
@@ -82,6 +82,6 @@ The good news is that the door is wide. The [activation bar](/docs/applied-ai-pr
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): The on-ramp for going pro.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system the daily practitioner operates inside.
 - [Sustained Commercial Success](/docs/concepts/sustained-commercial-success): The commercial rung of the discipline, held to a non-negotiable bar.
-- [Soul Skills](/docs/concepts/soul-skills): The non-automatable half of what the practitioner brings. Presence, taste, judgment, care, and the specific shape of them that is yours.
+- [Human Skills](/docs/concepts/human-skills): The non-automatable half of what the practitioner brings. Presence, taste, judgment, care, and the specific shape of them that is yours.
 - [Hyperagency](/docs/concepts/hyperagency): The far state of sustained practice.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The activation on-ramp.

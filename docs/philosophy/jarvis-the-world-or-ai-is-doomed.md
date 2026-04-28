@@ -24,9 +24,9 @@ The promise is also conditional. Every good thing we believe about AI depends on
 
 If these conditions hold, AI delivers. If any of them fail, AI is doomed. Not in the doomer sense that the machines kill us. In the political sense that the backlash from the excluded forecloses the good futures before they can be built.
 
-Here is the important clarification most AI discourse gets wrong. We are not building a single civilizational ark. Nobody should trust a single institution with that mandate, including ours. **We are building the infrastructure and the culture for a fleet of arks, each one owned by the people who built it.** The simplest ark is an individual who has been [Jarvised](/docs/get-jarvised): their own [Personal Agentic OS](/docs/concepts/personal-agentic-os), their context, their compounding system, their life and work. Every Jarvised person is an ark of one. The community of them is the fleet. See [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability) for why clearing that floor is survival-level infrastructure for a commercial actor in 2026. Above it, they are competitive and compounding. Below it, they are racing to catch up against people who have already crossed.
+Here is the important clarification most AI discourse gets wrong. We are not building a single civilizational platform. Nobody should trust a single institution with that mandate, including ours. **We are building the infrastructure and the culture for a network of activated practitioners, each one owning the system they built.** The simplest unit is an individual who has been [Jarvised](/docs/get-jarvised): their own [Personal Agentic OS](/docs/concepts/personal-agentic-os), their context, their compounding system, their life and work. The community of them is the network. See [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability) for why clearing that floor is survival-level infrastructure for a commercial actor in 2026. Above it, they are competitive and compounding. Below it, they are racing to catch up against people who have already crossed.
 
-Every person who builds an ark of any size is a person the doom pipeline will struggle to recruit, because the material and the psychological exclusion are both closed at once. The rest of this piece is about the pipeline that is currently winning because the fleet is not yet large enough.
+Every person who builds out their own personal infrastructure is a person the doom pipeline will struggle to recruit, because the material and the psychological exclusion are both closed at once. The rest of this piece is about the pipeline that is currently winning because the network is not yet large enough.
 
 ---
 
@@ -36,7 +36,7 @@ Every person who builds an ark of any size is a person the doom pipeline will st
 
 Before the pipeline, there is what AAS names [the Flaming Red Elephant in the Room](/docs/concepts/flaming-red-elephant). Three parts, each one obvious once stated, each one actively ignored by AI industry leadership and AI doom leadership both.
 
-**Red.** Red is the color of the communist-revolutionary spirit rising in a generation that feels abandoned by every existing institution, and the rise is understandable. When the people at the top of the wealth distribution tell you in public that you will be economically "useless," and the people who own the biggest new technology in the world market it as the thing that will "ruin your life," the red rising in response is a predictable historical pattern in every similar moment. Dismissing it as conspiracy or fringe is what the people who caused it would like everyone else to do. It is also what guarantees the spiral accelerates.
+**Red.** Red is the color of the communist-revolutionary current rising in a generation that feels abandoned by every existing institution, and the rise is understandable. When the people at the top of the wealth distribution tell you in public that you will be economically "useless," and the people who own the biggest new technology in the world market it as the thing that will "ruin your life," the red rising in response is a predictable historical pattern in every similar moment. Dismissing it as conspiracy or fringe is what the people who caused it would like everyone else to do. It is also what guarantees the spiral accelerates.
 
 **Flaming.** Flaming is the literal fire. Molotov cocktails thrown twice in two weeks at Sam Altman's house. Thirteen rounds fired into an Indianapolis city councilman's home over a data center vote, with an eight-year-old asleep inside. Comment sections cheering it on. The next target. That trajectory is what 2026 is showing. It does not stop on its own. It stops when the underlying exclusion stops.
 
@@ -46,13 +46,13 @@ Before the pipeline, there is what AAS names [the Flaming Red Elephant in the Ro
 
 Patel's prescription to AI leadership in that same clip was a messaging rebrand and a shift toward uplifting, concrete uses of AI in ordinary people's lives. Worth noting for anyone about to treat that as a full playbook: a cosmetic rebrand without a real floor-raising agenda underneath it will accelerate the backlash. The only rebrand that holds is one where the inclusion work is actually being done.
 
-**Elephant.** Elephant is the fact that the cause is obvious and the industry will not say it out loud. Polite AI discourse treats the field as a meritocratic collaboration of curious researchers. The reality is that the top of the industry is steered in meaningful part by a small class of transhumanist billionaires whose public statements have equivocated on whether ordinary human flourishing is even the point of AI. Many are personally entangled in the Epstein scandal, which ordinarily disqualifies anyone from stewarding anything. Some openly hold a "religion of intelligence" worldview in which AGI is treated as a successor species rather than a tool built for human service. None of this is hidden or obscure. It is on the record in their own books, interviews, and open letters.
+**Elephant.** Elephant is the fact that the cause is obvious and the industry will not say it out loud. Polite AI discourse treats the field as a meritocratic collaboration of curious researchers. The reality is that the top of the industry is steered in meaningful part by a small class of transhumanist billionaires whose public statements have equivocated on whether ordinary human flourishing is even the point of AI. Many are personally entangled in the Epstein scandal, which ordinarily disqualifies anyone from stewarding anything. Some openly hold a worldview in which AGI is treated as a successor species rather than a tool built for human service. None of this is hidden or obscure. It is on the record in their own books, interviews, and open letters.
 
 The AI doom movement on the other side of the conversation is funded by money that overlaps with these same networks. The two loudest sides of the AI debate trace back to a remarkably small set of people whose incentives diverge sharply from the public's. One side tells ordinary people they will be economically useless. The other side tells them the whole project is extinction-level evil. Both sides are currently speaking past the actual 20-year-old trying to afford rent.
 
 That is the elephant. We cannot have an honest conversation about applied AI's promise for humanity while pretending the top of the industry is stewarded by people who unambiguously want that outcome. Naming the elephant is the first honest move available. Closing the exclusion is how the elephant stops being on fire.
 
-The faithful response is to address what caused the flames. Dismissing the people carrying them is how the country ends up with many more flames, and eventually with a grid that actually goes out.
+The honest response is to address what caused the flames. Dismissing the people carrying them is how the country ends up with many more flames, and eventually with a grid that actually goes out.
 
 ---
 
@@ -109,7 +109,7 @@ It is tempting to read the firebombings and the cheering comment sections as a f
 
 The framing this data deserves is straightforward. A tool that 35 percent of the country uses weekly and only 5 percent trust deeply is not a fringe-distrust object. It is the largest mass-adoption technology in modern memory entering with a public sentiment baseline closer to fluoride or genetically modified food than to the smartphone. The doom movement is recruiting against the grain of broad-based unease, not against the grain of acceptance. Industry leaders who keep behaving as though the distrust is a Twitter problem are reading their own room and not the country.
 
-The fleet-of-arks intervention has to land at the scale of that distrust. Workshops in every city. Activation pathways for every demographic. Real visibility into how AI advances the lives of people who currently feel surveilled or replaced by it. The polling is not the obstacle. The polling is the assignment.
+The activated-practitioner intervention has to land at the scale of that distrust. Workshops in every city. Activation pathways for every demographic. Real visibility into how AI advances the lives of people who currently feel surveilled or replaced by it. The polling is not the obstacle. The polling is the assignment.
 
 ---
 
@@ -141,41 +141,41 @@ The longer that vacuum exists, the more the doom movement grows. The more it gro
 
 ---
 
-## We Build The Fleet, Not A Single Ark
+## We Build The Network, Not A Single Platform
 
 The intervention that actually works is obvious once the pipeline is named. Close the exclusion. Give people the literacy, the tools, and the community they were told they would never get. Watch the recruitment funnel for doom collapse, because the anger has somewhere better to go.
 
-Here is the shape of how AAS does that, and how we need other institutions to do it too. **The Applied AI Society does not build the ark. We build the culture and the infrastructure so that every person who wants an ark can build their own.** The difference matters. A single centralized ark requires everyone to trust one institution with their future, which is exactly the posture the current AI elite would love the public to adopt. A fleet of arks, each one owned by the person or community that built it, is how sovereignty actually scales. The paternalistic "we will save you" frame that some in the AI industry have floated is not our model. Nobody is saving anyone. People are building their own things with real help.
+Here is the shape of how AAS does that, and how we need other institutions to do it too. **The Applied AI Society does not build the platform. We build the culture and the infrastructure so that every person who wants their own system can build it.** The difference matters. A single centralized platform requires everyone to trust one institution with their future, which is exactly the posture the current AI elite would love the public to adopt. A network of activated practitioners, each owning what they built, is how sovereignty actually scales. The paternalistic "we will save you" frame that some in the AI industry have floated is not our model. Nobody is saving anyone. People are building their own things with real help.
 
-Three ingredients make fleet-building possible, and no existing AI institution is delivering any of them at scale:
+Three ingredients make network-building possible, and no existing AI institution is delivering any of them at scale:
 
-**High-quality, hands-on [activation](/docs/concepts/activation).** Activation is the specific AAS word for the moment a person crosses from "I have heard about AI" to "I am using it and it is changing how I work." The generic phrase "upskilling" misses the psychological shift and the compounding that follows. Workshops, not blog posts. A person walks out of the room with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) on their laptop, configured to their real work. The [Supersuit Up workshop](/docs/workshops/supersuit-up) is the canonical path. It takes an afternoon. The effect on the person who completes one is significant enough that they stop feeling locked out, because they are no longer locked out. That is their ark of one, launched.
+**High-quality, hands-on [activation](/docs/concepts/activation).** Activation is the specific AAS word for the moment a person crosses from "I have heard about AI" to "I am using it and it is changing how I work." The generic phrase "upskilling" misses the psychological shift and the compounding that follows. Workshops, not blog posts. A person walks out of the room with a working [Personal Agentic OS](/docs/concepts/personal-agentic-os) on their laptop, configured to their real work. The [Supersuit Up workshop](/docs/workshops/supersuit-up) is the canonical path. It takes an afternoon. The effect on the person who completes one is significant enough that they stop feeling locked out, because they are no longer locked out. That is one more activated practitioner added to the network.
 
 **Life literacy alongside technical literacy.** Applied AI multiplies what a human already brings. A person who has not done the work of knowing who they are, what they are building, and who they are building it with cannot get full leverage out of any tool. Technical literacy without life literacy produces burnout at 100x speed. We teach both.
 
 **Sovereign tools and sovereign patterns.** A Personal Agentic OS that a person owns and runs on their own machine is a different thing from a subscription to a hyperscaler product. Ownership of your context, your skills, and your workflow is what makes the literacy compound. The doom movement is rightly suspicious of rented sovereignty, and the suspicion is warranted. We offer an alternative architecture that stays with the builder.
 
-Underneath all three: **a culture of ark builders teaching each other.** One person's Jarvis skill file is someone else's starting point. One chapter leader's workshop playbook becomes another chapter's scaffold. One small business's AI transformation is a reference implementation for the next. The fleet grows faster when every ark built adds to the shared infrastructure for the next ark. This is the community that matters, and building it is most of what AAS actually does day to day.
+Underneath all three: **a culture of practitioners teaching each other.** One person's Jarvis skill file is someone else's starting point. One chapter leader's workshop playbook becomes another chapter's scaffold. One small business's AI transformation is a reference implementation for the next. The network grows faster when every system built adds to the shared infrastructure for the next person being activated. This is the community that matters, and building it is most of what AAS actually does day to day.
 
 See [Inclusive Technological Advancement](/docs/concepts/inclusive-technological-advancement) for the design principle underneath this. The worth of AI progress is measured by how fast the floor rises, not by how far the frontier advances for those already at it.
 
 ---
 
-## Arks At Every Scale
+## Activated At Every Scale
 
-The ark you build is yours to scope. The same activation, literacy, and sovereign-tool pattern scales from the smallest ark to the largest. We help people choose which scale matches their calling and then build the thing.
+The system you build is yours to scope. The same activation, literacy, and sovereign-tool pattern scales from the smallest unit to the largest. We help people choose which scale matches their work and then build the thing.
 
-**Ark of one.** The Jarvised individual. Own context, own tools, own compounding. This is the entry point and the floor of the fleet. Get your [Personal Agentic OS](/docs/concepts/personal-agentic-os) running and you are on the ascending side of the [elevator economy](/docs/concepts/the-elevator-economy). Most people never need to scale beyond this to radically change their life.
+**Activated individual.** The Jarvised person. Own context, own tools, own compounding. This is the entry point and the floor of the network. Get your [Personal Agentic OS](/docs/concepts/personal-agentic-os) running and you are on the ascending side of the [elevator economy](/docs/concepts/the-elevator-economy). Most people never need to scale beyond this to radically change their life.
 
-**Ark for a team.** A founder and co-founder, a family, a creative partnership, a small practice. Shared context, shared skill files, coordinated activation. The team that operates on shared agentic infrastructure compounds together, which is how [the Ramp case](/docs/case-studies/ramp-glass) at a larger scale is already playing out inside fast-moving orgs.
+**Activated team.** A founder and co-founder, a family, a creative partnership, a small practice. Shared context, shared skill files, coordinated activation. The team that operates on shared agentic infrastructure compounds together, which is how [the Ramp case](/docs/case-studies/ramp-glass) at a larger scale is already playing out inside fast-moving orgs.
 
-**Ark for a community.** A local chapter, a church, a guild, a neighborhood. Collective activation, civic work, service for a shared geography or mission. The AAS [chapter leader playbook](/docs/playbooks/chapter-leader) is how we help people build this scale of ark.
+**Activated community.** A local chapter, a guild, a neighborhood. Collective activation, civic work, service for a shared geography or mission. The AAS [chapter leader playbook](/docs/playbooks/chapter-leader) is how we help people build this scale.
 
-**Ark for a business.** A company structured for the AI-native economy. Every role with a Jarvis. Shared skill library. Agentic infrastructure. The [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) describes the pattern. This is the scale at which economic capacity gets compounded for employees, customers, and the surrounding community all at once.
+**Activated business.** A company structured for the AI-native economy. Every role with a Jarvis. Shared skill library. Agentic infrastructure. The [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) describes the pattern. This is the scale at which economic capacity gets compounded for employees, customers, and the surrounding community all at once.
 
-**Ark for a city.** Civic infrastructure that treats every resident as an ark builder in the making. Real partnerships between local government, chapters, schools, and businesses. This is where the elevator economy can be corrected at the scale that actually moves political conditions.
+**Activated city.** Civic infrastructure that treats every resident as a potential practitioner. Real partnerships between local government, chapters, schools, and businesses. This is where the elevator economy can be corrected at the scale that actually moves political conditions.
 
-Each scale of ark is an expression of the same core pattern. Each one is sovereign. Each one contributes back to the shared culture of ark building for the next builder. No single ark has to carry everybody, because there is no single ark. That is the whole point.
+Each scale is an expression of the same core pattern. Each one is sovereign. Each one contributes back to the shared culture for the next builder. No single institution has to carry everybody, because there is no single platform. That is the whole point.
 
 ---
 
@@ -191,9 +191,9 @@ Your future lives in the hands that can operate applied AI at a level most peopl
 
 [Get Jarvised](/docs/get-jarvised). Come to a [Supersuit Up workshop](/docs/workshops/supersuit-up). Join the [community](https://discord.gg/K7uWJBMFaN). Read [Your Two Futures](/docs/philosophy/your-two-futures) for the stakes of the decision you are about to make. Then get to work.
 
-Uselessness is a function of literacy and infrastructure, not a property of a person. Build your ark first. Then help the people you love build theirs.
+Uselessness is a function of literacy and infrastructure, not a property of a person. Build your own system first. Then help the people you love build theirs.
 
-Our whole organization exists to help people get [activated](/docs/concepts/activation) and empowered for service of humanity as fast as possible. That is the work. Every person we [Jarvis](/docs/get-jarvised) adds one more vessel to the fleet. The fleet is the ark.
+Our whole organization exists to help people get [activated](/docs/concepts/activation) and empowered for service of humanity as fast as possible. That is the work. Every person we [Jarvis](/docs/get-jarvised) adds one more node to the network. The network is the response.
 
 ---
 
@@ -213,7 +213,7 @@ Read that twice. The physical security of the AI buildout is now a scaling-laws-
 
 There is a parallel storytelling layer to the same problem, and the industry has been losing on it. San Francisco is not indicative of the mass consumer, and it is not even close. Most people do not want agents, digital twins, or AI tools poking around in their lives by default. They are not inspired by the founders telling them their job is about to disappear. The bench of aspirational tech figures that ordinary people actually respond to is close to empty.
 
-That gap is the assignment. The aspirational figure ordinary people respond to is the neighbor who got Jarvised and is now running a small business that did not exist eighteen months ago, the chapter leader running activation workshops at the local library, the church administrator using AI to coordinate hospitality for a community that has felt forgotten. The industry's storytelling problem is upstream of its security problem and downstream of its inclusion problem. Fix the inclusion and the stories show up on their own.
+That gap is the assignment. The aspirational figure ordinary people respond to is the neighbor who got Jarvised and is now running a small business that did not exist eighteen months ago, the chapter leader running activation workshops at the local library, the community organizer using AI to coordinate hospitality for a neighborhood that has felt forgotten. The industry's storytelling problem is upstream of its security problem and downstream of its inclusion problem. Fix the inclusion and the stories show up on their own.
 
 If you are building AI, build tools your grandmother, your neighbor, and the 20-year-old trying to afford rent in your city can all actually use. Fund the literacy. Fund the community. Fund the workshops. The counter-movement to stop-AI violence is a generation that feels included in what comes next. Better security at the data centers is a downstream consequence of getting that wrong.
 

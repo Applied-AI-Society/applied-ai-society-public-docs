@@ -11,7 +11,7 @@ title: "The Mission Harness"
 
 ## From Soul to Mission
 
-The [Soul Harness](/docs/concepts/the-soul-harness) is personal. It is the system you build around your individual talent to make yourself productive, sovereign, and aligned with the life you are meant to live.
+The [Life Harness](/docs/concepts/the-life-harness) is personal. It is the system you build around your individual talent to make yourself productive, sovereign, and aligned with the life you are meant to live.
 
 But most meaningful work is not solo. It involves multiple people, multiple AI agents, and a shared purpose that is bigger than any one person. That shared purpose needs its own harness.
 
@@ -37,7 +37,7 @@ The mission steward is the human who holds the heart of the mission. They are th
 
 The steward's job is not to do all the work. It is to continually check that the machine (humans + AI agents + systems) is still serving the actual mission, not a distorted version of it. They ask: are people being moved by what we are creating? Is the quality real? Are we still solving the problem we set out to solve, or have we drifted into optimizing for something easier?
 
-This is a judgment role. It requires taste, conviction, and the authority to course-correct. It cannot be delegated to an AI. The steward is the soul of the mission harness.
+This is a judgment role. It requires taste, conviction, and the authority to course-correct. It cannot be delegated to an AI. The steward is the center of the mission harness.
 
 ### The AGI Whisperer
 
@@ -85,7 +85,7 @@ The harness components:
 
 The mission steward (the Executive Director) continually checks: are people actually being activated? Is the content still truthful? Is the community still high-signal? The AGI whisperers build the systems that execute at scale without requiring the steward's presence for every interaction.
 
-The goal: a mission harness so well-designed that it can activate thousands of people with minimal additional human input while maintaining the quality, truth, and soul that made the first workshop transformative. Not by removing humans. By amplifying the humans who are called to this mission with systems that extend their reach.
+The goal: a mission harness so well-designed that it can activate thousands of people with minimal additional human input while maintaining the quality, truth, and presence that made the first workshop transformative. Not by removing humans. By amplifying the humans who are called to this mission with systems that extend their reach.
 
 ## Build Yours
 
@@ -101,7 +101,7 @@ The mission is too important to leave to chance. Harness it.
 
 ## Further Reading
 
-- [The Soul Harness](/docs/concepts/the-soul-harness): The personal version. Building a harness around your individual talent
+- [The Life Harness](/docs/concepts/the-life-harness): The personal version. Building a harness around your individual talent
 - [Game Design](/docs/concepts/game-design): Objectives, rules, guardrails, and scoring for any system
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose into infrastructure
 - [Harness Engineering](/docs/concepts/harness-engineering): The technical architecture of agent harnesses

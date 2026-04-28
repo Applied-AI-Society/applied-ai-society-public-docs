@@ -42,11 +42,11 @@ Your future hire is one group down on this page. More on that in the [Humanity-F
 
 ### 2. Artists
 
-Musicians, filmmakers, writers, painters, poets, directors, designers. The heart and soul of humanity.
+Musicians, filmmakers, writers, painters, poets, directors, designers. The heart of humanity's creative culture.
 
-AI supercomputers are the biggest marginal unlock you have seen in your lifetime. An artist who barely uses a computer today, once [Jarvised](/docs/get-jarvised), can produce a different order of magnitude of creative output tomorrow. Worldbuilding, production, distribution, business operations, everything downstream of the art, amplified so the art itself can get more of your time and soul.
+AI supercomputers are the biggest marginal unlock you have seen in your lifetime. An artist who barely uses a computer today, once [Jarvised](/docs/get-jarvised), can produce a different order of magnitude of creative output tomorrow. Worldbuilding, production, distribution, business operations, everything downstream of the art, amplified so the art itself can get more of your time and presence.
 
-We take artists seriously because culture is downstream of who shapes it. A future where only developers have agentic infrastructure is a spiritually poorer future for everyone, and we are working to prevent it.
+We take artists seriously because culture is downstream of who shapes it. A future where only developers have agentic infrastructure is a culturally poorer future for everyone, and we are working to prevent it.
 
 ### 3. Non-Developer Students
 

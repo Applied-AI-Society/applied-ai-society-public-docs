@@ -30,10 +30,11 @@
 - [The AGI Whisperer](https://docs.appliedaisociety.org/docs/concepts/agi-whisperer)
 - [Always-On Agents](https://docs.appliedaisociety.org/docs/concepts/always-on-agents)
 - [Anatomy of a Harness: Lessons from Claude Code's Source](https://docs.appliedaisociety.org/docs/concepts/anatomy-of-a-harness)
+- [Anchor of a Scene](https://docs.appliedaisociety.org/docs/concepts/anchor-of-a-scene)
 - [Angels in the Attributes](https://docs.appliedaisociety.org/docs/concepts/angels-in-the-attributes): The ungoogleable edge intelligence that determines whether a deal lands, a pitch works, a hire compounds, or a relationship deepens. Small, specific, easy-to-miss attributes of a person or situation that no public search surfaces. Held in your head they do not scale. Written into your Jarvis workspace they compound every week.
 - [The Applied AI Discipline](https://docs.appliedaisociety.org/docs/concepts/applied-ai-practice): The daily discipline of living and operating with AI. Embodied, progressive, lifelong. Everyone who intends to stay commercially and creatively relevant is now a daily applied AI practitioner.
 - [Applied AI Practitioner](https://docs.appliedaisociety.org/docs/concepts/applied-ai-practitioner): The person walking the applied AI discipline. Anyone who wants to stay relevant, commercially viable, and sustainably successful in the work they care about needs to become one. A daily practitioner at minimum; a pro practitioner if they make it their career.
-- [Applied AI](https://docs.appliedaisociety.org/docs/concepts/applied-ai): The highest and best use of AI in service of whatever you are working toward. Not confined to business. Any goal a human can hold (commercial, creative, civic, spiritual, personal, public good) qualifies. The defining question is not what AI can do; it is what a human has decided to use it to accomplish.
+- [Applied AI](https://docs.appliedaisociety.org/docs/concepts/applied-ai): The highest and best use of AI in service of whatever you are working toward. Not confined to business. Any goal a human can hold (commercial, creative, civic, personal, public good) qualifies. The defining question is not what AI can do; it is what a human has decided to use it to accomplish.
 - [Applied Politics](https://docs.appliedaisociety.org/docs/concepts/applied-politics): The relational and political navigation that determines whether an applied AI deployment actually lands. Most lists of essential applied AI roles name domain expertise and harness fluency. They miss the third role: the one who can read the room, build the coalition, and get the decision through.
 - [Being Someone's Go-To Person](https://docs.appliedaisociety.org/docs/concepts/being-someones-go-to-person)
 - [Build What Big AI Won't](https://docs.appliedaisociety.org/docs/concepts/build-what-big-ai-wont)
@@ -60,7 +61,9 @@
 - [The Four Levels of Applied AI for Existing Businesses](https://docs.appliedaisociety.org/docs/concepts/four-levels-of-applied-ai-for-existing-businesses)
 - [Game Design](https://docs.appliedaisociety.org/docs/concepts/game-design)
 - [Harness Engineering](https://docs.appliedaisociety.org/docs/concepts/harness-engineering)
+- [Human Comparative Advantage](https://docs.appliedaisociety.org/docs/concepts/human-comparative-advantage): The applied AI engineer's job is to be the supersuit engineer for an essential human role. Save them from drudgery so they can stay in the human-only work only they can do. That work is also where their sustained commercial success lives.
 - [Human Emulators](https://docs.appliedaisociety.org/docs/concepts/human-emulators)
+- [Human Skills](https://docs.appliedaisociety.org/docs/concepts/human-skills): The skills that require human presence to perform. The ones AI cannot replicate because they live in presence, taste, judgment, care, and lived experience. The ones that increasingly define sustained commercial success as AI automates everything else. The general category and the specific-to-you shape of it are both where your durable market edge lives.
 - [Human Slop Factory](https://docs.appliedaisociety.org/docs/concepts/human-slop-factory)
 - [Hyperagency](https://docs.appliedaisociety.org/docs/concepts/hyperagency)
 - [Hypercontext Protocol](https://docs.appliedaisociety.org/docs/concepts/hypercontext-protocol)
@@ -106,9 +109,6 @@
 - [Signalmaxxing](https://docs.appliedaisociety.org/docs/concepts/signalmaxxing)
 - [Slop Factory](https://docs.appliedaisociety.org/docs/concepts/slop-factory)
 - [The Slopacalypse](https://docs.appliedaisociety.org/docs/concepts/slopacalypse)
-- [Soul of a Scene](https://docs.appliedaisociety.org/docs/concepts/soul-of-a-scene)
-- [Soul Skills](https://docs.appliedaisociety.org/docs/concepts/soul-skills): The skills that require a soul to perform. The ones AI cannot replicate because they live in presence, taste, judgment, care, and lived experience. The ones that increasingly define sustained commercial success as AI automates everything else. The general category and the specific-to-you shape of it are both where your durable market edge lives.
-- [Soulful Comparative Advantage](https://docs.appliedaisociety.org/docs/concepts/soulful-comparative-advantage): The applied AI engineer's job is to be the supersuit engineer for an essential human role. Save them from drudgery so they can stay in the soul-requiring work only they can do. That work is also where their sustained commercial success lives.
 - [Sovereign Agentic Business OS](https://docs.appliedaisociety.org/docs/concepts/sovereign-agentic-business-os)
 - [Principles](https://docs.appliedaisociety.org/docs/concepts/sovereign-agentic-business-os/principles)
 - [The Question Bank](https://docs.appliedaisociety.org/docs/concepts/sovereign-agentic-business-os/question-bank)
@@ -116,7 +116,6 @@
 - [Strategy Is the New Execution](https://docs.appliedaisociety.org/docs/concepts/strategy-is-the-new-execution)
 - [Superprompt](https://docs.appliedaisociety.org/docs/concepts/superprompt)
 - [Sustained Commercial Success](https://docs.appliedaisociety.org/docs/concepts/sustained-commercial-success): The outcome Applied AI Society optimizes for: the right onboarding to AI, which is a different road from the easiest onboarding. The kind that produces leaders who can actually build and sustain commercial edge in an economy that is rewriting itself.
-- [The Ark of One](https://docs.appliedaisociety.org/docs/concepts/the-ark-of-one)
 - [The Case for Simple Harnesses](https://docs.appliedaisociety.org/docs/concepts/the-case-for-simple-harnesses)
 - [Chat History Is Disposable](https://docs.appliedaisociety.org/docs/concepts/the-chat-is-not-the-product)
 - [The Chatbot Trap](https://docs.appliedaisociety.org/docs/concepts/the-chatbot-trap): Most people formed their model of AI from free-tier ChatGPT and viral failure clips. That model has not updated. Until you have felt your AI do real creative work for you, you cannot reason accurately about what is now possible.
@@ -125,16 +124,15 @@
 - [The Exocortex](https://docs.appliedaisociety.org/docs/concepts/the-exocortex)
 - [The Hyperagency Gap](https://docs.appliedaisociety.org/docs/concepts/the-hyperagency-gap)
 - [The Judgment Line](https://docs.appliedaisociety.org/docs/concepts/the-judgment-line)
+- [The Life Harness](https://docs.appliedaisociety.org/docs/concepts/the-life-harness)
 - [The Lock-In Is Coming](https://docs.appliedaisociety.org/docs/concepts/the-lock-in-is-coming)
-- [The New Flood](https://docs.appliedaisociety.org/docs/concepts/the-new-flood)
+- [The Omni-Crisis](https://docs.appliedaisociety.org/docs/concepts/the-omni-crisis)
 - [The Overconfidence Trap](https://docs.appliedaisociety.org/docs/concepts/the-overconfidence-trap)
 - [The Permission Surface](https://docs.appliedaisociety.org/docs/concepts/the-permission-surface)
 - [The Prolific Mode](https://docs.appliedaisociety.org/docs/concepts/the-prolific-mode)
 - [The Self-Improving Human](https://docs.appliedaisociety.org/docs/concepts/the-self-improving-human)
 - [The Socratic Trainer](https://docs.appliedaisociety.org/docs/concepts/the-socratic-trainer)
 - [The Sorting Hat](https://docs.appliedaisociety.org/docs/concepts/the-sorting-hat)
-- [The Soul Harness](https://docs.appliedaisociety.org/docs/concepts/the-soul-harness)
-- [The Sovereignty Stack](https://docs.appliedaisociety.org/docs/concepts/the-sovereignty-stack)
 - [The Survivor Economy](https://docs.appliedaisociety.org/docs/concepts/the-survivor-economy)
 - [The Tinkerer's Curse](https://docs.appliedaisociety.org/docs/concepts/the-tinkerers-curse)
 - [The Token Economy](https://docs.appliedaisociety.org/docs/concepts/the-token-economy)
@@ -156,7 +154,7 @@
 - [Protect Your Truth](https://docs.appliedaisociety.org/docs/concepts/legacy/protect-your-truth)
 - [Refactor Your Information Architecture](https://docs.appliedaisociety.org/docs/concepts/legacy/refactor-your-information-architecture)
 - [Source Controller](https://docs.appliedaisociety.org/docs/concepts/legacy/source-controller)
-- [Start Your Company Bible](https://docs.appliedaisociety.org/docs/concepts/legacy/start-your-company-bible)
+- [Start Your Company Handbook](https://docs.appliedaisociety.org/docs/concepts/legacy/start-your-company-handbook)
 - [Truth as Context](https://docs.appliedaisociety.org/docs/concepts/legacy/truth-as-context)
 - [Voice Transcriber](https://docs.appliedaisociety.org/docs/concepts/legacy/voice-transcriber)
 - [Why Legacy Matters](https://docs.appliedaisociety.org/docs/concepts/legacy/why-it-matters)
@@ -287,4 +285,4 @@
 - [The Supersuit Up Workshop](https://docs.appliedaisociety.org/docs/workshops/supersuit-up): Build your Personal Agentic OS (aka Jarvis Yourself). A step-by-step guide to AI-augmented recall, strategic clarity, and compounding context.
 
 ---
-Generated at build time. 281 pages indexed.
+Generated at build time. 279 pages indexed.

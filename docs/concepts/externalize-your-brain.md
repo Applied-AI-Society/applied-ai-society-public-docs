@@ -68,7 +68,7 @@ Here is the part most AI conversations skip: you cannot externalize a brain you 
 
 If you do not know your own vision, no amount of tooling will help. If you cannot articulate your principles, you have nothing to write down. If you have not done the inner work to understand your cognitive type, your strengths, your weaknesses, your mission, then your “externalized brain” will be shallow and your AI will produce shallow output.
 
-This is the [Soul Harness](/docs/concepts/the-soul-harness) insight applied to the individual. A harness is only as good as what it wraps around. If what it wraps around is confusion, avoidance, and unexamined assumptions, the harness amplifies confusion, avoidance, and unexamined assumptions.
+This is the [Life Harness](/docs/concepts/the-life-harness) insight applied to the individual. A harness is only as good as what it wraps around. If what it wraps around is confusion, avoidance, and unexamined assumptions, the harness amplifies confusion, avoidance, and unexamined assumptions.
 
 Companies are already discovering this. They buy AI subscriptions for their teams, expecting productivity gains. What they get is a room full of people staring at a chat window with nothing to say. Not because the tool is bad. Because the people have never been asked to articulate what they know, what they are trying to accomplish, or how they make decisions. They cannot externalize a brain they have never examined.
 
@@ -101,12 +101,11 @@ The gap between “I use AI sometimes” and “AI operates from my full context
 - [The Exocortex](/docs/concepts/the-exocortex): The noun for what you are building when you externalize. Why it is becoming the new default for competitive thinking and why sovereignty is the question that comes next.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that reads your externalized brain and acts on it
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information state for AI
-- [The Soul Harness](/docs/concepts/the-soul-harness): Why human development matters before AI amplification
+- [The Life Harness](/docs/concepts/the-life-harness): Why human development matters before AI amplification
 - [Signalmaxxing](/docs/concepts/signalmaxxing): Curating the quality of what goes into your brain and what comes out
 - [Compounding Docs](/docs/concepts/compounding-docs): How every document you write makes the system smarter
 - [Instruction Files](/docs/concepts/instruction-files): The new unit of programming, written in plain text
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements to begin
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Owning every layer of your digital life
 - [Context Lake](/docs/concepts/context-lake): Where your externalized brain lives
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial to get started
 - [Crutching](/docs/concepts/crutching): Externalizing your brain is the right move. Outsourcing your thinking is the wrong one. Know the difference.

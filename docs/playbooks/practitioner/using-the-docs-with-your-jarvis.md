@@ -19,7 +19,7 @@ When your [Personal Agentic OS](/docs/concepts/personal-agentic-os) can read the
 
 - You ask “what level am I operating at?” and your agent references the Four Levels framework with the actual definitions, not a hallucinated version.
 - You braindump about a client engagement and your agent recognizes the pattern as [robot mode](/docs/concepts/robot-mode) and suggests the relevant playbook.
-- You are writing a proposal and your agent pulls the exact language from the [sovereignty stack](/docs/concepts/the-sovereignty-stack) to articulate why your client should own their infrastructure.
+- You are writing a proposal and your agent pulls the exact language from the [lock-in concept](/docs/concepts/the-lock-in-is-coming) to articulate why your client should own their infrastructure.
 - You are stuck on how to price an engagement and your agent references the [practitioner pricing guide](/docs/playbooks/practitioner/pricing) with the actual frameworks.
 
 Your agent goes from “I know some general things about AI” to “I have the entire AAS knowledge base and can apply it to your specific situation.” That is the difference between a chatbot and a [context-engineered](/docs/concepts/context-engineering) system.

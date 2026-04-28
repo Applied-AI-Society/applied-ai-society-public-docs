@@ -94,6 +94,6 @@ The bottleneck is almost never the model or the tooling. It's clarity and contex
 ## Further Reading
 
 - [Legacy](/docs/concepts/legacy) for the full framework on documenting and organizing organizational truth
-- [Start Your Company Bible](/docs/concepts/legacy/start-your-company-bible) for the practical process of building comprehensive documentation
+- [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook) for the practical process of building comprehensive documentation
 - [Truth as Context](/docs/concepts/legacy/truth-as-context) for ensuring AI agents operate with full organizational understanding
 - [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable) for making your entire organization accessible to AI agents

@@ -48,7 +48,7 @@ The deeper gap this closes is not implementation help. It is that people don't k
 
 The repo is organized around what people need to understand and do:
 
-- **[Concepts](/docs/concepts)** naming the frameworks practitioners use right now ([context lakes](/docs/concepts/context-lake), [harness engineering](/docs/concepts/harness-engineering), [the sovereignty stack](/docs/concepts/the-sovereignty-stack), [hyperagency](/docs/concepts/hyperagency), and dozens more)
+- **[Concepts](/docs/concepts)** naming the frameworks practitioners use right now ([context lakes](/docs/concepts/context-lake), [harness engineering](/docs/concepts/harness-engineering), [hyperagency](/docs/concepts/hyperagency), and dozens more)
 - **[Roles](/docs/roles)** documenting the careers emerging in the applied AI economy
 - **[Playbooks](/docs/playbooks)** for practitioners, business owners, chapter leaders, students, and presenters
 - **[Case studies](/docs/case-studies)** showing what the work actually looks like in the field
@@ -99,12 +99,6 @@ For the full picture of the urgency and what applied AI actually means, read **[
 
 ![Travis Oliphant networking with practitioners at an AAS event](/img/about/travis-networking.jpg)
 
-## Founded By
-
-Applied AI Society grew out of conversations among the founders in late 2025 about a widening gap: young people have real AI fluency but no clear path to turn it into a living. Travis Oliphant (creator of NumPy and SciPy, co-founder of Anaconda) came on as co-founder and advisor, bringing decades of building open-source tools that power modern computing and data science.
-
-The founding team shares one conviction: AI should free people to do more meaningful work, and the people it frees should own their tools, their data, and their future. The Society exists to fix the path and build the infrastructure that makes that future possible.
-
 ## What We Are
 
 The Applied AI Society is a 501(c)(3) nonprofit empowering leaders to apply the world's most advanced AI technologies responsibly to strengthen their businesses, communities, and humanity's collective future. The people we train go on to prosper themselves, lift their communities, serve the public interest, and hold the physical infrastructure of AI to account.
@@ -119,9 +113,9 @@ We call the people who bridge the gap between AI capability and real-world imple
 
 At the heart of everything we do is a simple idea: AI should free people to do more meaningful work, not replace them. And the people it frees should own their tools, their data, and their future.
 
-Some work requires a human soul: presence, judgment, taste, care, responsibility. Some work is necessary but doesn't carry that weight. Thinking machines exist to carry the second kind so humans can spend more time on the first.
+Some work is irreplaceably human: presence, judgment, taste, care, responsibility. Some work is necessary but doesn't carry that weight. Thinking machines exist to carry the second kind so humans can spend more time on the first.
 
-That's the [Applied AI Canon](/docs/philosophy/canon). Efficiency is not the goal. More soul-requiring work is.
+That's the [Applied AI Canon](/docs/philosophy/canon). Efficiency is not the goal. More human-only work is.
 
 ## Why Sovereignty Matters
 
@@ -133,7 +127,7 @@ We believe people should own their own intelligence. Not rent it. Not subscribe 
 
 That said, we are pragmatists. The best available tool right now is often proprietary. We recommend Claude Code as our default harness in the [Supersuit Up Workshop](/docs/workshops/supersuit-up). We use frontier models from Anthropic and OpenAI in our own workflows. The difference is that we build on portable foundations: plain markdown files on your computer, open formats, systems designed so you can switch providers any time you need to. Sovereignty is not about refusing to use proprietary tools today. It is about never being trapped by them tomorrow.
 
-The [sovereignty stack](/docs/concepts/the-sovereignty-stack) maps every layer of your digital life, from the silicon in your computer to the content you publish, and identifies where you are dependent on someone who is not you. We are training builders who understand this stack and can help others achieve sovereignty at every layer.
+We are training builders who understand sovereignty at every layer of the digital stack and can help others achieve it.
 
 Open source models are getting better every quarter. Open harnesses are maturing. The sovereign alternative is being built right now, piece by piece, by builders who believe people deserve to own their future. If we build it to be as easy and effective as the proprietary platforms, it is just a matter of time.
 
@@ -145,7 +139,7 @@ The three pillars above are what we offer. This section covers how the operation
 
 **Field notes, not textbooks.** The site you're reading right now is a living field guide, not a static curriculum. In a field that changes weekly, textbooks are outdated before they reach the reader. Social media rewards hype over accuracy. We need a different model: [field notes](/docs/philosophy/why-field-notes) written by practitioners who are actually doing the work, source-controlled and continuously updated, honest about what we don't know yet.
 
-[Roles](/docs/roles) document the careers emerging. [Concepts](/docs/concepts) name the frameworks practitioners are using right now: [context lakes](/docs/concepts/context-lake), [harness engineering](/docs/concepts/harness-engineering), [the sovereignty stack](/docs/concepts/the-sovereignty-stack), and many others. [Case studies](/docs/case-studies) show what the work actually looks like. [Playbooks](/docs/playbooks) capture how to run events, find clients, and build chapters. None of this is finished. All of it is evolving.
+[Roles](/docs/roles) document the careers emerging. [Concepts](/docs/concepts) name the frameworks practitioners are using right now: [context lakes](/docs/concepts/context-lake), [harness engineering](/docs/concepts/harness-engineering), and many others. [Case studies](/docs/case-studies) show what the work actually looks like. [Playbooks](/docs/playbooks) capture how to run events, find clients, and build chapters. None of this is finished. All of it is evolving.
 
 **One public community, many invite-only spaces.** Our [Discord](https://discord.gg/K7uWJBMFaN) is the single public community space where anyone can join, ask questions, share what they're working on, and connect across chapters. Beyond that, chapter leaders and practitioner groups run their own invite-only group chats (Signal, iMessage, Telegram, whatever works locally). These smaller spaces feel special because they are. You earn your way in by showing up, doing real work, and adding value. The public Discord is the front door. The invite-only chats are the living rooms.
 

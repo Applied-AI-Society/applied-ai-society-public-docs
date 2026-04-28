@@ -5,7 +5,7 @@ title: "Practitioner Matching Spec"
 
 # Practitioner Matching Spec
 
-*A divine first principle design for matching applied AI projects to the right practitioners, using unlimited verified context on both sides.*
+*A first principle design for matching applied AI projects to the right practitioners, using unlimited verified context on both sides.*
 
 <!-- last_updated: 2026-04-16 -->
 
@@ -30,7 +30,7 @@ Every approach above wastes context. The operator with the project knows enormou
 A system where:
 
 1. **The project owner uploads unlimited context** about the project. Goals, constraints, current state, prior attempts, the people involved, the budget, the timeline, the unspoken stuff that usually only comes out in the third call. All of it. As text, files, voice notes, transcripts, links.
-2. **Practitioners maintain unlimited verified context** about themselves: skills, prior projects with outcomes, current availability, working style, the kinds of clients they thrive with, the kinds of projects they will refuse, their rates, their references, their divine edge.
+2. **Practitioners maintain unlimited verified context** about themselves: skills, prior projects with outcomes, current availability, working style, the kinds of clients they thrive with, the kinds of projects they will refuse, their rates, their references, their unique edge.
 3. **The matching surface is a ranked list** of practitioners for the project, with the rationale exposed in plain language for every match.
 4. **The project owner reviews the ranked list, picks one or two, and gets warm-introduced** through whichever channel both parties prefer.
 
@@ -64,7 +64,7 @@ The output is not “here is the practitioner who matched best.” It is **a ran
 
 The project owner reads the rationale. If the rationale is wrong, the project owner can correct it (one click) and the ranking re-runs with the correction in context. This is the project owner teaching the system in real time, not arguing with a black box.
 
-### The introduction is sacred
+### The introduction is high-stakes
 
 When the project owner picks a practitioner, the system does not generate a templated intro email. It produces a draft that the project owner reviews and personalizes, sent through whichever channel both parties have opted into (LinkedIn, email, SMS, etc.). The first message has to be a real human move. The system optimizes for getting the right two humans across the threshold, not for owning the conversation after they cross it.
 
@@ -112,7 +112,7 @@ If you read this spec and want to write your own (for any problem in any domain)
 4. **Be specific about the trust mechanism** (here: verified context with traceable sources). Hand-wavy trust is not a spec.
 5. **Name what the spec is not.** Refuse to over-specify the implementation.
 
-That structure works for almost any divine first principle spec.
+That structure works for almost any first principle spec.
 
 ---
 

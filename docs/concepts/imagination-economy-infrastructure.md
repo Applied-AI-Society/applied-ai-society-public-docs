@@ -31,7 +31,7 @@ You cannot collapse the distance between thought and creation if you cannot tran
 
 ### Inference
 
-The models themselves, and the systems that serve them. Cloud inference (Anthropic, OpenAI, Google), edge inference (local models via Ollama, MLX), and the hardware that runs it all (GPUs, TPUs, custom silicon). [Model-agnostic](/docs/concepts/the-sovereignty-stack) access to inference is critical: no single provider should be a bottleneck for the imagination economy. The more inference options people have, the more resilient the stack.
+The models themselves, and the systems that serve them. Cloud inference (Anthropic, OpenAI, Google), edge inference (local models via Ollama, MLX), and the hardware that runs it all (GPUs, TPUs, custom silicon). Model-agnostic access to inference is critical: no single provider should be a bottleneck for the imagination economy. The more inference options people have, the more resilient the stack.
 
 ### Agentic Harnesses
 
@@ -39,7 +39,7 @@ The models are good enough. The [harness](/docs/concepts/harness-engineering) is
 
 ### Sovereign Data Infrastructure
 
-Your context, your files, your relationships, your institutional knowledge: all of it needs to live somewhere you control. [Sovereignty](/docs/concepts/the-sovereignty-stack) is not a nice-to-have layer. It is load-bearing. If the infrastructure that holds your imagination is owned by someone else, your ability to create is contingent on their continued goodwill. Plain text files, version control, portable formats, local-first storage: this is the data layer of the imagination economy.
+Your context, your files, your relationships, your institutional knowledge: all of it needs to live somewhere you control. Sovereignty is not a nice-to-have layer. It is load-bearing. If the infrastructure that holds your imagination is owned by someone else, your ability to create is contingent on their continued goodwill. Plain text files, version control, portable formats, local-first storage: this is the data layer of the imagination economy.
 
 ### Community, Education, and Upskilling
 
@@ -63,16 +63,15 @@ If you are a worker or a student: orient toward the stack. Learn the layers. Pic
 
 This framing carries an implicit moral claim: the imagination economy should serve human flourishing. Not every application of this infrastructure will. The same tools that let someone build a product that improves lives can be used to build systems that exploit or surveil.
 
-The infrastructure itself is neutral. The question is who builds it, who controls it, and what values they encode into it. This is one of the reasons [sovereignty](/docs/concepts/the-sovereignty-stack) matters so much: if the infrastructure is controlled by entities that do not share your values, your imagination is constrained by their agenda. Owning your stack is not just a technical decision. It is a moral one.
+The infrastructure itself is neutral. The question is who builds it, who controls it, and what values they encode into it. This is one of the reasons sovereignty matters so much: if the infrastructure is controlled by entities that do not share your values, your imagination is constrained by their agenda. Owning your stack is not just a technical decision. It is a moral one.
 
-We do not pretend to have a universal answer for what “good” means. We have our own convictions, shaped by our faith and our experience. What we can say with confidence: infrastructure that concentrates power and removes human agency is not imagination economy infrastructure. It is a prison with better UX. The test is simple. Does this make people more capable, more free, more able to create? Or does it make them more dependent?
+We do not pretend to have a universal answer for what “good” means. We have our own convictions, shaped by our convictions and our experience. What we can say with confidence: infrastructure that concentrates power and removes human agency is not imagination economy infrastructure. It is a prison with better UX. The test is simple. Does this make people more capable, more free, more able to create? Or does it make them more dependent?
 
 ---
 
 ## Further Reading
 
 - [Minimum Viable Infrastructure](/docs/concepts/minimum-viable-infrastructure): The baseline requirements to participate. The uncomfortable truth about who is left out.
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Every layer of the stack has a default controlled by someone else. The full map.
 - [Harness Engineering](/docs/concepts/harness-engineering): The layer that turns model capability into human productivity.
 - [Raise the Floor](/docs/concepts/raise-the-floor): The community layer in action. One person's breakthrough becomes everyone's baseline.
 - [Ramp: Glass](/docs/case-studies/ramp-glass): What imagination economy infrastructure looks like inside a company. Every employee activated.

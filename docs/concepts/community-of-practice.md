@@ -53,7 +53,7 @@ You do not build a community of practice by declaring it. You build it by runnin
 1. **Pick a craft tight enough to have shared problems.** "AI" is too wide. "Applied AI for founders and operators" is tight enough that people recognize each other's bottlenecks.
 2. **Open with a real thing, not a pitch.** Every event starts with someone showing their actual work, in progress, with the rough edges visible. This sets the floor.
 3. **Make field-note sharing the default ritual.** Round-the-room updates. Live problem-solving. Small demos over big talks. The [Applied AI Live format](/docs/playbooks/chapter-leader/applied-ai-live) was designed around this.
-4. **Protect the signal.** Be willing to say no to sponsorships, speakers, or formats that turn the room into an audience. The soul of the community is in what you refuse.
+4. **Protect the signal.** Be willing to say no to sponsorships, speakers, or formats that turn the room into an audience. The character of the community is in what you refuse.
 5. **Close the economic loop.** Pass work to members. Introduce clients to practitioners. A community of practice where nobody is earning from the craft will not survive the first hard month. A community of practice where members routinely make each other money is nearly impossible to kill.
 
 ---
@@ -82,7 +82,7 @@ If you are thinking about starting one in your city, talk to us. That is what we
 
 ## Further Reading
 
-- [Soul of a Scene](/docs/concepts/soul-of-a-scene): Who holds a community of practice together. Usually one person, sometimes a small group, who decided.
+- [Anchor of a Scene](/docs/concepts/anchor-of-a-scene): Who holds a community of practice together. Usually one person, sometimes a small group, who decided.
 - [Co-teaching Is the New Self-teaching](/docs/philosophy/co-teaching-is-the-new-self-teaching): Why learning in community beats learning alone, especially now.
 - [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): A proven event format designed to cultivate practice, not audience.
 - [Starting a Chapter](/docs/playbooks/chapter-leader/starting-a-chapter): The on-ramp for building one in your city.

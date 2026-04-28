@@ -101,6 +101,6 @@ Stop playing telephone. Start sharing the source code.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The individual version of the agentic OS
 - [Compounding Docs](/docs/concepts/compounding-docs): Documentation as a compounding asset
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating the right information
-- [The Soul Harness](/docs/concepts/the-soul-harness): Liberating vs. predatory systems at the life level
+- [The Life Harness](/docs/concepts/the-life-harness): Liberating vs. predatory systems at the life level
 - [Compound Drift](/docs/concepts/compound-drift): The single-operator version of the same cross-stage fidelity loss, applied to AI chains instead of human teams
 - [Slop Factory](/docs/concepts/slop-factory): What you become if you let compound drift run unchecked

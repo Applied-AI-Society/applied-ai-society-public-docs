@@ -74,5 +74,5 @@ This is a design pattern that many people and organizations should implement as 
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The individual agent OS this protocol extends
 - [Lossy AI Telephone](/docs/concepts/lossy-ai-telephone): The problem this solves
 - [The Permission Surface](/docs/concepts/the-permission-surface): Access control for agent systems
-- [The Soul Harness](/docs/concepts/the-soul-harness): Liberating vs. predatory systems
+- [The Life Harness](/docs/concepts/the-life-harness): Liberating vs. predatory systems
 - [Harness Engineering](/docs/concepts/harness-engineering): Building the system around the AI

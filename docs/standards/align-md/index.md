@@ -171,11 +171,11 @@ The test: if something would kill a partnership six months in, put it here now. 
   our content
 - Relationships where we'd be a marketing channel rather than a genuine
   collaborator
-- Anyone building what we'd call a "soul harness" -- systems designed to
+- Anyone building what we'd call a "life harness" -- systems designed to
   capture and extract rather than liberate and empower
 ```
 
-See the AAS concept page on [the soul harness](/docs/concepts/the-soul-harness) for context on that last point.
+See the AAS concept page on [the life harness](/docs/concepts/the-life-harness) for context on that last point.
 
 ### 7. Current Priorities
 
@@ -215,15 +215,15 @@ If you want to encourage them to publish one, send them a link to this spec. ALI
 
 These are useful but not required.
 
-### Spiritual Values
+### Core Values
 
-For faith-driven organizations or individuals. Include convictions that would affect partnership decisions. Many organizations and leaders operate from spiritual frameworks that shape their priorities and boundaries. Making these explicit prevents misunderstanding later.
+For organizations or individuals operating with deeply held convictions. Include the ones that would affect partnership decisions. Many organizations and leaders operate from frameworks that shape their priorities and boundaries. Making these explicit prevents misunderstanding later.
 
 ```markdown
-# Spiritual Values
+# Core Values
 
-Bright Harvest Collective operates as a ministry in its internal framing.
-Every major decision is held in prayer first. Partners do not need to share
+Bright Harvest Collective operates from a deep mission orientation.
+Every major decision is held in deep deliberation first. Partners do not need to share
 this conviction, and they should know it shapes the Collective's priorities
 and timelines.
 ```
@@ -257,7 +257,7 @@ Links to deeper context. Other ALIGN.md files, public documentation, relevant we
 
 A person's ALIGN.md is a synthesis of their organizations' ALIGN.md files.
 
-If someone runs an education nonprofit, co-founded a software company, and serves as a church elder, their personal ALIGN.md references all three. Someone evaluating “should we work with this person?” gets the full picture: the educational mission, the technical capabilities, and the faith framework that shapes their decisions.
+If someone runs an education nonprofit, co-founded a software company, and chairs a civic coalition, their personal ALIGN.md references all three. Someone evaluating "should we work with this person?" gets the full picture: the educational mission, the technical capabilities, and the civic framework that shapes their decisions.
 
 This means a person's ALIGN.md will often be longer and more nuanced than any single organization's. That's correct. People are more complex than orgs. The union principle captures that complexity honestly.
 
@@ -288,7 +288,7 @@ Both is ideal. The repo file is the source of truth. The website file is a distr
 
 ## Design Principles
 
-**Honesty over marketing.** Include the uncomfortable stuff. The dealbreakers, the spiritual convictions, the things that make some partners a bad fit. If your ALIGN.md reads like a pitch deck, you've missed the point.
+**Honesty over marketing.** Include the uncomfortable stuff. The dealbreakers, the deep convictions, the things that make some partners a bad fit. If your ALIGN.md reads like a pitch deck, you've missed the point.
 
 **Specificity over platitudes.** “We value diversity” tells an agent nothing. “We require that partner organizations have published DEI commitments with measurable goals” tells it exactly what to check. Concrete examples, not generic values.
 

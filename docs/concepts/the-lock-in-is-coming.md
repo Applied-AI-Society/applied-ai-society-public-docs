@@ -89,7 +89,7 @@ The entire architecture of the [Personal Agentic OS](/docs/concepts/personal-age
 
 **Own your harness.** Claude Code is one [harness](/docs/concepts/harness-engineering). There are others: OpenCode, Cursor, Aider, and more emerging constantly. The Personal Agentic OS architecture works with any harness that can read files and run commands. If your current harness changes its pricing, its policies, or its attitude toward third-party tools, you switch. Your context lake comes with you. Nothing is lost.
 
-**Own your future.** Sovereignty means the platform serves you, not the other way around. You are not a user of someone else's system. You are the operator of your own system. The [Soul Harness](/docs/concepts/the-soul-harness) framework makes the distinction clear: a predatory harness makes you dependent over time. A liberating harness makes you more capable and more independent over time. Choose liberating harnesses. Build liberating harnesses.
+**Own your future.** Sovereignty means the platform serves you, not the other way around. You are not a user of someone else's system. You are the operator of your own system. The [Life Harness](/docs/concepts/the-life-harness) framework makes the distinction clear: a predatory harness makes you dependent over time. A liberating harness makes you more capable and more independent over time. Choose liberating harnesses. Build liberating harnesses.
 
 ## The Independence Principle
 
@@ -113,11 +113,11 @@ The lock-in is coming. For some platforms, it has already arrived. The question 
 
 Here is the optimistic ending.
 
-Open source models are improving at a pace that surprises even the people building them. Local inference is getting faster, cheaper, and more accessible every quarter. Open harnesses are getting better. The sovereignty stack is being built, piece by piece, by thousands of builders who believe people should own their own intelligence.
+Open source models are improving at a pace that surprises even the people building them. Local inference is getting faster, cheaper, and more accessible every quarter. Open harnesses are getting better. Sovereign infrastructure is being built, piece by piece, by thousands of builders who believe people should own their own intelligence.
 
 The proprietary platforms have a head start on polish and convenience. But the sovereign stack has something they do not: it gets better for everyone at the same time. Every improvement to an open model benefits every user. Every improvement to an open harness benefits every builder. The compounding is on our side.
 
-If we, as a community, commit to building a sovereignty stack that is as easy to use, as effective, and as democratized as the proprietary alternatives, it is just a matter of time. Not because proprietary platforms will fail. Because sovereign alternatives will become so good that the lock-in stops mattering. You will have a real choice. And when people have a real choice between owning their future and renting it, most of them will choose to own.
+If we, as a community, commit to building sovereign infrastructure that is as easy to use, as effective, and as democratized as the proprietary alternatives, it is just a matter of time. Not because proprietary platforms will fail. Because sovereign alternatives will become so good that the lock-in stops mattering. You will have a real choice. And when people have a real choice between owning their future and renting it, most of them will choose to own.
 
 That is what the [Applied AI Society](https://appliedaisociety.org) is building toward. Not fighting the hyperscalers. Outgrowing them. One sovereign builder at a time.
 
@@ -127,7 +127,7 @@ That is what the [Applied AI Society](https://appliedaisociety.org) is building 
 
 ## Further Reading
 
-- [The Soul Harness](/docs/concepts/the-soul-harness): Predatory vs. liberating systems
+- [The Life Harness](/docs/concepts/the-life-harness): Predatory vs. liberating systems
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Building systems that free people instead of trapping them
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The sovereign AI system
 - [Context Lake](/docs/concepts/context-lake): Your portable, platform-independent knowledge base

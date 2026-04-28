@@ -87,4 +87,4 @@ The distinction matters because some technical practitioners reject "politics" a
 - [Chief AI Officer](/docs/roles/chief-ai-officer): The embedded version of the same skill.
 - [Community Leader](/docs/roles/community-leader): The community-scale version.
 - [The Encounter](/docs/concepts/the-encounter): Why in-person rooms still decide most applied AI deployments.
-- [Soul Skills](/docs/concepts/soul-skills): The broader category of human skills the agent does not replace.
+- [Human Skills](/docs/concepts/human-skills): The broader category of human skills the agent does not replace.

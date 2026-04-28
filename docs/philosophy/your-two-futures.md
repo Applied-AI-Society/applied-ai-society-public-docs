@@ -21,9 +21,9 @@ This is not a prediction about the distant future. The fork is here. The smartes
 
 ## Future A: You Suit Up
 
-In this future, you made a decision. You decided that the flood of AI was not something to watch from the shore. You decided to build an ark.
+In this future, you made a decision. You decided that the omni-crisis was not something to watch from the shore. You decided to build your own system.
 
-You started small. You set up a system where AI could read your goals, your principles, your projects, your relationships. You gave it context on who you are and what you are building. You did not ask it to think for you. You asked it to help you think better, execute faster, and spend more of your time on the work that actually requires your soul.
+You started small. You set up a system where AI could read your goals, your principles, your projects, your relationships. You gave it context on who you are and what you are building. You did not ask it to think for you. You asked it to help you think better, execute faster, and spend more of your time on the work that actually requires your judgment.
 
 Over weeks and months, the system got smarter. Not because the models improved (though they did), but because your [context lake](/docs/concepts/context-lake) deepened. Every brain dump, every meeting transcript, every strategic document you fed into the system made the next interaction more useful. The compound effect was unmistakable.
 
@@ -92,7 +92,7 @@ Start with your [Personal Agentic OS](/docs/concepts/personal-agentic-os). Write
 Look at what [Ramp built](/docs/case-studies/ramp-glass). Every employee with an AI partner. Shared skill files so one person's breakthrough becomes everyone's baseline. Everything connected on day one. You do not need to build Glass. You need to build the version of this that fits your organization. Start with the [Four Levels](/docs/concepts/four-levels-of-applied-ai-for-existing-businesses) to understand where you are. Then move.
 
 **If you are a creative, an artist, an entrepreneur:**
-AI is not here to replace your soul. It is here to handle everything that is not your soul. The invoicing, the admin, the scheduling, the repetitive tasks that eat your creative energy. [Automate the robot mode](/docs/concepts/robot-mode). [Do not crutch](/docs/concepts/crutching). Use AI as a coach and a sparring partner that makes your craft sharper, not as a ghostwriter that makes your voice disappear.
+AI is not here to replace you. It is here to handle everything that is not actually you. The invoicing, the admin, the scheduling, the repetitive tasks that eat your creative energy. [Automate the robot mode](/docs/concepts/robot-mode). [Do not crutch](/docs/concepts/crutching). Use AI as a coach and a sparring partner that makes your craft sharper, not as a ghostwriter that makes your voice disappear.
 
 **If you are not sure where you fit:**
 Show up. Come to an [event](https://appliedaisociety.org). Join the [community](https://discord.gg/K7uWJBMFaN). Watch someone use these tools for five minutes and you will understand more than any article can convey. This is [the encounter](/docs/concepts/the-encounter): the moment AI stops being theoretical and becomes personal.
@@ -127,4 +127,4 @@ Choose.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial. One afternoon to begin.
 - [The Encounter](/docs/concepts/the-encounter): Why seeing it in person changes everything.
 - [RIP To The Career Ladder](/docs/philosophy/rip-to-the-career-ladder): The labor-market data behind the fork, and which skills compound on the other side.
-- [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): The fleet of arks framing. Every Jarvised person is one vessel. The fleet is how humanity crosses the flood.
+- [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): The network framing. Every Jarvised person adds one node. The network is how humanity gets through the convergence.

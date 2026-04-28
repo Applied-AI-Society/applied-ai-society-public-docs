@@ -58,7 +58,7 @@ Your internet connection is a single point of failure for your entire ability to
 
 ## Sovereignty Is Currently for the Wealthy
 
-Here is an uncomfortable truth: the real powerful sovereign stuff (running AI locally, self-hosting your tools, owning your compute) requires serious hardware and serious bandwidth. The [Soul Harness](https://docs.appliedaisociety.org/docs/concepts/the-soul-harness) framework distinguishes between liberating and predatory harnesses. But right now, the most liberating harnesses are only accessible to people who already have resources. More sovereignty for people who already have sovereignty.
+Here is an uncomfortable truth: the real powerful sovereign stuff (running AI locally, self-hosting your tools, owning your compute) requires serious hardware and serious bandwidth. The [Life Harness](https://docs.appliedaisociety.org/docs/concepts/the-life-harness) framework distinguishes between liberating and predatory harnesses. But right now, the most liberating harnesses are only accessible to people who already have resources. More sovereignty for people who already have sovereignty.
 
 Cloud-based tools like Replit partially bridge the gap. You can code in a browser without a powerful local machine. But you are trading sovereignty for accessibility. Your work lives on someone else's servers. The real sovereign stack, the one where your data never leaves your machine, is still a privilege.
 

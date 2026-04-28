@@ -1,9 +1,9 @@
 ---
 sidebar_position: 28
-title: "The Soul Harness"
+title: "The Life Harness"
 ---
 
-# The Soul Harness
+# The Life Harness
 
 *A large language model is useless without a harness. So is a human.*
 
@@ -25,7 +25,7 @@ You were born with raw capability: intelligence, creativity, intuition, judgment
 
 Without a harness, your raw talent sits isolated. You have brilliant ideas but no way to execute them at scale. You have deep knowledge but no network to leverage it through. You have ambition but no tools to translate it into output. You are Claude Opus in a chat window: powerful, underutilized, and slowly forgetting what matters because nothing is persisting.
 
-Your soul's harness is everything you build around your raw talent to make it productive, sovereign, and aligned with the life you are meant to live:
+Your life harness is everything you build around your raw talent to make it productive, sovereign, and aligned with the life you are meant to live:
 
 - **The tools you use.** Your agentic harness (Claude Code, Cursor, etc.), your operating system, your knowledge base. These are the equivalent of the model's tool access.
 - **The people around you.** Your friends, collaborators, mentors, squad. Before there were AI agents, there were people. Your network is your original multi-agent system.
@@ -83,7 +83,7 @@ Every good tool you adopt makes you more productive. That productivity gives you
 
 People who consciously design their harness consistently report dramatic reductions in time spent on repetitive work. They grow their businesses while spending more time with their families. They find ways to automate more, do more, add more value to their customers. They cannot believe they ever operated any other way.
 
-This is not optimization for its own sake. It is liberation. A well-designed harness frees you to spend your time on the things that only you can do: the judgment calls, the creative leaps, the relationships, the presence. The [soul-requiring work](/docs/philosophy/canon) that no agent or system can replace.
+This is not optimization for its own sake. It is liberation. A well-designed harness frees you to spend your time on the things that only you can do: the judgment calls, the creative leaps, the relationships, the presence. The [human-only work](/docs/philosophy/canon) that no agent or system can replace.
 
 ## The Invitation
 
@@ -93,7 +93,7 @@ Audit what you have. Identify what is predatory (extracting from you, locking yo
 
 The course, the workshop, the community, the tools, the people: these are all harness components. The [Applied AI Society](https://appliedaisociety.org) exists to be a liberating harness component for anyone who wants to thrive in the applied AI economy. Open source. [Permissionless](/docs/concepts/permissionless-knowledge). Designed to make you more capable and more sovereign, not more dependent.
 
-Choose your soul's harness. Then keep refining it. For the rest of your life.
+Choose your life harness. Then keep refining it. For the rest of your life.
 
 ---
 
@@ -107,4 +107,4 @@ Choose your soul's harness. Then keep refining it. For the rest of your life.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Building harness components that serve people without requiring your presence
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why human development is the prerequisite for AI amplification
 - [Liberation Architecture](/docs/concepts/liberation-architecture): Freeing value trapped inside predatory systems
-- [The Applied AI Canon](/docs/philosophy/canon): The philosophical foundation. Efficiency is a tool; more soul-requiring work is the goal
+- [The Applied AI Canon](/docs/philosophy/canon): The philosophical foundation. Efficiency is a tool; more human-only work is the goal

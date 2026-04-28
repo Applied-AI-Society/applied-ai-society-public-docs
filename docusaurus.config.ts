@@ -57,7 +57,6 @@ const config: Config = {
             from: '/docs/playbooks/practitioner/training-the-workshop',
             to: '/docs/playbooks/practitioner/workshop-instructor-playbook',
           },
-          // Renamed to center the verb "Jarvis" while keeping the ark metaphor in the body
           {
             from: '/docs/philosophy/build-the-ark-or-ai-is-doomed',
             to: '/docs/philosophy/jarvis-the-world-or-ai-is-doomed',
@@ -78,7 +77,8 @@ const config: Config = {
           { from: '/docs/legacy/make-your-company-refactorable', to: '/docs/concepts/legacy/make-your-company-refactorable' },
           { from: '/docs/legacy/empower-your-knowledge-worker', to: '/docs/concepts/legacy/empower-your-knowledge-worker' },
           { from: '/docs/legacy/protect-your-truth', to: '/docs/concepts/legacy/protect-your-truth' },
-          { from: '/docs/legacy/start-your-company-bible', to: '/docs/concepts/legacy/start-your-company-bible' },
+          { from: '/docs/legacy/start-your-company-bible', to: '/docs/concepts/legacy/start-your-company-handbook' },
+          { from: '/docs/legacy/start-your-company-handbook', to: '/docs/concepts/legacy/start-your-company-handbook' },
           { from: '/docs/legacy/migrate-to-refactorable-systems', to: '/docs/concepts/legacy/migrate-to-refactorable-systems' },
           { from: '/docs/legacy/truth-as-context', to: '/docs/concepts/legacy/truth-as-context' },
           { from: '/docs/legacy/maintain-coherence', to: '/docs/concepts/legacy/maintain-coherence' },

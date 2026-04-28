@@ -126,7 +126,7 @@ A practical note. There is a hard materials constraint behind every frontier AI 
 
 If you run your entire workflow inside a single vendor's wrapper, you can be rate-limited, throttled, repriced, or degraded on the vendor's schedule. If you run your workflow on files you own with a harness you understand, you swap harnesses in an afternoon when a better (or cheaper, or faster) one ships. The difference in resilience is substantial.
 
-See [the sovereignty stack](/docs/concepts/the-sovereignty-stack) for the full map.
+
 
 ---
 
@@ -154,7 +154,6 @@ The friction is real. The upside is uncapped.
 
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The workspace a harness reads
 - [Harness Engineering](/docs/concepts/harness-engineering): What a harness actually is and why the code around the model matters as much as the model
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): Every layer of your digital life, mapped
 - [The Lock-In Is Coming](/docs/concepts/the-lock-in-is-coming): Why every hyperscaler will eventually ship a wrapper
 - [The Chat Is Not the Product](/docs/concepts/the-chat-is-not-the-product): Chat windows versus persistent files
 - [Personal Software](/docs/concepts/personal-software): Custom UIs over shared files and agents

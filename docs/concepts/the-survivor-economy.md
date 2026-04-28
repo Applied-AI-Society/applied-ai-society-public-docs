@@ -35,7 +35,7 @@ If you are inside an existing company right now, you have two paths:
 
 **Path 2: Build something new.** If the game of Survivor inside an existing company does not appeal to you, there has never been a better time to start something of your own. The cost of building has collapsed. A single person with the right harness can do what used to require a team of ten. The imagination economy rewards people who can see what should exist and build it, not people who can execute repetitive processes faster than the person next to them.
 
-Both paths require the same foundation: [applied AI literacy](/docs/applied-ai-practice). The ability to work with AI agents effectively, to build systems that compound, to translate intent into execution through a well-designed [harness](/docs/concepts/the-soul-harness).
+Both paths require the same foundation: [applied AI literacy](/docs/applied-ai-practice). The ability to work with AI agents effectively, to build systems that compound, to translate intent into execution through a well-designed [harness](/docs/concepts/the-life-harness).
 
 ## The Jevons Flipside
 
@@ -69,7 +69,7 @@ Start building. Start now. Create from a position of sovereignty, not dependency
 
 ## Further Reading
 
-- [The Soul Harness](/docs/concepts/the-soul-harness): Building the personal harness that makes you adaptable
+- [The Life Harness](/docs/concepts/the-life-harness): Building the personal harness that makes you adaptable
 - [The Mission Harness](/docs/concepts/mission-harness): Keeping humans and AI aligned to shared purpose
 - [AGI Whisperer](/docs/concepts/agi-whisperer): The emerging role for people who can build and refine harnesses
 - [Harness Engineering](/docs/concepts/harness-engineering): The technical discipline behind agent harnesses

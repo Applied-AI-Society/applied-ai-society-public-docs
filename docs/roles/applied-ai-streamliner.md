@@ -24,7 +24,7 @@ The Applied AI Streamliner builds one-of-one (or small-niche) software for a spe
 In practice, this looks like:
 
 - Interviewing a YouTube strategist about his daily workflow, then building a custom app that automated ~40% of his work time across client projects
-- Building [custom meme generators, video reformatters, and image stylizers](/docs/case-studies/gary-sheng-media-automation) for content teams who need brand-specific tools, not generic editors
+- Building custom meme generators, video reformatters, and image stylizers for content teams who need brand-specific tools, not generic editors
 - Designing a manager dashboard for a music professional who handles schedules, deals, bookkeeping, publishing, brand deals, concerts, and merch. Even automating three or four of those functions is more valuable than anything else on the market.
 
 ---

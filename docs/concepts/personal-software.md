@@ -81,7 +81,7 @@ The [liberation architecture](/docs/concepts/liberation-architecture) principle 
 
 The [Applied AI Streamliner](/docs/roles/applied-ai-streamliner) is the role emerging around this work. The workflow looks like this:
 
-1. **Discovery.** Sit with the client. Map their week. Identify every task that is repetitive, time-consuming, or soul-draining. Find the patterns.
+1. **Discovery.** Sit with the client. Map their week. Identify every task that is repetitive, time-consuming, or draining. Find the patterns.
 2. **Architecture.** Design a wrapper app with pre-built functions for the highest-impact workflows. Choose the right [harness](/docs/concepts/harness-engineering) under the hood.
 3. **Build.** Stand up the app. Connect it to the client's existing tools (calendar, email, spreadsheets, CRM, whatever they use). Populate it with their business context.
 4. **Deliver.** Hand it to them. Watch them click a button and get a result that would have taken them 45 minutes. Watch their face.
@@ -106,7 +106,7 @@ The important thing is that everyone gets access to compounding, context-rich AI
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The terminal-based version. Maximum power, higher learning curve.
 - [Harness Engineering](/docs/concepts/harness-engineering): The engineering principles that power both wrapper apps and terminal systems.
 - [Liberation Architecture](/docs/concepts/liberation-architecture): The philosophy of wrapping existing systems rather than replacing them.
-- [Robot Mode](/docs/concepts/robot-mode): What personal software eliminates. The mechanical tasks that drain your soul and your time.
+- [Robot Mode](/docs/concepts/robot-mode): What personal software eliminates. The mechanical tasks that drain your time and your focus.
 - [Applied AI Streamliner](/docs/roles/applied-ai-streamliner): The role dedicated to building personal software for individual professionals.
 - [Applied AI Consultant](/docs/roles/applied-ai-consultant): The broader consulting role, which may include personal software as part of larger engagements.
 - [Case Studies](/docs/case-studies): Real-world examples of applied AI work in the field.

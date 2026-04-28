@@ -11,7 +11,7 @@ title: "The Water Line"
 
 ## What The Water Actually Is
 
-When people hear [The New Flood](/docs/concepts/the-new-flood), most of them hear it as metaphor. It is not. There is a real, measurable thing rising in real time, and it is drowning real people.
+When people hear [The Omni-Crisis](/docs/concepts/the-omni-crisis), most of them hear it as metaphor. It is not. There is a real, measurable thing rising in real time, and it is drowning real people.
 
 The water is the **minimum level of intelligence agency** that a person needs to earn a sustainable living in the applied AI economy. Call it what you want: minimum economic viability, the operator's floor, the threshold under which you cannot clear rent from your own output. The name matters less than the mechanism. The mechanism is that the line keeps rising.
 
@@ -58,17 +58,17 @@ Neither name has fully landed. "Theoretically economically unviable" might be mo
 
 No society has ever produced this class at this speed, at this scale, without producing severe instability. Hopelessness compounds. Anger follows hopelessness. Firebombs at tech executives' homes, data-center sabotage, political volatility feeding on existing fissures: these are already in the news. They will track the water line as it rises.
 
-The honest read is that this is going to get worse before it gets better, and the institutions best positioned to slow the rise (universities, public schools, workforce retraining systems) are not moving nearly fast enough to matter at the scale the flood is hitting.
+The honest read is that this is going to get worse before it gets better, and the institutions best positioned to slow the rise (universities, public schools, workforce retraining systems) are not moving nearly fast enough to matter at the scale the convergence is hitting.
 
 ---
 
 ## What We Do About It
 
-The Applied AI Society response is not a rescue ship. It is a fleet of [arks](/docs/concepts/the-ark-of-one), each one built by a person who crossed the water line back to the surface and then turned around to help someone else do the same. See [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed) for the political version of the same claim.
+The Applied AI Society response is not a rescue ship. It is a [network of activated practitioners](/docs/philosophy/jarvis-the-world-or-ai-is-doomed), each one built by a person who crossed the water line back to the surface and then turned around to help someone else do the same. See [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed) for the political version of the same claim.
 
 Three things are true at once, and we hold all three:
 
-1. **The flood is real and the water is rising.** Pretending otherwise is not kindness. The people trying to organize their lives around a rising tide deserve an honest report of where the water is.
+1. **The convergence is real and the water is rising.** Pretending otherwise is not kindness. The people trying to organize their lives around a rising tide deserve an honest report of where the water is.
 2. **Most people below the line are there because the system moved faster than the information they were given.** They can cross back to the surface if they get the right help. This is what [activation](/docs/concepts/activation) is for.
 3. **The help that works is hands-on activation, not platitudes or retraining programs.** An afternoon of real work building a [Jarvis](/docs/concepts/personal-agentic-os) beats any credential the market is currently offering. See the [Supersuit Up workshop](/docs/workshops/supersuit-up) for the entry point.
 
@@ -78,10 +78,10 @@ This is the dark period. This is why AAS exists. Our job is to be the light in i
 
 ## Further Reading
 
-- [The New Flood](/docs/concepts/the-new-flood): The broader civilizational metaphor. The water line is the specific, mechanistic account of what the flood's "water" actually is.
+- [The Omni-Crisis](/docs/concepts/the-omni-crisis): The broader civilizational frame. The water line is the specific, mechanistic account of the pressure the convergence is creating.
 - [The Elevator Economy](/docs/concepts/the-elevator-economy): Why the gap between the ascending and descending sides keeps widening. The engine behind the rising water line.
 - [Minimum Commercial Viability](/docs/concepts/minimum-commercial-viability): The same floor viewed from above, with the four load-bearing pieces that let a person clear it.
 - [There Is No Demand For Average](/docs/concepts/there-is-no-demand-for-average): The market-side mechanic. Why "competent execution" is no longer a viable offer.
-- [The Ark of One](/docs/concepts/the-ark-of-one): The vessel that keeps a person above the water line sustainably.
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that keeps a person above the water line sustainably.
 - [Activation](/docs/concepts/activation): How an individual crosses from below the line back to the surface.
-- [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): The political stakes of the water line continuing to rise while the fleet of arks is still small.
+- [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): The political stakes of the water line continuing to rise while the network of activated practitioners is still small.

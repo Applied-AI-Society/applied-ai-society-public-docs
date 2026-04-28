@@ -66,13 +66,13 @@ Copy the structure. Run a good one rather than ask permission.
 
 ---
 
-## The Ark Frame
+## The Convergence Frame
 
-The context for all of this is [The New Flood](/docs/concepts/the-new-flood). Business owners right now are in the water, whether they name it that way or not. [The Water Line](/docs/concepts/the-water-line) is rising for everyone in the same moment. Individual preparation is real, and it is faster when the person has a peer group doing the same work in the same room.
+The context for all of this is [The Omni-Crisis](/docs/concepts/the-omni-crisis). Business owners right now are in the middle of it, whether they name it that way or not. [The Water Line](/docs/concepts/the-water-line) is rising for everyone in the same moment. Individual preparation is real, and it is faster when the person has a peer group doing the same work in the same room.
 
-A meetup like this functions as a **collective ark**. No single person is rescued by it, because the ark that actually floats is the one each person builds for themselves (see [The Ark of One](/docs/concepts/the-ark-of-one)). The meetup is where ark-builders sit next to each other, exchange what they learned this week, and keep each other honest about the size of the project.
+A meetup like this functions as a **shared workspace**. No single person is rescued by it, because the system that actually compounds is the one each person builds for themselves (see [Personal Agentic OS](/docs/concepts/personal-agentic-os)). The meetup is where activated practitioners sit next to each other, exchange what they learned this week, and keep each other honest about the size of the project.
 
-That framing is load-bearing for recruitment. People who come once and never return usually came looking for a rescue ship. People who stay forever came looking for a room of fellow ark-builders, and they stay because the room makes their own ark better.
+That framing is load-bearing for recruitment. People who come once and never return usually came looking for a rescue. People who stay forever came looking for a room of fellow practitioners, and they stay because the room makes their own system better.
 
 ---
 
@@ -96,6 +96,6 @@ Do not over-engineer the opening. Book the first date, invite the first five, sh
 - [The Encounter](/docs/concepts/the-encounter): Why hands-on application beats talking about AI for adoption speed.
 - [Raise The Floor](/docs/concepts/raise-the-floor): The flywheel that makes peer-to-peer knowledge-sharing compound.
 - [Community Of Practice](/docs/concepts/community-of-practice): The broader concept these meetups are one local instance of.
-- [The New Flood](/docs/concepts/the-new-flood) and [The Water Line](/docs/concepts/the-water-line): The civilizational and mechanistic frames for why every business owner needs this kind of room right now.
-- [The Ark of One](/docs/concepts/the-ark-of-one): The individual endgame. The meetup is where ark-builders sit next to each other.
+- [The Omni-Crisis](/docs/concepts/the-omni-crisis) and [The Water Line](/docs/concepts/the-water-line): The civilizational and mechanistic frames for why every business owner needs this kind of room right now.
+- [Personal Agentic OS](/docs/concepts/personal-agentic-os): The individual system the meetup is built around. Practitioners sit next to each other and sharpen what each of them is building.
 - [The Socratic Trainer](/docs/concepts/the-socratic-trainer): If you want to train trainers inside your community over time.

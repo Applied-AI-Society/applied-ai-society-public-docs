@@ -58,13 +58,13 @@ If your competitors are getting smarter through context, compute, and better age
 
 The secular frame is enough to justify building one. But it undersells what is actually available.
 
-For people who work in a faith tradition, the most valuable strategic input is the divine download: an insight, a prompt, a correction, a direction that did not come from your files and is not the average of your past thinking. The call that reroutes the week. The sentence in prayer that reframes the year. The idea that arrived before you had the data to justify it.
+For people whose work runs on deep convictions, the most valuable strategic input is the strategic insight: an insight, a prompt, a correction, a direction that did not come from your files and is not the average of your past thinking. The call that reroutes the week. The moment of stillness that reframes the year. The idea that arrived before you had the data to justify it.
 
-An exocortex does not replace that layer. It receives it. A divine download that lands in your head and stays in your head compounds once. A divine download that lands in your head, goes into your files, and gets read by an agent that acts on it compounds every day after. The exocortex is where strategic inspiration gets enacted.
+An exocortex does not replace that layer. It receives it. A strategic insight that lands in your head and stays in your head compounds once. A strategic insight that lands in your head, goes into your files, and gets read by an agent that acts on it compounds every day after. The exocortex is where strategic inspiration gets enacted.
 
 This is also why the quality of the exocortex matters beyond efficiency. If you want your AI to be open to the highest-quality signal you can receive, the substrate has to be tuned for it. Garbage in, garbage out applies to both human and non-human inputs. The exocortex that carries your best thinking, your principles, and your mission is the one that can carry a download and actually deploy it.
 
-The [Soul Harness](/docs/concepts/the-soul-harness) is the related concept. The exocortex is the shape. The soul harness is the question of what you are wrapping around, and whether the wrapping amplifies your highest self or your lowest.
+The [Life Harness](/docs/concepts/the-life-harness) is the related concept. The exocortex is the shape. The life harness is the question of what you are wrapping around, and whether the wrapping amplifies your highest self or your lowest.
 
 ---
 
@@ -84,7 +84,7 @@ Most people are not going to get this right immediately. That is fine. Almost no
 
 The resolution is [progressive sovereignty](/docs/concepts/progressive-sovereignty). Sovereignty in the AI era is a frontier you keep moving, one rung of the stack at a time. Every quarter, what was expensive gets cheaper. What was exotic gets standard. Local models, open-source harnesses, your own inference, your own storage.
 
-Your exocortex starts on a mix of hosted and local infrastructure. Over time, as you [climb the sovereignty stack](/docs/concepts/the-sovereignty-stack), more of it moves under your direct control. Same files. Same agents. More of the floor actually yours.
+Your exocortex starts on a mix of hosted and local infrastructure. Over time, as you build out more layers under your control, more of it moves under your direct control. Same files. Same agents. More of the floor actually yours.
 
 The goal is not to wait for perfect sovereignty before building an exocortex. The goal is to build one now, get the value now, and keep ratcheting the stack under it so that the value you got does not become leverage someone else holds over you.
 
@@ -103,8 +103,7 @@ The practice is simple to state and hard to skip:
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The specific architecture the exocortex runs on.
 - [Context Lake](/docs/concepts/context-lake): The persistent memory layer underneath the exocortex.
 - [Progressive Sovereignty](/docs/concepts/progressive-sovereignty): How to keep ratcheting ownership of the stack your exocortex runs on.
-- [The Sovereignty Stack](/docs/concepts/the-sovereignty-stack): The full map of what can actually be sovereign, layer by layer.
-- [The Soul Harness](/docs/concepts/the-soul-harness): What is at stake in what your exocortex gets wrapped around.
+- [The Life Harness](/docs/concepts/the-life-harness): What is at stake in what your exocortex gets wrapped around.
 - [Raise the Floor](/docs/concepts/raise-the-floor): Why the competitive baseline keeps rising and why individual breakthroughs need to become shared infrastructure.
 - [Your Two Futures](/docs/philosophy/your-two-futures): The fork between operating with and without one.
 - [See Your Own Thinking](/docs/concepts/see-your-own-thinking): The metacognitive gain that lands once the exocortex is live.
