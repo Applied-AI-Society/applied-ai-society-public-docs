@@ -69,7 +69,7 @@
 - [Hypercontext Protocol](https://docs.appliedaisociety.org/docs/concepts/hypercontext-protocol)
 - [Ignorance Debt](https://docs.appliedaisociety.org/docs/concepts/ignorance-debt)
 - [Imagination Economy Infrastructure](https://docs.appliedaisociety.org/docs/concepts/imagination-economy-infrastructure)
-- [The Imagination Economy](https://docs.appliedaisociety.org/docs/concepts/imagination-economy): The emerging economy where imagination, backed by applied AI leverage and the right team, is the primary asset. Companies and technologies that couldn't have existed before 2026, applying AI while centering humans at the highest possible level. Canonical  frame, adopted into Applied AI Society language.
+- [The Imagination Economy](https://docs.appliedaisociety.org/docs/concepts/imagination-economy): The emerging economy where imagination, backed by applied AI leverage and the right team, is the primary asset. Companies and technologies that couldn't have existed before 2026, applying AI while centering humans at the highest possible level.
 - [Inclusive Technological Advancement](https://docs.appliedaisociety.org/docs/concepts/inclusive-technological-advancement)
 - [Concepts](https://docs.appliedaisociety.org/docs/concepts)
 - [Instruction Files](https://docs.appliedaisociety.org/docs/concepts/instruction-files)

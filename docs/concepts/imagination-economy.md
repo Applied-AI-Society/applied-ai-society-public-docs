@@ -1,12 +1,12 @@
 ---
 sidebar_position: 26.5
 title: "The Imagination Economy"
-description: "The emerging economy where imagination, backed by applied AI leverage and the right team, is the primary asset. Companies and technologies that couldn't have existed before 2026, applying AI while centering humans at the highest possible level. Canonical  frame, adopted into Applied AI Society language."
+description: "The emerging economy where imagination, backed by applied AI leverage and the right team, is the primary asset. Companies and technologies that couldn't have existed before 2026, applying AI while centering humans at the highest possible level."
 ---
 
 # The Imagination Economy
 
-*The emerging economy where imagination, backed by applied AI leverage and the right team, is the primary asset. The defining companies and technologies are the ones that couldn't have existed before 2026: applied AI that centers humans at the highest possible level. *
+*The emerging economy where imagination, backed by applied AI leverage and the right team, is the primary asset. The defining companies and technologies are the ones that couldn't have existed before 2026: applied AI that centers humans at the highest possible level.*
 
 ---
 
@@ -53,7 +53,7 @@ you are operating inside the imagination economy. If any one of those is missing
 
 Not a single archetype. Three overlapping ones:
 
-- **Cultural leaders with real audiences** (artists, musicians, filmmakers, writers, designers, pastors, athletes) who are adding applied AI capacity and cultural architecture around their creative work. This thesis:Pegasus teams built around human unicorns who already have traction.
+- **Cultural leaders with real audiences** (artists, musicians, filmmakers, writers, designers, pastors, athletes) who are adding applied AI capacity and cultural architecture around their creative work. Pegasus teams built around human unicorns who already have traction.
 - **Non-developer business operators** who are being [Jarvised](/docs/get-jarvised) and using the leverage to build 2026-native companies that could not have existed inside the old cost structure. Real product, real audience, built with a team that fits inside a contact roster.
 - **Top-tier applied AI engineers** who understand that the most interesting work is no longer the framework, the harness, or the latest model. It is the specific 2026-native product that is possible when they sit next to a human unicorn with a real vision.
 
@@ -61,7 +61,7 @@ The imagination economy is the economy those three types produce together. It is
 
 ## AAS's Relationship To The Frame
 
- coined *imagination economy*. Applied AI Society is the activation layer that makes imagination-economy participation possible for the person who does not yet know they are going to be a participant. The [Literacy Earthshot](/docs/applied-ai-practice/earthshot) cross is the on-ramp. The [applied AI discipline](/docs/applied-ai-practice) is the discipline. The [use cases](/docs/use-cases) are the concrete places the practice compounds into real builds.
+Applied AI Society is the activation layer that makes imagination-economy participation possible for the person who does not yet know they are going to be a participant. The [Literacy Earthshot](/docs/applied-ai-practice/earthshot) cross is the on-ramp. The [applied AI discipline](/docs/applied-ai-practice) is the discipline. The [use cases](/docs/use-cases) are the concrete places the practice compounds into real builds.
 
 When a Jarvis-activated operator starts producing 2026-native work, they become a participant in the imagination economy whether they use the phrase or not. The purpose of naming the frame is so the operators, collaborators, and partners stop pattern-matching their work onto the predatory shapes their industry has pre-installed and start pattern-matching onto the shape their work actually is.
 
@@ -74,7 +74,6 @@ When a Jarvis-activated operator starts producing 2026-native work, they become 
 ## Further Reading
 
 - [Applied AI](/docs/concepts/applied-ai): The upstream discipline. The imagination economy is the economy a generation of applied-AI operators is building toward.
-- 
 - [The Applied AI Discipline](/docs/applied-ai-practice): The daily discipline that makes imagination-economy participation real.
 - [Humanity-First Flywheel](/docs/about/humanity-first-flywheel): The AAS ecosystem built for the three archetypes the imagination economy runs on.
 - [Hyperagency](/docs/concepts/hyperagency): What participation looks like at the individual level.

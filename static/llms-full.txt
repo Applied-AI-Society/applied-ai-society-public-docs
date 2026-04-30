@@ -7298,7 +7298,7 @@ URL: https://docs.appliedaisociety.org/docs/concepts/imagination-economy
 
 # The Imagination Economy
 
-*The emerging economy where imagination, backed by applied AI leverage and the right team, is the primary asset. The defining companies and technologies are the ones that couldn't have existed before 2026: applied AI that centers humans at the highest possible level. *
+*The emerging economy where imagination, backed by applied AI leverage and the right team, is the primary asset. The defining companies and technologies are the ones that couldn't have existed before 2026: applied AI that centers humans at the highest possible level.*
 
 ---
 
@@ -7345,7 +7345,7 @@ you are operating inside the imagination economy. If any one of those is missing
 
 Not a single archetype. Three overlapping ones:
 
-- **Cultural leaders with real audiences** (artists, musicians, filmmakers, writers, designers, pastors, athletes) who are adding applied AI capacity and cultural architecture around their creative work. This thesis:Pegasus teams built around human unicorns who already have traction.
+- **Cultural leaders with real audiences** (artists, musicians, filmmakers, writers, designers, pastors, athletes) who are adding applied AI capacity and cultural architecture around their creative work. Pegasus teams built around human unicorns who already have traction.
 - **Non-developer business operators** who are being [Jarvised](/docs/get-jarvised) and using the leverage to build 2026-native companies that could not have existed inside the old cost structure. Real product, real audience, built with a team that fits inside a contact roster.
 - **Top-tier applied AI engineers** who understand that the most interesting work is no longer the framework, the harness, or the latest model. It is the specific 2026-native product that is possible when they sit next to a human unicorn with a real vision.
 
@@ -7353,7 +7353,7 @@ The imagination economy is the economy those three types produce together. It is
 
 ## AAS's Relationship To The Frame
 
- coined *imagination economy*. Applied AI Society is the activation layer that makes imagination-economy participation possible for the person who does not yet know they are going to be a participant. The [Literacy Earthshot](/docs/applied-ai-practice/earthshot) cross is the on-ramp. The [applied AI discipline](/docs/applied-ai-practice) is the discipline. The [use cases](/docs/use-cases) are the concrete places the practice compounds into real builds.
+Applied AI Society is the activation layer that makes imagination-economy participation possible for the person who does not yet know they are going to be a participant. The [Literacy Earthshot](/docs/applied-ai-practice/earthshot) cross is the on-ramp. The [applied AI discipline](/docs/applied-ai-practice) is the discipline. The [use cases](/docs/use-cases) are the concrete places the practice compounds into real builds.
 
 When a Jarvis-activated operator starts producing 2026-native work, they become a participant in the imagination economy whether they use the phrase or not. The purpose of naming the frame is so the operators, collaborators, and partners stop pattern-matching their work onto the predatory shapes their industry has pre-installed and start pattern-matching onto the shape their work actually is.
 
@@ -7366,7 +7366,6 @@ When a Jarvis-activated operator starts producing 2026-native work, they become 
 ## Further Reading
 
 - [Applied AI](/docs/concepts/applied-ai): The upstream discipline. The imagination economy is the economy a generation of applied-AI operators is building toward.
-- 
 - [The Applied AI Discipline](/docs/applied-ai-practice): The daily discipline that makes imagination-economy participation real.
 - [Humanity-First Flywheel](/docs/about/humanity-first-flywheel): The AAS ecosystem built for the three archetypes the imagination economy runs on.
 - [Hyperagency](/docs/concepts/hyperagency): What participation looks like at the individual level.
@@ -24122,7 +24121,7 @@ Every session should privilege the person who did the work. Demos. Loom walkthro
 
 ## A Working Format: The AI Implementation Club
 
-An excellent version of this model in Austin, Texas. It is called the AI Implementation Club, and the format is worth copying directly.
+An excellent version of this model runs in Austin, Texas. The format is worth copying directly.
 
 **Shape.** Three hours, every Sunday, co-working.
 
@@ -29413,10 +29412,6 @@ The full workshop is still the right format for group sessions where people need
 
 ## Testimonials
 
-, real estate entrepreneur, recorded immediately after the March 31 2026 workshop:
-
-<iframe width="315" height="560" src="https://www.youtube.com/embed/gFJIVm-wvhc" title=" Workshop Testimonial" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-
 March 31 2026 workshop participant:
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/4K0K6_wiOus" title="Workshop Testimonial" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
@@ -31441,7 +31436,7 @@ This means a person's ALIGN.md will often be longer and more nuanced than any si
 When writing a personal ALIGN.md:
 - Synthesize, don't copy-paste. The personal file should read as a coherent whole, not a list of org descriptions.
 - Surface tensions. If your orgs have different priorities, say so. That's useful information for a potential partner.
-- Declare which hats you're wearing. “For AAS partnerships, email X. For  collaborations, email Y.”
+- Declare which hats you're wearing. “For AAS partnerships, email X. For other collaborations, email Y.”
 
 ## Privacy Tiers
 
@@ -31560,7 +31555,7 @@ so we can do bilateral evaluation: https://docs.appliedaisociety.org/docs/standa
 
 ## Version Note
 
-This is v0.1. It's intentionally minimal. We're publishing based on what we've learned from evaluating partnerships at AAS and , where misalignment surfaced late and cost real time. As more organizations publish ALIGN.md files, the spec will evolve based on real usage patterns.
+This is v0.1. It's intentionally minimal. We're publishing based on what we've learned from evaluating partnerships at AAS, where misalignment surfaced late and cost real time. As more organizations publish ALIGN.md files, the spec will evolve based on real usage patterns.
 
 ## Further Reading
 
@@ -31772,7 +31767,7 @@ Bad:
 ```markdown
 # Identity
 
-I am the co-steward of AAS. I also co-founded . I also have a
+I am the co-steward of AAS. I also co-founded a separate venture studio. I also have a
 personal blog.
 ```
 

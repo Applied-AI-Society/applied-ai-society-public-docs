@@ -49,7 +49,7 @@ Every session should privilege the person who did the work. Demos. Loom walkthro
 
 ## A Working Format: The AI Implementation Club
 
-An excellent version of this model in Austin, Texas. It is called the AI Implementation Club, and the format is worth copying directly.
+An excellent version of this model runs in Austin, Texas. The format is worth copying directly.
 
 **Shape.** Three hours, every Sunday, co-working.
 

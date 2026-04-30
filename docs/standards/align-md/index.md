@@ -264,7 +264,7 @@ This means a person's ALIGN.md will often be longer and more nuanced than any si
 When writing a personal ALIGN.md:
 - Synthesize, don't copy-paste. The personal file should read as a coherent whole, not a list of org descriptions.
 - Surface tensions. If your orgs have different priorities, say so. That's useful information for a potential partner.
-- Declare which hats you're wearing. “For AAS partnerships, email X. For  collaborations, email Y.”
+- Declare which hats you're wearing. “For AAS partnerships, email X. For other collaborations, email Y.”
 
 ## Privacy Tiers
 
@@ -383,7 +383,7 @@ so we can do bilateral evaluation: https://docs.appliedaisociety.org/docs/standa
 
 ## Version Note
 
-This is v0.1. It's intentionally minimal. We're publishing based on what we've learned from evaluating partnerships at AAS and , where misalignment surfaced late and cost real time. As more organizations publish ALIGN.md files, the spec will evolve based on real usage patterns.
+This is v0.1. It's intentionally minimal. We're publishing based on what we've learned from evaluating partnerships at AAS, where misalignment surfaced late and cost real time. As more organizations publish ALIGN.md files, the spec will evolve based on real usage patterns.
 
 ## Further Reading
 

@@ -196,7 +196,7 @@ Bad:
 ```markdown
 # Identity
 
-I am the co-steward of AAS. I also co-founded . I also have a
+I am the co-steward of AAS. I also co-founded a separate venture studio. I also have a
 personal blog.
 ```
 
