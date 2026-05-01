@@ -303,6 +303,7 @@ const sidebars: SidebarsConfig = {
         'concepts/see-your-own-thinking',
         'concepts/you-are-the-bottleneck',
         'concepts/the-overconfidence-trap',
+        'concepts/the-tradeoff-era',
         'concepts/judgment-burnout',
         'concepts/imagination-economy-infrastructure',
         'concepts/personal-software',
