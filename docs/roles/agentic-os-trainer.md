@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-title: "Agentic OS Trainer"
+title: "Agentic OS / Jarvis Trainer"
 ---
 
-# Agentic OS Trainer
+# Agentic OS / Jarvis Trainer
 
 *The person who takes someone from zero to a working AI-operated business OS in a single session via the Applied AI Society's [Supersuit Up workshop](/docs/workshops/supersuit-up), then coaches them through progressively deeper levels of integration. Part technician, part strategist, part pastor.*
 
@@ -39,7 +39,7 @@ The activation is the beginning. How deep someone goes depends on their needs an
 
 **Level 4: Skill Writer.** The participant starts co-writing skill files with their agent. Repeatable workflows become documented SOPs that the agent can execute. The system starts doing real work, not just storing information.
 
-**Level 5: System Architect.** The participant is designing their business as a system. They are defining objectives, rules, guardrails, and scoring for their agents. They are thinking about access controls, organizational expansion, and the [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) principles. Their Personal Agentic OS is not a tool they use. It is infrastructure they operate.
+**Level 5: System Architect.** The participant is designing their business as a system. They are defining objectives, rules, guardrails, and scoring for their agents. They are thinking about access controls, organizational expansion, and the [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) principles. Their Personal Agentic OS is infrastructure they operate.
 
 The trainer does not need to teach all five levels. Most people will stay at Level 1-2 for months and get enormous value. The levels exist so the trainer can meet each participant where they are and show them what is next.
 
@@ -49,9 +49,38 @@ The trainer does not need to teach all five levels. Most people will stay at Lev
 
 Everyone knows they should be “using AI.” Most people are stuck in chatbot mode: typing questions into ChatGPT and getting generic answers. The gap between that and a fully operational business OS is enormous, and almost nobody can cross it alone.
 
-The Agentic OS Trainer closes that gap. They are the person who takes the abstract (“AI can help your business”) and makes it concrete (“here is your strategic blocker plan, generated from a 15-minute interview with an agent that now knows who you are”).
+The Agentic OS / Jarvis Trainer closes that gap. They are the person who takes the abstract (“AI can help your business”) and makes it concrete (“here is your strategic blocker plan, generated from a 15-minute interview with an agent that now knows who you are”).
 
-This is not consulting. The trainer is not analyzing the participant's business and delivering a report. The trainer is teaching the participant to fish: setting up the system, showing them how to use it, and then stepping back while the system compounds on its own.
+This is not consulting. The trainer is teaching the participant to fish: setting up the system, showing them how to use it, and then stepping back while the system compounds on its own.
+
+---
+
+## What Makes A Great Trainer
+
+Beyond the technical work, this role is a trust role with technical scaffolding. Getting Jarvised is intimate: the trainee pours their context, voice, relationships, and what they are struggling with into a system that compounds for them for the rest of their life. If they withhold what is actually on their plate, the system reflects a sanitized version of them, and the leverage they get out of it is sanitized too. Most of the unlock happens precisely at the parts they would rather not say out loud.
+
+The trainer who walks them through the first reps has to be someone they can be honest with. A merely technical instructor can run a working install on someone's laptop. They cannot walk that same person through articulating the strategic blocker they have been ducking for six months. The first part is necessary. The second part is where the leverage actually appears.
+
+A great Agentic OS / Jarvis Trainer is:
+
+- **Highly trusted.** People in their orbit already share intimate details of their lives with them. The trust capacity is real and pre-existing.
+- **A great communicator.** Can explain something technical without making someone feel small. Can ask the question that surfaces what the trainee was not yet able to say out loud.
+- **A great educator.** Knows how to meet someone where they are, scaffold the next move, and let the trainee experience the unlock for themselves. See [The Socratic Trainer](/docs/concepts/the-socratic-trainer) for the underlying pedagogical principle.
+- **A great mentor.** The session is one moment in a longer arc. The trainer can hold context across months and offer the right nudge at the right time.
+- **Fairly tech-savvy.** Not a software engineer. Confident enough with [Claude Code](/docs/concepts/computer-use) and the [Jarvis workspace](/docs/concepts/jarvis-workspace) to install software on someone else's laptop, debug a confused state, and keep moving.
+- **Highly meta-cognitive.** Can think about thinking. Models the trainee's mental model. Notices when an explanation is landing or missing. This is the rarest of the qualities.
+- **Strategic.** Hears someone describe their work and immediately sees leverage points, blockers, and the next-best move. The session is more useful when the trainer can play strategic sounding board, not only operator.
+- **Exhortative and uplifting.** People walk out of a session with their Jarvis live AND with a clearer picture of where they are going. The encouragement is part of the install.
+
+---
+
+## Why Ministry And Mentor Backgrounds Fit
+
+Some of the most natural Agentic OS / Jarvis Trainers we have seen are ordained ministers, pastoral caregivers, and mentors with long track records. Not because the role is religious. Because the daily practice of holding intimate disclosure with care, asking the right questions, and walking with people through transformation is the same practice that makes a Jarvis training session land.
+
+If you have spent years sitting with people through their hardest moments, you already know how to hold a session where someone tells you about the strategic problem they have been avoiding. You know how to receive that without flinching. You know how to point them toward action without pushing.
+
+The technical surface is a few weeks of practice. The trust capacity is years.
 
 ---
 
