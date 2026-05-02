@@ -213,6 +213,7 @@ const sidebars: SidebarsConfig = {
         'concepts/agentic-exploration',
         'concepts/the-prolific-mode',
         'concepts/context-engineering',
+        'concepts/context-searching',
         'concepts/intent-engineering',
         'concepts/prm',
         'concepts/agentic-relationship-management',

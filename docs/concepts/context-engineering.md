@@ -87,6 +87,36 @@ There's no single right way to structure context, but patterns are emerging.
 
 ---
 
+## Architecting Context at Scale
+
+When context engineering scales from a personal vault to an organization, the work shifts. You stop curating files and start building infrastructure. IBM's Martin Keen has [a useful breakdown of the four pillars](https://www.youtube.com/watch?v=pN-LfxNFiTc) that any serious enterprise context engineering system has to get right.
+
+**Connected access.** The AI needs visibility across the entire data estate. In a real organization, the data lives in databases, document stores, APIs, SaaS platforms, the cloud, and on-premise systems. Rather than copying everything into one place, zero-copy federation lets the AI query data where it lives. The data stays fresh. The original access controls stay intact.
+
+**The knowledge layer.** Raw data is not the same as useful context. The knowledge layer applies entity resolution across systems, maps relationships and hierarchies, and adds decision traces and institutional knowledge. It gives the agent the meaning behind the data, not just the data itself.
+
+**Precision retrieval.** Better context is not more context. It is more precise context. Filter documents by intent, by role, by time, by policy. Don't bother the model with material it doesn't need. Even models with massive context windows degrade as noise grows. Lean and useful beats long and exhaustive every time.
+
+**Runtime governance.** Permissions get enforced live, at retrieval time and at response time. Can this agent query this data source? Should this result be included given who is asking? Governance is what makes the system defensible at audit time, not just at design time.
+
+Connected access gives the AI sight. The knowledge layer gives the data meaning. Precision retrieval delivers only what is relevant. Runtime governance makes the whole thing defensible. Skip any one of these and the system breaks.
+
+---
+
+## Beyond Basic RAG
+
+Most people's first exposure to context engineering at the system level is basic RAG (retrieval augmented generation): chunk your documents, embed them as vectors, do a similarity search at query time, hand the top matches to the model. RAG works for simple lookups. The patterns that matter for serious applied AI work go further.
+
+**Agentic RAG.** The agent makes a first-pass request, looks at what came back, decides whether it has enough, and goes back for more if not. Iterative retrieval instead of one-shot. The agent reasons about its own information needs.
+
+**Graph RAG.** Use a graph structure to navigate context. Instead of asking "what documents are semantically similar to my query," ask "what entities are connected to this client, and what documents relate to those entities." The graph supplies precision and structure. Vector search fills in the detail within that scope.
+
+**Context compression.** Even with a large context window, more noise means worse results. Compression summarizes long documents and ranks what's most relevant to the specific task before the model sees the input. The goal: maximize signal, minimize noise.
+
+Agentic RAG decides what to go after. Graph RAG navigates the relationships to find it. Compression keeps what arrives at the model lean and useful. That stack is what contextual intelligence looks like at scale, and it's the kind of work an applied AI practitioner ends up doing inside any real client engagement.
+
+---
+
 ## For Practitioners
 
 If you do applied AI work, context engineering is a core skill. Here's why:
@@ -110,3 +140,4 @@ The skill is the same at every scale. The stakes get higher as you go up.
 - [Anatomy of a Harness](./anatomy-of-a-harness): How Claude Code implements layered context assembly in production (the engineering behind this concept)
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The prerequisite practice that builds the information state context engineering curates
 - [The Applied AI Economy](/docs/playbooks/practitioner/applied-ai-economy): Where context engineering fits in the broader landscape of practitioner skills
+- [What Is Context Engineering? Connected Access, Knowledge Layer, Precision Retrieval, and Runtime Governance](https://www.youtube.com/watch?v=pN-LfxNFiTc) (Martin Keen, IBM): A clear breakdown of the four pillars of enterprise-grade context engineering plus the RAG taxonomy (basic, agentic, graph, compression). The clearest mainstream framing of why context, not model intelligence, is the bottleneck.
