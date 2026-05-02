@@ -75,7 +75,6 @@ Full brand guide: `docs/brand/index.mdx`
 
 Other repos reference brand assets via `https://docs.appliedaisociety.org/img/` URLs. Do not rename or move files in `static/img/` without checking cross-repo references.
 
-
 ## Footer
 
 The footer is a single-line layout, set in `docusaurus.config.ts`:
