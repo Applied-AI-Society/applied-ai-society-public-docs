@@ -118,6 +118,7 @@ const sidebars: SidebarsConfig = {
         'roles/ai-enablement-architect',
         'roles/corporate-upskiller',
         'roles/applied-ai-streamliner',
+        'roles/ai-advisor-to-the-ceo',
       ],
     },
     {
