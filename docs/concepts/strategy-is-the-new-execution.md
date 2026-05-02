@@ -21,6 +21,24 @@ That is strategy. And strategy is now the bottleneck. Because strategy lives in 
 
 ---
 
+## Strategy is not planning
+
+Roger Martin's distinction is the cleanest one available. Most of what gets called "strategic planning" is just planning. Two different things, often conflated, with very different consequences.
+
+**Planning** is a list of activities you control: hire people, build the plant, launch a brand, open a new region, run a talent program. The items are doable, comfortable, and inwardly focused. You decide them. Costs are the variable, and you are the customer of your own costs. A plan can be excellent at being a plan and still produce nothing the company cares about, because nowhere in the plan is a theory of how the company wins.
+
+**Strategy** is an integrative set of choices that positions you on a playing field of your choice in a way that you win. There is a theory. Here is why this playing field over that one. Here is how we serve the customers on this playing field better than anyone else. Here is what becomes true downstream if we are right. Strategy specifies an outcome you do not control: customers choosing you over the alternative. You cannot prove it in advance. You can only commit to it, lay out what would have to be true for it to work, and watch the world to see if your theory is holding up.
+
+Roger Martin's canonical example is Southwest Airlines against the legacy U.S. carriers. The major carriers were planning: more gates, more planes, more routes, more loyalty programs. Southwest was running a strategy: point-to-point instead of hub-and-spoke, one aircraft type only (737), no meals, no travel agents, online booking, the lowest cost structure in the industry. They were not trying to participate. They had a theory of winning. Decades later, Southwest flies the most passenger seat miles in the United States, and the legacy carriers fight over what is left.
+
+This matters because the "strategy is the new execution" claim is **not** a claim that you should use AI to make better lists of activities. AI is excellent at planning. Give it a goal and it will produce a competent list of next steps every time. That is the trap. The list feels like progress. The list is what your Jarvis will hand you if you ask it for "a strategy" without supplying the bones of a real one.
+
+What you actually need from your Jarvis is the harder thing: pressure on your theory of winning. Where are you choosing to play, and why? How are you going to win there? What capabilities does that demand? What management systems? What would have to be true about you, the market, and the competition for any of this to actually hold? That is a one-page strategy. Lay out the logic. Watch the world unfold against it. Tweak as you go.
+
+If you do that with your Jarvis, you are doing strategy. If you skip it and ask for a quarterly action list, you are doing planning with a faster horse. Planning at any speed loses to strategy.
+
+---
+
 ## What this means in practice
 
 **80% of the value of a [Personal Agentic OS](/docs/concepts/personal-agentic-os) comes from using AI as a strategic thinking partner.** The remaining 20% comes from automation: cron jobs, background agents, pipeline integrations. Most tutorials, most YouTube videos, most "build your AI agent" content focuses on the 20%. The 80% is the part that actually changes your life.
@@ -76,3 +94,4 @@ This loop, repeated daily, compounds. After 90 days your AI knows your prioritie
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where the strategic foundation gets built
 - [You Are the Bottleneck](/docs/concepts/you-are-the-bottleneck): The personal version. If strategy is the bottleneck, and strategy lives in you, then you are the bottleneck. No hire, tool, or multiplier fixes that from outside.
 - [Judgment Burnout](/docs/concepts/judgment-burnout): The human cost when you skip the strategy layer and try to brute-force output by spinning up more agents. Why "high output" has to be redefined.
+- Roger Martin, [*A Plan Is Not a Strategy*](https://www.youtube.com/watch?v=iuYlGRnC7J8) (HBR video) and *Playing to Win*: the canonical statement of the planning-vs-strategy distinction this concept sits on top of.
