@@ -234,6 +234,7 @@ const sidebars: SidebarsConfig = {
         'concepts/the-tinkerers-curse',
         'concepts/the-permission-surface',
         'concepts/instruction-files',
+        'concepts/orientation-budget',
         'concepts/interview-prompts',
         'concepts/superprompt',
         'concepts/self-improving-enterprise',
