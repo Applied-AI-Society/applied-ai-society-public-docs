@@ -41,6 +41,18 @@ winget install Microsoft.VisualStudioCode
 
 Open VS Code. Go to File > Open Folder, point it at your workspace folder, and the file tree should appear on the left. Open the integrated terminal (`` Cmd+` `` on Mac or `` Ctrl+` `` on Windows/Linux) and the terminal opens inside VS Code.
 
+## Power moves
+
+Three small habits that change how you work alongside your Jarvis.
+
+**Preview markdown.** When the agent writes or edits a markdown file, hit `Cmd+Shift+V` (Mac) or `Ctrl+Shift+V` (Windows/Linux) to open the rendered preview right next to the source. You read what your Jarvis just produced without leaving the editor.
+
+**Run multiple Jarvis agents in parallel.** Click the `+` icon at the top of the integrated terminal to spawn a second terminal in the same window. Now one terminal can run a Jarvis working on a strategy doc while another runs a research pass on a different topic. Click `+` again for a third. Each terminal is its own independent session, so the agents do not step on each other.
+
+**Name your terminals by task.** Right-click the terminal label in the terminal panel and pick **Rename**. Type the task: `strategy-doc`, `research-pass`, `daily-recap`. Five terminals deep, you can tell at a glance which Jarvis is doing what.
+
+These three moves apply identically to Cursor, since Cursor is a fork of VS Code.
+
 ## Official site
 
 [code.visualstudio.com](https://code.visualstudio.com)
