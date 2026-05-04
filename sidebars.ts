@@ -199,6 +199,7 @@ const sidebars: SidebarsConfig = {
             'concepts/the-case-for-simple-harnesses',
             'concepts/fat-skills',
             'concepts/learn-the-harness-not-the-wrapper',
+            'concepts/understanding-why-the-gui-is-becoming-legacy',
           ],
         },
         'concepts/applied-ai',
@@ -401,6 +402,8 @@ const sidebars: SidebarsConfig = {
             id: 'playbooks/practitioner/index',
           },
           items: [
+            'playbooks/practitioner/post-workshop-cheat-sheet',
+            'playbooks/practitioner/how-to-ask-help',
             'playbooks/practitioner/applied-ai-economy',
             'playbooks/practitioner/icp-clarity',
             'playbooks/practitioner/experimental-improvement',
