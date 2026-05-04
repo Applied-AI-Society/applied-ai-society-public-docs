@@ -46,7 +46,7 @@ If you are on a Mac and have not set up Loom, do that today. Install from [loom.
 
 The bundled link does the heavy lifting. The chat message that points to the link should be one or two sentences plus the link:
 
-> Stuck on `clauded` not being recognized in my terminal. Full context here: <Loom link>
+> Stuck on `clauded` not being recognized in my terminal. Full context here: `[your Loom link]`
 
 That is it. A helper opens the link, sees the screen capture + the exact error + your prompt + what you expected, and replies with the fix. No round-trips.
 
@@ -56,7 +56,7 @@ That is it. A helper opens the link, sees the screen capture + the exact error +
 
 **Bad:** five separate messages over twenty minutes, each with one fragment of context, sent one after another into the channel.
 
-**Good:** "Stuck on `clauded` not being recognized. Full context: <Loom link>". The Loom shows you typing the command, the error, and your verbal narration of what you were trying to do.
+**Good:** "Stuck on `clauded` not being recognized. Full context: `[your Loom link]`". The Loom shows you typing the command, the error, and your verbal narration of what you were trying to do.
 
 The bundled version takes 90 seconds to record. Someone replies in 30 seconds with the alias setup, and you are unstuck.
 
