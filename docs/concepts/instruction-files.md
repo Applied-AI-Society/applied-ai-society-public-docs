@@ -1,9 +1,9 @@
 ---
 sidebar_position: 14.7
-title: "Instruction Files"
+title: "Instruction Files aka Skill Files"
 ---
 
-# Instruction Files
+# Instruction Files aka Skill Files
 
 *The new unit of programming is not a function. It is a markdown file that tells an agent how to behave.*
 
