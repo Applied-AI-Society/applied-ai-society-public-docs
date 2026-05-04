@@ -60,19 +60,19 @@ The repository (the folder full of folders you are operating on) is stored local
 
 Everything you and your Jarvis create or edit gets recorded in that local folder. **It is not on GitHub until you push it.**
 
-To back up to GitHub AND pull in template updates from MVJ:
+To back up to GitHub AND pull in template updates:
 
 ```
-sync-with-upstream
+/sync-with-upstream
 ```
 
-Run that command from inside your Jarvis terminal. It pushes your local commits to your private GitHub repo and pulls any upstream improvements to the [Minimum Viable Jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis) template.
+`/sync-with-upstream` is a [skill file](/docs/concepts/instruction-files) shipped in the [Minimum Viable Jarvis](/docs/concepts/minimum-viable-jarvis) template. Type it as a slash command inside your Claude Code session (or say "sync with upstream" in plain language). It pushes your local commits to your private GitHub remote and pulls any new improvements from the MVJ upstream template without touching your personal files.
 
 ## Daily rhythm (suggested)
 
 - **Morning:** open Wispr Flow + VS Code + Claude Code. Voice-dump whatever is on your mind from yesterday and overnight.
 - **During the day:** spawn a new terminal (`+`) for each major project. Rename the tab. Keep them separate so the Jarvises do not step on each other.
-- **End of day:** run `sync-with-upstream` to back up your day's work and pull any template updates.
+- **End of day:** run `/sync-with-upstream` to back up your day's work and pull any template updates.
 
 ## When you get stuck
 

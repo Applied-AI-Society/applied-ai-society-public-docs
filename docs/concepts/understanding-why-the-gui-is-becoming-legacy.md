@@ -67,7 +67,7 @@ You need to know:
 - How to type a single command and press Enter.
 - How to read the output and respond.
 - How to spawn another terminal for a parallel task (`+` icon).
-- How to back up your work (`sync-with-upstream` if you are using the [Minimum Viable Jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis) template).
+- How to back up your work (`/sync-with-upstream` if you are using the [Minimum Viable Jarvis](/docs/concepts/minimum-viable-jarvis) template).
 
 That is the entire on-ramp. Five things. *[See: Post-Workshop Cheat Sheet](/docs/playbooks/practitioner/post-workshop-cheat-sheet) for the working reference.*
 

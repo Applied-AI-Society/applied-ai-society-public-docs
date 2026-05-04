@@ -238,6 +238,7 @@ const sidebars: SidebarsConfig = {
         'concepts/orientation-budget',
         'concepts/dont-put-the-app-on-a-pedestal',
         'concepts/skill-file-first-app-second',
+        'concepts/minimum-viable-jarvis',
         'concepts/interview-prompts',
         'concepts/superprompt',
         'concepts/self-improving-enterprise',
