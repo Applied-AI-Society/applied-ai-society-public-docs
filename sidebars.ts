@@ -196,6 +196,7 @@ const sidebars: SidebarsConfig = {
             'concepts/agentic-harness',
             'concepts/agentic-harnesses-for-everyone',
             'concepts/anatomy-of-a-harness',
+            'concepts/give-your-agent-a-voice',
             'concepts/the-case-for-simple-harnesses',
             'concepts/fat-skills',
             'concepts/learn-the-harness-not-the-wrapper',
