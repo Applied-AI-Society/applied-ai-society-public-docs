@@ -92,7 +92,7 @@ People decide to help you, or not, in moments you usually do not see coming. You
 
 ### Memory fades. The truth lives in the files.
 
-You will not remember what Sarah said three months ago about her legal timeline. Your agent will, if you wrote it down. [The truth in your head is not the truth.](/docs/concepts/legacy/why-it-matters) The truth is what your agent can read.
+You will not remember what Sarah said three months ago about her legal timeline. Your agent will, if you wrote it down. The truth in your head is not the truth. The truth is what your agent can read.
 
 ### Your agent is only as helpful as the relationship context it has
 
@@ -137,7 +137,6 @@ You arrive at that call primed in a way that the other person can feel. You reme
 - **[Operational Reality](/docs/concepts/operational-reality):** PRM is the relationship layer of your operational reality. Who matters, where things stand, what is next.
 - **[Priming Your Jarvis](/docs/playbooks/practitioner/priming-your-jarvis):** PRM is what you drag into chat when you prime a prompt about a relationship. Without PRM, there is nothing to prime with.
 - **[Being Someone's Go-To Person](/docs/concepts/being-someones-go-to-person):** PRM is the mechanism that makes you someone's go-to person at scale. You hold the relationship context they cannot hold themselves.
-- **[Legacy](/docs/concepts/legacy/why-it-matters):** PRM is the applied practice of legacy for relationships.
 
 ---
 
@@ -159,6 +158,5 @@ You arrive at that call primed in a way that the other person can feel. You reme
 - [Operational Reality](/docs/concepts/operational-reality): The layer PRM contributes to.
 - [Priming Your Jarvis](/docs/playbooks/practitioner/priming-your-jarvis): How PRM gets used in practice.
 - [Being Someone's Go-To Person](/docs/concepts/being-someones-go-to-person): The role PRM enables.
-- [Legacy: Why It Matters](/docs/concepts/legacy/why-it-matters): The philosophical foundation.
 - [Compounding Docs](/docs/concepts/compounding-docs): How files accrue value over time.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): The tutorial that sets up the folders PRM lives in.

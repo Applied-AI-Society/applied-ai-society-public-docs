@@ -43,7 +43,7 @@ When you're defining your own ICP as a practitioner, prioritize domain experts w
 
 ## Connect AI to Your ICP Truth
 
-Once the ICP is clear and validated, the next step is connecting your AI systems to everything they need to serve that ICP effectively. This is where [Legacy](/docs/concepts/legacy) becomes practical.
+Once the ICP is clear and validated, the next step is connecting your AI systems to everything they need to serve that ICP effectively. This is where knowledge management becomes practical.
 
 Your AI agents need access to:
 
@@ -51,7 +51,7 @@ Your AI agents need access to:
 - **Organizational context.** Your brand positioning, competitive landscape, pricing model, team structure, capital constraints. All the context a smart human would need to make good decisions.
 - **Operational knowledge.** Codebases, documentation, internal processes, historical decisions and why they were made.
 
-The more context AI has about your business and your ICP, the more useful its actions become. This is the argument laid out in [Truth as Context](/docs/concepts/legacy/truth-as-context) and [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable).
+The more context AI has about your business and your ICP, the more useful its actions become.
 
 ## The Human's Evolving Role
 
@@ -78,7 +78,7 @@ Sometimes the ICP itself needs to evolve. Markets shift. Your initial definition
 
 When this happens, it triggers a cascade: rebuild your product, operations, messaging, and positioning for the new ICP. In the old world, this kind of pivot took months and felt terrifying. With AI as a co-builder operating from accurate organizational truth, it becomes manageable.
 
-This is why legacy matters so much. When your organizational knowledge is documented, version-controlled, and accessible to AI agents, pivoting the ICP triggers a coordinated rebuild rather than organizational chaos.
+This is why knowledge management matters so much. When your organizational knowledge is documented, version-controlled, and accessible to AI agents, pivoting the ICP triggers a coordinated rebuild rather than organizational chaos.
 
 ## The Diagnostic
 
@@ -93,7 +93,4 @@ The bottleneck is almost never the model or the tooling. It's clarity and contex
 
 ## Further Reading
 
-- [Legacy](/docs/concepts/legacy) for the full framework on documenting and organizing organizational truth
-- [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook) for the practical process of building comprehensive documentation
-- [Truth as Context](/docs/concepts/legacy/truth-as-context) for ensuring AI agents operate with full organizational understanding
-- [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable) for making your entire organization accessible to AI agents
+- [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki) for the practical process of building documented organizational truth your AI agents can operate from

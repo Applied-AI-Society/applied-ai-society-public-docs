@@ -49,9 +49,11 @@
 - [Context Engineering](https://docs.appliedaisociety.org/docs/concepts/context-engineering)
 - [Context Lake](https://docs.appliedaisociety.org/docs/concepts/context-lake)
 - [Context Overflow](https://docs.appliedaisociety.org/docs/concepts/context-overflow)
+- [Context Searching](https://docs.appliedaisociety.org/docs/concepts/context-searching)
 - [Corporate Upskilling](https://docs.appliedaisociety.org/docs/concepts/corporate-upskilling): What good corporate AI upskilling actually requires: analysis, non-vendor-specific literacy, hands-on Jarvis installs, and activation. Plus six criteria for choosing a corporate upskilling partner. AAS does not sell corporate upskilling; this page describes what the work requires.
 - [Creative Congestion](https://docs.appliedaisociety.org/docs/concepts/creative-congestion)
 - [Crutching](https://docs.appliedaisociety.org/docs/concepts/crutching)
+- [Don't Put The App On A Pedestal](https://docs.appliedaisociety.org/docs/concepts/dont-put-the-app-on-a-pedestal)
 - [Effective AGI](https://docs.appliedaisociety.org/docs/concepts/effective-agi)
 - [Externalize Your Brain](https://docs.appliedaisociety.org/docs/concepts/externalize-your-brain)
 - [Fat Skills](https://docs.appliedaisociety.org/docs/concepts/fat-skills)
@@ -60,6 +62,7 @@
 - [Forkable Is the New Sticky](https://docs.appliedaisociety.org/docs/concepts/forkable-is-the-new-sticky)
 - [The Four Levels of Applied AI for Existing Businesses](https://docs.appliedaisociety.org/docs/concepts/four-levels-of-applied-ai-for-existing-businesses)
 - [Game Design](https://docs.appliedaisociety.org/docs/concepts/game-design)
+- [Give Your Agent a Voice](https://docs.appliedaisociety.org/docs/concepts/give-your-agent-a-voice)
 - [Harness Engineering](https://docs.appliedaisociety.org/docs/concepts/harness-engineering)
 - [Human Comparative Advantage](https://docs.appliedaisociety.org/docs/concepts/human-comparative-advantage): The applied AI engineer's job is to be the supersuit engineer for an essential human role. Save them from drudgery so they can stay in the human-only work only they can do. That work is also where their sustained commercial success lives.
 - [Human Emulators](https://docs.appliedaisociety.org/docs/concepts/human-emulators)
@@ -72,7 +75,7 @@
 - [The Imagination Economy](https://docs.appliedaisociety.org/docs/concepts/imagination-economy): The emerging economy where imagination, backed by applied AI leverage and the right team, is the primary asset. Companies and technologies that couldn't have existed before 2026, applying AI while centering humans at the highest possible level.
 - [Inclusive Technological Advancement](https://docs.appliedaisociety.org/docs/concepts/inclusive-technological-advancement)
 - [Concepts](https://docs.appliedaisociety.org/docs/concepts)
-- [Instruction Files](https://docs.appliedaisociety.org/docs/concepts/instruction-files)
+- [Instruction Files aka Skill Files](https://docs.appliedaisociety.org/docs/concepts/instruction-files)
 - [Intent Engineering](https://docs.appliedaisociety.org/docs/concepts/intent-engineering)
 - [Interview Prompts](https://docs.appliedaisociety.org/docs/concepts/interview-prompts)
 - [Jarvis Workspace](https://docs.appliedaisociety.org/docs/concepts/jarvis-workspace)
@@ -87,11 +90,13 @@
 - [Lossy AI Telephone](https://docs.appliedaisociety.org/docs/concepts/lossy-ai-telephone)
 - [Minimum Commercial Viability](https://docs.appliedaisociety.org/docs/concepts/minimum-commercial-viability)
 - [Minimum Viable Infrastructure](https://docs.appliedaisociety.org/docs/concepts/minimum-viable-infrastructure)
+- [Minimum Viable Jarvis](https://docs.appliedaisociety.org/docs/concepts/minimum-viable-jarvis)
 - [The Mission Harness](https://docs.appliedaisociety.org/docs/concepts/mission-harness)
 - [Observable Behavior Engineering](https://docs.appliedaisociety.org/docs/concepts/observable-behavior-engineering)
 - [Ontology As Substrate](https://docs.appliedaisociety.org/docs/concepts/ontology-as-substrate): The canonical definition layer underneath every reliable AI implementation. Without a shared ontology of the domain's objects and roles, agents drift into hallucination. With one, they operate on rails.
 - [Ontology-Driven Development](https://docs.appliedaisociety.org/docs/concepts/ontology-driven-development): The methodology of writing software around a canonical model of the business, not around the APIs of the underlying tools. The development discipline that turns a strong ontology into compounding software for both human operators and AI agents.
 - [Operational Reality](https://docs.appliedaisociety.org/docs/concepts/operational-reality)
+- [Orientation Budget](https://docs.appliedaisociety.org/docs/concepts/orientation-budget)
 - [Permissionless Knowledge](https://docs.appliedaisociety.org/docs/concepts/permissionless-knowledge)
 - [Personal Agentic OS](https://docs.appliedaisociety.org/docs/concepts/personal-agentic-os)
 - [Personal Software](https://docs.appliedaisociety.org/docs/concepts/personal-software)
@@ -107,6 +112,7 @@
 - [The Self-Improving Enterprise](https://docs.appliedaisociety.org/docs/concepts/self-improving-enterprise)
 - [Self-Improving Systems](https://docs.appliedaisociety.org/docs/concepts/self-improving-systems)
 - [Signalmaxxing](https://docs.appliedaisociety.org/docs/concepts/signalmaxxing)
+- [Skill File First, App Second](https://docs.appliedaisociety.org/docs/concepts/skill-file-first-app-second)
 - [Slop Factory](https://docs.appliedaisociety.org/docs/concepts/slop-factory)
 - [The Slopacalypse](https://docs.appliedaisociety.org/docs/concepts/slopacalypse)
 - [Sovereign Agentic Business OS](https://docs.appliedaisociety.org/docs/concepts/sovereign-agentic-business-os)
@@ -137,27 +143,13 @@
 - [The Tinkerer's Curse](https://docs.appliedaisociety.org/docs/concepts/the-tinkerers-curse)
 - [The Token Economy](https://docs.appliedaisociety.org/docs/concepts/the-token-economy)
 - [The Tool Is Only As Powerful As The Beholder](https://docs.appliedaisociety.org/docs/concepts/the-tool-is-only-as-powerful-as-the-beholder)
+- [The Tradeoff Era](https://docs.appliedaisociety.org/docs/concepts/the-tradeoff-era)
 - [The Unlock Question](https://docs.appliedaisociety.org/docs/concepts/the-unlock-question)
 - [The Water Line](https://docs.appliedaisociety.org/docs/concepts/the-water-line)
 - [There Is No Demand for Average](https://docs.appliedaisociety.org/docs/concepts/there-is-no-demand-for-average)
 - [Train Your AI Like You Would Train a Human Apprentice](https://docs.appliedaisociety.org/docs/concepts/train-your-agent)
 - [Train-Your-Replacement Work](https://docs.appliedaisociety.org/docs/concepts/train-your-replacement-work)
-- [Align Before Committing](https://docs.appliedaisociety.org/docs/concepts/legacy/align-before-committing)
-- [Don't Assume Common Sense](https://docs.appliedaisociety.org/docs/concepts/legacy/dont-assume-common-sense)
-- [Empower Your Knowledge Worker](https://docs.appliedaisociety.org/docs/concepts/legacy/empower-your-knowledge-worker)
-- [Getting Started](https://docs.appliedaisociety.org/docs/concepts/legacy/getting-started)
-- [Legacy](https://docs.appliedaisociety.org/docs/concepts/legacy)
-- [Maintain Coherence](https://docs.appliedaisociety.org/docs/concepts/legacy/maintain-coherence)
-- [Make Every File Count](https://docs.appliedaisociety.org/docs/concepts/legacy/make-every-file-count)
-- [Make Your Company Refactorable](https://docs.appliedaisociety.org/docs/concepts/legacy/make-your-company-refactorable)
-- [Migrate to Refactorable Systems](https://docs.appliedaisociety.org/docs/concepts/legacy/migrate-to-refactorable-systems)
-- [Protect Your Truth](https://docs.appliedaisociety.org/docs/concepts/legacy/protect-your-truth)
-- [Refactor Your Information Architecture](https://docs.appliedaisociety.org/docs/concepts/legacy/refactor-your-information-architecture)
-- [Source Controller](https://docs.appliedaisociety.org/docs/concepts/legacy/source-controller)
-- [Start Your Company Handbook](https://docs.appliedaisociety.org/docs/concepts/legacy/start-your-company-handbook)
-- [Truth as Context](https://docs.appliedaisociety.org/docs/concepts/legacy/truth-as-context)
-- [Voice Transcriber](https://docs.appliedaisociety.org/docs/concepts/legacy/voice-transcriber)
-- [Why Legacy Matters](https://docs.appliedaisociety.org/docs/concepts/legacy/why-it-matters)
+- [Understanding Why The GUI Is Becoming Legacy](https://docs.appliedaisociety.org/docs/concepts/understanding-why-the-gui-is-becoming-legacy)
 - [Vibe Curation](https://docs.appliedaisociety.org/docs/concepts/vibe-curation)
 - [You Are the Bottleneck](https://docs.appliedaisociety.org/docs/concepts/you-are-the-bottleneck)
 - [Get Jarvised](https://docs.appliedaisociety.org/docs/get-jarvised)
@@ -224,10 +216,12 @@
 - [Be an Applied AI Scientist](https://docs.appliedaisociety.org/docs/playbooks/practitioner/experimental-improvement)
 - [Export Your AI History (and Bootstrap Your Jarvis From It)](https://docs.appliedaisociety.org/docs/playbooks/practitioner/export-your-ai-history)
 - [Finding Clients Through Trust](https://docs.appliedaisociety.org/docs/playbooks/practitioner/finding-clients)
+- [How To Ask For Help](https://docs.appliedaisociety.org/docs/playbooks/practitioner/how-to-ask-help)
 - [How To Prompt Your Jarvis](https://docs.appliedaisociety.org/docs/playbooks/practitioner/how-to-prompt-your-jarvis)
 - [ICP Clarity: The Foundation of Applied AI](https://docs.appliedaisociety.org/docs/playbooks/practitioner/icp-clarity)
 - [Practitioner Playbooks](https://docs.appliedaisociety.org/docs/playbooks/practitioner)
 - [The Pilot Pitch](https://docs.appliedaisociety.org/docs/playbooks/practitioner/pilot-pitch)
+- [Post-Workshop Cheat Sheet](https://docs.appliedaisociety.org/docs/playbooks/practitioner/post-workshop-cheat-sheet)
 - [Pricing Your AI Engagements](https://docs.appliedaisociety.org/docs/playbooks/practitioner/pricing)
 - [Priming Your Jarvis](https://docs.appliedaisociety.org/docs/playbooks/practitioner/priming-your-jarvis)
 - [Auto-Syncing Granola Notes (and Other Conversation Sources)](https://docs.appliedaisociety.org/docs/playbooks/practitioner/prm/auto-syncing-granola-notes)
@@ -241,7 +235,8 @@
 - [The Five Levels of Value in the AI Age](https://docs.appliedaisociety.org/docs/playbooks/student/five-levels-of-value)
 - [Student / Explorer](https://docs.appliedaisociety.org/docs/playbooks/student)
 - [You Are What You Eat](https://docs.appliedaisociety.org/docs/playbooks/student/you-are-what-you-eat)
-- [Agentic OS Trainer](https://docs.appliedaisociety.org/docs/roles/agentic-os-trainer)
+- [Agentic OS / Jarvis Trainer](https://docs.appliedaisociety.org/docs/roles/agentic-os-trainer)
+- [AI Advisor to the CEO](https://docs.appliedaisociety.org/docs/roles/ai-advisor-to-the-ceo)
 - [AI Enablement Architect](https://docs.appliedaisociety.org/docs/roles/ai-enablement-architect)
 - [Applied AI Consultant](https://docs.appliedaisociety.org/docs/roles/applied-ai-consultant)
 - [Applied AI Streamliner](https://docs.appliedaisociety.org/docs/roles/applied-ai-streamliner)
@@ -278,11 +273,10 @@
 - [Dealmaking](https://docs.appliedaisociety.org/docs/use-cases/dealmaking): For super-connectors, founders, investors, and anyone whose livelihood is downstream of the deals they make, a Jarvis is the highest-leverage asset on their laptop. Drafting, assessing, and tearing up deals with full context the open web cannot give you.
 - [Getting Your Time Back](https://docs.appliedaisociety.org/docs/use-cases/getting-your-time-back): The most common reason people leave a Supersuit Up workshop feeling like the future arrived early. A Jarvis collapses the existing workflows you are already doing into a fraction of the time they used to cost, giving you back hours every week for the work only you can do.
 - [Jarvis Use Cases](https://docs.appliedaisociety.org/docs/use-cases): Flagship reasons people walk into a Supersuit Up workshop and never look back. Concrete, high-leverage ways a Personal Agentic OS reshapes the work of leaders, operators, artists, and super-connectors.
-- [Legacy](https://docs.appliedaisociety.org/docs/use-cases/legacy): The gamified daily practice of harvesting and refining operational truth that compounds into commercial edge. Every meeting captured, every friction noticed, every decision logged. Raw context in. Agent-legible truth out. The difference between a business that runs on vibes and one that runs on a system.
 - [Use AI To Hunt For The Right Solution](https://docs.appliedaisociety.org/docs/use-cases/use-ai-to-hunt-for-the-right-solution): Almost every tool you need already exists. The use case is using your Jarvis to write a tight requirements spec from your operational reality, then hunting the catalog like a recruiter hunts a candidate, instead of low-coding a brittle custom workflow.
 - [Workshops](https://docs.appliedaisociety.org/docs/workshops)
 - [Supersuit Up Readiness Quiz](https://docs.appliedaisociety.org/docs/workshops/readiness-quiz)
 - [The Supersuit Up Workshop](https://docs.appliedaisociety.org/docs/workshops/supersuit-up): Build your Personal Agentic OS (aka Jarvis Yourself). A step-by-step guide to AI-augmented recall, strategic clarity, and compounding context.
 
 ---
-Generated at build time. 279 pages indexed.
+Generated at build time. 273 pages indexed.

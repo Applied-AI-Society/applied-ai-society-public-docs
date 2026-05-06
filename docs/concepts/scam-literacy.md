@@ -54,5 +54,4 @@ If you want to help maintain it, bring your field notes. Join the [Discord](http
 - [Literacies That Matter](/docs/concepts/literacies-that-matter): The broader set of literacies that compound. Scam literacy is one of them.
 - [Applied AI Discipline](/docs/concepts/applied-ai-practice): The daily discipline inside which scam literacy is maintained.
 - [The Omni-Crisis](/docs/concepts/the-omni-crisis): Why the threat landscape is accelerating on every axis at once.
-- [Legacy](/docs/concepts/legacy): Related discipline for keeping what your systems act on aligned with reality.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): Why open, community-maintained knowledge beats gated products in a fast-moving threat landscape.

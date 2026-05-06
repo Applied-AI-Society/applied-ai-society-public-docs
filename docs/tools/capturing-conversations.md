@@ -165,5 +165,4 @@ Your Jarvis does the rest. Over a year of this, you end up with the [PRM](/docs/
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): why transcripts matter and how they feed the relationship graph.
 - [Auto-Syncing Granola Notes](/docs/playbooks/practitioner/prm/auto-syncing-granola-notes): the next step once you have a capture habit. Pulls Granola meetings into your workspace on demand and covers the manual TurboScribe path for everything else.
 - [Priming Your Jarvis](/docs/playbooks/practitioner/priming-your-jarvis): how to pull these transcripts into chat when you are working on something relationship-related.
-- [Voice Transcriber](/docs/concepts/legacy/voice-transcriber): the deeper concept behind voice as the bottleneck-removal input.
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): the tutorial that sets up the `meeting-transcripts/` folder.

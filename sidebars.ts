@@ -74,7 +74,6 @@ const sidebars: SidebarsConfig = {
       items: [
         'use-cases/getting-your-time-back',
         'use-cases/dealmaking',
-        'use-cases/legacy',
         'use-cases/use-ai-to-hunt-for-the-right-solution',
       ],
     },
@@ -140,49 +139,6 @@ const sidebars: SidebarsConfig = {
           items: [
             'concepts/sovereign-agentic-business-os/principles',
             'concepts/sovereign-agentic-business-os/question-bank',
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Legacy',
-          link: {
-            type: 'doc',
-            id: 'concepts/legacy/index',
-          },
-          items: [
-            'concepts/legacy/why-it-matters',
-            'concepts/legacy/getting-started',
-            {
-              type: 'category',
-              label: 'Principles',
-              items: [
-                'concepts/legacy/dont-assume-common-sense',
-                'concepts/legacy/align-before-committing',
-                'concepts/legacy/make-every-file-count',
-                'concepts/legacy/make-your-company-refactorable',
-                'concepts/legacy/empower-your-knowledge-worker',
-                'concepts/legacy/protect-your-truth',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Processes',
-              items: [
-                'concepts/legacy/start-your-company-handbook',
-                'concepts/legacy/migrate-to-refactorable-systems',
-                'concepts/legacy/truth-as-context',
-                'concepts/legacy/maintain-coherence',
-                'concepts/legacy/refactor-your-information-architecture',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Tools',
-              items: [
-                'concepts/legacy/source-controller',
-                'concepts/legacy/voice-transcriber',
-              ],
-            },
           ],
         },
         {

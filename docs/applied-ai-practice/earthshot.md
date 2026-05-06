@@ -29,7 +29,7 @@ The activation bar is the most leveraged thing an organization like ours can def
 
 Anyone can create a course. What the world lacks is a trusted, open, practitioner-vetted source of truth about applied AI that anyone can build on.
 
-Think of it the way [Legacy](/docs/concepts/legacy) works inside an organization: the documented truth is the foundation that every human and every AI agent builds from. Without it, you get scattered assumptions, contradictory advice, and coordination failures. With it, you get aligned action at scale.
+Inside an organization, documented truth is the foundation that every human and every AI agent builds from. Without it, you get scattered assumptions, contradictory advice, and coordination failures. With it, you get aligned action at scale.
 
 Applied AI literacy has the same problem at a global level. There are thousands of AI courses. There is no shared, open, practitioner-co-created foundation that everyone can trust, translate, fork, and build on. That is what we are creating.
 

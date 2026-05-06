@@ -36,7 +36,7 @@ docs/
 ├── applied-ai-literacy/  # AI literacy framework and earthshot
 ├── philosophy/           # Canon, principles, north star
 ├── roles/                # Applied AI Consultant, Chief AI Officer, Business OS Administrator, Agentic OS Trainer, Community Leader, AI Enablement Architect, Applied AI Streamliner
-├── concepts/             # 70+ concept pages (now houses sovereign-agentic-business-os/ and legacy/ as nested subfolders)
+├── concepts/             # 70+ concept pages (now houses sovereign-agentic-business-os/ as a nested subfolder)
 ├── case-studies/         # Real-world AI implementation case studies
 ├── workshops/            # Supersuit Up, readiness quiz
 ├── playbooks/            # chapter-leader/, practitioner/, presenter/, student/, business-owner/

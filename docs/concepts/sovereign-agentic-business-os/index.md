@@ -108,7 +108,6 @@ The Sovereign Agentic Business OS is not just a technical architecture. It's a s
 
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): How to start with a personal AI operating system today
 - [Business OS Administrator](/docs/roles/business-os-administrator): The emerging role responsible for maintaining organizational AI operating systems
-- [Legacy](/docs/concepts/legacy): The discipline of documenting the knowledge that powers your business OS
 - [Context Engineering](/docs/concepts/context-engineering): The skill of curating the right information for AI systems
 - [Command Centers](/docs/concepts/command-centers): The meta-concept that connects the personal and organizational scales
 - [The Writing on the Wall](https://digitalcommons.humboldt.edu/digitallab/13/): Why the urgency is real and the window is closing

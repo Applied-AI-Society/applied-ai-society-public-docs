@@ -36,7 +36,7 @@ This is why [context engineering](/docs/concepts/context-engineering) is the cor
 
 The hard part: your operational reality changes every day. New conversations, new decisions, new information, shifts in the people around you, markets that moved overnight.
 
-So operational reality is not a thing you write down once. It is a living layer you maintain. This is the work of [legacy](/docs/concepts/legacy). It is the reason [capture, process, compound](/docs/concepts/capture-process-compound) is a daily practice, not a one-time setup.
+So operational reality is not a thing you write down once. It is a living layer you maintain. This is knowledge management work. It is the reason [capture, process, compound](/docs/concepts/capture-process-compound) is a daily practice, not a one-time setup.
 
 When your documented operational reality falls out of sync with what is actually happening, you develop [agentic OS debt](/docs/concepts/agentic-os-debt). Your AI co-strategist is advising based on yesterday's world, and you are living in today's.
 
@@ -68,5 +68,4 @@ Documented operational reality is also what lets you [see your own thinking](/do
 - [Context Engineering](/docs/concepts/context-engineering): The discipline of curating it
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why it has to be in files, not in your head
 - [Capture, Process, Compound](/docs/concepts/capture-process-compound): The daily loop that keeps it alive
-- [Legacy](/docs/concepts/legacy): The deeper practice of operational truth
 - [Solution Hunting](/docs/use-cases/use-ai-to-hunt-for-the-right-solution): Why operational reality is the most-skipped section of any solution-hunt spec, and what that costs you

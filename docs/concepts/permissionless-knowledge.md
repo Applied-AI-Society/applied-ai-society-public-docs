@@ -77,7 +77,7 @@ The course becomes the entry point to a relationship, not a replacement for one.
 
 If you are an expert in any field and people regularly want your help, here is a practical sequence:
 
-**1. Capture in real time.** When life is moving fast and every conversation is rich, record it. Voice memos, transcripts, brain dumps. You do not need to process everything immediately. You need to capture it before it is gone. The raw material for your courses, docs, and systems comes from the conversations you are already having. A [voice transcriber](/docs/concepts/legacy/voice-transcriber) and a transcript processing pipeline turn the conversations you would have had anyway into permanent, shareable knowledge.
+**1. Capture in real time.** When life is moving fast and every conversation is rich, record it. Voice memos, transcripts, brain dumps. You do not need to process everything immediately. You need to capture it before it is gone. The raw material for your courses, docs, and systems comes from the conversations you are already having. A voice transcriber and a transcript processing pipeline turn the conversations you would have had anyway into permanent, shareable knowledge.
 
 **2. Document the FAQ.** What do you explain most often? Write it down. Publish it somewhere accessible. Even a simple web page eliminates dozens of repetitive conversations.
 

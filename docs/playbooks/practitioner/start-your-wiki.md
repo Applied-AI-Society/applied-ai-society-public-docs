@@ -9,9 +9,9 @@ title: Start Your Wiki
 
 ---
 
-This is the practitioner-scale companion to [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook). Company Handbook is framed for organizations. This playbook is framed for an individual leader or practitioner who wants to start smaller, prove the practice to themselves, and then graduate ideas into organizational truth when they earn it.
+This playbook is framed for an individual leader or practitioner who wants to start smaller, prove the practice to themselves, and then graduate ideas into organizational truth when they earn it.
 
-If you want the philosophical case for why any of this matters, read [Legacy](/docs/concepts/legacy) and [Why It Matters](/docs/concepts/legacy/why-it-matters) first. If you're ready to actually build one, start here.
+If you're ready to actually build one, start here.
 
 ---
 
@@ -52,7 +52,7 @@ Both individuals and organizations can have wikis. Both can have private wikis a
 The practical difference between personal and organizational wikis is **gravitas**.
 
 - **Personal wiki** is a playground. You're sketching ideas, testing concepts, developing vocabulary. You can be wrong quickly and often. Nothing is promised to anyone.
-- **Organizational wiki** is a contract. Every entry is a commitment that the organization stands behind. It's the [Company Handbook](/docs/concepts/legacy/start-your-company-handbook). It binds how agents act, how teammates align, how clients understand you.
+- **Organizational wiki** is a contract. Every entry is a commitment that the organization stands behind. It binds how agents act, how teammates align, how clients understand you.
 
 There is something more serious about saying an idea “graduated into the wiki” than saying it “lives in a Google Doc.” That seriousness is useful. Use it.
 
@@ -90,7 +90,7 @@ Which account the repo sits under is the important choice:
 - **For a personal wiki**, use a repo under your personal GitHub username. Private by default, public if you want the wiki to be open and readable by others (many people do, because a public wiki is also a reputation asset).
 - **For an individual leader running a company wiki before the team has caught up**, start a repo under the org account anyway. Keep it private. When teammates are ready to join, the infrastructure is already in place.
 
-You can have multiple wikis across different accounts: a private personal wiki under your username, a public one for ideas you want to share, and one or more organizational wikis under your org. This mirrors the sensitivity tiers in [Protect Your Truth](/docs/concepts/legacy/protect-your-truth).
+You can have multiple wikis across different accounts: a private personal wiki under your username, a public one for ideas you want to share, and one or more organizational wikis under your org. Use the visibility settings to mirror the sensitivity tiers of the content.
 
 ## Why Version Control Is the Whole Point
 
@@ -122,7 +122,7 @@ Your wiki sits at the same level as your [Jarvis](/docs/concepts/personal-agenti
 
 **Why this pattern pays off:**
 
-- **Cross-repo coherence.** You can grep across every repo at once. When you rename a concept, you can update it everywhere in one session. This is [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable) applied to your whole operation, not just one repo.
+- **Cross-repo coherence.** You can grep across every repo at once. When you rename a concept, you can update it everywhere in one session. Refactorability applied to your whole operation, not just one repo.
 - **Agent-friendly.** Claude Code, Cursor, Codex, and every other harness can be pointed at the parent folder and will happily navigate across repos. Your agent sees the whole landscape, not one repo at a time.
 - **No hunting.** Every repo lives in exactly one predictable place. New machine? `git clone` each one back into `~/Documents/github-repos/`. Done.
 
@@ -130,7 +130,7 @@ The folder name doesn't have to be `github-repos`. Some people use `~/dev/` or `
 
 ## Picking a Static Site Generator
 
-On top of your GitHub repo, you want a **static site generator** that turns your markdown files into a navigable, searchable website. Plain markdown means agents can grep and edit it directly, which is the whole [refactorability principle](/docs/concepts/legacy/make-your-company-refactorable). A static site generator gives you navigation, search, and a shareable URL that colleagues and clients can actually use.
+On top of your GitHub repo, you want a **static site generator** that turns your markdown files into a navigable, searchable website. Plain markdown means agents can grep and edit it directly, which is the whole point. A static site generator gives you navigation, search, and a shareable URL that colleagues and clients can actually use.
 
 The Applied AI Society uses **Docusaurus** for this documentation site, and many AAS practitioners use it for personal and organizational wikis. It's a reasonable default if you want a running start: see [docusaurus.io/docs](https://docusaurus.io/docs) for setup.
 
@@ -145,7 +145,7 @@ It is not the only option. Good alternatives include:
 
 Things to look for when evaluating:
 
-- **Local markdown as source of truth.** If the platform stores content in a proprietary database or behind an API, pass. See [Migrate to Refactorable Systems](/docs/concepts/legacy/migrate-to-refactorable-systems) for why.
+- **Local markdown as source of truth.** If the platform stores content in a proprietary database or behind an API, pass.
 - **Built-in search.** You'll have hundreds of documents on a deep topic. Search is non-negotiable.
 - **SEO basics.** Static HTML output, sitemaps, metadata. If you're writing publicly, you want Google to be able to index it.
 - **Sidebar / navigation control.** You need to be able to organize docs into sections that make sense as the wiki grows.
@@ -374,10 +374,10 @@ Practical moves:
 Once the first few docs exist and the voice is set, the daily loop is:
 
 1. **You experience something.** A client call reveals a pattern. A project surfaces an edge case. You realize you've been explaining the same thing for the third time.
-2. **You brain-dump it.** Speak into a [voice transcriber](/docs/concepts/legacy/voice-transcriber) or type freely. Don't edit yet. Just get the raw thinking out.
+2. **You brain-dump it.** Speak into a voice transcriber or type freely. Don't edit yet. Just get the raw thinking out.
 3. **You name it.** Is this a new SOP? A new concept? A new principle? A case study? Naming the type of entry is half the work.
 4. **You draft it with an agent.** Say “add another wiki post about X” and let the agent propose structure and first draft. You edit for voice and accuracy.
-5. **You cross-link.** Ask the agent to identify related existing entries and add links in both directions. Cross-linking is [how wikis stay coherent](/docs/concepts/legacy/maintain-coherence).
+5. **You cross-link.** Ask the agent to identify related existing entries and add links in both directions. Cross-linking is how wikis stay coherent.
 6. **You commit.** One commit per entry. Commit message describes what changed and why.
 
 This loop gets faster with practice. After the first month, “add another wiki post” goes from 45 minutes to 10.
@@ -388,7 +388,7 @@ This loop gets faster with practice. After the first month, “add another wiki 
 
 A wiki that your agents don't read is a wiki that's only half working.
 
-- **README.md at the root**: serves as the truth index. Every document listed with a one-line summary. See [Truth as Context](/docs/concepts/legacy/truth-as-context).
+- **README.md at the root**: serves as the truth index. Every document listed with a one-line summary.
 - **CLAUDE.md / AGENTS.md**: tells the agent how to work in this repo specifically. Voice rules, cross-linking expectations, what to do before creating a new file.
 - **Related instruction files**: see [Instruction Files](/docs/concepts/instruction-files) for the broader pattern.
 
@@ -407,7 +407,7 @@ Minimum standards once you have more than ten entries:
 - Related concepts outside your wiki (other people's wikis, papers, books) get cited with real URLs
 - Orphan pages (zero inbound links) get audited and either linked or removed
 
-See [Maintain Coherence](/docs/concepts/legacy/maintain-coherence) for the full link-maintenance discipline.
+Treat link maintenance as a recurring discipline.
 
 ---
 
@@ -415,7 +415,7 @@ See [Maintain Coherence](/docs/concepts/legacy/maintain-coherence) for the full 
 
 A wiki that isn't maintained decays into a liability faster than you'd think. Stale entries produce confident, well-reasoned actions from your agents based on outdated premises.
 
-Set up a weekly coherence check (see [Maintain Coherence](/docs/concepts/legacy/maintain-coherence)) that flags:
+Set up a weekly coherence check that flags:
 
 - Entries older than 30 days that may need review
 - Contradictions between entries
@@ -451,14 +451,6 @@ That's the practice.
 
 ## Further Reading
 
-- [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook): The organizational-scale version of this playbook
-- [Legacy](/docs/concepts/legacy): The framework this playbook operationalizes
-- [Why It Matters](/docs/concepts/legacy/why-it-matters): The three-claim argument for documented truth
-- [Legacy: Getting Started](/docs/concepts/legacy/getting-started): Day 1 to Week 4 plan for the infrastructure side
-- [Maintain Coherence](/docs/concepts/legacy/maintain-coherence): The ongoing discipline that keeps a wiki alive
-- [Truth as Context](/docs/concepts/legacy/truth-as-context): How your wiki becomes the context your agents operate from
-- [Voice Transcriber](/docs/concepts/legacy/voice-transcriber): The capture tool that makes the daily loop sustainable
-- [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable): Why local markdown beats every CMS
 - [llms.txt and llms-full.txt](/docs/concepts/llms-txt): The two-file pattern that makes your wiki LLM-readable for any reader, with no hosted chat required
 - [Context Engineering](/docs/concepts/context-engineering): The broader skill your wiki develops
 - [Context Lake](/docs/concepts/context-lake): The storage substrate your wiki lives inside

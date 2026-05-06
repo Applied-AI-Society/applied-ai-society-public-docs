@@ -13,7 +13,7 @@ title: "Chief AI Officer"
 
 ## What They Do
 
-The Chief AI Officer embeds with a company (part-time or full-time) and leads AI transformation at the organizational level. This is not the compliance-and-governance version of the title. This is the person making the enterprise self-improving: setting up the organizational Personal Agentic OS, designing skill files, establishing legacy, coaching leaders through identity shifts, and shipping AI systems that actually move the business.
+The Chief AI Officer embeds with a company (part-time or full-time) and leads AI transformation at the organizational level. This is not the compliance-and-governance version of the title. This is the person making the enterprise self-improving: setting up the organizational Personal Agentic OS, designing skill files, establishing the documented operational truth the company runs on, coaching leaders through identity shifts, and shipping AI systems that actually move the business.
 
 Three core functions:
 

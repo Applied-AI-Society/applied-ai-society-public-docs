@@ -52,7 +52,7 @@ The repo is organized around what people need to understand and do:
 - **[Roles](/docs/roles)** documenting the careers emerging in the applied AI economy
 - **[Playbooks](/docs/playbooks)** for practitioners, business owners, chapter leaders, students, and presenters
 - **[Case studies](/docs/case-studies)** showing what the work actually looks like in the field
-- **[Philosophy](/docs/philosophy)** and **[Legacy](/docs/concepts/legacy)** for the deeper commitments behind how we build
+- **[Philosophy](/docs/philosophy)** for the deeper commitments behind how we build
 - **[Standards](/docs/standards)** like [INTEGRATE.md](/docs/standards/integrate-md) and [ALIGN.md](/docs/standards/align-md) that anyone can adopt
 
 All of it is open source. Chapter leaders and university partners use it as source material for their own derivative courses. Nothing is gatekept. That is how education scales without becoming propaganda, and how we fulfill our mandate to make trustworthy applied AI literacy accessible to humanity.

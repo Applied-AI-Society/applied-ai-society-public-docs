@@ -77,4 +77,3 @@ If yes, the workspace is paying. Keep refining. If no, the workspace is not wher
 - [Capturing Conversations](/docs/tools/capturing-conversations): The pipeline that feeds raw material into the PRM that feeds the angels.
 - [Priming Your Jarvis](/docs/playbooks/practitioner/priming-your-jarvis): How to get the angels into the prompt when you need them.
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): The posture that moves angels from head to file.
-- [Legacy](/docs/concepts/legacy): The broader discipline the angels are one shape of.

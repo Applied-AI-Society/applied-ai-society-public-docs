@@ -125,7 +125,6 @@ This is also why the [Personal Agentic OS architecture](/docs/workshops/supersui
 - [CLIPs: The Apps of the Agentic Era](/docs/concepts/clips): The next evolution of agent-accessible software
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The system that uses agent-accessible tools
 - [Harness Engineering](/docs/concepts/harness-engineering): How agents interact with tools through harnesses
-- [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable): The organizational version of agent-accessibility
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): Where agent-accessible products lead at the business level
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Why plain markdown beats proprietary formats
 - [Agentic UX Rules](/docs/concepts/agentic-ux-rules): The product-design corollary. Growing list of UX rules for the agentic age, starting with search, natural-language settings, and agent-modifiable actions.

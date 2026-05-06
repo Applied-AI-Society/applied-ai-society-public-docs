@@ -78,7 +78,7 @@ A context lake starts personal but can scale to teams and organizations:
 
 - **Personal context lake:** Your Personal Agentic OS workspace. Everything about you and your operation.
 - **Shared context lake:** An [agentic project OS](/docs/concepts/lossy-ai-telephone) where a team collaborates from the same source of truth, eliminating [lossy AI telephone](/docs/concepts/lossy-ai-telephone).
-- **Organizational context lake:** The “company handbook” ([start yours here](/docs/concepts/legacy/start-your-company-handbook)). The living, version-controlled single source of truth for how the organization works.
+- **Organizational context lake:** The “company handbook.” The living, version-controlled single source of truth for how the organization works.
 - **Federated context lakes:** The [Hypercontext Protocol](/docs/concepts/hypercontext-protocol) vision, where trusted agents query each other's context lakes directly.
 
 Each level builds on the one before it. Start with yours.
@@ -87,7 +87,7 @@ Each level builds on the one before it. Start with yours.
 
 In April 2025, Andrej Karpathy (founding member of OpenAI, former head of AI at Tesla, one of the most respected researchers in the field) [described his workflow](https://x.com/karpathy/status/2039805659525644595): indexing source documents into a raw directory, using an LLM to compile a wiki of markdown files, running Q&A against the accumulated knowledge, and filing outputs back into the wiki to enhance it for further queries. He noted: “You rarely ever write or edit the wiki manually, it's the domain of the LLM.”
 
-This is a context lake. The data ingestion is the [capture](/docs/concepts/capture-process-compound) phase. The LLM-compiled wiki is the process phase. The Q&A and filed outputs are the compound phase. The health checks he describes are [legacy](/docs/concepts/legacy). The whole system compounds over time, which is [compounding docs](/docs/concepts/compounding-docs).
+This is a context lake. The data ingestion is the [capture](/docs/concepts/capture-process-compound) phase. The LLM-compiled wiki is the process phase. The Q&A and filed outputs are the compound phase. The health checks he describes are knowledge management: the gardening that keeps the lake aligned with reality. The whole system compounds over time, which is [compounding docs](/docs/concepts/compounding-docs).
 
 The Applied AI Society has been teaching this architecture since January 2026 through the [Supersuit Up Workshop](/docs/workshops/supersuit-up) tutorial. The fact that one of the world's leading AI researchers independently arrived at the same pattern is strong validation that this is not a niche workflow. It is the future of how humans organize knowledge and work with AI.
 
@@ -101,6 +101,5 @@ The Applied AI Society has been teaching this architecture since January 2026 th
 - [Compounding Docs](/docs/concepts/compounding-docs): How your context lake compounds over time
 - [Lossy AI Telephone](/docs/concepts/lossy-ai-telephone): What happens without shared context
 - [Hypercontext Protocol](/docs/concepts/hypercontext-protocol): Federated context lakes between trusted parties
-- [Legacy](/docs/concepts/legacy): The framework for organizing the truth in your lake
 - [Operational Reality](/docs/concepts/operational-reality): What your context lake is meant to hold
 - [Agentic OS Debt](/docs/concepts/agentic-os-debt): What happens when the lake gets stale

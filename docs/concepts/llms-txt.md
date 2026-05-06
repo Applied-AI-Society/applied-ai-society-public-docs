@@ -123,6 +123,5 @@ Net result: 83 npm packages removed, ongoing inference costs dropped to zero, th
 - [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki): If you do not have a wiki yet, start there. This page assumes you do.
 - [Using the Docs With Your Jarvis](/docs/playbooks/practitioner/using-the-docs-with-your-jarvis): The reader's-side companion. How to actually consume an llms.txt with your Personal Agentic OS.
 - [Permissionless Knowledge](/docs/concepts/permissionless-knowledge): The deeper philosophy that llms.txt operationalizes for the agent era.
-- [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable): Why your wiki being plain Markdown is what makes llms.txt cheap to publish in the first place.
 - [Standards](/docs/standards): Where AAS catalogs the broader file conventions in the agent ecosystem.
 - [llmstxt.org](https://llmstxt.org): The external spec.

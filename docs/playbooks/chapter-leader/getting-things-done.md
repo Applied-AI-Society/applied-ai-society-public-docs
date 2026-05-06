@@ -38,7 +38,7 @@ Most people's work lives are scattered across a dozen tools. Notes in Notion. St
 
 When you consolidate everything into a workspace that an AI agent can read, something changes. The agent stops being a generic chatbot and starts being a collaborator that actually knows your situation.
 
-**This is legacy.** Your workspace becomes the single source of truth for your chapter. Not a random Google Doc that three people have different versions of. Not a Slack thread that gets buried. Markdown files in a structured repo that the agent can read, search, and update.
+Your workspace becomes the single source of truth for your chapter. Not a random Google Doc that three people have different versions of. Not a Slack thread that gets buried. Markdown files in a structured repo that the agent can read, search, and update.
 
 ### What belongs in the workspace
 

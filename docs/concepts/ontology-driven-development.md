@@ -102,7 +102,7 @@ The implication is that the architectural decisions that look enterprise-scale i
 
 At the company level, the ontology-driven methodology shows up as a [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): a single canonical layer that defragments customer data, financial data, operational data, and team knowledge into one model the agents can reason over. Travis Oliphant's framing of the consolidation from "fifteen SaaS products with fifteen logins and fifteen siloed datasets" into one intelligence hub is Ontology-Driven Development for the company-level case.
 
-The architectural commitments are the same as the personal-scale version. One canonical model. Components mapped into it once. Code, queries, and agent prompts that read in the language of the business. The maintenance discipline is [legacy](/docs/concepts/legacy). The economic compound is the [refactorability](/docs/concepts/legacy/make-your-company-refactorable) that comes from a centralized model that survives every component swap underneath it.
+The architectural commitments are the same as the personal-scale version. One canonical model. Components mapped into it once. Code, queries, and agent prompts that read in the language of the business. The maintenance discipline is knowledge management: keeping the model aligned with reality as the operation evolves. The economic compound is the refactorability that comes from a centralized model that survives every component swap underneath it.
 
 ---
 
@@ -114,7 +114,7 @@ The methodology is iterative at every scale. The same five moves, scaled to the 
 2. **Find the canonical objects.** The shared concepts every operator means under different surface words. Person, Project, Engagement, Order, Conversation. The pattern from [Ontology As Substrate](/docs/concepts/ontology-as-substrate) applies here verbatim.
 3. **Lock the schema before you build on it.** Once business logic depends on the ontology, every change is expensive. Take the time to get the canonical fields right before you wire up the first downstream consumer.
 4. **Move integration into the ontology, not the application.** When a component needs to talk to your model, write the translation in the ontology layer. The application code stays in the language of the business.
-5. **Maintain the model as living truth.** The ontology rots the moment your real operation diverges from it. Treat the maintenance as a [first-class operational discipline](/docs/concepts/legacy), not a side project.
+5. **Maintain the model as living truth.** The ontology rots the moment your real operation diverges from it. Treat the maintenance as knowledge management, a first-class operational discipline, not a side project.
 
 The smallest version of this is one person committing to one canonical naming convention for their `people/` files and refusing to drift. The largest version is a multinational platform team rebuilding the company on top of an ontology layer. The methodology is the same.
 
@@ -134,8 +134,6 @@ If you are building any system in 2026 that will be operated in part by AI, the 
 - [Operational Reality](/docs/concepts/operational-reality): The substrate the ontology describes.
 - [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The business-scale application of Ontology-Driven Development.
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The personal-scale application.
-- [Legacy](/docs/concepts/legacy): The maintenance discipline that keeps the ontology aligned with reality.
-- [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable): The downstream organizational benefit of an ontology you can refactor against.
 - [The Chatbot Trap](/docs/concepts/the-chatbot-trap): The mental-model parallel of the architectural problem named here.
 - [Palantir Blog: Ontology-Oriented Software Development](https://blog.palantir.com/ontology-oriented-software-development-68d7353fdb12): The Peter Wilczynski essay this concept builds on.
 - [Domain-Driven Design](https://www.domainlanguage.com/ddd/) (Eric Evans, 2003): The foundational lineage.

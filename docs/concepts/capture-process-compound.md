@@ -88,5 +88,4 @@ You can have this edge. It does not require special talent. It requires a daily 
 - [Harness Engineering](/docs/concepts/harness-engineering): The agentic harness that makes processing fast
 - [Signalmaxxing](/docs/concepts/signalmaxxing): Keeping your knowledge base high-signal
 - [The Life Harness](/docs/concepts/the-life-harness): Your operating system as one component of your full life harness
-- [Legacy](/docs/concepts/legacy): The discipline of keeping your documented truth current
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Building tools that reduce friction in the capture-process loop

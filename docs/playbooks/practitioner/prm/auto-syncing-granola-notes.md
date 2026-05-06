@@ -150,6 +150,5 @@ That system uses Deepgram + pyannoteAI + voiceprint enrollment, costs ~$25 to $3
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): The concept this tutorial feeds.
 - [Capturing Conversations](/docs/tools/capturing-conversations): The full tool-by-tool overview of recording sources.
 - [Priming Your Jarvis](/docs/playbooks/practitioner/priming-your-jarvis): How to use the PRM you build in real prompts before meetings.
-- [Voice Transcriber](/docs/concepts/legacy/voice-transcriber): The deeper concept behind voice as the bottleneck input.
 - [Compounding Docs](/docs/concepts/compounding-docs): Why one folder of plain markdown beats every CRM you have ever used.
 - [Minimum Viable Jarvis](https://github.com/Applied-AI-Society/minimum-viable-jarvis): The template that ships the `sync-granola` skill.

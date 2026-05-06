@@ -78,7 +78,6 @@ Start writing. The flywheel is waiting.
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): The engineering pattern behind compounding docs
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The AI system that reads and acts on your documents
 - [Harness Engineering](/docs/concepts/harness-engineering): How agentic harnesses discover and use your context
-- [Legacy](/docs/concepts/legacy): The discipline of keeping your document library truthful and current
 - [Externalize Your Brain](/docs/concepts/externalize-your-brain): Why the human is the bottleneck and how writing fixes it
 - [Flow-State Infra](/docs/concepts/flow-state-infra): Building tools that reduce friction, including the friction of documenting
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where the flywheel starts

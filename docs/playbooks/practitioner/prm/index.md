@@ -28,4 +28,3 @@ These tutorials grow as the [Minimum Viable Jarvis template](https://github.com/
 - [PRM (Personal Relationship Management)](/docs/concepts/prm): The concept page. Read first if you have not.
 - [Capturing Conversations](/docs/tools/capturing-conversations): The tool-by-tool overview of meeting recorders, voice memos, and call recording.
 - [Priming Your Jarvis](/docs/playbooks/practitioner/priming-your-jarvis): How to use the PRM you build in real prompts.
-- [Voice Transcriber](/docs/concepts/legacy/voice-transcriber): The deeper concept behind voice as the bottleneck input.

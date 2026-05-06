@@ -77,7 +77,7 @@ Applied AI is especially vulnerable to this. The field is new enough that most p
 Social media is almost entirely noise and falsehood. The Applied AI Society's documentation exists as a counterweight: a **reality bank**. A place where what you read is what actually happened, what actually worked, and what actually failed.
 
 That means:
-- **Source-controlled and versioned.** Every change is tracked. You can see what changed, when, and why. No quiet edits. No memory-holing of mistakes. [Legacy](/docs/concepts/legacy) is the discipline that makes this rigorous.
+- **Source-controlled and versioned.** Every change is tracked. You can see what changed, when, and why. No quiet edits. No memory-holing of mistakes.
 - **Written by practitioners, not performers.** The people contributing to these docs are the same people closing deals, building systems, and running events. Their incentive is to get it right, because their reputation and livelihood depend on it.
 - **Updated continuously.** This is not a quarterly publication cycle. When something changes, the docs change. When a practice is falsified, the docs reflect that. The goal is to keep the gap between “what we know” and “what the docs say” as close to zero as possible.
 - **Honest about uncertainty.** Not everything is figured out. The docs say so explicitly. “Nobody has this figured out. Let's share notes” is not a tagline. It is the operating principle.
@@ -93,14 +93,6 @@ A chapter leader in Austin can design a workshop series using the playbooks, tai
 None of these derivative courses need to be maintained centrally. They draw from the source material, which is maintained by the community. When the source material updates, the derivative courses can update too. This is how you scale education without scaling bureaucracy.
 
 The textbook model scales by printing more copies of a static artifact. The field notes model scales by enabling more people to create their own learning experiences from a living foundation.
-
-## The Connection to Legacy
-
-[Legacy](/docs/concepts/legacy) is the discipline that makes field notes trustworthy.
-
-Without legacy, living documentation degrades into a wiki: well-intentioned at first, then gradually filled with outdated, contradictory, and unreliable information. Legacy imposes the rigor that prevents this: version control, explicit ownership, systematic review, and the principle that every file must actively support right action.
-
-Field notes are *what* we produce. Legacy is *how* we keep them honest.
 
 ## Why This Matters for You
 

@@ -47,7 +47,7 @@ These are not hypothetical. These are businesses operating this way right now:
 
 ## The Prerequisite: Refactorability
 
-An enterprise cannot self-improve if it is not [refactorable](/docs/concepts/legacy/make-your-company-refactorable). Refactorability means:
+An enterprise cannot self-improve if it is not refactorable. Refactorability means:
 
 - **Grep-able.** Everything is in plain text formats (markdown, not proprietary databases). An agent can search across your entire operation.
 - **Git-first.** All changes flow through version control. No hidden state in CMS databases. Every change is tracked, reversible, and attributable.
@@ -70,7 +70,6 @@ The next level of programming is not that the output is software. It is enterpri
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): The engineering principles that make self-improvement work (observability, evaluation, bounded experimentation, memory, oversight)
 - [Harness Engineering](/docs/concepts/harness-engineering): Self-improving code as a building block for self-improving enterprises
 - [Anatomy of a Harness](/docs/concepts/anatomy-of-a-harness): How Claude Code's hook system enables the recursive improvement loop described in this article
-- [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable): The architectural prerequisite
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The starting point for the individual
 - [Game Design](/docs/concepts/game-design): Defining the rules your system operates by
 - [Supersuit Up Workshop](/docs/workshops/supersuit-up): Where to start

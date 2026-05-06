@@ -51,7 +51,7 @@ The steward and the whisperer work together continuously. The steward provides d
 
 A mission harness is not a single tool. It is the full stack of systems that keep a mission on track:
 
-**Truth documents.** The mission's principles, values, strategic priorities, and decision frameworks. Written down, version-controlled, accessible to every human and agent on the team. This is [legacy](/docs/concepts/legacy) in practice. If it is not documented, it is not part of the harness.
+**Truth documents.** The mission's principles, values, strategic priorities, and decision frameworks. Written down, version-controlled, accessible to every human and agent on the team. This is knowledge management in practice. If it is not documented, it is not part of the harness.
 
 **Agent instructions.** CLAUDE.md files, skill files, and configuration that encode the mission's values into every AI agent's behavior. When an agent drafts a social post, it should know the brand voice. When it processes a transcript, it should know which projects are relevant. When it proposes an action, it should know the guardrails. These instructions are the mission's DNA translated into agent-readable format.
 
@@ -93,7 +93,7 @@ Every mission needs a harness. Whether you are running a nonprofit, a startup, a
 
 If the answer is no, you are relying on vibes and good intentions. That works at small scale. It does not work when you are trying to change the world.
 
-Start with the [truth documents](/docs/concepts/legacy). Write down what you believe, what you are building, and why it matters. Then build the agent instructions that translate those beliefs into behavior. Then create the feedback loops that tell you whether the mission is actually being served. Then let the [compounding docs](/docs/concepts/compounding-docs) flywheel do its work.
+Start with the truth documents. Write down what you believe, what you are building, and why it matters. Then build the agent instructions that translate those beliefs into behavior. Then create the feedback loops that tell you whether the mission is actually being served. Then let the [compounding docs](/docs/concepts/compounding-docs) flywheel do its work.
 
 The mission is too important to leave to chance. Harness it.
 
@@ -106,6 +106,5 @@ The mission is too important to leave to chance. Harness it.
 - [Intent Engineering](/docs/concepts/intent-engineering): Encoding organizational purpose into infrastructure
 - [Harness Engineering](/docs/concepts/harness-engineering): The technical architecture of agent harnesses
 - [The AGI Whisperer](/docs/concepts/agi-whisperer): The role that translates mission intent into agent systems
-- [Legacy](/docs/concepts/legacy): The discipline of maintaining shared truth
 - [Self-Improving Systems](/docs/concepts/self-improving-systems): How mission harnesses get better over time
 - [The Applied AI Canon](/docs/philosophy/canon): The philosophical foundation

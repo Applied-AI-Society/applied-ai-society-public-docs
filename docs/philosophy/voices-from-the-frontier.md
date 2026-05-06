@@ -56,7 +56,7 @@ Karpathy built an autonomous research loop (“auto research”) that optimizes 
 
 > “Every research organization is described by program MD. You can imagine having a better research organization. One organization can have fewer stand-ups. One can be very risk-taking, one can be less. And so you can definitely imagine that you have multiple research orgs, and they all have code, and once you have code, you can imagine tuning the code.”
 
-This is [legacy](/docs/concepts/legacy) described from the frontier. The organization's behavior, priorities, and culture are encoded in markdown documents that AI agents read and act on. The quality of those documents determines the quality of the output. This is why [making your company refactorable](/docs/concepts/legacy/make-your-company-refactorable) matters: your organization's truth is now executable code.
+This is the frontier picture of organizational truth as code. The organization's behavior, priorities, and culture are encoded in markdown documents that AI agents read and act on. The quality of those documents determines the quality of the output. Your organization's truth is now executable code.
 
 ### Dobby the house elf: a business OS in action
 

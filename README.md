@@ -96,7 +96,6 @@ docs/
 │   ├── business-owner/       # 9 docs: AI implementation for operators
 │   ├── student/              # 2 docs: navigating the AI economy
 │   └── presenter/            # 1 doc: speaker prep
-├── legacy/         # Framework: principles, processes, tools
 ├── sovereign-agentic-business-os/  # AI-native business architecture
 ├── standards/                # INTEGRATE.md spec and writing guide
 ├── brand/                    # Visual identity, AI generation guide

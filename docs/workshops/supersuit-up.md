@@ -45,8 +45,6 @@ Here's the key insight behind everything that follows: **the truth in your head 
 
 Your [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os) is the persistent memory your AI draws on. The Personal Agentic OS is the simplest possible version of that business OS. Not the end state. The starting point.
 
-For the full philosophy behind why documented truth matters, see [Legacy](/docs/concepts/legacy) and [Why It Matters](/docs/concepts/legacy/why-it-matters). This playbook is the practical “how to start” companion to those ideas.
-
 ---
 
 ## Phase 0: Before You Start (Do This the Night Before)
@@ -213,7 +211,7 @@ Two solid options:
 
 **Windows and Linux users:** Superwhisper is macOS only right now, so Wispr Flow is your default on Windows. Linux users can look at open-source alternatives like [whisper.cpp](https://github.com/ggerganov/whisper.cpp) wrappers.
 
-Either works on Mac. You hold a key, you talk, you release, and the text appears wherever your cursor is. It works with every application that has a text input: your terminal, a browser, Slack, email, a Google Doc, anything. Wherever your mouse clicks into a text box, that is where the transcription goes. Wispr Flow also keeps a history of everything you have dictated, so you can go back and copy-paste a previous dictation into a different app if needed. Once you install it and start using it, it works everywhere. Even whispering works, which matters if you are in a co-working space or a meeting. The point is that you can speak naturally and get text. For more on the role of voice transcription in legacy, see [Voice Transcriber](/docs/concepts/legacy/voice-transcriber).
+Either works on Mac. You hold a key, you talk, you release, and the text appears wherever your cursor is. It works with every application that has a text input: your terminal, a browser, Slack, email, a Google Doc, anything. Wherever your mouse clicks into a text box, that is where the transcription goes. Wispr Flow also keeps a history of everything you have dictated, so you can go back and copy-paste a previous dictation into a different app if needed. Once you install it and start using it, it works everywhere. Even whispering works, which matters if you are in a co-working space or a meeting. The point is that you can speak naturally and get text.
 
 ### Step 1B: Choose and Install Your Harness
 
@@ -719,7 +717,7 @@ When you're ready to bring other people in, the business OS scales with access c
 
 - **Each person gets a role-scoped view.** Not everyone needs to see everything. The intern doesn't need board-level strategy docs. The sales lead doesn't need HR records.
 - **AI agents that act on behalf of team members** only have access to documents relevant to their role. This is where the [Sovereign Agentic Business OS principles](/docs/concepts/sovereign-agentic-business-os/principles) around identity and access management become critical.
-- **The vision:** a living “company handbook” (see [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook)) that everyone, human and AI, operates from. Continuously updated. Version-controlled. The single source of truth for how your organization works.
+- **The vision:** a living “company handbook” that everyone, human and AI, operates from. Continuously updated. Version-controlled. The single source of truth for how your organization works.
 
 ---
 
@@ -740,11 +738,7 @@ That's the shift. And it starts with the Supersuit Up workshop.
 ## Further Reading
 
 - [Sovereign Agentic Business OS](/docs/concepts/sovereign-agentic-business-os): The full philosophy behind building your own AI operations hub
-- [Legacy](/docs/concepts/legacy): The framework for documenting and organizing the truth your business OS draws on
 - [Start Your Wiki](/docs/playbooks/practitioner/start-your-wiki): The tutorial for building the personal or organizational wiki that sits at the heart of your Personal Agentic OS
-- [Start Your Company Handbook](/docs/concepts/legacy/start-your-company-handbook): Scaling legacy across an organization
-- [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable): Making your operation grep-able and editable by AI agents
-- [Voice Transcriber](/docs/concepts/legacy/voice-transcriber): Deeper dive on the voice-to-text tools that power the brain dump workflow
 - [The Question Bank](/docs/concepts/sovereign-agentic-business-os/question-bank): High-leverage questions to program into your business OS
 - [Workshop Instructor Playbook](/docs/playbooks/practitioner/workshop-instructor-playbook): If you want to teach others how to set up their Personal Agentic OS
 - [Agentic Harness](/docs/concepts/agentic-harness): What a harness is, the major harnesses in 2026, and why the harness matters more than the model

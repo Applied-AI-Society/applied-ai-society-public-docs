@@ -60,7 +60,7 @@ You do not need to wait for KAIROS to ship. The preparation is the same whether 
 
 1. **Build your context layer.** Set up your [Personal Agentic OS](/docs/concepts/personal-agentic-os). The richer your context, the more useful any future always-on agent will be.
 2. **Write your principles.** An agent making decisions on your behalf at 3am needs to know your decision-making rules. Document them.
-3. **Make your operation [refactorable](/docs/concepts/legacy/make-your-company-refactorable).** Always-on agents need to read and modify your files. If your truth is locked in proprietary tools the agent cannot access, it cannot help you.
+3. **Make your operation refactorable.** Always-on agents need to read and modify your files. If your truth is locked in proprietary tools the agent cannot access, it cannot help you.
 4. **Think in skill files.** Every workflow you document as a skill file is a workflow an always-on agent can eventually run without you.
 
 The post-prompting era is coming. The question is whether your system is ready for it.
@@ -73,5 +73,4 @@ The post-prompting era is coming. The question is whether your system is ready f
 - [Personal Agentic OS](/docs/concepts/personal-agentic-os): The context layer always-on agents will operate on
 - [The Self-Improving Enterprise](/docs/concepts/self-improving-enterprise): What always-on agents enable at the organizational level
 - [Harness Engineering](/docs/concepts/harness-engineering): The code layer that always-on agents run inside
-- [Make Your Company Refactorable](/docs/concepts/legacy/make-your-company-refactorable): The prerequisite for agents that can modify your operation
 - [KAIROS analysis thread](https://x.com/itsolelehmann/status/2039018963611627545): The source code analysis that revealed Anthropic's always-on agent infrastructure

@@ -29,7 +29,7 @@ Culture transformation (helping companies develop an AI-first mindset) is the hi
 | [Pricing Your AI Engagements](/docs/playbooks/practitioner/pricing) | Framework for value-based pricing, retainers, and equity deals |
 | [Finding Clients Through Trust](/docs/playbooks/practitioner/finding-clients) | Why cold outreach fails and how to build a practice through your warm network |
 | [The Pilot Pitch](/docs/playbooks/practitioner/pilot-pitch) | How to propose a 2-4 week pilot that's almost impossible to say no to |
-| [Supersuit Up Workshop](/docs/workshops/supersuit-up) | Setting up your personal AI business OS for legacy and compounding context |
+| [Supersuit Up Workshop](/docs/workshops/supersuit-up) | Setting up your personal AI business OS for compounding context |
 | [Tool Setups](/docs/tools/tool-setups) | Setup tutorials for the harnesses (Claude Code, Codex, Hermes), git, and the workspace bootstrap. Pick a harness, follow the setup, then come back here. |
 | [Export Your AI History](/docs/playbooks/practitioner/export-your-ai-history) | Vendor-confirmed export steps (ChatGPT, Claude, Gemini) + filtered synthesis prompt to bootstrap your `user/USER.md` from years of old conversations |
 | [How To Prompt Your Jarvis](/docs/playbooks/practitioner/how-to-prompt-your-jarvis) | The whole stack of getting what you want out of your Jarvis. The prompt is the smallest lever; the real leverage is the Personal Agentic OS, tools, skill files, per-session priming, and an interrogative CLAUDE.md. |

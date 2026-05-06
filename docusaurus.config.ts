@@ -67,23 +67,6 @@ const config: Config = {
           { from: '/docs/sovereign-agentic-business-os', to: '/docs/concepts/sovereign-agentic-business-os' },
           { from: '/docs/sovereign-agentic-business-os/principles', to: '/docs/concepts/sovereign-agentic-business-os/principles' },
           { from: '/docs/sovereign-agentic-business-os/question-bank', to: '/docs/concepts/sovereign-agentic-business-os/question-bank' },
-          // Legacy moved under /docs/concepts/
-          { from: '/docs/legacy', to: '/docs/concepts/legacy' },
-          { from: '/docs/legacy/why-it-matters', to: '/docs/concepts/legacy/why-it-matters' },
-          { from: '/docs/legacy/getting-started', to: '/docs/concepts/legacy/getting-started' },
-          { from: '/docs/legacy/dont-assume-common-sense', to: '/docs/concepts/legacy/dont-assume-common-sense' },
-          { from: '/docs/legacy/align-before-committing', to: '/docs/concepts/legacy/align-before-committing' },
-          { from: '/docs/legacy/make-every-file-count', to: '/docs/concepts/legacy/make-every-file-count' },
-          { from: '/docs/legacy/make-your-company-refactorable', to: '/docs/concepts/legacy/make-your-company-refactorable' },
-          { from: '/docs/legacy/empower-your-knowledge-worker', to: '/docs/concepts/legacy/empower-your-knowledge-worker' },
-          { from: '/docs/legacy/protect-your-truth', to: '/docs/concepts/legacy/protect-your-truth' },
-          { from: '/docs/legacy/start-your-company-bible', to: '/docs/concepts/legacy/start-your-company-handbook' },
-          { from: '/docs/legacy/start-your-company-handbook', to: '/docs/concepts/legacy/start-your-company-handbook' },
-          { from: '/docs/legacy/migrate-to-refactorable-systems', to: '/docs/concepts/legacy/migrate-to-refactorable-systems' },
-          { from: '/docs/legacy/truth-as-context', to: '/docs/concepts/legacy/truth-as-context' },
-          { from: '/docs/legacy/maintain-coherence', to: '/docs/concepts/legacy/maintain-coherence' },
-          { from: '/docs/legacy/source-controller', to: '/docs/concepts/legacy/source-controller' },
-          { from: '/docs/legacy/voice-transcriber', to: '/docs/concepts/legacy/voice-transcriber' },
           // Renamed from "Being Someone's Guy" to "Being Someone's Go-To Person" (more inclusive language)
           { from: '/docs/concepts/being-someones-guy', to: '/docs/concepts/being-someones-go-to-person' },
           // Renamed section: applied-ai-literacy folder became applied-ai-practice (umbrella = practice, literacy = narrow white-belt rung)

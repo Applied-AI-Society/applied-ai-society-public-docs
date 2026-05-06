@@ -79,7 +79,7 @@ The practical moves:
 
 **Demo the loop, not the model.** The unlock is not "look how smart this model is." The unlock is "look at the loop where you talk and a real artifact appears in your life." The first one is a parlor trick. The second one rewires what they believe they can do tomorrow.
 
-**Use voice as the on-ramp.** Most people type slowly and self-edit while they type. They speak fluidly. The first time they speak into a [voice transcriber](/docs/concepts/legacy/voice-transcriber) and watch a finished artifact appear in their workspace, the trap cracks. Voice is the shortest path from inside the trap to outside it.
+**Use voice as the on-ramp.** Most people type slowly and self-edit while they type. They speak fluidly. The first time they speak into a voice transcriber and watch a finished artifact appear in their workspace, the trap cracks. Voice is the shortest path from inside the trap to outside it.
 
 **Aim for one moment, not a tour.** A tour of features keeps the person in observer mode. A single moment where their own life moves forward by their own request, in their own voice, puts them in operator mode. The shift from observer to operator is the entire point.
 
@@ -105,4 +105,3 @@ This is why we keep saying [activation](/docs/concepts/activation) is the work. 
 - [Lossy AI Telephone](/docs/concepts/lossy-ai-telephone): Why most people's working summary of "what AI can do" is many degraded copies away from the source.
 - [The Tool Is Only As Powerful As The Beholder](/docs/concepts/the-tool-is-only-as-powerful-as-the-beholder): The capability ceiling is set by the operator's literacy, not by the model.
 - [Either We Jarvis The World, Or AI Is Doomed](/docs/philosophy/jarvis-the-world-or-ai-is-doomed): The civilizational stakes of the trap remaining un-broken at scale.
-- [Voice Transcriber](/docs/concepts/legacy/voice-transcriber): The shortest on-ramp out of the trap.
