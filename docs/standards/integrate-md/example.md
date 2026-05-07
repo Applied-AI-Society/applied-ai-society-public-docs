@@ -5,6 +5,8 @@ title: Example - CESP
 
 # Annotated Example: CESP INTEGRATE.md
 
+*This example covers **Flavor A** (Library Into Codebase). For **Flavor B** (Service Into Personal Agentic OS), see [example-jarvis-recipe](./example-jarvis-recipe).*
+
 The [OpenPeon project](https://openpeon.com) publishes an INTEGRATE.md that teaches AI agents how to add sound pack support to any CLI. It's the reference implementation that informed the INTEGRATE.md spec.
 
 You can see the live version at [openpeon.com/integrate](https://openpeon.com/integrate).
