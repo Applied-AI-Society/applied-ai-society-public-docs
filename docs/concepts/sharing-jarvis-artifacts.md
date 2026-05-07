@@ -62,15 +62,9 @@ Five seconds of permission-checking saves the email exchange where the person sa
 
 If you are deeper into the [applied AI discipline](/docs/concepts/applied-ai-practice) and want your Jarvis to publish artifacts directly without leaving the terminal, there is a more advanced path. A growing ecosystem of CLIs and MCP servers lets your harness create, update, and share documents on Google or Notion programmatically.
 
-Some currently popular options as of 2026:
+For an opinionated, dated, runnable bank of recipes (one folder per service, with a drop-in `SKILL.md` and setup notes), see [**curated-jarvis-integrations**](https://github.com/garysheng/curated-jarvis-integrations). It is MIT-licensed and forkable; each integration carries a "Last Verified" date so you know when the underlying CLI or MCP last worked end-to-end.
 
-- **Google Workspace CLI** (`googleworkspace/cli`): Google's official command-line tool for Drive, Docs, Sheets, and more. Lets your agent create properly-formatted Google Docs from markdown without the "raw asterisks and hashtags" problem that plagues naive uploads.
-- **`gog` CLI**: a lightweight community wrapper around the Google Docs API that handles OAuth via macOS Keychain. Often used as the backbone of personal Jarvis skills that publish to Google Docs.
-- **Notion's official hosted MCP** (`mcp.notion.com/mcp`): Notion's actively maintained MCP server. Connects in a single command from Claude Code or other MCP-aware agents and lets your Jarvis push and pull Notion content directly.
-- **`makenotion/notion-mcp-server`**: Notion's open-source MCP server, installable as a Claude Code plugin.
-- **Markdown-to-Notion CLIs** like `md2notion` and `Mk Notes`: focused tools for syncing local markdown trees to Notion.
-
-These are not required. Most practitioners ship plenty of artifacts using the manual copy-paste method. The advanced path is for people whose workflow has enough volume that automating the publish step earns its keep.
+The advanced path is not required. Most practitioners ship plenty of artifacts using the manual copy-paste method. Automate the publish step once your workflow has enough volume that the automation earns its keep.
 
 ## Movement Two: Get The Feedback Back In
 
