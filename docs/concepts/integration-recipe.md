@@ -15,7 +15,7 @@ An integration recipe is a unit of "wire your Jarvis up to do X." Where `X` is s
 
 It is a folder, not a tutorial. The folder contains:
 
-- **`integrate.md`**: the narrative recipe. Setup steps, prerequisites, gotchas, alternatives, a "Last Verified" date.
+- **`INTEGRATE.md`**: the narrative recipe. Setup steps, prerequisites, gotchas, alternatives, a "Last Verified" date.
 - **`SKILL.md`**: the drop-in skill file your [Personal Agentic OS](/docs/concepts/personal-agentic-os) reads to know what trigger phrases activate this capability and what flags to pass.
 - **`scripts/`** (when needed): auth helpers, API wrappers, anything the recipe ships as code.
 - **`package.json`** (when scripts ship): the manifest for the JS/Node code.
@@ -45,7 +45,7 @@ Examples:
 
 A single service like Google often gets several recipes (Docs, Sheets, Calendar, Gmail), each its own folder. A recipe named after the service alone (`google-docs/`) is a smell: the moment you want a second action with the same service, the name no longer fits.
 
-## What's Inside `integrate.md`
+## What's Inside `INTEGRATE.md`
 
 The narrative recipe is opinionated about what an operator needs to ship. Required sections:
 

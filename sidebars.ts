@@ -437,6 +437,7 @@ const sidebars: SidebarsConfig = {
           items: [
             'standards/integrate-md/writing-guide',
             'standards/integrate-md/example',
+            'standards/integrate-md/example-jarvis-recipe',
           ],
         },
         {
