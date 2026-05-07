@@ -8080,6 +8080,119 @@ This is [context engineering](/docs/concepts/context-engineering) at its most pr
 
 
 ---
+# Integration Recipe
+URL: https://docs.appliedaisociety.org/docs/concepts/integration-recipe
+
+
+# Integration Recipe
+
+*A self-contained folder that wires your Jarvis up to take one specific action with one specific service. Markdown narrative plus a drop-in SKILL.md plus any helper scripts. One folder, one action, runnable.*
+
+---
+
+## What An Integration Recipe Is
+
+An integration recipe is a unit of "wire your Jarvis up to do X." Where `X` is something concrete: create a Google Doc, send a Slack message, append a row to a spreadsheet, post to Notion, create a calendar event.
+
+It is a folder, not a tutorial. The folder contains:
+
+- **`INTEGRATE.md`**: the narrative recipe. Setup steps, prerequisites, gotchas, alternatives, a "Last Verified" date.
+- **`SKILL.md`**: the drop-in skill file your [Personal Agentic OS](/docs/concepts/personal-agentic-os) reads to know what trigger phrases activate this capability and what flags to pass.
+- **`scripts/`** (when needed): auth helpers, API wrappers, anything the recipe ships as code.
+- **`package.json`** (when scripts ship): the manifest for the JS/Node code.
+
+Drop the folder into your skill directory, run the setup commands, and your Jarvis can now do that one thing in the world.
+
+## Why The Recipe Format
+
+Most "how to integrate X with AI" content lives as a blog post or a README. Two problems with that shape:
+
+1. **Not runnable.** A blog post tells you what to do. A recipe folder is the thing you do. You install it.
+2. **Goes stale invisibly.** A blog post from 2024 looks the same as a blog post from yesterday. A recipe carries a "Last Verified" date and a steward, so you know whether to trust it before you start.
+
+The recipe shape solves both. It is self-contained, dated, and forkable. It travels.
+
+## One Recipe, One Action
+
+The discipline: one recipe wires up one specific action. The folder name describes the action in [verb-action shape](/docs/concepts/skill-file-first-app-second), kebab-case, matching the SKILL.md `name:` field exactly.
+
+Examples:
+
+- `create-or-update-google-doc/`
+- `send-slack-message/`
+- `create-google-calendar-event/`
+- `append-row-to-google-sheet/`
+- `compose-and-send-email/`
+
+A single service like Google often gets several recipes (Docs, Sheets, Calendar, Gmail), each its own folder. A recipe named after the service alone (`google-docs/`) is a smell: the moment you want a second action with the same service, the name no longer fits.
+
+## What's Inside `INTEGRATE.md`
+
+The narrative recipe is opinionated about what an operator needs to ship. Required sections:
+
+1. **What This Gives You**: the capabilities your Jarvis gains.
+2. **Why This Recipe**: the chosen path and the tradeoff vs alternatives.
+3. **Prerequisites**: accounts, runtimes, CLIs you must have first.
+4. **Setup**: numbered, concrete shell commands.
+5. **Usage From Your Jarvis**: what trigger phrases work.
+6. **Common Gotchas**: real failure modes with concrete fixes.
+7. **Last Verified**: date, OS, runtime, CLI versions tested with.
+8. **Alternatives**: at least one other path so the reader can pick what fits them.
+9. **Maintainer**: who stewards this recipe.
+
+Skip the marketing copy. The recipe is for an operator who already knows they want to do the thing; it is not a sales pitch for the service.
+
+## How It Differs From Adjacent Formats
+
+| Format | Audience | Purpose |
+|--------|----------|---------|
+| **Integration recipe** (this concept) | Personal Jarvis operator | Wire up a specific action with a specific service |
+| [SKILL.md](/docs/concepts/skill-file-first-app-second) (alone) | Your agent | Tell the agent how to perform a capability |
+| [INTEGRATE.md](/docs/standards/integrate-md) (open spec) | A coding agent integrating a library into a target codebase | Teach the agent how to wire that library into an unknown project |
+| Blog post / tutorial | Humans reading | Explain a concept; not runnable |
+| README | Anyone landing on the repo | Orient them; not the install path |
+
+The closest neighbor is `SKILL.md`. The recipe differs because it bundles the SKILL.md with the surrounding setup and scripts: a recipe is a SKILL.md plus everything you need to make the SKILL.md work end to end on a fresh machine.
+
+## Where Recipes Live
+
+A recipe can live anywhere markdown lives, but the discipline is to publish recipes you trust into a public bank so other practitioners can fork them. The reference implementation: [garysheng/curated-jarvis-integrations](https://github.com/garysheng/curated-jarvis-integrations), an MIT-licensed bank with one folder per recipe.
+
+Practitioners then either:
+
+- **Fork the whole bank** for ongoing updates, or
+- **Copy a single recipe folder** into their personal skill directory (e.g. `~/.claude/skills/`) for a one-shot install.
+
+The bank pattern matches [forkable-is-the-new-sticky](/docs/concepts/forkable-is-the-new-sticky): the recipes get more useful as more people fork them and contribute back, while the underlying mechanism (folder of files) stays trivially understandable.
+
+## When To Reach For A Recipe
+
+- You want your Jarvis to take a specific action in a specific service and the [universal copy-paste path](/docs/concepts/sharing-jarvis-artifacts) is no longer fast enough.
+- You publish artifacts at enough volume that automating the publish step earns its keep.
+- You want a teammate's Jarvis to do the same thing yours does, and you need to hand them a runnable artifact rather than a writeup.
+
+## When NOT To Reach For A Recipe
+
+- You are doing the thing once. Manual is fine.
+- The action is narrow enough that a fresh SKILL.md without surrounding setup covers it.
+- You are still figuring out what you want; ad-hoc shell commands are cheaper to iterate on than a packaged recipe.
+
+## The Practitioner's Move
+
+When you find yourself doing the same wiring twice, write the recipe. When you find an existing recipe in a public bank that fits, fork it instead of writing your own. When you ship one, date it, name a maintainer, and list at least one alternative path. That is the contract. That is what makes recipes compound across the network of [activated practitioners](/docs/philosophy/jarvis-the-world-or-ai-is-doomed) instead of getting stale on individual machines.
+
+---
+
+## Further Reading
+
+- [Sharing Jarvis Artifacts](/docs/concepts/sharing-jarvis-artifacts): The downstream practice that often motivates writing a recipe.
+- [Skill File First, App Second](/docs/concepts/skill-file-first-app-second): Why SKILL.md is the unit a recipe wraps.
+- [Forkable Is The New Sticky](/docs/concepts/forkable-is-the-new-sticky): Why bundling recipes for forking matters.
+- [INTEGRATE.md spec](/docs/standards/integrate-md): The adjacent open standard for library authors teaching agents to wire their library into a target codebase. Different audience and shape; worth reading once to keep them straight.
+- [Capture, Process, Compound](/docs/concepts/capture-process-compound): The general loop recipes accelerate.
+
+
+---
 # Intent Engineering
 URL: https://docs.appliedaisociety.org/docs/concepts/intent-engineering
 
@@ -11812,6 +11925,123 @@ If you are helping clients build AI systems, self-improvement is not a feature y
 - [Instruction Files](/docs/concepts/instruction-files): The configurable layer where self-improvement happens
 - [MetaHarness Paper](https://arxiv.org/abs/2603.28052) (Stanford, MIT, Krafton, March 2026): Harnesses that improve themselves
 - [The AI Scientist](https://arxiv.org/abs/2408.06292) (Sakana AI, August 2024): Automated scientific research as a self-improving system
+
+
+---
+# Sharing Jarvis Artifacts
+URL: https://docs.appliedaisociety.org/docs/concepts/sharing-jarvis-artifacts
+
+
+# Sharing Jarvis Artifacts
+
+*Your Jarvis produces markdown by default. Getting that artifact in front of other humans, and pulling their feedback back into the system, is its own discipline.*
+
+---
+
+## The Question
+
+A practitioner finishes a session with their Jarvis and ends up with something good: a strategy memo, a proposal, a brief, a piece of writing. The artifact lives as a markdown file on their machine. Now they want to share it with someone, get feedback, or distribute it as a polished document.
+
+How do you turn that markdown file into a Google Doc, a Notion page, or a PDF without losing the thread?
+
+The answer is two movements: get the artifact OUT to a shareable surface, and get the feedback BACK IN to the source of truth.
+
+## Movement One: Get The Artifact Out
+
+The default artifact is a markdown file. Markdown is the lingua franca of [agentic harnesses](/docs/concepts/harness-engineering): plain text, version-controllable, easy for any agent to read and edit. But markdown is not a sharing format. To share, pick the surface that fits the goal.
+
+### Three Common Destinations
+
+**Google Docs** is the best surface for collaborative feedback. Comments, suggested edits, real-time collaboration. If you want a person to mark up your doc and tell you what they think, this is the default.
+
+**Notion** is good for raw markdown content, internal team workspaces, and wikis. Notion's clipboard handling preserves headings, lists, and code blocks reasonably well. If you are building up a body of internal knowledge that lives alongside other team docs, Notion is the natural home.
+
+**PDF** is for archival, attachments, and print-quality distribution. You usually do not export to PDF from raw markdown; you export from Google Docs (File → Download → PDF) or Notion (Export → PDF) once the formatting is clean.
+
+### The Universal Manual Method
+
+The lowest-friction way to get markdown into any surface, no tools required:
+
+1. Open the markdown file in your editor or file viewer.
+2. Select all (Cmd+A on Mac, Ctrl+A on Windows).
+3. Copy (Cmd+C or Ctrl+C).
+4. Open a new Google Doc or Notion page.
+5. Paste.
+
+Both Google Docs and Notion render pasted markdown reasonably well, though formatting can drift on edge cases (nested lists, complex tables, code fences). Spot-check the output and clean up anything that did not transfer.
+
+### Native Upload Paths
+
+For longer documents, the native import paths are usually cleaner than the clipboard:
+
+- **Google Docs**: File → Upload accepts `.md` files. Quality varies; the upload sometimes preserves formatting and sometimes flattens it to plain text.
+- **Notion**: Import → Markdown handles `.md` files well. Headings, lists, and code blocks usually survive the import intact.
+
+### Share Permissions Are Load-Bearing
+
+The biggest mistake people make: they share a doc and the recipient cannot open it.
+
+- If you want feedback, the recipient needs at least **comment access**.
+- If you want distribution, set link sharing to **anyone with the link can view**.
+- If you are sharing inside an org, double-check the org's default sharing rules.
+
+Five seconds of permission-checking saves the email exchange where the person says "I cannot open this."
+
+### Advanced: Terminal-Native Paths
+
+If you are deeper into the [applied AI discipline](/docs/concepts/applied-ai-practice) and want your Jarvis to publish artifacts directly without leaving the terminal, there is a more advanced path. A growing ecosystem of CLIs and MCP servers lets your harness create, update, and share documents on Google or Notion programmatically.
+
+For an opinionated, dated, runnable bank of recipes (one folder per service, with a drop-in `SKILL.md` and setup notes), see [**curated-jarvis-integrations**](https://github.com/garysheng/curated-jarvis-integrations). It is MIT-licensed and forkable; each integration carries a "Last Verified" date so you know when the underlying CLI or MCP last worked end-to-end.
+
+The advanced path is not required. Most practitioners ship plenty of artifacts using the manual copy-paste method. Automate the publish step once your workflow has enough volume that the automation earns its keep.
+
+## Movement Two: Get The Feedback Back In
+
+Sharing the artifact is half the loop. The other half is closing the loop: every piece of feedback should update the source artifact, not just live in a comment thread on a doc nobody opens again.
+
+This is the part that separates practitioners who [compound](/docs/concepts/compounding-docs) from those who do not. Most people lose feedback because they never bring it home.
+
+### The Round-Trip Workflow
+
+When someone gives you feedback on the shared doc, you have several capture surfaces, all of which feed your Jarvis:
+
+- **A call**: record the conversation, transcribe it, hand the transcript to your harness with the context "this is feedback on the X artifact, integrate the relevant changes."
+- **A voice note**: same as a call. Transcribe, feed in.
+- **Inline comments and suggested edits in Google Docs or Notion**: take screenshots of each comment in context. Drag the screenshots into your harness chat alongside the artifact. Ask your agent to apply the feedback.
+- **Text feedback (Slack, email, DMs)**: paste it into your harness with the relevant artifact path.
+
+The pattern in every case is the same: the feedback ends up in your harness, with enough context for the agent to know which artifact it applies to, and the agent updates the artifact at the source.
+
+### Why The Round-Trip Matters
+
+If feedback only lives in a Google Doc comment, it is going to evaporate. The comment will get resolved, the doc will get archived, and three months from now the only version of the artifact your agent can see is the one before the feedback ever arrived.
+
+The discipline is: **the source-of-truth artifact in your [Personal Agentic OS](/docs/concepts/personal-agentic-os) reflects every piece of feedback you have ever taken seriously.** That is what makes the artifact get sharper over time. That is what makes your agent's understanding of the topic deeper every cycle.
+
+A polished Google Doc is a snapshot. The markdown file in your harness is the living artifact. Keep them in sync, and the snapshot will always be ahead of where you started.
+
+## The Practitioner's Move
+
+The full loop, every time:
+
+1. **Produce** the artifact in your harness as markdown.
+2. **Publish** to the surface that fits the goal: Google Doc for feedback, Notion for team context, PDF for distribution.
+3. **Set permissions** so the recipient can actually do what you need them to do.
+4. **Collect feedback** in whatever form it arrives.
+5. **Integrate** the feedback into the source artifact in your harness.
+6. **Repeat** as the artifact gets sharper.
+
+The artifact in your harness is the canonical version. Everything outside is a derivative meant for a specific human at a specific moment. When you internalize that, sharing stops being a stressful one-shot and becomes a casual loop you run as often as the work demands.
+
+---
+
+## Further Reading
+
+- [Capture, Process, Compound](/docs/concepts/capture-process-compound): The general loop that this is a special case of
+- [Compounding Docs](/docs/concepts/compounding-docs): Why every artifact should accumulate value over time
+- [Harness Engineering](/docs/concepts/harness-engineering): The harness that produces and updates the artifacts
+- [Externalize Your Brain](/docs/concepts/externalize-your-brain): The deeper habit underneath this practice
+- [Signalmaxxing](/docs/concepts/signalmaxxing): Keeping your knowledge base high-signal as artifacts pile up
 
 
 ---
@@ -31577,11 +31807,196 @@ INTEGRATE.md is technical (how to wire things in). ALIGN.md is relational (wheth
 
 
 ---
+# Example: create-or-update-google-doc (Flavor B)
+URL: https://docs.appliedaisociety.org/docs/standards/integrate-md/example-jarvis-recipe
+
+
+# Annotated Example: create-or-update-google-doc
+
+The [garysheng/curated-jarvis-integrations](https://github.com/garysheng/curated-jarvis-integrations) bank ships an [integration recipe](/docs/concepts/integration-recipe) at `integrations/create-or-update-google-doc/` for wiring any personal AI agent up to publish Google Docs from markdown. Its `INTEGRATE.md` is the reference INTEGRATE.md for **Flavor B: Service Into Personal Agentic OS**.
+
+You can read the live recipe at [github.com/garysheng/curated-jarvis-integrations/tree/main/integrations/create-or-update-google-doc](https://github.com/garysheng/curated-jarvis-integrations/tree/main/integrations/create-or-update-google-doc).
+
+This page walks through what makes it effective, section by section.
+
+## The Title
+
+```markdown
+# create-or-update-google-doc
+```
+
+Names exactly what the agent is being given the ability to do. Verb-action shape, kebab-case. Matches the folder name and the SKILL.md `name:` field exactly. Skip the marketing version ("Google Docs Integration") in favor of the operational verb.
+
+## The Opening Paragraph
+
+```markdown
+Wire your Jarvis up to Google Docs so it can create, update, and
+share documents from markdown without leaving the terminal.
+```
+
+One sentence. Names the surface (Google Docs), the capability (create / update / share from markdown), and the constraint (without leaving the terminal). The agent now knows the goal before reading any setup details.
+
+## What This Gives You (Shared Spine: "What You're Building")
+
+```markdown
+- Your Jarvis can create a new Google Doc from a markdown file in your harness
+- Your Jarvis can update an existing Google Doc with new content
+- Your Jarvis can set sharing permissions ("anyone with link", folder-scoped, or private)
+- Markdown formatting (headings, bold, italic, lists, code, tables, links, images) survives the trip
+```
+
+The shared spine's "What You're Building" section is conventionally renamed **"What This Gives You"** in Flavor B. The shape is identical: a short list of capabilities the operator's harness will gain after install. The framing matches the Flavor B audience (an operator extending their own Jarvis) instead of the Flavor A audience (a coding agent integrating a library into a codebase).
+
+## Why This Recipe
+
+```markdown
+Pasting markdown into a Google Doc usually gives you raw asterisks
+and hashtags, not formatted text. The native File → Upload path is
+hit-or-miss. This recipe uses the Google Docs API directly via OAuth,
+so the formatting comes through cleanly and the doc is created with
+proper headings, lists, and styling.
+
+The OAuth dance is handled by the gog CLI, which you authenticate
+once and forget about. Tokens live in macOS Keychain.
+```
+
+Two paragraphs that name the failure mode of naive approaches and explain the recipe's chosen path. Honest about the tradeoff: this is the right path because the alternatives have specific problems. The "Why" exists so an operator skimming three competing recipes can pick the one that matches their needs without running all three.
+
+## Prerequisites (Flavor B Required)
+
+```markdown
+- macOS (the gog CLI's OAuth flow uses Keychain; Linux works with minor adjustments)
+- Node.js 18 or newer
+- A Google account
+- The gog CLI installed
+```
+
+The accounts, runtimes, and CLIs the agent's machine needs before setup can begin. This section is what distinguishes Flavor B from Flavor A: a Flavor A agent is already inside the target codebase and can scan it. A Flavor B agent is wiring an external service into the operator's machine, so the recipe has to declare what that machine needs first.
+
+## Setup (Flavor B Required)
+
+```markdown
+### 1. Install gog
+
+\`\`\`bash
+brew install saucelabs/tap/gog
+\`\`\`
+
+### 2. Authorize the docs service
+
+\`\`\`bash
+gog auth add you@example.com --services docs
+\`\`\`
+
+### 3. Drop this folder into your Jarvis
+
+\`\`\`bash
+cp -r integrations/create-or-update-google-doc ~/.claude/skills/create-or-update-google-doc
+\`\`\`
+
+### 4. Set your email environment variable
+
+\`\`\`bash
+export GOG_EMAIL=you@example.com
+\`\`\`
+
+### 5. Verify
+
+\`\`\`bash
+node integrations/create-or-update-google-doc/scripts/auth.mjs
+\`\`\`
+
+If you see an access token printed, you are wired up.
+```
+
+Numbered, concrete, copy-pasteable. Notice the placeholder discipline: every personal-info slot uses `you@example.com` instead of a real email. The verify step is the shared-spine "Verification" requirement: a concrete command and a concrete success criterion ("you see an access token printed").
+
+## Usage From Your Jarvis (Flavor B Required)
+
+```markdown
+Once your Jarvis can see this skill (via SKILL.md), trigger phrases like:
+
+- "create a google doc with these contents"
+- "update the google doc"
+- "make a google doc titled X"
+
+…will produce a properly-formatted Google Doc and return the URL.
+See [SKILL.md](./SKILL.md) for the full flag reference.
+```
+
+The trigger phrases couple the recipe to the SKILL.md it ships alongside. A Flavor B integration is always a pair: `INTEGRATE.md` (this file, agent-readable narrative + setup) plus `SKILL.md` (drop-in skill definition the agent's harness reads to route trigger phrases). Neither file is complete without the other.
+
+## Common Gotchas (Flavor B Required)
+
+```markdown
+- Token cache stale: If you see auth errors, delete scripts/.token-cache.json and try again.
+- gog credentials missing: If ~/Library/Application Support/gogcli/credentials.json doesn't exist, run gog auth add again.
+- Wrong email in keyring: Make sure GOG_EMAIL matches exactly the email you authorized.
+- Permissions on the new doc: New docs are private by default. Pass --share anyone or use --folder <id>.
+- Updating instead of creating: Always pass --update <doc-id> when updating an existing doc.
+```
+
+Real failure modes from running the recipe end-to-end. Each entry names the symptom and the fix. The agent that hits any of these errors at install time can read this section and self-recover instead of escalating to the operator.
+
+## Last Verified (Flavor B Required)
+
+```markdown
+2026-05-06 on macOS, Node 22, gog CLI 0.5.x.
+```
+
+The most important Flavor B addition. Service-into-Jarvis recipes wrap external CLIs and MCPs that ship and break independently. The date and version pinning let any future operator (and any future agent reading this recipe) see at a glance whether the recipe is current.
+
+The standard for staleness: an INTEGRATE.md older than 6 months should be treated as potentially stale. Any operator updating the recipe must bump this date.
+
+## Alternatives (Flavor B Required)
+
+```markdown
+- Google Workspace CLI (googleworkspace/cli): Google's own command-line tool. Heavier (covers Drive, Sheets, Calendar, Gmail, etc.) but the official path. Worth using if you want one CLI for the whole Workspace surface.
+- Native Google Docs upload: File → Upload accepts .md files. Quick for one-shot use but formatting is hit-or-miss.
+- Copy-paste from your editor: Cmd+A, Cmd+C, paste into a new Google Doc. Lowest friction; works for short artifacts.
+```
+
+At least one alternative path. Flavor B recipes wrap external tooling that has competitors; an honest recipe lists the closest competitors with their tradeoffs so the operator can pick whichever fits their volume and risk tolerance.
+
+This is also a hedge against the underlying primary path going stale. If `gog` ever ships a breaking change or stops being maintained, the alternatives section names the next path the operator can adopt without rewriting the recipe.
+
+## Maintainer (Flavor B Required)
+
+```markdown
+Stewarded by [@garysheng](https://github.com/garysheng). Open an
+issue or PR if anything in this recipe breaks.
+```
+
+The named human who keeps the recipe current. Flavor B recipes live in public banks where many recipes share a repo. The maintainer field tells the operator picking up the recipe who to ping when the underlying tooling shifts.
+
+## What This Example Demonstrates
+
+The pattern that makes the recipe work end to end:
+
+1. **Verb-action title** matching the folder name and SKILL.md `name:` field.
+2. **One paragraph** orienting the agent to what the wiring delivers.
+3. **Prereqs declared upfront** so the agent does not start setup with a missing dependency.
+4. **Numbered setup steps** with placeholder discipline (no real emails, tokens, or paths).
+5. **Verify command** with a concrete success criterion.
+6. **Common gotchas** sourced from real install runs, not imagined.
+7. **Dated** so future readers know whether to trust it.
+8. **Alternatives + maintainer** so the recipe survives churn in the underlying tools.
+
+Copy this shape for any Flavor B recipe. The names of the sections are not load-bearing; the spine and the discipline are.
+
+---
+
+*This file documents Flavor B of the [INTEGRATE.md standard](/docs/standards/integrate-md). For the original Flavor A example (library into codebase), see the [CESP example](./example).*
+
+
+---
 # Example - CESP
 URL: https://docs.appliedaisociety.org/docs/standards/integrate-md/example
 
 
 # Annotated Example: CESP INTEGRATE.md
+
+*This example covers **Flavor A** (Library Into Codebase). For **Flavor B** (Service Into Personal Agentic OS), see [example-jarvis-recipe](./example-jarvis-recipe).*
 
 The [OpenPeon project](https://openpeon.com) publishes an INTEGRATE.md that teaches AI agents how to add sound pack support to any CLI. It's the reference implementation that informed the INTEGRATE.md spec.
 
@@ -31730,13 +32145,20 @@ Everything in the file serves one purpose: getting the agent from “codebase wi
 
 
 ---
-# INTEGRATE.md Spec (v0.1)
+# INTEGRATE.md Spec (v0.2)
 URL: https://docs.appliedaisociety.org/docs/standards/integrate-md
 
 
-# INTEGRATE.md Specification v0.1
+# INTEGRATE.md Specification v0.2
 
-INTEGRATE.md is a file format for teaching AI coding agents how to wire a library's capabilities into an existing codebase. The agent reads the file, scans the target project, and executes the integration steps autonomously.
+INTEGRATE.md is a file format for teaching AI agents how to wire one system into another. The agent reads the file and executes the integration steps autonomously.
+
+The format works in two flavors that share the same spine:
+
+- **Flavor A: Library Into Codebase.** A library author publishes an INTEGRATE.md so a coding agent in any target codebase can wire the library in. (The original v0.1 use case. Reference: [CESP example](./example).)
+- **Flavor B: Service Into Personal Agentic OS.** An [integration recipe](https://docs.appliedaisociety.org/docs/concepts/integration-recipe) maintainer publishes an INTEGRATE.md so a personal AI agent can install the recipe and start taking that action with that service. (Reference: [create-or-update-google-doc example](./example-jarvis-recipe).)
+
+Both flavors are runnable, dated, and forkable. Both target an agent rather than a human reader. The spine is the same; the flavor-specific sections differ.
 
 ## How It Differs from Other Agent Files
 
@@ -31747,55 +32169,103 @@ INTEGRATE.md is a file format for teaching AI coding agents how to wire a librar
 | [llms.txt](https://llmstxt.org) | What this project is and does | Agent learning about the project | [llmstxt.org](https://llmstxt.org) |
 | [install.md](https://github.com/nicholascelesworthy/install.md) | How to install this tool | Agent setting up dependencies | [Nicholas Celesworthy](https://github.com/nicholascelesworthy) |
 | [SKILL.md](https://github.com/anthropics/claude-code/blob/main/docs/skills.md) | How to perform a capability | Agent executing a task | [Anthropic](https://anthropic.com) |
-| **[INTEGRATE.md](https://docs.appliedaisociety.org/standards/integrate-md)** | **How to wire this library into a codebase** | **Agent integrating a library into an unknown project** | **[Applied AI Society](https://appliedaisociety.org)** |
+| **[INTEGRATE.md](https://docs.appliedaisociety.org/docs/standards/integrate-md)** | **How to wire one system into another** | **Agent performing the integration** | **[Applied AI Society](https://appliedaisociety.org)** |
 
-The key difference: INTEGRATE.md assumes the agent is working in a codebase it already understands, and needs to add capabilities from an external library. The agent knows the target. It needs to learn the source.
+The key difference: INTEGRATE.md assumes the agent is going to take action, not just learn or behave. It is the connective tissue between two named systems.
 
 ## Required Metadata
 
-Every INTEGRATE.md must start with a `last_updated` date. This is how agents know whether the integration instructions are current. Libraries change. APIs break. An INTEGRATE.md without a date is untrustworthy. An INTEGRATE.md older than 6 months should be treated as potentially stale.
+Every INTEGRATE.md must start with a `last_updated` date. This is how agents know whether the integration instructions are current. Tooling changes. APIs break. CLIs ship. An INTEGRATE.md without a date is untrustworthy. An INTEGRATE.md older than 6 months should be treated as potentially stale.
 
 ```markdown
-<!-- last_updated: 2026-04-05 -->
+<!-- last_updated: 2026-05-06 -->
 ```
 
 Place this as the first line of the file, before any content. Use ISO 8601 format (YYYY-MM-DD). Update it every time you change the integration steps.
 
-## Required Sections
+## Required Sections: Shared Spine
 
-Every INTEGRATE.md must include these sections, in this order.
+Every INTEGRATE.md, regardless of flavor, must include these three sections.
 
 ### 1. H1 Title
 
-Name the library and what's being wired up. Be specific about the outcome.
+Name what's being wired up. Be specific about the outcome.
+
+**Flavor A example:**
 
 ```markdown
 # Add CESP Sound Pack Support to This CLI
 ```
 
-Not “CESP Integration Guide.” Not “Getting Started with CESP.” State what the agent is building.
+**Flavor B example:**
+
+```markdown
+# create-or-update-google-doc
+```
+
+State what the agent is building or what capability it is gaining. Skip generic titles like "Integration Guide" or "Getting Started."
 
 ### 2. What You're Building
 
-One paragraph describing the end state. What will the codebase do after integration that it doesn't do now? This orients the agent before it reads any implementation details.
+One paragraph describing the end state. What will the system do after integration that it does not do now? This orients the agent before it reads any implementation details.
+
+**Flavor A example:**
 
 ```markdown
-When this CLI does something notable (starts up, finishes a task, hits an error),
-it should play a sound from the user's installed sound pack.
+When this CLI does something notable (starts up, finishes a task,
+hits an error), it should play a sound from the user's installed
+CESP sound pack.
 ```
 
-### 3. Read the Codebase First
+**Flavor B example:**
+
+```markdown
+Wire your Jarvis up to Google Docs so it can create, update, and
+share documents from markdown without leaving the terminal.
+```
+
+In Flavor B, this section is conventionally titled **"What This Gives You."** Same shape, different framing for the operator audience.
+
+### 3. Verification
+
+A concrete test command and expected result. The agent should be able to run this and know whether integration succeeded.
+
+**Flavor A example:**
+
+```markdown
+Install a pack and test:
+
+mycli sounds install peon
+
+Now use your CLI. You should hear "Something need doing?" on start.
+```
+
+**Flavor B example:**
+
+```markdown
+Run the auth helper to verify your token chain:
+
+node scripts/auth.mjs
+
+If you see an access token printed, you are wired up.
+```
+
+## Flavor A: Library Into Codebase
+
+In addition to the shared spine, Flavor A requires:
+
+### Read the Codebase First
 
 A directive telling the agent to scan the target project before writing any code. Name the specific patterns it should look for.
 
 ```markdown
 Read this codebase. Find the event system (command lifecycle, hooks,
-callbacks, event emitters -- whatever this CLI uses).
+callbacks, event emitters, whatever this CLI uses).
 ```
 
-This prevents the agent from blindly pasting boilerplate without understanding what it's integrating into.
+This prevents the agent from blindly pasting boilerplate without understanding what it is integrating into.
 
-### 4. Integration Steps
+### Integration Steps
 
 Numbered, imperative, concrete steps. Each step should describe what to do, not explain why. Use tables for concept mappings. Use fenced code blocks for exact commands or file contents.
 
@@ -31811,49 +32281,7 @@ Map this CLI's internal events to these standard categories:
 | task.error | Something failed |
 ```
 
-### 5. Verification
-
-A concrete test command and expected result. The agent should be able to run this and know whether integration succeeded.
-
-```markdown
-## Quick Test
-
-Install a pack and test:
-
-mycli sounds install peon
-
-Now use your CLI -- you should hear "Something need doing?" on start.
-```
-
-## Optional Sections
-
-These are useful but not required:
-
-- **Quick Path** -- A shortcut for the simplest case (e.g., bundling one pack instead of supporting a registry)
-- **Cross-Platform Notes** -- Platform-specific commands or behaviors
-- **Configuration** -- Settings the integration should expose
-- **Links** -- Spec URLs, registries, reference implementations
-
-## What to Omit
-
-INTEGRATE.md is not documentation. Leave out:
-
-- Marketing copy or feature comparisons
-- Changelogs or version history
-- Full API reference (link to it instead)
-- Installation instructions (that's install.md's job)
-- Tutorials or explanations aimed at humans
-
-The audience is an agent that already has context on the target codebase. Give it the mapping, not the pitch.
-
-## Formatting Rules
-
-- **Imperative voice.** “Create a module” not “You should create a module.”
-- **Tables for mappings.** When showing how library concepts map to codebase patterns, use tables.
-- **Fenced code blocks** for exact commands, file contents, and code snippets.
-- **Short sentences.** Agents parse structure better than prose.
-
-## Skeleton Template
+### Skeleton Template (Flavor A)
 
 Copy this as a starting point:
 
@@ -31887,7 +32315,7 @@ Map this [project type]'s internal [events/routes/models] to these [library] cat
 
 ```json
 {
-  “example”: “manifest or config”
+  "example": "manifest or config"
 }
 ```
 
@@ -31918,11 +32346,203 @@ Map this [project type]'s internal [events/routes/models] to these [library] cat
 - [Reference implementation URL]
 ````
 
+## Flavor B: Service Into Personal Agentic OS
+
+In addition to the shared spine, Flavor B requires:
+
+### Prerequisites
+
+The accounts, runtimes, CLIs, and credentials the agent's machine must have available before setup can begin.
+
+```markdown
+- macOS
+- Node.js 18 or newer
+- A Google account
+- The `gog` CLI installed
+```
+
+This section is Flavor-B-specific. Library-into-codebase recipes assume the agent already has the target codebase open. Service-into-Jarvis recipes have to specify what the agent's environment needs first.
+
+### Setup
+
+Numbered, concrete shell commands. Include the auth flow (browser-based OAuth, token paste, env var setup).
+
+```markdown
+### 1. Install gog
+
+\`\`\`bash
+brew install saucelabs/tap/gog
+\`\`\`
+
+### 2. Authorize the docs service
+
+\`\`\`bash
+gog auth add you@example.com --services docs
+\`\`\`
+
+### 3. Set the email environment variable
+
+\`\`\`bash
+export GOG_EMAIL=you@example.com
+\`\`\`
+```
+
+Use placeholders for personal info (`you@example.com`, `<your-token>`). Never hardcode real credentials or emails.
+
+### Usage From Your Jarvis
+
+What trigger phrases activate the recipe. This couples the recipe to the SKILL.md it ships alongside.
+
+```markdown
+Once your Jarvis can see this skill (via SKILL.md), trigger phrases like:
+
+- "create a google doc with these contents"
+- "update the google doc"
+- "make a google doc titled X"
+
+…will produce a properly-formatted Google Doc and return the URL.
+```
+
+### Common Gotchas
+
+Real failure modes from end-to-end testing. Be specific. Include the error message and the fix.
+
+```markdown
+- **Token cache stale**: If you see auth errors, delete `scripts/.token-cache.json` and try again.
+- **Wrong email in keyring**: Make sure `GOG_EMAIL` matches exactly the email you authorized.
+- **Permissions on the new doc**: New docs are private by default. Pass `--share anyone` to share.
+```
+
+### Alternatives
+
+At least one alternative path. Lets the operator pick what fits them.
+
+```markdown
+- **[Google Workspace CLI](https://github.com/googleworkspace/cli)**: Google's own command-line tool. Heavier (covers Drive, Sheets, Calendar, Gmail) but the official path.
+- **Native Google Docs upload**: File → Upload accepts `.md` files. Quick for one-shot use; formatting is hit-or-miss.
+```
+
+### Maintainer
+
+Who stewards this recipe. The operator picking it up needs to know who to ping when something breaks.
+
+```markdown
+Stewarded by [@garysheng](https://github.com/garysheng). Open an issue or PR if anything in this recipe breaks.
+```
+
+### Skeleton Template (Flavor B)
+
+Copy this as a starting point:
+
+````markdown
+<!-- last_updated: YYYY-MM-DD -->
+
+# [skill-name-in-kebab-case]
+
+[One sentence on what wiring this gives the operator.]
+
+## What This Gives You
+
+- [Capability one your Jarvis gains]
+- [Capability two]
+- [Capability three]
+
+## Why This Recipe
+
+[The default failure mode. The recipe's chosen path and why it's the right tradeoff right now.]
+
+## Prerequisites
+
+- [OS / runtime requirements]
+- [Accounts / API keys / OAuth scopes]
+- [Other CLIs the recipe builds on]
+
+## Setup
+
+### 1. [First step name]
+
+\`\`\`bash
+[concrete command]
+\`\`\`
+
+### 2. [Second step name]
+
+\`\`\`bash
+[concrete command, with placeholders for personal info]
+\`\`\`
+
+### 3. Verify
+
+\`\`\`bash
+[smoke-test command]
+\`\`\`
+
+If you see [expected output], you are wired up.
+
+## Usage From Your Jarvis
+
+Once your Jarvis can see this skill (via SKILL.md), trigger phrases like:
+
+- "[trigger phrase one]"
+- "[trigger phrase two]"
+
+…will [the action]. See [SKILL.md](./SKILL.md) for the full flag reference.
+
+## Common Gotchas
+
+- **[Failure mode one]**: [the fix]
+- **[Failure mode two]**: [the fix]
+
+## Last Verified
+
+YYYY-MM-DD on [OS], [runtime version], [primary CLI/MCP version].
+
+## Alternatives
+
+- **[Alternative one]**: [what it is, when to prefer it].
+- **[Alternative two]**: [what it is, when to prefer it].
+
+## Maintainer
+
+Stewarded by [@username](https://github.com/username). Open an issue or PR if anything in this recipe breaks.
+````
+
+## Optional Sections
+
+These are useful but not required, in either flavor:
+
+- **Quick Path**: A shortcut for the simplest case (e.g., bundling one pack instead of supporting a registry; copy-paste path instead of full CLI install).
+- **Cross-Platform Notes**: Platform-specific commands or behaviors.
+- **Configuration**: Settings the integration should expose.
+- **Links**: Spec URLs, registries, reference implementations.
+
+## What to Omit
+
+INTEGRATE.md is not documentation. Leave out:
+
+- Marketing copy or feature comparisons
+- Changelogs or version history
+- Full API reference (link to it instead)
+- Installation instructions for adjacent tools (that's install.md's job)
+- Tutorials or explanations aimed at humans
+
+The audience is an agent that already has context on what it is trying to accomplish. Give it the mapping, not the pitch.
+
+## Formatting Rules
+
+- **Imperative voice.** "Create a module" beats "You should create a module."
+- **Tables for mappings.** When showing how concepts in one system map to concepts in another, use tables.
+- **Fenced code blocks** for exact commands, file contents, and code snippets.
+- **Short sentences.** Agents parse structure better than prose.
+- **No em dashes.** Use colons, parentheses, or separate sentences.
+
 ## Publishing Your INTEGRATE.md
 
 ### README Reference
 
-Your project's README.md should link to the INTEGRATE.md file. This is how developers (and their agents) discover it. Add a section like:
+Your project's README.md should link to the INTEGRATE.md file. This is how developers (and their agents) discover it.
+
+**Flavor A README snippet:**
 
 ```markdown
 ## Integration
@@ -31932,7 +32552,15 @@ Want to add [library] support to your project? Copy the contents of
 handle the wiring.
 ```
 
-The INTEGRATE.md file does the heavy lifting. The README just points to it.
+**Flavor B README snippet:**
+
+```markdown
+## Install
+
+Want to install this recipe in your own Jarvis? See
+[INTEGRATE.md](./INTEGRATE.md) for the full setup, or hand the file
+to your agent and let it walk you through.
+```
 
 ### Surfacing on Your Website
 
@@ -31940,30 +32568,48 @@ If your project has a marketing site or docs site, render the INTEGRATE.md conte
 
 The pattern:
 
-1. Keep `INTEGRATE.md` at the repo root. This is where agents and developers find it on GitHub.
-2. Have your site read that file at build time and render it on a page like `/integrate`.
+1. Keep `INTEGRATE.md` at the repo root (Flavor A) or inside the recipe folder (Flavor B). This is where agents and developers find it on GitHub.
+2. Have your site read that file at build time and render it on a page like `/integrate` or `/recipes/<name>`.
 3. The README links to both: the raw file for agents, the rendered page for humans browsing the site.
 
 This way you maintain one copy of the integration instructions. The site stays in sync automatically on every deploy.
 
-The [OpenPeon project](https://openpeon.com/integrate) does this: the `/integrate` page reads `INTEGRATE.md` from the repo root at build time and renders it as a copyable code block. One file, two surfaces, zero drift.
+The [OpenPeon project](https://openpeon.com/integrate) does this for Flavor A: the `/integrate` page reads `INTEGRATE.md` from the repo root at build time and renders it as a copyable code block. The [curated-jarvis-integrations](https://github.com/garysheng/curated-jarvis-integrations) bank does the equivalent for Flavor B at the folder level: every recipe folder ships its own `INTEGRATE.md` next to a drop-in `SKILL.md`.
 
 ## Add INTEGRATE.md to Your Project
 
-Practicing what we preach: here's an INTEGRATE.md-style block for creating INTEGRATE.md files. Copy it into your AI coding agent with your repo open. It will read the spec, study the example, scan your codebase, and draft an INTEGRATE.md for you.
+Practicing what we preach: here's an INTEGRATE.md-style block for creating INTEGRATE.md files. Copy it into your AI coding agent with your repo open. It will read the spec, study the appropriate example, scan your codebase or recipe folder, and draft an INTEGRATE.md for you.
+
+### For Flavor A (library author)
 
 ````markdown
-# Write an INTEGRATE.md for This Project
+# Write an INTEGRATE.md for This Library
 
 Before writing anything, read these three pages in order:
 
-1. The INTEGRATE.md spec: https://docs.appliedaisociety.org/standards/integrate-md
-2. The writing guide: https://docs.appliedaisociety.org/standards/integrate-md/writing-guide
-3. The annotated CESP example: https://docs.appliedaisociety.org/standards/integrate-md/example
+1. The INTEGRATE.md spec: https://docs.appliedaisociety.org/docs/standards/integrate-md
+2. The writing guide: https://docs.appliedaisociety.org/docs/standards/integrate-md/writing-guide
+3. The annotated CESP example (Flavor A): https://docs.appliedaisociety.org/docs/standards/integrate-md/example
 
 Now read this codebase. Understand what it does, what its core concepts are, and how another project would wire it in.
 
-Then create an `INTEGRATE.md` at the repo root following the spec you just read.
+Then create an `INTEGRATE.md` at the repo root following the Flavor A spec you just read.
+````
+
+### For Flavor B (recipe maintainer)
+
+````markdown
+# Write an INTEGRATE.md for This Recipe
+
+Before writing anything, read these three pages in order:
+
+1. The INTEGRATE.md spec: https://docs.appliedaisociety.org/docs/standards/integrate-md
+2. The writing guide: https://docs.appliedaisociety.org/docs/standards/integrate-md/writing-guide
+3. The annotated create-or-update-google-doc example (Flavor B): https://docs.appliedaisociety.org/docs/standards/integrate-md/example-jarvis-recipe
+
+Now read this recipe folder. Understand what action it performs, what services it touches, what auth it needs, and what an operator's machine must have available.
+
+Then create an `INTEGRATE.md` inside the recipe folder following the Flavor B spec you just read. Pair it with a `SKILL.md` that names the trigger phrases.
 ````
 
 ## Standard Footer
@@ -31974,18 +32620,25 @@ Every INTEGRATE.md should end with a link back to the spec. This is how the stan
 ---
 
 *This file follows the [INTEGRATE.md standard](https://docs.appliedaisociety.org/docs/standards/integrate-md),
-an open format for teaching AI agents how to integrate libraries into codebases.
+an open format for teaching AI agents how to wire one system into another.
 Publish your own: https://docs.appliedaisociety.org/docs/standards/integrate-md*
 ```
 
 ## Version Note
 
-This is v0.1. It's intentionally minimal. We're documenting what works in practice (see the [CESP example](/docs/standards/integrate-md/example)) rather than designing a comprehensive format upfront. As more libraries publish INTEGRATE.md files, the spec will evolve based on real usage patterns.
+This is v0.2. The spec evolves based on real usage:
+
+- **v0.1** covered Flavor A only (library into codebase). Reference implementation: the CESP / OpenPeon example.
+- **v0.2** generalizes the spec to cover both flavors after observing the recipe shape stabilize in the wild via [garysheng/curated-jarvis-integrations](https://github.com/garysheng/curated-jarvis-integrations). The shared spine (H1, "What You're Building," Verification, `last_updated`) is unchanged. New Flavor B sections (Prerequisites, Setup, Usage From Your Jarvis, Common Gotchas, Alternatives, Maintainer) are documented alongside the original Flavor A sections (Read the Codebase First, Integration Steps).
+
+We're documenting what works in practice rather than designing a comprehensive format upfront. As more libraries and recipes publish INTEGRATE.md files, the spec will continue to evolve based on real usage patterns.
 
 ## Further Reading
 
-- [INTEGRATE.md Example](/docs/standards/integrate-md/example): The CESP worked example showing what a complete INTEGRATE.md looks like.
-- [INTEGRATE.md Writing Guide](/docs/standards/integrate-md/writing-guide): How to write your own INTEGRATE.md for a library.
+- [INTEGRATE.md Writing Guide](./writing-guide): How to write your own INTEGRATE.md for either flavor.
+- [Example: CESP (Flavor A)](./example): Library-into-codebase, sound packs for any CLI.
+- [Example: create-or-update-google-doc (Flavor B)](./example-jarvis-recipe): Service-into-Jarvis, Google Docs publishing recipe.
+- [Integration Recipe (concept)](/docs/concepts/integration-recipe): The broader concept Flavor B is the spec for.
 
 
 ---
@@ -31996,6 +32649,8 @@ URL: https://docs.appliedaisociety.org/docs/standards/integrate-md/writing-guide
 # Writing an INTEGRATE.md
 
 This guide covers practical advice for authoring an effective INTEGRATE.md. The [spec](./index.md) defines the format. This page helps you write one that actually works.
+
+The advice below applies to both flavors (Library Into Codebase, Service Into Personal Agentic OS) unless a section is explicitly labeled. Flavor-specific tips are grouped under their own headings near the bottom.
 
 ## Start from the Verification Test
 
@@ -32056,6 +32711,68 @@ Pick a storage path for packs. Common patterns:
 
 The agent knows the target project's conventions. Let it apply them.
 
+## Writing for Flavor B (Service Into Personal Agentic OS)
+
+Flavor B recipes wrap external CLIs and MCPs that ship and break independently. The discipline is different from Flavor A in three places:
+
+### Pin Versions In "Last Verified"
+
+Do not just write the date. Include the OS, runtime version, and primary CLI/MCP version you tested with.
+
+Bad:
+
+```markdown
+## Last Verified
+
+2026-05-06.
+```
+
+Good:
+
+```markdown
+## Last Verified
+
+2026-05-06 on macOS, Node 22, gog CLI 0.5.x.
+```
+
+The version pinning is what lets a future operator reading your recipe diagnose breakage when a newer CLI version ships incompatibly.
+
+### Sanitize Personal Info In Setup Commands
+
+Every shell command must use placeholders for emails, tokens, and paths. Real credentials never go in a published recipe. The convention:
+
+- Emails: `you@example.com`
+- Tokens: `<your-token>`
+- Doc IDs / file IDs: `<doc-id>`
+
+Operators copy-pasting your recipe should be able to swap one variable for their own value, not edit twelve lines.
+
+### Always List Alternatives
+
+A Flavor B recipe wraps a chosen path through a competitive ecosystem. The Alternatives section is mandatory, not optional. List at least one other tool that could deliver the same capability with a different tradeoff.
+
+This protects future operators when your primary CLI ships a breaking change. The alternatives section names the next path they can adopt without rewriting the recipe.
+
+### Name A Maintainer
+
+A library author at a known GitHub handle. Operators picking up the recipe need a single human to ping when the underlying tooling shifts or a gotcha surfaces that the recipe missed.
+
+### Common Gotchas Are Not Optional
+
+Flavor B recipes wire OAuth flows, env vars, and Keychain entries. Things go wrong. The first time you run the recipe end-to-end on a fresh machine is when you find the gotchas. Capture them in the recipe immediately. Skipping this section is how recipes get a reputation for "almost working."
+
+## Writing for Flavor A (Library Into Codebase)
+
+Flavor A recipes assume the agent is already inside the target codebase. The discipline below is about teaching that agent to map your library's vocabulary onto whatever it finds.
+
+### Map Your Concepts to Unknown Patterns
+
+Already covered above. The key Flavor A move: parenthetical lists of patterns the agent should look for, not assumptions about which pattern the codebase uses.
+
+### Don't Assume Language or Framework
+
+Already covered above. Flavor B recipes can name the runtime explicitly (Node 18+); Flavor A recipes typically cannot.
+
 ## Common Mistakes
 
 ### Writing for Humans Instead of Agents
@@ -32082,13 +32799,31 @@ Link to your API docs. Don't reproduce them. The agent can fetch reference mater
 
 ## Checklist Before Publishing
 
-- [ ] Does the H1 title state what's being built?
-- [ ] Does “What You're Building” describe the end state in one paragraph?
+### Shared Spine (both flavors)
+
+- [ ] Does the file start with `<!-- last_updated: YYYY-MM-DD -->`?
+- [ ] Does the H1 title state what's being built (Flavor A) or what skill is being installed (Flavor B)?
+- [ ] Does "What You're Building" / "What This Gives You" describe the end state in one paragraph?
+- [ ] Does verification include a concrete command and expected result?
+- [ ] Is the file free of marketing copy, changelogs, and install instructions for adjacent tools?
+- [ ] Does the file end with the standard footer linking back to the spec?
+
+### Flavor A only (Library Into Codebase)
+
 - [ ] Does the file tell the agent to read the codebase before writing code?
 - [ ] Are integration steps numbered and imperative?
-- [ ] Does verification include a concrete command and expected result?
-- [ ] Is the file free of marketing copy, changelogs, and install instructions?
+- [ ] Are concept mappings shown as tables?
 - [ ] Can an agent in a codebase it's never seen follow these steps?
+
+### Flavor B only (Service Into Personal Agentic OS)
+
+- [ ] Does Prerequisites list every account, runtime, and CLI the operator's machine needs?
+- [ ] Does Setup use placeholders for personal info (`you@example.com`, `<token>`)?
+- [ ] Does "Last Verified" include OS + runtime version + primary CLI version, not just a date?
+- [ ] Does Alternatives list at least one other path with its tradeoff?
+- [ ] Does Common Gotchas reflect real failure modes from running the recipe end-to-end?
+- [ ] Is a Maintainer named with a real GitHub handle?
+- [ ] Does the folder name match the SKILL.md `name:` field exactly?
 
 
 ---

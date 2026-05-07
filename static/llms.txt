@@ -76,6 +76,7 @@
 - [Inclusive Technological Advancement](https://docs.appliedaisociety.org/docs/concepts/inclusive-technological-advancement)
 - [Concepts](https://docs.appliedaisociety.org/docs/concepts)
 - [Instruction Files aka Skill Files](https://docs.appliedaisociety.org/docs/concepts/instruction-files)
+- [Integration Recipe](https://docs.appliedaisociety.org/docs/concepts/integration-recipe)
 - [Intent Engineering](https://docs.appliedaisociety.org/docs/concepts/intent-engineering)
 - [Interview Prompts](https://docs.appliedaisociety.org/docs/concepts/interview-prompts)
 - [Jarvis Workspace](https://docs.appliedaisociety.org/docs/concepts/jarvis-workspace)
@@ -111,6 +112,7 @@
 - [See Your Own Thinking](https://docs.appliedaisociety.org/docs/concepts/see-your-own-thinking)
 - [The Self-Improving Enterprise](https://docs.appliedaisociety.org/docs/concepts/self-improving-enterprise)
 - [Self-Improving Systems](https://docs.appliedaisociety.org/docs/concepts/self-improving-systems)
+- [Sharing Jarvis Artifacts](https://docs.appliedaisociety.org/docs/concepts/sharing-jarvis-artifacts)
 - [Signalmaxxing](https://docs.appliedaisociety.org/docs/concepts/signalmaxxing)
 - [Skill File First, App Second](https://docs.appliedaisociety.org/docs/concepts/skill-file-first-app-second)
 - [Slop Factory](https://docs.appliedaisociety.org/docs/concepts/slop-factory)
@@ -252,8 +254,9 @@
 - [[Organization Name] ALIGN.md](https://docs.appliedaisociety.org/docs/standards/align-md/template)
 - [Writing Guide](https://docs.appliedaisociety.org/docs/standards/align-md/writing-guide)
 - [Standards](https://docs.appliedaisociety.org/docs/standards)
+- [Example: create-or-update-google-doc (Flavor B)](https://docs.appliedaisociety.org/docs/standards/integrate-md/example-jarvis-recipe)
 - [Example - CESP](https://docs.appliedaisociety.org/docs/standards/integrate-md/example)
-- [INTEGRATE.md Spec (v0.1)](https://docs.appliedaisociety.org/docs/standards/integrate-md)
+- [INTEGRATE.md Spec (v0.2)](https://docs.appliedaisociety.org/docs/standards/integrate-md)
 - [Writing Guide](https://docs.appliedaisociety.org/docs/standards/integrate-md/writing-guide)
 - [Capturing Conversations](https://docs.appliedaisociety.org/docs/tools/capturing-conversations)
 - [Git](https://docs.appliedaisociety.org/docs/tools/git)
@@ -279,4 +282,4 @@
 - [The Supersuit Up Workshop](https://docs.appliedaisociety.org/docs/workshops/supersuit-up): Build your Personal Agentic OS (aka Jarvis Yourself). A step-by-step guide to AI-augmented recall, strategic clarity, and compounding context.
 
 ---
-Generated at build time. 273 pages indexed.
+Generated at build time. 276 pages indexed.
