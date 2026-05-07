@@ -108,8 +108,10 @@ The artifact in your harness is the canonical version. Everything outside is a d
 
 ## Further Reading
 
-- [Capture, Process, Compound](/docs/concepts/capture-process-compound): The general loop that this is a special case of
-- [Compounding Docs](/docs/concepts/compounding-docs): Why every artifact should accumulate value over time
-- [Harness Engineering](/docs/concepts/harness-engineering): The harness that produces and updates the artifacts
-- [Externalize Your Brain](/docs/concepts/externalize-your-brain): The deeper habit underneath this practice
-- [Signalmaxxing](/docs/concepts/signalmaxxing): Keeping your knowledge base high-signal as artifacts pile up
+- [Integration Recipe](/docs/concepts/integration-recipe): The format that wraps "wire your Jarvis up to publish to X" so you can fork it instead of re-deriving each time.
+- [INTEGRATE.md spec (v0.2)](/docs/standards/integrate-md): The open standard that integration recipes follow.
+- [Capture, Process, Compound](/docs/concepts/capture-process-compound): The general loop this is a special case of.
+- [Compounding Docs](/docs/concepts/compounding-docs): Why every artifact should accumulate value over time.
+- [Harness Engineering](/docs/concepts/harness-engineering): The harness that produces and updates the artifacts.
+- [Externalize Your Brain](/docs/concepts/externalize-your-brain): The deeper habit underneath this practice.
+- [Signalmaxxing](/docs/concepts/signalmaxxing): Keeping your knowledge base high-signal as artifacts pile up.
