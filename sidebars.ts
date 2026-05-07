@@ -217,6 +217,7 @@ const sidebars: SidebarsConfig = {
         'concepts/mission-harness',
         'concepts/capture-process-compound',
         'concepts/sharing-jarvis-artifacts',
+        'concepts/integration-recipe',
         'concepts/the-omni-crisis',
         'concepts/the-water-line',
         'concepts/the-elevator-economy',
